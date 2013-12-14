@@ -3,8 +3,8 @@
 Season: 2012
 BlockSource: http://www.gocreighton.com/fls/1000/stats/m-soccer/2012/teamcume.htm
 
-## Name                 GP-GS  Min   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT FG OT HAT GTG Foul
--------------------------------------------------------------------------------------------------------
+*## Name                 GP-GS  Min   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT FG OT HAT GTG Foul
+
 18 Pitter, Timo         24-24 1806  10   4  24  69  .145  34  .493   4-0   3   0-0    4  0   0   2    3
 10 Gomez, Jose          24-24 2094   6   9  21  63  .095  22  .349   4-0   2   0-1    4  0   0   1    1
 8  Ribas, Jose          23-23 1933   2   8  12  21  .095  16  .762   2-1   1   0-0    1  0   0   0    1
@@ -29,8 +29,8 @@ BlockSource: http://www.gocreighton.com/fls/1000/stats/m-soccer/2012/teamcume.ht
 Season: 2011
 BlockSource: http://www.gocreighton.com/fls/1000/stats/m-soccer/2011/teamcume.htm
 
-## Name                 GP-GS  Min   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT Foul
------------------------------------------------------------------------------------------
+*## Name                 GP-GS  Min   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT Foul
+
 16 Finlay, Ethan        24-24 1961  14   6  34  93  .151  46  .495   2-0   6   2-3      3
 7  Castro, Bruno        24-24 1567   6   8  20  33  .182  18  .545   1-0   3   1-1      1
 10 Gomez, Jose          21-20 1539   4   8  16  41  .098  21  .512   1-0   3   1-2      0
@@ -56,8 +56,8 @@ BlockSource: http://www.gocreighton.com/fls/1000/stats/m-soccer/2011/teamcume.ht
 Season: 2010
 BlockSource: http://www.gocreighton.com/fls/1000/stats/m-soccer/2010/teamcume.htm
 
-## Name                 GP-GS  Min   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT
-------------------------------------------------------------------------------------
+*## Name                 GP-GS  Min   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT
+
 16 Finlay, Ethan        20-20 1789  15   4  34  70  .214  32  .457   4-0   5   1-1
 10 Gomez, Jose          19-19 1588   5   9  19  51  .098  29  .569   1-1   2   0-0
 8  Clark, Kris          20-19 1454   4   5  13  37  .108  18  .486   1-0   2   0-0
@@ -84,8 +84,8 @@ BlockSource: http://www.gocreighton.com/fls/1000/stats/m-soccer/2010/teamcume.ht
 Season: 2009
 BlockSource: http://www.gocreighton.com/fls/1000/stats/m-soccer/2009/teamcume.htm
 
-## Name                 GP-GS  Min   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT Foul
------------------------------------------------------------------------------------------
+*## Name                 GP-GS  Min   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT Foul
+
 16 Finlay, Ethan        16-16 1385   8   3  19  41  .195  15  .366   1-0   5   0-0      0
 12 Sinovic, Seth        16-16 1472   3   4  10  35  .086  15  .429   1-0   1   1-1      0
 7  Moran, Josh          15-13 1068   1   5   7  11  .091   5  .455   1-0   0   0-0      0
@@ -112,8 +112,8 @@ BlockSource: http://www.gocreighton.com/fls/1000/stats/m-soccer/2009/teamcume.ht
 Season: 2008
 BlockSource: http://www.gocreighton.com/fls/1000/stats/m-soccer/2008/teamcume.htm
 
-## Name                 GP-GS  Min   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT
-------------------------------------------------------------------------------------
+*## Name                 GP-GS  Min   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT
+
 7  Gotsmanov, Andrei    18-18 1464  10   4  24  46  .217  21  .457   6-0   3   1-1
 16 Finlay, Ethan        19-19 1475   6   4  16  28  .214  14  .500   3-0   4   0-0
 9  Thayer, Jeff         20-16 1283   5   6  16  38  .132  21  .553   1-0   0   0-0
@@ -138,8 +138,8 @@ BlockSource: http://www.gocreighton.com/fls/1000/stats/m-soccer/2008/teamcume.ht
 Season: 2007
 BlockSource: http://www.gocreighton.com/fls/1000/stats/m-soccer/2007/teamcume.htm
 
-## Name                 GP-GS  Min   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT
-------------------------------------------------------------------------------------
+*## Name                 GP-GS  Min   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT
+
 7  Gotsmanov, Andrei    20-20 1504   6   5  17  60  .100  20  .333   4-0   1   1-1
 3  Gjoesund, Thomas     15-8   733   6   1  13  24  .250  13  .542   9-0   3   0-0
 14 Schmitz, Tony        20-20 1820   4   5  13  44  .091  22  .500   4-0   1   0-0
@@ -165,8 +165,8 @@ BlockSource: http://www.gocreighton.com/fls/1000/stats/m-soccer/2007/teamcume.ht
 Season: 2006
 BlockSource: http://www.gocreighton.com/fls/1000/stats/m-soccer/2006/teamcume.htm
 
-## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT
--------------------------------------------------------------------------------
+*## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT
+
 17 Dacy, Byron          21-13   5   6  16  51  .098  20  .392   1-0   1   0-0
 7  Kraus, Michael       21-21   6   3  15  47  .128  18  .383   3-0   5   1-2
 9  Thayer, Jeff         20-8    4   4  12  19  .211  11  .579   0-0   0   0-0
@@ -196,8 +196,8 @@ BlockSource: http://www.gocreighton.com/fls/1000/stats/m-soccer/2006/teamcume.ht
 Season: 2005
 BlockSource: http://www.gocreighton.com/fls/1000/stats/m-soccer/2005/teamcume.htm
 
-## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT
--------------------------------------------------------------------------------
+*## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT
+
 17 Dacy, Byron          23-19   9   9  27  51  .176  22  .431   4-0   4   1-1
 7  Kraus, Michael       22-17   8   5  21  39  .205  16  .410   3-0   4   0-0
 10 Tarver, Jarod        19-14   5   6  16  28  .179  14  .500   5-0   1   0-1
@@ -228,8 +228,8 @@ BlockSource: http://www.gocreighton.com/fls/1000/stats/m-soccer/2005/teamcume.ht
 Season: 2004
 BlockSource: http://www.gocreighton.com/fls/1000/stats/m-soccer/2004/teamcume.htm
 
-## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT
--------------------------------------------------------------------------------
+*## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT
+
 17 Nash, Julian         20-16   6   9  21  55  .109  30  .545   0-0   0   0-0
 11 Biggerstaff, Brian   19-7    8   4  20  26  .308  16  .615   0-1   4   1-2
 9  Odorisio, Vince      20-20   6   7  19  40  .150  18  .450   1-0   3   0-0
@@ -257,8 +257,8 @@ BlockSource: http://www.gocreighton.com/fls/1000/stats/m-soccer/2004/teamcume.ht
 Season: 2003
 BlockSource: http://www.gocreighton.com/fls/1000/stats/m-soccer/2003/teamcume.htm
 
-## Name                 GP-GS   G   A Pts  Sh Shot% GW  PK-ATT
---------------------------------------------------------------
+*## Name                 GP-GS   G   A Pts  Sh Shot% GW  PK-ATT
+
 24 Kraus, Michael       22-16   6   9  21  27  .222  1   0-0
 12 Westfield, Damien    17-13   5   1  11  29  .172  3   0-0
 16 Wieland, Matt        20-20   4   2  10  18  .222  2   0-0
@@ -287,8 +287,8 @@ BlockSource: http://www.gocreighton.com/fls/1000/stats/m-soccer/2003/teamcume.ht
 Season: 2002
 BlockSource: http://www.gocreighton.com/fls/1000/stats/m-soccer/2002/teamcume.htm
 
-## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT
--------------------------------------------------------------------------------
+*## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT
+
 14 Mike Tranchilla      23-21  15   7  37  65  .231  42  .646   2-0   6   4-4
 17 Julian Nash          24-10   8   8  24  55  .145  25  .455   2-0   4   0-0
 12 Damien Westfield     24-20   8   4  20  45  .178  26  .578   1-0   3   0-0
@@ -317,8 +317,8 @@ BlockSource: http://www.gocreighton.com/fls/1000/stats/m-soccer/2002/teamcume.ht
 Season: 2001
 BlockSource: http://www.gocreighton.com/fls/1000/stats/m-soccer/2001/teamcume.htm
 
-## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT
--------------------------------------------------------------------------------
+*## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT
+
 14 Mike Tranchilla      20-20  16   9  41  44  .364  29  .659   3-1   5   5-5
 6  David Wagenfuhr      20-20   4  10  18  24  .167  13  .542   0-0   0   0-0
 12 Luiz Del Monte       21-16   5   6  16  39  .128  14  .359   1-0   1   1-1

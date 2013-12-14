@@ -3,8 +3,8 @@ Team: Indiana Univeristy
 Season: 2012
 BlockSource: http://www.iuhoosiers.com/sports/m-soccer/stats/2012-2013/teamcume.html
 
-## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT
--------------------------------------------------------------------------------
+*## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT
+
 2  Zavaleta, Eriq       24-24  18   4  40  95  .189  44  .463   1-0   7   2-2
 8  Kotlov, Nikita       23-22   9   4  22  55  .164  24  .436   1-0   2   0-0
 10 Corrado, A.J.        24-24   1  12  14  30  .033  15  .500   0-0   0   0-0
@@ -30,7 +30,8 @@ BlockSource: http://www.iuhoosiers.com/sports/m-soccer/stats/2012-2013/teamcume.
 Season: 2011
 BlockSource: http://grfx.cstv.com/photos/schools/ind/sports/m-soccer/auto_pdf/2011-12/stats/season_stats.pdf
 
-## Player gp-gs g a pts sh sh% sog sog% yc rc gwg pk-att foul
+*## Player gp-gs g a pts sh sh% sog sog% yc rc gwg pk-att foul
+
 2 Zavaleta, Eriq 22-22 10 5 25 55 . 1 8 2 25 . 4 5 5 2 0 3 1-1 0
 9 Purdie, Alec 22-22 8 5 21 53 . 1 5 1 22 . 4 1 5 1 0 5 0-0 0
 8 Kotlov, Nikita 20-9 9 1 19 44 . 2 0 5 19 . 4 3 2 0 0 3 0-0 0
@@ -86,8 +87,6 @@ BlockSource: http://www.iuhoosiers.com/auto_pdf/p_hotos/s_chools/ind/sports/m-so
 
 
 
-
-
 Season: 2009
 BlockSource: http://www.iuhoosiers.com/auto_pdf/p_hotos/s_chools/ind/sports/m-soccer/auto_pdf/09-stats
 
@@ -116,8 +115,8 @@ BlockSource: http://www.iuhoosiers.com/auto_pdf/p_hotos/s_chools/ind/sports/m-so
 Season: 2008
 http://www.iuhoosiers.com/sports/m-soccer/stats/2008-2009/teamcume.html
 
-## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT
--------------------------------------------------------------------------------
+*## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT
+
 10 Adlard, Andy         24-22   7   5  19  62  .113  29  .468   0-0   5   2-2
 20 Bruin, Will          24-24   6   0  12  61  .098  30  .492   1-0   3   0-0
 7  Alexander, Eric      24-24   3   4  10  47  .064  13  .277   2-0   1   0-0
@@ -143,8 +142,8 @@ http://www.iuhoosiers.com/sports/m-soccer/stats/2008-2009/teamcume.html
 Season: 2007
 BlockSource: http://www.iuhoosiers.com/sports/m-soccer/stats/2007-2008/teamcume.html
 
-## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT
--------------------------------------------------------------------------------
+*## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT
+
 5  Ring, Brad           22-22   5   6  16  60  .083  19  .317   3-0   2   0-0
 9  Noschang, Kevin      21-16   5   3  13  44  .114  18  .409   0-0   3   0-0
 7  Alexander, Eric      22-22   5   1  11  50  .100  21  .420   0-0   0   1-1

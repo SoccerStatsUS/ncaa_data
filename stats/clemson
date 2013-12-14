@@ -3,8 +3,8 @@ Team: Clemson
 Season: 2008
 BlockSource: https://web.archive.org/web/20090827090721/http://clemsontigers.cstv.com/sports/m-soccer/stats/2008-2009/teamcume.html
 
-## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG% GW  PK-ATT
-------------------------------------------------------------------------
+*## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG% GW  PK-ATT
+
 10 Michael Brooks       18-9    6   1  13  23  .261  15  .652  2   0-0
 18 Hassan Ibrahim       17-11   4   4  12  19  .211  12  .632  2   0-0
 15 Nick Burton          14-10   3   3   9  20  .150   9  .450  1   0-0
@@ -57,8 +57,8 @@ BlockSource: https://web.archive.org/web/20080917194945/http://clemsontigers.cst
 Season: 2006
 BlockSource: https://web.archive.org/web/20080718185705/http://clemsontigers.cstv.com/sports/m-soccer/stats/2006-2007/teamcume.html
 
-## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG% GW  PK-ATT
-------------------------------------------------------------------------
+*## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG% GW  PK-ATT
+
 10 Dane Richards        20-19  11   9  31  60  .183  31  .517  1   4-4
 11 Frederico Moojen     19-18  11   2  24  43  .256  23  .535  2   2-2
 13 Mark Buchholz        20-20   4   6  14  43  .093  15  .349  2   2-2
@@ -87,8 +87,8 @@ BlockSource: https://web.archive.org/web/20080718185705/http://clemsontigers.cst
 Season: 2005
 BlockSource: https://web.archive.org/web/20120505233411/http://www.clemsontigers.com/sports/m-soccer/stats/2005-2006/teamcume.html
 
-## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG% GW  PK-ATT
-------------------------------------------------------------------------
+*## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG% GW  PK-ATT
+
 10 Dane Richards        23-23  11   8  30  66  .167  32  .485  7   0-0
 13 Mark Buchholz        23-22   5   3  13  45  .111  22  .489  0   0-0
 7  Bryson Moore         23-22   4   4  12  42  .095  18  .429  0   0-0
@@ -115,8 +115,8 @@ BlockSource: https://web.archive.org/web/20120505233411/http://www.clemsontigers
 Season: 2004
 BlockSource: https://web.archive.org/web/20060225174452/http://clemsontigers.collegesports.com/sports/m-soccer/stats/2004-2005/teamcume.html
 
-## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG% GW  PK-ATT
-------------------------------------------------------------------------
+*## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG% GW  PK-ATT
+
 10 Steven Rhyne         18-18  11   5  27  58  .190  31  .534  1   1-2
 4  Justin Moore         17-17   3   4  10  21  .143   8  .381  0   0-0
 11 Stuart Holden        15-14   3   3   9  34  .088  15  .441  0   0-0

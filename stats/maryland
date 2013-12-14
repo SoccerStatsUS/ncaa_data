@@ -23,16 +23,16 @@ Season: 2012
 16      David Kabelik           15-0    261     1       2       4       5                        .200             2          .400      0-0    0  0-0 
 6       Helge Leikvang          13-5    637     0       2       2       5                         .000            1           .200     1-0    0  0-0 
 8       Widner Saint Cyr         9-3    280     1       0       2       1                         1.000           1           1.000    1-0    0  0-0 
-17      Marquez Fernandez         6-1   112     0       0       0       0                          .000           0            .000    0-0    0  0-0 
-4       Kyle Roach                 8-1          218     0       0       0                          0               .000        0        .000  0-0    0  0-0 
+17      Marquez Fernandez        6-1   112     0       0       0       0                          .000           0            .000    0-0    0  0-0 
+4       Kyle Roach               8-1          218     0       0       0                          0               .000        0        .000  0-0    0  0-0 
 
 
 
 Season: 2005
 BlockSource: http://www.umterps.com/ViewArticle.dbml?DB_OEM_ID=29700&ATCLID=208125547
 
-## Name                 GP-GS  Min   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT
-------------------------------------------------------------------------------------
+*## Name                 GP-GS  Min   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT
+
 9  Jason Garey          25-25 2105  22   7  51 108  .204  65  .602   4-0   7   1-1
 7  Stephen King         25-25 2099  15   8  38  46  .326  26  .565   0-0   4   3-3
 8  Robbie Rogers        22-20 1400   7   5  19  46  .152  18  .391   1-0   2   0-0
@@ -63,8 +63,8 @@ BlockSource: http://www.umterps.com/ViewArticle.dbml?DB_OEM_ID=29700&ATCLID=2081
 Season: 2004
 BlockSource: http://www.umterps.com/ViewArticle.dbml?DB_OEM_ID=29700&ATCLID=207283282
 
-## Name                 GP-GS  Min   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT
-------------------------------------------------------------------------------------
+*## Name                 GP-GS  Min   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT
+
 9  Jason Garey          25-25 2043  22   9  53  82  .268  45  .549   0-0   2   0-1
 13 Abe Thompson         20-20 1678  11   8  30  76  .145  35  .461   2-0   3   3-3
 20 Domenic Mediate      25-25 2123   9   9  27  70  .129  31  .443   2-0   5   0-0
@@ -87,9 +87,6 @@ BlockSource: http://www.umterps.com/ViewArticle.dbml?DB_OEM_ID=29700&ATCLID=2072
 22 Dan Waldo             4-0    48   0   0   0   0  .000   0  .000   0-0   0   0-0
 17 Keith Vereb           5-0    93   0   0   0   0  .000   0  .000   0-0   0   0-0
 16 Ellis Welker          7-0   100   0   0   0   0  .000   0  .000   0-0   0   0-0
-
-
-
 
 
 Season: 2003
@@ -121,8 +118,8 @@ BlockSource: http://www.umterps.com/ViewArticle.dbml?DB_OEM_ID=29700&ATCLID=2072
 Season: 2002
 BlockSource: http://www.umterps.com/ViewArticle.dbml?DB_OEM_ID=29700&ATCLID=207272142
 
-## Name                 GP-GS  Min   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT
-------------------------------------------------------------------------------------
+*## Name                 GP-GS  Min   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT
+
 8  Abe Thompson         25-24 1817  14   8  36  69  .203  39  .565   1-0   5   4-4
 20 Domenic Mediate      25-23 1440  13   5  31  49  .265  25  .510   1-0   6   0-0
 6  Sumed Ibrahim        25-24 1521   8   6  22  32  .250  12  .375   0-0   6   0-0
