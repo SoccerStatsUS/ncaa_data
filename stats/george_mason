@@ -1,190 +1,201 @@
 Team: George Mason
-
+Competition: NCAA Division I Men's Soccer Championship
 
 Season: 2011
 BlockSource: http://www.gomason.com/fls/25200/Stats/Men%27s%20Soccer/2011/teamcume.htm
 
-##           Player     GP-GS   Min     G       A       Pts     Sh      Shot%   SOG     SOG%    YC-RC   GW      PK-Att 
-9            Morgan, Taylor     17-17   1465    9       5       23      41       .220   24       .585   2-0     4      1-2 
-10           Gracia, Ryan       15-12   1057    6       2       14      43        .140  17        .395  1-0     2      0-0 
-6            Stolz, Leo         18-18   1580    4       3       11      48         .083           22     .458   0-0    1   0-0 
-3            Arjona, Julio      18-16   1483    3       3       9       17          .176          7       .412  3-0    0   0-0 
-7            Valimaa, Verneri   18-18   1420    2       5       9       36           .056         19       .528        0-0     0  0-0 
-12           Roberts, Hugh      18-8    983     3       2       8       13            .231        7         .538       0-0     0  0-0 
-14           Sever, Wesley      15-9    682     2       3       7       14             .143       8          .571      0-0     0  0-0 
-22           Zizi, Brennan       9-0    180     1       3       5       6               .167      2           .333     0-0     0  0-0 
-11           Mulgrew, Timmy      18-11  1055    1       2       4       32               .031     18           .562    1-0     0  0-0 
-2            Washington, Draymond       17-17   1504    1       2       4                9         .111        2        .222   5-0    0  0-0 
-4            Andrews, Paul              18-18   1639    1       1       3                11         .091       3         .273  4-0    0  0-0 
-23           Sheta, A.J.                 9-1    197     1       1       3                7           .143      4          .571        0-0    0  0-0 
-5            Markheim, Derek              8-3   270     1       1       3                7            .143     3           .429       2-0    0  0-0 
-15           O'Reilly, Sean               16-6          745     1       1                3            5         .200       3           .600  1-0    0  0-0 
-13           Herrera, Alex                14-13         1034    0       2                2            1          .000      0            .000        3-0    0  0-0 
-8            Zuehsow, Eric                14-12         1221    0       1                1            2           .000     1             .500       1-0    0  0-0 
-20           Newsome, Laurent              2-0          67      0       0                0            2            .000    1              .500      0-0    0  0-0 
-25           Panken, Andrew                 6-0         136     0       0                0            1             .000   0               .000     0-0    0  0-0 
-21           Diaz, Richard                   2-0        54      0       0                0            1              .000  0                .000    0-0    0  0-0 
-19           Haapaoja, Zak                    9-1       229     0       0                0            1               .000                  0        .000  0-0    0  0-0 
-26           Paris, Benjamin                   1-0      4       0       0                0            0                .000                 0         .000        0-0    0  0-0 
-24           Gardner, John                      4-0     46      0       0                0            0                 .000                0          .000       1-0    0  0-0 
-18           Butcher, Dustin                     7-5    448     0       0                0            0                  .000               0           .000      0-0    0  0-0 
-1            Cote, Sean                          16-13  1258    0       0                0            0                   .000              0            .000     0-0    0  0-0 
+Key: number; name; games_played; games_started; minutes; goals; assists; points; shots; etc
+
+*##           Player     GP-GS   Min     G       A       Pts     Sh      Shot%   SOG     SOG%    YC-RC   GW      PK-Att 
+
+9        ;    Morgan, Taylor           ;  17; 17 ;  1465  ;  9    ;   5   ;    23  ;    41   ;    .220   24       .585   2-0     4      1-2 
+10       ;    Gracia, Ryan             ;  15; 12 ;  1057  ;  6    ;   2   ;    14  ;    43   ;     .140  17        .395  1-0     2      0-0 
+6        ;    Stolz, Leo               ;  18; 18 ;  1580  ;  4    ;   3   ;    11  ;    48   ;      .083           22     .458   0-0    1   0-0 
+3        ;    Arjona, Julio            ;  18; 16 ;  1483  ;  3    ;   3   ;    9   ;    17   ;       .176          7       .412  3-0    0   0-0 
+7        ;    Valimaa, Verneri         ;  18; 18 ;  1420  ;  2    ;   5   ;    9   ;    36   ;        .056         19       .528        0-0     0  0-0 
+12       ;    Roberts, Hugh            ;  18; 8  ;  983   ;  3    ;   2   ;    8   ;    13   ;         .231        7         .538       0-0     0  0-0 
+14       ;    Sever, Wesley            ;  15; 9  ;  682   ;  2    ;   3   ;    7   ;    14   ;          .143       8          .571      0-0     0  0-0 
+22       ;    Zizi, Brennan            ;   9; 0  ;  180   ;  1    ;   3   ;    5   ;    6    ;           .167      2           .333     0-0     0  0-0 
+11       ;    Mulgrew, Timmy           ;  18; 11 ;  1055  ;  1    ;   2   ;    4   ;    32   ;            .031     18           .562    1-0     0  0-0 
+2        ;    Washington, Draymond     ;  17; 17 ;  1504  ;  1    ;   2   ;    4   ;    9    ;     .111        2        .222   5-0    0  0-0 
+4        ;    Andrews, Paul            ;  18; 18 ;  1639  ;  1    ;   1   ;    3   ;    11   ;      .091       3         .273  4-0    0  0-0 
+23       ;    Sheta, A.J.              ;   9; 1  ;  197   ;  1    ;   1   ;    3   ;    7    ;       .143      4          .571        0-0    0  0-0 
+5        ;    Markheim, Derek          ;   8; 3  ;  270   ;  1    ;   1   ;    3   ;    7    ;        .143     3           .429       2-0    0  0-0 
+15       ;    O'Reilly, Sean           ;  16; 6  ;  745   ;  1    ;   1   ;    3   ;    5    ;     .200       3           .600  1-0    0  0-0 
+13       ;    Herrera, Alex            ;  14; 13 ;  1034  ;  0    ;   2   ;    2   ;    1    ;      .000      0            .000        3-0    0  0-0 
+8        ;    Zuehsow, Eric            ;  14; 12 ;  1221  ;  0    ;   1   ;    1   ;    2    ;       .000     1             .500       1-0    0  0-0 
+20       ;    Newsome, Laurent         ;   2; 0  ;  67    ;  0    ;   0   ;    0   ;    2    ;        .000    1              .500      0-0    0  0-0 
+25       ;    Panken, Andrew           ;   6; 0  ;  136   ;  0    ;   0   ;    0   ;    1    ;         .000   0               .000     0-0    0  0-0 
+21       ;    Diaz, Richard            ;   2; 0  ;  54    ;  0    ;   0   ;    0   ;    1    ;          .000  0                .000    0-0    0  0-0 
+19       ;    Haapaoja, Zak            ;   9; 1  ;  229   ;  0    ;   0   ;    0   ;    1    ;           .000                  0        .000  0-0    0  0-0 
+26       ;    Paris, Benjamin          ;   1; 0  ;  4     ;  0    ;   0   ;    0   ;    0    ;            .000                 0         .000        0-0    0  0-0 
+24       ;    Gardner, John            ;   4; 0  ;  46    ;  0    ;   0   ;    0   ;    0    ;             .000                0          .000       1-0    0  0-0 
+18       ;    Butcher, Dustin          ;   7; 5  ;  448   ;  0    ;   0   ;    0   ;    0    ;              .000               0           .000      0-0    0  0-0 
+1        ;    Cote, Sean               ;   1; -13;  1258  ;  0    ;   0   ;    0   ;    0    ;               .000              0            .000     0-0    0  0-0 
 
 
 
 Season: 2010
 BlockSource: http://www.gomason.com/fls/25200/Stats/Men%27s%20Soccer/2010/teamcume.htm
 
-##           Player     GP-GS   Min     G       A       Pts     Sh      Shot%   SOG     SOG%    GW      PK-Att 
-9            Marquez, Ernesto   17-12   1192    7       5       19      28       .250   13       .464   0      0-0 
-11           Freeman, Victor    13-4    496     3       1       7       28        .107  15        .536  1      0-0 
-25           Markheim, Derek    15-13   944     2       3       7       29         .069           16     .552  0   0-0 
-21           Walton, Parker     17-6    759     2       1       5       23          .087          6       .261     1   0-0 
-10           Gracia, Ryan       13-10   915     1       3       5       29           .034         9        .310    1   0-0 
-20           Morgan, Taylor     14-12   733     1       2       4       22            .045        14        .636   0   0-0 
-24           Roberts, Hugh      12-1    345     1       2       4       6              .167       2          .333  1   0-0 
-13           Herrera, Alex      14-13   1012    1       1       3       8               .125      5           .625     1   0-0 
-7            Adu, Fro           13-13   1164    1       1       3       1               1.000     1           1.000    1   1-1 
-6            Brockman, Brent    16-13   1218    0       3       3       14               .000     8            .571    0   0-0 
-17           Martinez, Eber     17-17   1405    1       0       2       11                .091    6             .545   0   0-0 
-3            Toure, Alhagi      14-3    446     1       0       2       9                  .111   5              .556  1   0-0 
-27           Sheta, A.J.         9-0    111     1       0       2       3                   .333  2               .667     1   0-0 
-4            Foss, Mike          10-3   383     1       0       2       2                    .500                 2        1.000   0  0-0 
-14           Sever, Wesley       10-7   496     0       1       1       8                     .000                1         .125   0  0-0 
-12           Barham, Cooper       9-3   312     0       1       1       4                      .000               1          .250  0  0-0 
-15           Han, Anthony          9-0          145     0       1       1                      1                   .000      0      .000  0  0-0 
-8            Zuehsow, Eric         17-17        1570    0       0       0                      8                    .000     2       .250    0   0-0 
-19           Washington, Draymond  12-10        825     0       0       0                      3                     .000    2        .667   0   0-0 
-16           Miller, Chase         14-11        969     0       0       0                      1                      .000   1        1.000  0   0-0 
-29           Haapaoja, Zak          7-2         183     0       0       0                      0                       .000  0         .000  0   0-0 
-28           Caltabiano, Geaton      7-0        94      0       0       0                      0                        .000           0      .000   0  0-0 
-26           Newsome, Laurent         7-0       67      0       0       0                      0                         .000          0       .000  0  0-0 
-23           Healy, Sean               3-0      11      0       0       0                      0                          .000         0        .000    0   0-0 
-22           Wagoner, Steven            6-0     104     0       0       0                      0                           .000        0         .000   0   0-0 
-18           Butcher, Dustin             4-2    187     0       0       0                      0                            .000       0          .000  0   0-0 
-1            Cote, Sean                  15-13  1272    0       0       0                      0                             .000      0           .000     0   0-0 
+*##           Player     GP-GS   Min     G       A       Pts     Sh      Shot%   SOG     SOG%    GW      PK-Att 
+
+9        ;    Marquez, Ernesto  ;   17; 12  ; 1192  ;  7   ;    5   ;    19   ;   28  ;     .250   13       .464   0      0-0 
+11       ;    Freeman, Victor   ;   13; 4   ; 496   ;  3   ;    1   ;    7    ;   28  ;      .107  15        .536  1      0-0 
+25       ;    Markheim, Derek   ;   15; 13  ; 944   ;  2   ;    3   ;    7    ;   29  ;       .069           16     .552  0   0-0 
+21       ;    Walton, Parker    ;   17; 6   ; 759   ;  2   ;    1   ;    5    ;   23  ;        .087          6       .261     1   0-0 
+10       ;    Gracia, Ryan      ;   13; 10  ; 915   ;  1   ;    3   ;    5    ;   29  ;         .034         9        .310    1   0-0 
+20       ;    Morgan, Taylor    ;   14; 12  ; 733   ;  1   ;    2   ;    4    ;   22  ;          .045        14        .636   0   0-0 
+24       ;    Roberts, Hugh     ;   12; 1   ; 345   ;  1   ;    2   ;    4    ;   6   ;           .167       2          .333  1   0-0 
+13       ;    Herrera, Alex     ;   14; 13  ; 1012  ;  1   ;    1   ;    3    ;   8   ;            .125      5           .625     1   0-0 
+7        ;    Adu, Fro          ;   13; 13  ; 1164  ;  1   ;    1   ;    3    ;   1   ;            1.000     1           1.000    1   1-1 
+6        ;    Brockman, Brent   ;   16; 13  ; 1218  ;  0   ;    3   ;    3    ;   14  ;             .000     8            .571    0   0-0 
+17       ;    Martinez, Eber    ;   17; 17  ; 1405  ;  1   ;    0   ;    2    ;   11  ;              .091    6             .545   0   0-0 
+3        ;    Toure, Alhagi     ;   14; 3   ; 446   ;  1   ;    0   ;    2    ;   9   ;               .111   5              .556  1   0-0 
+27       ;    Sheta, A.J.       ;    9; 0   ; 111   ;  1   ;    0   ;    2    ;   3   ;                .333  2               .667     1   0-0 
+4        ;    Foss, Mike        ;   10; 3   ; 383   ;  1   ;    0   ;    2    ;   2   ;                 .500                 2        1.000   0  0-0 
+14       ;    Sever, Wesley     ;   10; 7   ; 496   ;  0   ;    1   ;    1    ;   8   ;                  .000                1         .125   0  0-0 
+12       ;    Barham, Cooper    ;    9; 3   ; 312   ;  0   ;    1   ;    1    ;   4   ;                   .000               1          .250  0  0-0 
+15       ;    Han, Anthony      ;    9; 0   ; 145   ;  0   ;    1   ;    1    ;   1   ;                .000      0      .000  0  0-0 
+8        ;    Zuehsow, Eric     ;   17; 17  ; 1570  ;  0   ;    0   ;    0    ;   8   ;                 .000     2       .250    0   0-0 
+19       ;    Washington, Draymond; 12; 10  ; 825   ;  0   ;    0   ;    0    ;   3   ;                  .000    2        .667   0   0-0 
+16       ;    Miller, Chase     ;   14; 11  ; 969   ;  0   ;    0   ;    0    ;   1   ;                   .000   1        1.000  0   0-0 
+29       ;    Haapaoja, Zak     ;    7; 2   ; 183   ;  0   ;    0   ;    0    ;   0   ;                    .000  0         .000  0   0-0 
+28       ;    Caltabiano, Geaton;    7; 0   ; 94    ;  0   ;    0   ;    0    ;   0   ;                     .000           0      .000   0  0-0 
+26       ;    Newsome, Laurent  ;    7; 0   ; 67    ;  0   ;    0   ;    0    ;   0   ;                      .000          0       .000  0  0-0 
+23       ;    Healy, Sean       ;    3; 0   ; 11    ;  0   ;    0   ;    0    ;   0   ;                       .000         0        .000    0   0-0 
+22       ;    Wagoner, Steven   ;    6; 0   ; 104   ;  0   ;    0   ;    0    ;   0   ;                        .000        0         .000   0   0-0 
+18       ;    Butcher, Dustin   ;    4; 2   ; 187   ;  0   ;    0   ;    0    ;   0   ;                         .000       0          .000  0   0-0 
+1        ;    Cote, Sean        ;   15; 13  ; 1272  ;  0   ;    0   ;    0    ;   0   ;                          .000      0           .000     0   0-0 
 
 
 Season: 2009
 BlockSource: http://www.gomason.com/fls/25200/Stats/Men%27s%20Soccer/2009/teamcume.htm
 
-##           Player     GP-GS   G       A       Pts     Sh      Shot%   SOG     SOG%    GW      PK-Att 
-1            Kelley, Sean       18-18   0       0       0       0        .000   0        .000   0      0-0 
-2            Reichmann, Ryan    17-17   0       0       0       5         .000  1         .200  0      0-0 
-3            Toure, Alhagi      14-4    2       1       5       17         .118           8      .471  0   0-0 
-4            Markheim, Derek    11-5    1       1       3       8           .125          2       .250     1   0-0 
-5            Gracia, Ryan       14-13   3       3       9       46           .065         18       .391    0   2-2 
-6            Brockman, Brent     9-2    0       1       1       1             .000        0         .000   0   0-0 
-7            Adu, Fro            17-6   2       0       4       7              .286       5          .714  1   0-0 
-8            Zuehsow, Eric       18-18  2       0       4       7               .286      4           .571     2   0-0 
-9            Marquez, Ernesto    18-15  4       3       11      25               .160     10           .400    1   0-0 
-10           Martinez, Irvin     12-10  1       3       5       13                .077    7             .538   1   0-0 
-11           Freeman, Victor     13-11  7       4       18      28                 .250   11             .393  3   0-0 
-13           Edgar, Richard      18-18  0       2       2       15                  .000  4               .267     0   0-0 
-15           Han, Anthony        16-3   0       1       1       6                    .000                 2         .333   0  0-0 
-16           Miller, Chase       18-18  0       0       0       2                     .000                0          .000  0  0-0 
-17           Martinez, Eber      11-8   0       1       1       7                      .000               2           .286    0   0-0 
-19           Washington, Draymond       16-12   4       2       10                     27                  .148       15       .556   0  0-0 
-20           Procter, Alex              10-1    0       0       0                      0                    .000      0         .000  0  0-0 
-21           Walton, Parker             15-2    3       0       6                      17                    .176     14         .824    1   0-0 
-22           Wagoner, Steven             6-0    0       1       1                      1                      .000    0           .000   0   0-0 
-23           Healy, Sean                  3-0   0       0       0                      0                       .000   0            .000  0   0-0 
-24           Bulat, Pete                   2-0          0       0                      0                       0       .000        0      .000   0  0-0 
-25           Foss, Mike                    18-17        0       3                      3                       5        .000       1       .200  0  0-0 
-27           Sheta, A.J.                    7-0         0       1                      1                       6         .000      2        .333    0   0-0 
-30           Butcher, Dustin                 1-0        0       0                      0                       0          .000     0         .000   0   0-0 
+
+Key: number; name; games_played; games_started; goals; assists; points; shots; etc
+
+*##           Player     GP-GS   G       A       Pts     Sh      Shot%   SOG     SOG%    GW      PK-Att 
+
+1        ;    Kelley, Sean      ;   18; 18  ; 0     ;  0   ;    0   ;    0    ;    .00;0   0        .000   0      0-0 
+2        ;    Reichmann, Ryan   ;   17; 17  ; 0     ;  0   ;    0   ;    5    ;     .0;00  1         .200  0      0-0 
+3        ;    Toure, Alhagi     ;   14; 4   ; 2     ;  1   ;    5   ;    17   ;      .;118           8      .471  0   0-0 
+4        ;    Markheim, Derek   ;   11; 5   ; 1     ;  1   ;    3   ;    8    ;       ;.125          2       .250     1   0-0 
+5        ;    Gracia, Ryan      ;   14; 13  ; 3     ;  3   ;    9   ;    46   ;       ; .065         18       .391    0   2-2 
+6        ;    Brockman, Brent   ;    9; 2   ; 0     ;  1   ;    1   ;    1    ;       ;  .000        0         .000   0   0-0 
+7        ;    Adu, Fro          ;   17; 6   ; 2     ;  0   ;    4   ;    7    ;       ;   .286       5          .714  1   0-0 
+8        ;    Zuehsow, Eric     ;   18; 18  ; 2     ;  0   ;    4   ;    7    ;       ;    .286      4           .571     2   0-0 
+9        ;    Marquez, Ernesto  ;   18; 15  ; 4     ;  3   ;    11  ;    25   ;       ;     .160     10           .400    1   0-0 
+10       ;    Martinez, Irvin   ;   12; 10  ; 1     ;  3   ;    5   ;    13   ;       ;      .077    7             .538   1   0-0 
+11       ;    Freeman, Victor   ;   13; 11  ; 7     ;  4   ;    18  ;    28   ;       ;       .250   11             .393  3   0-0 
+13       ;    Edgar, Richard    ;   18; 18  ; 0     ;  2   ;    2   ;    15   ;       ;        .000  4               .267     0   0-0 
+15       ;    Han, Anthony      ;   16; 3   ; 0     ;  1   ;    1   ;    6    ;       ;         .000                 2         .333   0  0-0 
+16       ;    Miller, Chase     ;   18; 18  ; 0     ;  0   ;    0   ;    2    ;       ;          .000                0          .000  0  0-0 
+17       ;    Martinez, Eber    ;   11; 8   ; 0     ;  1   ;    1   ;    7    ;       ;           .000               2           .286    0   0-0 
+19       ;    Washington, Draymond; 16; 12  ; 4     ;  2   ;    10  ;    27   ;       ;        .148       15       .556   0  0-0 
+20       ;    Procter, Alex     ;   10; 1   ; 0     ;  0   ;    0   ;    0    ;       ;         .000      0         .000  0  0-0 
+21       ;    Walton, Parker    ;   15; 2   ; 3     ;  0   ;    6   ;    17   ;       ;          .176     14         .824    1   0-0 
+22       ;    Wagoner, Steven   ;    6; 0   ; 0     ;  1   ;    1   ;    1    ;       ;           .000    0           .000   0   0-0 
+23       ;    Healy, Sean       ;    3; 0   ; 0     ;  0   ;    0   ;    0    ;       ;            .000   0            .000  0   0-0 
+24       ;    Bulat, Pete       ;    2; 0   ; 0     ;  0   ;    0   ;    0    ;   .000;        0      .000   0  0-0 
+25       ;    Foss, Mike        ;   18; 17  ; 0     ;  3   ;    3   ;    5    ;    .00;0       1       .200  0  0-0 
+27       ;    Sheta, A.J.       ;    7; 0   ; 0     ;  1   ;    1   ;    6    ;     .0;00      2        .333    0   0-0 
+30       ;    Butcher, Dustin   ;    1; 0   ; 0     ;  0   ;    0   ;    0    ;      .;000     0         .000   0   0-0 
 
 
 Season: 2008
 BlockSource: http://www.gomason.com/fls/25200/Stats/Men%27s%20Soccer/2008/teamcume.htm
 
-##           Player     GP-GS   G       A       Pts     Sh      Shot%   SOG     SOG%    GW      PK-Att 
-2            Orzak, Tyler       22-6    1       0       2       2        .500   2       1.000   0      0-0 
-3            Levry, Axel        23-22   3       2       8       40        .075  17       .425   2      0-0 
-4            Adjeman-Pamboe, K.         23-13   9       7       25        48     .188    18      .375  4   0-0 
-5            Gracia, Ryan    20-18      5       1       11      45         .111  19       .422   0     0-0 
-6            Borrajo, Jonathan          23-23   0       2       2          10     .000    1       .100     0    0-0 
-7            Adu, Fro                   19-9    0       0       0          13      .000   6        .462    0    0-0 
-8            Zuehsow, Eric               3-3    0       0       0          0        .000  0         .000   0    0-0 
-9            Marquez, Ernesto             5-1   0       0       0          1         .000           0       .000    0   0-0 
-10           Martinez, Irvin              23-16         3       6          12        41              .073   19       .463   3  0-1 
-11           Vallie, Michael              23-22         0       0          0         4                .000  1         .250  0  0-0 
-12           Fike, Hugh                   23-23         0       5          5         19                .000           6      .316  0  0-0 
-13           Edgar, Richard               23-23         2       1          5         18                 .111          6       .333    0   0-0 
-14           Pardew, Lucas                23-17         4       4          12        38                  .105         17       .447   1   0-0 
-15           Han, Anthony                 23-8          2       3          7         18                   .111        8         .444  1   0-0 
-17           Martinez, Eber               15-10         2       3          7         18                    .111       6          .333     1   0-0 
-19           Washington, Draymond         23-8          2       3          7         29                     .069      15          .517    0   0-0 
-20           Procter, Alex                 5-0          0       0          0         0                       .000     0            .000   0   0-0 
-21           Walton, Parker                20-2         4       1          9         16                       .250    9             .562  1   0-0 
-22           Wagoner, Steven                5-1         0       0          0         0                         .000   0              .000     0   0-0 
-24           Bulat, Pete                     5-0        0       0          0         1                          .000  0               .000    0   0-0 
-25           Foss, Mike                       3-0       0       0          0         0                           .000                 0        .000   0  0-0 
-26           Backer, Elon                     16-2      0       0          0         3                            .000                2         .667  0  0-0 
-27           Barthold, Patrick                 8-3      1       0          2         9                             .111               3          .333    0   0-0 
+*##           Player     GP-GS   G       A       Pts     Sh      Shot%   SOG     SOG%    GW      PK-Att 
+
+2           ; Orzak, Tyler            ;   22; 6  ;  1   ;    0   ;    2    ;   2    ;    .500   2       1.000   0      0-0 
+3           ; Levry, Axel             ;   23; 22 ;  3   ;    2   ;    8    ;   40   ;     .075  17       .425   2      0-0 
+4           ; Adjeman-Pamboe, K.      ;   23; 13 ;  9   ;    7   ;    25   ;   48   ;  .188    18      .375  4   0-0 
+5           ; Gracia, Ryan            ;   20; 18 ;  5   ;    1   ;    11   ;   45   ;      .111  19       .422   0     0-0 
+6           ; Borrajo, Jonathan       ;   23; 23 ;  0   ;    2   ;    2    ;   10   ;  .000    1       .100     0    0-0 
+7           ; Adu, Fro                ;   19; 9  ;  0   ;    0   ;    0    ;   13   ;   .000   6        .462    0    0-0 
+8           ; Zuehsow, Eric           ;    3; 3  ;  0   ;    0   ;    0    ;   0    ;    .000  0         .000   0    0-0 
+9           ; Marquez, Ernesto        ;    5; 1  ;  0   ;    0   ;    0    ;   1    ;     .000           0       .000    0   0-0 
+10          ; Martinez, Irvin         ;   23; 16 ;  3   ;    6   ;    12   ;   41   ;           .073   19       .463   3  0-1 
+11          ; Vallie, Michael         ;   23; 22 ;  0   ;    0   ;    0    ;   4    ;            .000  1         .250  0  0-0 
+12          ; Fike, Hugh              ;   23; 23 ;  0   ;    5   ;    5    ;   19   ;             .000           6      .316  0  0-0 
+13          ; Edgar, Richard          ;   23; 23 ;  2   ;    1   ;    5    ;   18   ;              .111          6       .333    0   0-0 
+14          ; Pardew, Lucas           ;   23; 17 ;  4   ;    4   ;    12   ;   38   ;               .105         17       .447   1   0-0 
+15          ; Han, Anthony            ;   23; 8  ;  2   ;    3   ;    7    ;   18   ;                .111        8         .444  1   0-0 
+17          ; Martinez, Eber          ;   15; 10 ;  2   ;    3   ;    7    ;   18   ;                 .111       6          .333     1   0-0 
+19          ; Washington, Draymond    ;   23; 8  ;  2   ;    3   ;    7    ;   29   ;                  .069      15          .517    0   0-0 
+20          ; Procter, Alex           ;    5; 0  ;  0   ;    0   ;    0    ;   0    ;                   .000     0            .000   0   0-0 
+21          ; Walton, Parker          ;   20; 2  ;  4   ;    1   ;    9    ;   16   ;                    .250    9             .562  1   0-0 
+22          ; Wagoner, Steven         ;    5; 1  ;  0   ;    0   ;    0    ;   0    ;                     .000   0              .000     0   0-0 
+24          ; Bulat, Pete             ;    5; 0  ;  0   ;    0   ;    0    ;   1    ;                      .000  0               .000    0   0-0 
+25          ; Foss, Mike              ;    3; 0  ;  0   ;    0   ;    0    ;   0    ;                       .000                 0        .000   0  0-0 
+26          ; Backer, Elon            ;   16; 2  ;  0   ;    0   ;    0    ;   3    ;                        .000                2         .667  0  0-0 
+27          ; Barthold, Patrick       ;    8; 3  ;  1   ;    0   ;    2    ;   9    ;                         .111               3          .333    0   0-0 
 
 
 Season: 2007
 BlockSource: http://www.gomason.com/fls/25200/Stats/Men%27s%20Soccer/2007/teamstat.htm?DB_OEM_ID=25200
 
-##           Player     GP-GS   G       A       Pts     Sh      Shot%   SOG     SOG%    YC-RC   GW      PK-Att 
-1            Kelley, Sean       17-17   0       1       1       0        .000   0        .000   0-0     0      0-0 
-2            Orzak, Tyler       10-5    0       0       0       2         .000  0         .000  0-0     0      0-0 
-3            Chaves, Chris      18-12   3       2       8       21         .143           11     .524   1-0    1   2-2 
-4            Lobene, Adam       18-10   1       0       2       19          .053          7       .368  1-0    0   0-0 
-5            Carroll, Chris      4-4    0       1       1       7            .000         5        .714        0-0     0  0-0 
-6            Borrajo, Jonathan   18-18  0       1       1       11            .000        0         .000       4-0     0  0-0 
-7            Adu, Fro            18-14  3       0       6       12             .250       7          .583      0-0     2  0-0 
-8            Zuehsow, Eric       15-10  1       0       2       8               .125      3           .375     0-0     1  0-0 
-9            McDaniel, Adam       3-0   0       1       1       1                .000     1           1.000    0-0     0  0-0 
-10           Martinez, Irvin      17-14         2       2       6                20        .100       12        .600   2-0    0  0-0 
-11           Vallie, Michael      18-17         0       0       0                2          .000      1          .500  4-0    0  0-0 
-12           Fike, Hugh            9-3          0       0       0                5           .000     2           .400        0-0    0  0-0 
-13           Edgar, Richard        17-17        1       1       3                18           .056    7            .389       4-0    0  0-0 
-14           Pardew, Lucas         15-7         0       0       0                5             .000   1             .200      0-0    0  0-0 
-15           Arrington, Matt       13-12        0       1       1                1              .000  1             1.000     0-0    0  0-0 
-16           Stone, Rich            9-0         0       1       1                1               .000               0          .000  2-0    0  0-0 
-17           Barry-Austin, Brian    12-7        0       0       0                3                .000              1           .333        1-0    0  0-0 
-18           Jessup, Jeremy          3-1        0       0       0                0                 .000             0            .000       0-0    0  0-0 
-19           Roth, Blake              1-0       0       0       0                0                  .000            0             .000      0-0    0  0-0 
-20           Procter, Alex             3-0      0       0       0                0                   .000           0              .000     0-0    0  0-0 
-21           Walton, Parker            14-6     0       1       1                7                    .000          3               .429    3-0    0  0-0 
-23           Barr, James                3-0     0       0       0                0                     .000         0                .000   0-0    0  0-0 
-24           Mault, Jordan              11-1    1       0       2                6                      .167        3                 .500  0-0    0  0-0 
-25           Jenkins, Ryan               1-0    0       0       0                0                       .000       0                  .000        0-0    0  0-0 
-26           Marquez, Ernesto            17-14  0       4       4                17                       .000      4                   .235       1-0    0  0-0 
-27           Barthold, Patrick            5-1   1       0       2                3                         .333     1                    .333      1-0    0  0-0 
-28           Adjeman-Pamboe,Kwame         15-7          2       0                4                         15        .133                7          .467  0-0    1  0-0 
-29           Park, Jae                     2-0          0       0                0                         1          .000               0           .000        0-0    0  0-0 
-31           Backer, Elon                   8-1         0       0                0                         1           .000              0            .000       1-0    0  0-0 
+*##           Player     GP-GS   G       A       Pts     Sh      Shot%   SOG     SOG%    YC-RC   GW      PK-Att 
+
+1          ;  Kelley, Sean       ;   17; 17 ;  0      ; 1    ;   1  ;     0    ;    .000   0        .000   0-0     0      0-0 
+2          ;  Orzak, Tyler       ;   10; 5  ;  0      ; 0    ;   0  ;     2    ;     .000  0         .000  0-0     0      0-0 
+3          ;  Chaves, Chris      ;   18; 12 ;  3      ; 2    ;   8  ;     21   ;      .143           11     .524   1-0    1   2-2 
+4          ;  Lobene, Adam       ;   18; 10 ;  1      ; 0    ;   2  ;     19   ;       .053          7       .368  1-0    0   0-0 
+5          ;  Carroll, Chris     ;    4; 4  ;  0      ; 1    ;   1  ;     7    ;        .000         5        .714        0-0     0  0-0 
+6          ;  Borrajo, Jonathan  ;   18; 18 ;  0      ; 1    ;   1  ;     11   ;         .000        0         .000       4-0     0  0-0 
+7          ;  Adu, Fro           ;   18; 14 ;  3      ; 0    ;   6  ;     12   ;          .250       7          .583      0-0     2  0-0 
+8          ;  Zuehsow, Eric      ;   15; 10 ;  1      ; 0    ;   2  ;     8    ;           .125      3           .375     0-0     1  0-0 
+9          ;  McDaniel, Adam     ;    3; 0  ;  0      ; 1    ;   1  ;     1    ;            .000     1           1.000    0-0     0  0-0 
+10         ;  Martinez, Irvin    ;   17; 14 ;  2      ; 2    ;   6  ;     20   ;     .100       12        .600   2-0    0  0-0 
+11         ;  Vallie, Michael    ;   18; 17 ;  0      ; 0    ;   0  ;     2    ;      .000      1          .500  4-0    0  0-0 
+12         ;  Fike, Hugh         ;    9; 3  ;  0      ; 0    ;   0  ;     5    ;       .000     2           .400        0-0    0  0-0 
+13         ;  Edgar, Richard     ;   17; 17 ;  1      ; 1    ;   3  ;     18   ;        .056    7            .389       4-0    0  0-0 
+14         ;  Pardew, Lucas      ;   15; 7  ;  0      ; 0    ;   0  ;     5    ;         .000   1             .200      0-0    0  0-0 
+15         ;  Arrington, Matt    ;   13; 12 ;  0      ; 1    ;   1  ;     1    ;          .000  1             1.000     0-0    0  0-0 
+16         ;  Stone, Rich        ;    9; 0  ;  0      ; 1    ;   1  ;     1    ;           .000               0          .000  2-0    0  0-0 
+17         ;  Barry-Austin, Brian;   12; 7  ;  0      ; 0    ;   0  ;     3    ;            .000              1           .333        1-0    0  0-0 
+18         ;  Jessup, Jeremy     ;    3; 1  ;  0      ; 0    ;   0  ;     0    ;             .000             0            .000       0-0    0  0-0 
+19         ;  Roth, Blake        ;    1; 0  ;  0      ; 0    ;   0  ;     0    ;              .000            0             .000      0-0    0  0-0 
+20         ;  Procter, Alex      ;    3; 0  ;  0      ; 0    ;   0  ;     0    ;               .000           0              .000     0-0    0  0-0 
+21         ;  Walton, Parker     ;   14; 6  ;  0      ; 1    ;   1  ;     7    ;                .000          3               .429    3-0    0  0-0 
+23         ;  Barr, James        ;    3; 0  ;  0      ; 0    ;   0  ;     0    ;                 .000         0                .000   0-0    0  0-0 
+24         ;  Mault, Jordan      ;   11; 1  ;  1      ; 0    ;   2  ;     6    ;                  .167        3                 .500  0-0    0  0-0 
+25         ;  Jenkins, Ryan      ;    1; 0  ;  0      ; 0    ;   0  ;     0    ;                   .000       0                  .000        0-0    0  0-0 
+26         ;  Marquez, Ernesto   ;   17; 14 ;  0      ; 4    ;   4  ;     17   ;                    .000      4                   .235       1-0    0  0-0 
+27         ;  Barthold, Patrick  ;    5; 1  ;  1      ; 0    ;   2  ;     3    ;                     .333     1                    .333      1-0    0  0-0 
+28         ;  Adjeman-Pamboe,Kwame;  15; 7  ;  2      ; 0    ;   4  ;     15   ;     .133                7          .467  0-0    1  0-0 
+29         ;  Park, Jae          ;    2; 0  ;  0      ; 0    ;   0  ;     1    ;      .000               0           .000        0-0    0  0-0 
+31         ;  Backer, Elon       ;    8; 1  ;  0      ; 0    ;   0  ;     1    ;       .000              0            .000       1-0    0  0-0 
 
 
 
 Season: 2006
 BlockSource: http://www.gomason.com/fls/25200/Stats/Men%27s%20Soccer/2009/teamcume.htm
 
-##           Player     GP-GS   G       A       Pts     Sh      Shot%   SOG     SOG%    GW      PK-Att 
-1            Kelley, Sean       18-18   0       0       0       0        .000   0        .000   0      0-0 
-2            Reichmann, Ryan    17-17   0       0       0       5         .000  1         .200  0      0-0 
-3            Toure, Alhagi      14-4    2       1       5       17         .118           8      .471  0   0-0 
-4            Markheim, Derek    11-5    1       1       3       8           .125          2       .250     1   0-0 
-5            Gracia, Ryan       14-13   3       3       9       46           .065         18       .391    0   2-2 
-6            Brockman, Brent     9-2    0       1       1       1             .000        0         .000   0   0-0 
-7            Adu, Fro            17-6   2       0       4       7              .286       5          .714  1   0-0 
-8            Zuehsow, Eric       18-18  2       0       4       7               .286      4           .571     2   0-0 
-9            Marquez, Ernesto    18-15  4       3       11      25               .160     10           .400    1   0-0 
-10           Martinez, Irvin     12-10  1       3       5       13                .077    7             .538   1   0-0 
-11           Freeman, Victor     13-11  7       4       18      28                 .250   11             .393  3   0-0 
-13           Edgar, Richard      18-18  0       2       2       15                  .000  4               .267     0   0-0 
-15           Han, Anthony        16-3   0       1       1       6                    .000                 2         .333   0  0-0 
-16           Miller, Chase       18-18  0       0       0       2                     .000                0          .000  0  0-0 
-17           Martinez, Eber      11-8   0       1       1       7                      .000               2           .286    0   0-0 
-19           Washington, Draymond       16-12   4       2       10                     27                  .148       15       .556   0  0-0 
-20           Procter, Alex              10-1    0       0       0                      0                    .000      0         .000  0  0-0 
-21           Walton, Parker             15-2    3       0       6                      17                    .176     14         .824    1   0-0 
-22           Wagoner, Steven             6-0    0       1       1                      1                      .000    0           .000   0   0-0 
-23           Healy, Sean                  3-0   0       0       0                      0                       .000   0            .000  0   0-0 
-24           Bulat, Pete                   2-0          0       0                      0                       0       .000        0      .000   0  0-0 
-25           Foss, Mike                    18-17        0       3                      3                       5        .000       1       .200  0  0-0 
-27           Sheta, A.J.                    7-0         0       1                      1                       6         .000      2        .333    0   0-0 
-30           Butcher, Dustin                 1-0        0       0                      0                       0          .000     0         .000   0   0-0 
+*##           Player     GP-GS   G       A       Pts     Sh      Shot%   SOG     SOG%    GW      PK-Att 
+
+1         ;   Kelley, Sean        ; 18; 18 ;  0     ;  0    ;   0   ;    0   ;     .000   0        .000   0      0-0 
+2         ;   Reichmann, Ryan     ; 17; 17 ;  0     ;  0    ;   0   ;    5   ;      .000  1         .200  0      0-0 
+3         ;   Toure, Alhagi       ; 14; 4  ;  2     ;  1    ;   5   ;    17  ;       .118           8      .471  0   0-0 
+4         ;   Markheim, Derek     ; 11; 5  ;  1     ;  1    ;   3   ;    8   ;        .125          2       .250     1   0-0 
+5         ;   Gracia, Ryan        ; 14; 13 ;  3     ;  3    ;   9   ;    46  ;         .065         18       .391    0   2-2 
+6         ;   Brockman, Brent     ;  9; 2  ;  0     ;  1    ;   1   ;    1   ;          .000        0         .000   0   0-0 
+7         ;   Adu, Fro            ; 17; 6  ;  2     ;  0    ;   4   ;    7   ;           .286       5          .714  1   0-0 
+8         ;   Zuehsow, Eric       ; 18; 18 ;  2     ;  0    ;   4   ;    7   ;            .286      4           .571     2   0-0 
+9         ;   Marquez, Ernesto    ; 18; 15 ;  4     ;  3    ;   11  ;    25  ;             .160     10           .400    1   0-0 
+10        ;   Martinez, Irvin     ; 12; 10 ;  1     ;  3    ;   5   ;    13  ;              .077    7             .538   1   0-0 
+11        ;   Freeman, Victor     ; 13; 11 ;  7     ;  4    ;   18  ;    28  ;               .250   11             .393  3   0-0 
+13        ;   Edgar, Richard      ; 18; 18 ;  0     ;  2    ;   2   ;    15  ;                .000  4               .267     0   0-0 
+15        ;   Han, Anthony        ; 16; 3  ;  0     ;  1    ;   1   ;    6   ;                 .000                 2         .333   0  0-0 
+16        ;   Miller, Chase       ; 18; 18 ;  0     ;  0    ;   0   ;    2   ;                  .000                0          .000  0  0-0 
+17        ;   Martinez, Eber      ; 11; 8  ;  0     ;  1    ;   1   ;    7   ;                   .000               2           .286    0   0-0 
+19        ;   Washington, Draymond; 16; 12 ;  4     ;  2    ;   10  ;    27  ;                .148       15       .556   0  0-0 
+20        ;   Procter, Alex       ; 10; 1  ;  0     ;  0    ;   0   ;    0   ;                 .000      0         .000  0  0-0 
+21        ;   Walton, Parker      ; 15; 2  ;  3     ;  0    ;   6   ;    17  ;                  .176     14         .824    1   0-0 
+22        ;   Wagoner, Steven     ;  6; 0  ;  0     ;  1    ;   1   ;    1   ;                   .000    0           .000   0   0-0 
+23        ;   Healy, Sean         ;  3; 0  ;  0     ;  0    ;   0   ;    0   ;                    .000   0            .000  0   0-0 
+24        ;   Bulat, Pete         ;  2; 0  ;  0     ;  0    ;   0   ;    0   ;    .000        0      .000   0  0-0 
+25        ;   Foss, Mike          ; 18; 17 ;  0     ;  3    ;   3   ;    5   ;     .000       1       .200  0  0-0 
+27        ;   Sheta, A.J.         ;  7; 0  ;  0     ;  1    ;   1   ;    6   ;      .000      2        .333    0   0-0 
+30        ;   Butcher, Dustin     ;  1; 0  ;  0     ;  0    ;   0   ;    0   ;       .000     0         .000   0   0-0 

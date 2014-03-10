@@ -1,0 +1,222 @@
+Team: FIU
+Competition: NCAA Division I Men's Soccer Championship
+
+Season: 2013
+BlockSource: http://www.fiusports.com/Sports/MensSports/MSoccer/Stats.aspx
+
+##           Player     GP-GS   Min     G       A       Pts     Sh      Shot%   SOG     SOG%    YC-RC   GW      PK-Att 
+20           ALTERIO, Roberto   16-11   881     7       2       16      33       .212   15       .455   6-0     0      0-0 
+7            ALBRECHT, Quentin          17-16   1364    6       4       16       64      .094    31      .484   3-0    2   1-1 
+15           FRECHILLA, Gonzalo         17-16   1330    2       6       10       14       .143   8        .571  3-1    0   0-0 
+5            HEZEL, Marvin              17-16   1492    3       2       8        31        .097  8         .258        3-0     1  0-0 
+11           BETANCUR, Luis             17-4    468     3       1       7        9          .333           6            .667   0-0    1  0-0 
+3            McFARLANE, Sean            16-5    620     2       1       5        21          .095          10            .476  0-0    1  0-0 
+18           GONZALEZ, Daniel           15-6    576     2       1       5        10           .200         7              .700        0-1    1  0-0 
+10           ESPANA, Angel Josue        16-5    636     1       1       3        15            .067        9               .600       2-0    0  0-0 
+8            BURDETTE, Colby             9-2    269     1       0       2        7              .143       2                .286      3-0    0  0-0 
+21           MIDTTUN, Nicholas           16-12  1021    0       2       2        12              .000      6                 .500     4-0    0  0-0 
+14           CAMPION-HINDS, Jamar        16-9   909     0       2       2        6                .000     2                  .333    2-0    0  0-0 
+6            MILSAINT, Nelson            17-17  1406    0       2       2        4                 .000    0                   .000   3-0    0  0-0 
+16           LONGO, Ismael               12-9   778     0       1       1        6                  .000   1                    .167  2-0    0  0-0 
+23           BARBAR, Kevin               14-12  1061    0       0       0        3                   .000  1                     .333        2-0    0  0-0 
+22           DeOLIVEIRA, Icaro            4-1   115     0       0       0        2                    .000                       2           1.000  0-0    0  0-0 
+28           CRAGGS, Lawrence              9-8          757     0       0        0                    0                           .000       0       .000  0-0    0  0-0 
+24           TAYLOR, Steven                 2-0         18      0       0        0                    0                            .000      0        .000        0-0    0  0-0 
+17           LINDQUIST, Lyle                16-11       958     0       0        0                    0                             .000     0         .000       2-0    0  0-0 
+13           MATTEK, Andrew                  2-0        16      0       0        0                    0                              .000    0          .000      0-0    0  0-0 
+12           BENEDETTY, Juan                 11-6       477     0       0        0                    0                               .000   0           .000     1-0    0  0-0 
+4            REYES, Vincent                   8-2       181     0       0        0                    0                                .000  0            .000    1-0    0  0-0 
+2            BRAY, Luke                       12-10     905     0       0        0                    0                                 .000              0        .000  4-0    0  0-0 
+0            MION, Daniel                      8-8      667     0       0        0                    0                                  .000             0         .000        0-0    0  0-0 
+
+
+Season: 2012
+BlockSource: http://www.fiusports.com/portals/1/content/Stats/MSOC/2012/teamcume.htm
+
+##           Player     GP-GS   Min     G       A       Pts     Sh      Shot%   SOG     SOG%    YC-RC   GW      PK-Att  FG  OT  Hat  GTG  Corners 
+7            Quentin Albrecht   17-17   1529    10      3       23      70       .143   29       .414   5-0     3       0-0     1    0    0       2  2 
+8            Colby Burdette     16-14   1193    7       4       18      38        .184  14        .368  8-1     2       0-0     3    2    0       1  1 
+9            Nicolas Rodriguez          16-5    531     4       3       11        13     .308     8      .615   0-0     1       1-1  0    0       0  2  18 
+18           Daniel Gonzalez            16-14   1137    1       8       10        30      .033    10      .333  2-0     0       0-0  0    0       0  0  39 
+15           Gonzalo Frechilla           9-7    566     2       2       6         7        .286   2        .286         3-0     0    0-0  1       0  0  1  25 
+17           Lyle Lindquist              17-16  1448    0       6       6         2         .000  1         .500        5-0     0    0-0  0       0  0  0  1 
+14           Christopher Moffett         17-8   878     2       1       5         5          .400           3            .600   2-0  1    0-0     1  0  0  0  0 
+10           Lucas Di Croce              18-10  978     1       3       5         20          .050          6             .300  1-0  0    0-0     0  0  0  0  23 
+25           Patrick Ramdial             16-10  989     1       1       3         7            .143         3              .429      0-0  1       0-0   1  0  0  0  0 
+22           Icaro DeOliveira            17-13  1098    0       2       2         8             .000        1               .125     2-0  0       0-0   0  0  0  0  0 
+19           Arnthor Kristinsson          9-4   379     0       2       2         4              .000       2                .500    2-0  0       0-0   0  0  0  0  2 
+20           Roberto De Sousa             13-3          442     0       1         1              18          .000            5        .278        0-0   0  0-0   0  0  0  0  5 
+12           Chris Lamarre                14-4          443     0       1         1              8            .000           3         .375       2-0   0  0-0   0  0  0  0  0 
+4            Joseph Dawkins               18-18         1626    0       1         1              8             .000          1          .125      2-0   0  0-0   0  0  0  0  0 
+13           Andrew Mattek                18-5          700     0       0         0              15             .000         6           .400     1-0   0  0-0   0  0  0  0  0 
+16           Anthony Hobbs                18-13         1246    0       0         0              5               .000        3            .600    0-0   0  0-0   0  0  0  0  0 
+24           Steven Taylor                11-5          453     0       0         0              3                .000       1             .333   0-0   0  0-0   0  0  0  0  1 
+23           Kevin Barbar                 11-9          824     0       0         0              3                 .000      0              .000  1-0   0  0-0   0  0  0  0  0 
+6            Jon Devaldivieso              3-1          80      0       0         0              2                  .000     1               .500       0-0      0  0-0   0  0  0  0  0 
+30           Robin Spiegel                 18-18        1613    0       0         0              1                   .000    0                .000      0-0      0  0-0   0  0  0  0  0 
+2            Luke Bray                      5-3         292     0       0         0              1                    .000   0                 .000     2-0      0  0-0   0  0  0  0  1 
+26           Jhorvid Ramirez                 1-0        17      0       0         0              0                     .000  0                  .000    0-0      0  0-0   0  0  0  0  0 
+5            Jhonander Camargo                2-1       77      0       0         0              0                      .000                    0        .000    0-0      0  0-0   0  0  0  0  0 
+1            Eric Reyes                        2-0      48      0       0         0              0                       .000                   0         .000   0-0      0  0-0   0  0  0  0  0 
+0            Daniel Mion                        1-0     10      0       0         0              0                        .000                  0          .000  0-0      0  0-0   0  0  0  0  0 
+00           Rodney Greiling                     0-0    0       0       0         0              0                         .000                 0           .000          1-0      0  0-0   0  0  0  0  0 
+
+
+
+Season: 2011
+BlockSource: http://www.fiusports.com/portals/1/content/fls/11700/Stats_Cumulative/M_Soccer/2011/teamcume.htm#TEAM.IND
+
+##           Player     GP-GS   Min     G       A       Pts     Sh      Shot%   SOG     SOG%    YC-RC   GW      PK-Att 
+22           Quentin Albrecht   17-15   1225    5       2       12      44       .114   23       .523   1-0     1      0-0 
+2            Colby Burdette     17-9    1043    4       4       12      37        .108  21        .568  3-0     0      0-0 
+10           Lucas Di Croce     17-15   1091    3       2       8       32         .094           14     .438   1-0    2   0-0 
+20           Roberto De Sousa   15-2    513     1       2       4       23          .043          6       .261  1-0    1   0-0 
+19           Arnthor Kristinsson        15-11   1115    2       0       4           22             .091   7      .318  7-1     0  0-0 
+11           Sebastian Frings           17-11   867     1       1       3           19              .053  10      .526         0-0    0  0-0 
+12           Chris Lamarre              17-14   1255    0       1       1           17               .000         6             .353  4-0    0  0-0 
+17           Mario Uribe                12-9    841     0       1       1           16                .000        5              .312        1-0    0  0-0 
+8            Nicholas Chase             17-17   1629    0       1       1           13                 .000       4               .308       4-0    0  0-0 
+9            Nicolas Rodriguez           4-0    209     3       1       7           8                   .375      5                .625      2-0    1  0-0 
+4            Joseph Dawkins              15-14  1344    0       1       1           8                    .000     4                 .500     2-0    0  0-0 
+7            Jahbari Willis              13-11  1006    1       1       3           7                     .143    3                  .429    3-0    0  0-0 
+16           Anthony Hobbs               17-17  1629    0       0       0           5                      .000   2                   .400   2-0    0  0-0 
+24           Andri Alexandersson          6-4   400     2       0       4           4                       .500  2                    .500  3-0    0  0-0 
+6            Christian Melean              8-6          516     0       0           0                       1      .000                1     1.000  1-0    0  0-0 
+13           Esteban Castro                 2-0         17      0       0           0                       1       .000               0      .000  0-0    0  0-0 
+14           Sergio Alvarez                  4-0        49      0       0           0                       0        .000              0       .000        0-0    0  0-0 
+5            Jhonander Camargo                2-0       30      0       0           0                       0         .000             0        .000       0-0    0  0-0 
+23           Edgar Escobar                     2-0      12      0       0           0                       0          .000            0         .000      0-0    0  0-0 
+3            Nicolas Jones                      1-0     28      0       0           0                       0           .000           0          .000     0-0    0  0-0 
+26           Jon Devaldivieso                    2-1    168     0       0           0                       0            .000          0           .000    0-0    0  0-0 
+25           Arley Londono                        1-0   4       0       0           0                       0             .000         0            .000   0-0    0  0-0 
+18           Leonardo Martinez                     1-0          20      0           0                       0             0             .000        0       .000  0-0    0  0-0 
+15           John Kite                             11-9         801     0           0                       0             0              .000       0        .000        1-0    0  0-0 
+21           Chris Garces                          11-5         463     0           0                       0             0               .000      0         .000       0-0    0  0-0 
+
+
+Season: 2010
+BlockSource: http://www.fiusports.com/portals/1/content/fls/11700/Stats_Cumulative/M_Soccer/2010/teamcume.htm
+
+##           Player     GP-GS   Min     G       A       Pts     Sh      Shot%   SOG     SOG%    YC-RC   GW      PK-Att 
+11           FRINGS, Sebastian          14-7    696     1       1       3       24       .042   10       .417   2-0    0  0-0 
+9            MUEHSELER, Michael         15-13   1102    6       1       13      23        .261  11        .478  1-0    2  3-3 
+10           TAMBURUS, Diego            15-13   862     1       2       4       22         .045           11     .500  2-0    0  1-1 
+24           RODRIGUEZ, Nicolas         10-1    452     6       2       14      19          .316          11      .579        1-0    3  0-0 
+15           URIBE, Mario                9-7    601     0       1       1       17           .000         3        .176       1-0    0  0-0 
+18           DI CROCE, Lucas             13-6   702     0       0       0       15            .000        6         .400      0-0    0  0-0 
+2            HOFFMANN, Kevin             13-13  870     0       0       0       14             .000       6          .429     1-0    0  0-0 
+8            CHASE, Nicholas             17-17  1539    0       0       0       13              .000      5           .385    3-0    0  0-0 
+31           SCHMID, Carlo               14-11  1016    2       0       4       11               .182     4            .364   2-0    1  0-0 
+28           WILLIS, Jahbari             14-11  870     1       0       2       8                 .125    3             .375  6-0    1  0-0 
+4            DAWKINS, Joseph             14-10  831     1       1       3       7                  .143   3              .429        2-0    0  0-0 
+12           LAMARRE, Chris               9-0   287     0       0       0       5                   .000  1               .200       1-0    0  0-0 
+26           DEVALDIVIESO, Jon            13-3          492     0       0       0                   5      .000           0           .000  0-0    0  0-0 
+7            SCHWERTL, Florian            16-16         1232    0       0       0                   4       .000          1            .250        1-0    0  0-0 
+16           HOBBS, Anthony               17-17         1582    0       0       0                   3        .000         0             .000       1-0    0  0-0 
+20           GARCES, Chris                15-8          670     0       1       1                   2         .000        1              .500      0-0    0  0-0 
+5            CAMARGO, Jhonander            4-1          154     0       0       0                   1          .000       1              1.000     0-0    0  0-0 
+6            DAY, Justin                    7-5         459     0       0       0                   1           .000      1              1.000     0-0    0  0-0 
+14           SMITH, Dane                     1-0        2       0       0       0                   0            .000     0               .000     0-0    0  0-0 
+0            CHISHOLM, Michael                1-0       0       0       0       0                   0             .000    0                .000    0-0    0  0-0 
+19           ALVAREZ, Sergio                   1-0      20      0       0       0                   0              .000   0                 .000   0-0    0  0-0 
+13           PRETELT, Nicolas                   2-0     12      0       0       0                   0               .000  0                  .000  0-0    0  0-0 
+23           ESCOBAR, Edgar                      4-0    85      0       0       0                   0                .000                    0      .000  0-0    0  0-0 
+25           MELEAN, Christian                    1-0   40      0       0       0                   0                 .000                   0       .000        0-0    0  0-0 
+21           MARTINEZ, Leonardo                    1-0          2       0       0                   0                 0                       .000   0            .000  0-0    0  0-0 
+30           KITE, John                            11-9         916     0       0                   0                 0                        .000  0             .000        0-0    0  0-0 
+22           HAMPSON, Michael                       6-0         159     0       0                   0                 0                         .000               0            .000  0-0    0  0-0 
+17           HAIRSTON, Marcus                        4-2        132     0       1                   1                 0                          .000              0             .000        0-0    0  0-0 
+1            LOPEZ, Shane                            17-17      1589    0       0                   0                 0                           .000             0              .000       0-0    0  0-0 
+
+
+
+Season: 2009
+BlockSource: http://www.fiusports.com/portals/1/content/fls/11700/Stats_Cumulative/M_Soccer/2009/teamcume.htm
+
+## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG% GW  PK-ATT
+
+11 FRINGS, Sebastian    17-10   9   1  19  48  .188  23  .479  3   0-0
+9  CABAS, Steven        16-15   6   5  17  35  .171  18  .514  2   3-3
+10 TAMBURUS, Diego      16-8    2   2   6  31  .065  14  .452  1   0-0
+15 DOMINGUEZ, Christian 15-5    1   1   3  15  .067   6  .400  0   0-0
+4  THOMPSON, Will       17-17   0   1   1  15  .000   3  .200  0   0-0
+13 DAWKINS, Joseph      16-14   0   0   0   7  .000   4  .571  0   0-0
+8  BARBOSA, Bruno       11-7    0   0   0   7  .000   0  .000  0   0-0
+19 CHASE, Nicolas       17-16   0   1   1   6  .000   2  .333  0   0-0
+17 MANSOUR, Fadi         7-4    0   0   0   5  .000   2  .400  0   0-0
+16 HOBBS, Anthony       15-15   0   0   0   4  .000   1  .250  0   0-0
+22 FERNANDEZ, Jordan     7-4    0   1   1   3  .000   0  .000  0   0-0
+5  DEOLIVEIRA, Marcos   17-17   1   0   2   2  .500   1  .500  0   0-0
+24 DICROCE, Lucas        1-0    0   0   0   2  .000   1  .500  0   0-0
+18 Hairston, Marcus      6-5    0   0   0   2  .000   0  .000  0   0-0
+23 CAPORALETTI, Chris    9-1    0   0   0   1  .000   1 1.000  0   0-0
+7  WILLIS, Jahbari      15-10   0   0   0   1  .000   1 1.000  0   0-0
+20 CHANG, Jesse          6-1    0   0   0   1  .000   0  .000  0   0-0
+12 LAMARRE, Chris        3-3    0   0   0   1  .000   0  .000  0   0-0
+25 PINHEIRO, Fernando    3-1    0   0   0   1  .000   0  .000  0   0-0
+1  LOPEZ, Shane          7-7    0   0   0   0  .000   0  .000  0   0-0
+0  LAMARRE, Phillip      9-9    0   0   0   0  .000   0  .000  0   0-0
+3  JONES, Nicholas      17-17   0   0   0   0  .000   0  .000  0   0-0
+14 SMITH, Dane           6-1    0   0   0   0  .000   0  .000  0   0-0
+21 MARTINEZ, Leonardo    1-0    0   0   0   0  .000   0  .000  0   0-0
+
+
+Season: 2008
+BlockSource: http://www.fiusports.com/portals/1/content/fls/11700/Stats_Cumulative/M_Soccer/2008/teamcume.htm
+
+## Name                 GP-GS  Min   G   A Pts  Sh Shot% SOG  SOG% GW  PK-ATT
+
+10 GUERRA, Juan         17-17 1408   6   4  16  58  .103  30  .517  0   2-2
+20 THOMPSON, William    17-16 1276   0   0   0  15  .000   9  .600  0   0-0
+9  CABAS, Steven        16-9  1036   2   0   4  15  .133   8  .533  1   0-0
+23 CAPORALETTI, Chris   17-13  970   1   1   3  13  .077   6  .462  1   0-0
+11 BALLARDES, Marcos    12-4   495   2   1   5   9  .222   7  .778  0   0-0
+19 XIMENES, Ricardo      4-4   260   2   0   4   9  .222   4  .444  0   0-0
+4  FISHER, Phillip      16-16 1399   3   0   6   8  .375   6  .750  1   0-0
+3  KENDALL, Cory        17-16 1503   2   0   4   8  .250   4  .500  1   0-0
+14 LYON, Marc           16-12 1080   0   0   0   7  .000   3  .429  0   0-0
+18 CARVAJAL, Brian      17-8   801   0   1   1   7  .000   3  .429  0   0-0
+22 TAMBURUS, Diego       4-3   307   0   3   3   7  .000   3  .429  0   0-0
+8  FERRER, Ricardo      15-11  939   0   0   0   7  .000   1  .143  0   0-0
+5  DEOLIVEIRA, Marcos   17-17 1539   0   0   0   5  .000   1  .200  0   0-0
+7  WILLIS, Jahbari      10-2   431   0   1   1   4  .000   2  .500  0   0-0
+15 DOMINGUEZ, Christian 12-6   538   0   0   0   3  .000   1  .333  0   0-0
+6  ZIMMERMAN, Mark       3-0    57   0   0   0   2  .000   1  .500  0   0-0
+2  SMITH, Dane           9-9   747   0   0   0   2  .000   0  .000  0   0-0
+13 PRETELT, Nicolas      1-0     0   0   0   0   1  .000   1 1.000  0   0-0
+17 MANSOUR, Fadi        12-2   243   0   0   0   0  .000   0  .000  0   0-0
+16 EMERSON, Anthony      3-0    24   0   0   0   0  .000   0  .000  0   0-0
+21 AGUIRRE, Justin       4-0    80   0   0   0   0  .000   0  .000  0   0-0
+12 LUCIO, Diego         10-5   420   0   0   0   0  .000   0  .000  0   0-0
+0  FULLERTON, Jesse     12-11 1002   0   0   0   0  .000   0  .000  0   0-0
+
+
+
+Season: 2007
+BlockSource: http://www.fiusports.com/portals/1/content/fls/11700/Stats_Cumulative/M_Soccer/2007/teamcume.htm
+
+## Name                 GP-GS   G   A Pts  Sh Shot% GW  PK-ATT
+
+10 GUERRA, Juan          8-8    2   0   4  24  .083  0   0-0
+13 COLEMAN, Levi         7-5    1   1   3  12  .083  0   0-0
+17 CABAS, Seteven        7-7    1   0   2  11  .091  0   0-0
+8  BARBOSA, Bruno        8-8    0   0   0   6  .000  0   0-0
+15 DEER, Ainsley         4-4    0   0   0   5  .000  0   0-0
+23 CAPORALETTI, Chris    5-2    0   0   0   3  .000  0   0-0
+9  MARTINEZ, Richard     8-8    0   0   0   3  .000  0   0-0
+11 FRANCA, Mario         4-0    0   0   0   3  .000  0   0-1
+3  VOSS, Raoul           8-8    0   0   0   3  .000  0   0-0
+14 RODRIGUEZ, Diego      7-0    0   0   0   2  .000  0   0-0
+4  FISHER, Phillip       8-8    0   0   0   2  .000  0   0-0
+17 CABAS, Steven         1-1    0   1   1   2  .000  0   0-0
+2  HAISLEY, Brian        5-4    0   0   0   1  .000  0   0-0
+6  STOVALL, David        5-2    0   0   0   1  .000  0   0-0
+19 FERRER, Ricardo       4-1    0   0   0   1  .000  0   0-0
+20 PEREIRA, Christopher  5-4    0   0   0   1  .000  0   0-0
+5  DEOLIVEIRA, Marcos    4-0    0   0   0   0  .000  0   0-0
+7  KENDALL, Cory         7-7    0   0   0   0  .000  0   0-0
+16 EMERSON, Anthony      1-0    0   0   0   0  .000  0   0-0
+18 BOMBONATO, Davide     1-0    0   0   0   0  .000  0   0-0
+12 CORREA, Edgard        3-2    0   0   0   0  .000  0   0-0
+22 EBRAHIMI, Sina        2-1    0   0   0   0  .000  0   0-0
+0  THOMAS, Kyle          6-5    0   0   0   0  .000  0   0-0

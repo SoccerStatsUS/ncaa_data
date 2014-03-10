@@ -1,136 +1,138 @@
-
-
 Team: Oregon State
+Competition: NCAA Division I Men's Soccer Championship
 
 Season: 2012
 BlockSource: http://www.nmnathletics.com//ViewContent.dbml?DB_OEM_ID=30800&CONTENT_ID=773121
 
-## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG% GW  PK-ATT
-------------------------------------------------------------------------
-9  Welshman, Emery      17-17  10   4  24  45  .222  22  .489  4   0-1
-22 Penny, Alex          18-11   4   3  11  16  .250   8  .500  0   0-0
-14 Shelton, Khiry       15-11   4   2  10  27  .148  14  .519  1   0-0
-15 Paden, Glenn         13-3    3   2   8  14  .214   8  .571  0   0-0
-10 Farfan, Roberto      14-13   1   6   8  16  .062   5  .312  0   0-0
-8  Doholis, Mikhail     18-15   2   2   6  17  .118   7  .412  0   0-0
-20 Parker, Jake         13-1    2   1   5   4  .500   3  .750  1   0-0
-5  Seymore, Will        17-17   2   0   4  10  .200   5  .500  0   2-2
-25 Anderson, Brenden    18-18   1   1   3   8  .125   5  .625  0   0-0
-4  Raskowsky, Chase     17-1    1   1   3   7  .143   3  .429  0   0-0
-13 Mitchell, Colin      18-18   1   1   3   6  .167   5  .833  0   0-0
-12 Groves, Jackson       2-1    0   3   3   0  .000   0  .000  0   0-0
-24 Reckmeyer, Mike      18-2    1   0   2   7  .143   3  .429  0   0-0
-3  Sandberg, Bjorn      18-16   0   2   2   7  .000   1  .143  0   0-0
-11 Harms, Chris         18-18   0   2   2   5  .000   1  .200  0   0-0
-18 Van Vleet, Daniel     6-0    0   1   1   3  .000   2  .667  0   0-0
-16 Eckerson, Alex       12-8    0   1   1   2  .000   0  .000  0   0-0
-26 Bodle, Kevin          5-1    0   1   1   1  .000   0  .000  0   0-0
-2  Anderson, Travis     14-9    0   1   1   1  .000   0  .000  0   0-0
-7  Smith, Josh          14-0    0   0   0   3  .000   1  .333  0   0-0
-21 Flores, Oscar         1-0    0   0   0   0  .000   0  .000  0   0-0
+*## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG% GW  PK-ATT
+
+Key: number; name; games_played; games_started; goals; assists; points; shots; etc
+
+9 ; Welshman, Emery     ; 17; 17 ; 10 ;  4 ; 24 ; 45 ; .222  22  .489  4   0-1
+22; Penny, Alex         ; 18; 11 ;  4 ;  3 ; 11 ; 16 ; .250   8  .500  0   0-0
+14; Shelton, Khiry      ; 15; 11 ;  4 ;  2 ; 10 ; 27 ; .148  14  .519  1   0-0
+15; Paden, Glenn        ; 13; 3  ;  3 ;  2 ;  8 ; 14 ; .214   8  .571  0   0-0
+10; Farfan, Roberto     ; 14; 13 ;  1 ;  6 ;  8 ; 16 ; .062   5  .312  0   0-0
+8 ; Doholis, Mikhail    ; 18; 15 ;  2 ;  2 ;  6 ; 17 ; .118   7  .412  0   0-0
+20; Parker, Jake        ; 13; 1  ;  2 ;  1 ;  5 ;  4 ; .500   3  .750  1   0-0
+5 ; Seymore, Will       ; 17; 17 ;  2 ;  0 ;  4 ; 10 ; .200   5  .500  0   2-2
+25; Anderson, Brenden   ; 18; 18 ;  1 ;  1 ;  3 ;  8 ; .125   5  .625  0   0-0
+4 ; Raskowsky, Chase    ; 17; 1  ;  1 ;  1 ;  3 ;  7 ; .143   3  .429  0   0-0
+13; Mitchell, Colin     ; 18; 18 ;  1 ;  1 ;  3 ;  6 ; .167   5  .833  0   0-0
+12; Groves, Jackson     ;  2; 1  ;  0 ;  3 ;  3 ;  0 ; .000   0  .000  0   0-0
+24; Reckmeyer, Mike     ; 18; 2  ;  1 ;  0 ;  2 ;  7 ; .143   3  .429  0   0-0
+3 ; Sandberg, Bjorn     ; 18; 16 ;  0 ;  2 ;  2 ;  7 ; .000   1  .143  0   0-0
+11; Harms, Chris        ; 18; 18 ;  0 ;  2 ;  2 ;  5 ; .000   1  .200  0   0-0
+18; Van Vleet, Daniel   ;  6; 0  ;  0 ;  1 ;  1 ;  3 ; .000   2  .667  0   0-0
+16; Eckerson, Alex      ; 12; 8  ;  0 ;  1 ;  1 ;  2 ; .000   0  .000  0   0-0
+26; Bodle, Kevin        ;  5; 1  ;  0 ;  1 ;  1 ;  1 ; .000   0  .000  0   0-0
+2 ; Anderson, Travis    ; 14; 9  ;  0 ;  1 ;  1 ;  1 ; .000   0  .000  0   0-0
+7 ; Smith, Josh         ; 14; 0  ;  0 ;  0 ;  0 ;  3 ; .000   1  .333  0   0-0
+21; Flores, Oscar       ;  1; 0  ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
 
 
 Season: 2011
 BlockSource: http://www.nmnathletics.com//ViewContent.dbml?DB_OEM_ID=30800&CONTENT_ID=773129
 
-## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT
--------------------------------------------------------------------------------
-9  Welshman, Emery      18-18   3   7  13  61  .049  23  .377   1-0   2   0-0
-10 Farfan, Roberto      17-16   4   2  10  25  .160   9  .360   1-1   0   0-0
-16 Eckerson, Alex       18-18   4   0   8  21  .190  10  .476   3-0   2   0-0
-13 Mitchell, Colin      18-12   3   1   7  29  .103  11  .379   4-0   0   0-0
-24 Reckmeyer, Mike      11-5    2   1   5   9  .222   3  .333   1-0   0   0-0
-5  Seymore, Will        17-17   1   3   5  15  .067   7  .467   3-1   0   0-1
-14 Shelton, Khiry        6-6    1   1   3  10  .100   6  .600   0-0   0   0-0
-12 Swenson, John         8-3    1   0   2   3  .333   1  .333   0-0   0   0-0
-6  von Allworden, Josh   8-7    1   0   2   1 1.000   1 1.000   0-1   1   0-0
-20 Parker, Jake         15-9    0   2   2   3  .000   0  .000   0-0   0   0-0
-11 Harms, Chris         18-18   0   1   1  15  .000   5  .333   2-0   0   0-0
-3  Lamb, Michael        16-16   0   1   1   3  .000   0  .000   2-1   0   0-0
-22 Penny, Alex          17-5    0   0   0   9  .000   4  .444   1-0   0   0-0
-15 Paden, Glenn         12-1    0   0   0   8  .000   3  .375   1-0   0   0-0
-18 Van Vleet, Daniel    13-3    0   0   0   5  .000   2  .400   0-0   0   0-0
-25 Anderson, Brenden     8-5    0   0   0   2  .000   1  .500   1-0   0   0-0
-17 Smith, Josh          12-7    0   0   0   2  .000   2 1.000   1-0   0   0-0
-8  Hansen, Brandon       5-0    0   0   0   2  .000   0  .000   0-0   0   0-0
-4  Raskowsky, Chase     11-1    0   0   0   1  .000   0  .000   1-0   0   0-0
-2  Anderson, Travis     18-13   0   0   0   1  .000   0  .000   1-0   0   0-0
+*## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT
+
+9 ; Welshman, Emery     ; 18; 18 ;  3 ;  7 ; 13 ; 61 ; .049  23  .377   1-0   2   0-0
+10; Farfan, Roberto     ; 17; 16 ;  4 ;  2 ; 10 ; 25 ; .160   9  .360   1-1   0   0-0
+16; Eckerson, Alex      ; 18; 18 ;  4 ;  0 ;  8 ; 21 ; .190  10  .476   3-0   2   0-0
+13; Mitchell, Colin     ; 18; 12 ;  3 ;  1 ;  7 ; 29 ; .103  11  .379   4-0   0   0-0
+24; Reckmeyer, Mike     ; 11; 5  ;  2 ;  1 ;  5 ;  9 ; .222   3  .333   1-0   0   0-0
+5 ; Seymore, Will       ; 17; 17 ;  1 ;  3 ;  5 ; 15 ; .067   7  .467   3-1   0   0-1
+14; Shelton, Khiry      ;  6; 6  ;  1 ;  1 ;  3 ; 10 ; .100   6  .600   0-0   0   0-0
+12; Swenson, John       ;  8; 3  ;  1 ;  0 ;  2 ;  3 ; .333   1  .333   0-0   0   0-0
+6 ; von Allworden, Josh ;  8; 7  ;  1 ;  0 ;  2 ;  1 ;1.000   1 1.000   0-1   1   0-0
+20; Parker, Jake        ; 15; 9  ;  0 ;  2 ;  2 ;  3 ; .000   0  .000   0-0   0   0-0
+11; Harms, Chris        ; 18; 18 ;  0 ;  1 ;  1 ; 15 ; .000   5  .333   2-0   0   0-0
+3 ; Lamb, Michael       ; 16; 16 ;  0 ;  1 ;  1 ;  3 ; .000   0  .000   2-1   0   0-0
+22; Penny, Alex         ; 17; 5  ;  0 ;  0 ;  0 ;  9 ; .000   4  .444   1-0   0   0-0
+15; Paden, Glenn        ; 12; 1  ;  0 ;  0 ;  0 ;  8 ; .000   3  .375   1-0   0   0-0
+18; Van Vleet, Daniel   ; 13; 3  ;  0 ;  0 ;  0 ;  5 ; .000   2  .400   0-0   0   0-0
+25; Anderson, Brenden   ;  8; 5  ;  0 ;  0 ;  0 ;  2 ; .000   1  .500   1-0   0   0-0
+17; Smith, Josh         ; 12; 7  ;  0 ;  0 ;  0 ;  2 ; .000   2 1.000   1-0   0   0-0
+8 ; Hansen, Brandon     ;  5; 0  ;  0 ;  0 ;  0 ;  2 ; .000   0  .000   0-0   0   0-0
+4 ; Raskowsky, Chase    ; 11; 1  ;  0 ;  0 ;  0 ;  1 ; .000   0  .000   1-0   0   0-0
+2 ; Anderson, Travis    ; 18; 13 ;  0 ;  0 ;  0 ;  1 ; .000   0  .000   1-0   0   0-0
 
 
 Season: 2010
 BlockSource: http://www.nmnathletics.com//ViewContent.dbml?DB_OEM_ID=30800&CONTENT_ID=773125
 
-15           Sanchez,Travis     17-17   6       2       14      36       .167   20       .556   3-0     2       0-0     2  0  0  2 
-14           Ramsey,Brian       17-17   5       2       12      30        .167  13        .433  2-0     1       1-1     2  0  0  0 
-10           Farfan,Roberto     17-14   3       4       10      15         .200           9      .600   0-0     1       0-0   0  0  0  1 
-16           Eckerson,Alex      17-12   2       3       7       15          .133          5       .333  3-0     1       0-0   1  0  0  0 
-22           Penny,Alex         15-7    1       0       2       13           .077         6        .462         1-0     1     0-0   0  0  0  0 
-6            von Allworden, Josh        14-6    1       0       2            6             .167    3             .500   2-0   0     0-0   0  0  0  0 
-11           Harms,Chris     7-7        0       2       2       6             .000         3        .500         0-0    0     0-0   0     0  0  0 
-20           Parker,Jake     14-4       0       2       2       1              .000        1        1.000        1-0    0     0-0   0     0  0  0 
-12           Swenson,John    15-13      0       1       1       9               .000       4         .444        3-0    0     0-0   0     0  0  0 
-9            Salceda,Jonathan           11-2    0       1       1               5           .000     2            .400  1-0   0     0-0   0  0  0  0 
-23           Parker,Mike                 9-5    0       0       0               5            .000    2             .400       0-0   0     0-0   0  0  0  0 
-18           Van Vleet, Daniel           15-0   0       0       0               5             .000   3              .600      0-0   0     0-0   0  0  0  0 
-8            Hansen,Brandon               6-2   0       0       0               5              .000  2               .400     0-0   0     0-0   0  0  0  0 
-5            Miller,Chris                 17-17         0       0               0              3      .000           1         .333       1-0   0  0-0   0  0  0  0 
-19           Hansteen,Joachim             16-15         0       0               0              2       .000          2         1.000      0-0   0  0-0   0  0  0  0 
-17           Smith,Josh                   15-6          0       0               0              2        .000         1          .500      3-0   0  0-0   0  0  0  0 
-2            Anderson,Travis              10-9          0       0               0              2         .000        1           .500     0-0   0  0-0   0  0  0  0 
-3            Harris,Jordan                15-11         0       0               0              1          .000       1           1.000    1-0   0  0-0   0  0  0  0 
-21           Thompson,Taylor              10-6          0       0               0              0           .000      0            .000    0-0   0  0-0   0  0  0  0 
-13           Mitchell,Colin                1-0          0       0               0              0            .000     0             .000   0-0   0  0-0   0  0  0  0 
+15 ;          Sanchez,Travis            ; 17; 17 ;  6   ;    2   ;    14   ;   36   ;    .167   20       .556   3-0     2       0-0     2  0  0  2 
+14 ;          Ramsey,Brian              ; 17; 17 ;  5   ;    2   ;    12   ;   30   ;     .167  13        .433  2-0     1       1-1     2  0  0  0 
+10 ;          Farfan,Roberto            ; 17; 14 ;  3   ;    4   ;    10   ;   15   ;      .200           9      .600   0-0     1       0-0   0  0  0  1 
+16 ;          Eckerson,Alex             ; 17; 12 ;  2   ;    3   ;    7    ;   15   ;       .133          5       .333  3-0     1       0-0   1  0  0  0 
+22 ;          Penny,Alex                ; 15; 7  ;  1   ;    0   ;    2    ;   13   ;        .077         6        .462         1-0     1     0-0   0  0  0  0 
+6  ;          von Allworden, Josh       ; 14; 6  ;  1   ;    0   ;    2    ;   6    ;         .167    3             .500   2-0   0     0-0   0  0  0  0 
+11 ;          Harms,Chris               ;  7; 7  ;  0   ;    2   ;    2    ;   6    ;         .000         3        .500         0-0    0     0-0   0     0  0  0 
+20 ;          Parker,Jake               ; 14; 4  ;  0   ;    2   ;    2    ;   1    ;          .000        1        1.000        1-0    0     0-0   0     0  0  0 
+12 ;          Swenson,John              ; 15; 13 ;  0   ;    1   ;    1    ;   9    ;           .000       4         .444        3-0    0     0-0   0     0  0  0 
+9  ;          Salceda,Jonathan          ; 11; 2  ;  0   ;    1   ;    1    ;   5    ;       .000     2            .400  1-0   0     0-0   0  0  0  0 
+23 ;          Parker,Mike               ;  9; 5  ;  0   ;    0   ;    0    ;   5    ;        .000    2             .400       0-0   0     0-0   0  0  0  0 
+18 ;          Van Vleet, Daniel         ; 15; 0  ;  0   ;    0   ;    0    ;   5    ;         .000   3              .600      0-0   0     0-0   0  0  0  0 
+8  ;          Hansen,Brandon            ;  6; 2  ;  0   ;    0   ;    0    ;   5    ;          .000  2               .400     0-0   0     0-0   0  0  0  0 
+5  ;          Miller,Chris              ; 17; 17 ;  0   ;    0   ;    0    ;   3    ;  .000           1         .333       1-0   0  0-0   0  0  0  0 
+19 ;          Hansteen,Joachim          ; 16; 15 ;  0   ;    0   ;    0    ;   2    ;   .000          2         1.000      0-0   0  0-0   0  0  0  0 
+17 ;          Smith,Josh                ; 15; 6  ;  0   ;    0   ;    0    ;   2    ;    .000         1          .500      3-0   0  0-0   0  0  0  0 
+2  ;          Anderson,Travis           ; 10; 9  ;  0   ;    0   ;    0    ;   2    ;     .000        1           .500     0-0   0  0-0   0  0  0  0 
+3  ;          Harris,Jordan             ; 15; 11 ;  0   ;    0   ;    0    ;   1    ;      .000       1           1.000    1-0   0  0-0   0  0  0  0 
+21 ;          Thompson,Taylor           ; 10; 6  ;  0   ;    0   ;    0    ;   0    ;       .000      0            .000    0-0   0  0-0   0  0  0  0 
+13 ;          Mitchell,Colin            ;  1; 0  ;  0   ;    0   ;         ;   0    ;          0            .000     0             .000   0-0   0  0-0   0  0  0  0 
 
 
 Season: 2009
 BlockSource: http://www.osubeavers.com/ViewContent.dbml?&DB_OEM_ID=30800&CONTENT_ID=773134
 
-##           Player     GP-GS   G       A       Pts     Sh      Shot%   SOG     SOG%    YC-RC   GW      PK-Att 
-10           Mwanga, Danny      18-18   14      2       30      64       .219   34       .531   1-0     5      0-0 
-13           Mitchell, Colin    18-18   5       2       12      27        .185  15        .556  1-0     2      0-0 
-15           Sanchez, Travis    18-13   3       1       7       17         .176           5      .294   0-0    1   0-0 
-14           Ramsey, Brian      18-16   1       5       7       14          .071          4       .286  1-0    0   0-0 
-12           Swenson, John      18-11   2       1       5       13           .154         6        .462        4-0     1  0-0 
-17           Prugh, Eddy        10-0    1       0       2       9             .111        3         .333       0-0     0  0-0 
-11           Harms, Chris       17-17   1       0       2       8              .125       3          .375      5-0     0  1-1 
-8            Drake, Matt         6-5    1       0       2       6               .167      4           .667     1-0     0  0-0 
-23           Parker, Mike        15-6   0       2       2       19               .000     5            .263    2-0     0  0-0 
-22           Penny, Alex         15-0   0       2       2       5                 .000    3             .600   0-0     0  0-0 
-3            French, Tanner      18-17  0       2       2       5                  .000   2              .400  2-0     0  0-0 
-20           Parker, Jake        15-0   0       1       1       2                   .000  1               .500         0-0    0  0-0 
-7            Woodward, Justin    18-18  0       0       0       13                   .000                 5             .385  3-0    0  0-0 
-2            Anderson, Travis    16-11  0       0       0       7                     .000                2              .286        1-0    0  0-0 
-5            Miller, Chris       17-17  0       0       0       3                      .000               1               .333       2-1    0  0-0 
-6            Martin, Tommy        6-1   0       0       0       2                       .000              0                .000      1-0    0  0-0 
-16           Hodgen, Mike          3-0          0       0       0                       1                  .000            1         1.000  0-0    0  0-0 
-21           Harris, Jordan        12-12        0       0       0                       0                   .000           0          .000  0-0    0  0-0 
-1            Spangler, Steve       18-17        0       0       0                       0                    .000          0           .000        2-0    0  0-0 
+*##           Player     GP-GS   G       A       Pts     Sh      Shot%   SOG     SOG%    YC-RC   GW      PK-Att 
+
+10 ;          Mwanga, Danny    ;  18; 18 ;  14   ;   2   ;    30   ;   64   ;    .219   34       .531   1-0     5      0-0 
+13 ;          Mitchell, Colin  ;  18; 18 ;  5    ;   2   ;    12   ;   27   ;     .185  15        .556  1-0     2      0-0 
+15 ;          Sanchez, Travis  ;  18; 13 ;  3    ;   1   ;    7    ;   17   ;      .176           5      .294   0-0    1   0-0 
+14 ;          Ramsey, Brian    ;  18; 16 ;  1    ;   5   ;    7    ;   14   ;       .071          4       .286  1-0    0   0-0 
+12 ;          Swenson, John    ;  18; 11 ;  2    ;   1   ;    5    ;   13   ;        .154         6        .462        4-0     1  0-0 
+17 ;          Prugh, Eddy      ;  10; 0  ;  1    ;   0   ;    2    ;   9    ;         .111        3         .333       0-0     0  0-0 
+11 ;          Harms, Chris     ;  17; 17 ;  1    ;   0   ;    2    ;   8    ;          .125       3          .375      5-0     0  1-1 
+8  ;          Drake, Matt      ;   6; 5  ;  1    ;   0   ;    2    ;   6    ;           .167      4           .667     1-0     0  0-0 
+23 ;          Parker, Mike     ;  15; 6  ;  0    ;   2   ;    2    ;   19   ;            .000     5            .263    2-0     0  0-0 
+22 ;          Penny, Alex      ;  15; 0  ;  0    ;   2   ;    2    ;   5    ;             .000    3             .600   0-0     0  0-0 
+3  ;          French, Tanner   ;  18; 17 ;  0    ;   2   ;    2    ;   5    ;              .000   2              .400  2-0     0  0-0 
+20 ;          Parker, Jake     ;  15; 0  ;  0    ;   1   ;    1    ;   2    ;               .000  1               .500         0-0    0  0-0 
+7  ;          Woodward, Justin ;  18; 18 ;  0    ;   0   ;    0    ;   13   ;                .000                 5             .385  3-0    0  0-0 
+2  ;          Anderson, Travis ;  16; 11 ;  0    ;   0   ;    0    ;   7    ;                 .000                2              .286        1-0    0  0-0 
+5  ;          Miller, Chris    ;  17; 17 ;  0    ;   0   ;    0    ;   3    ;                  .000               1               .333       2-1    0  0-0 
+6  ;          Martin, Tommy    ;   6; 1  ;  0    ;   0   ;    0    ;   2    ;                   .000              0                .000      1-0    0  0-0 
+16 ;          Hodgen, Mike     ;   3; 0  ;  0    ;   0   ;    0    ;   1    ;              .000            1         1.000  0-0    0  0-0 
+21 ;          Harris, Jordan   ;  12; 12 ;  0    ;   0   ;    0    ;   0    ;               .000           0          .000  0-0    0  0-0 
+1  ;          Spangler, Steve  ;  18; 17 ;  0    ;   0   ;    0    ;   0    ;                .000          0           .000        2-0    0  0-0 
 
 
 Season: 2008
 BlockSource: http://www.osubeavers.com/ViewContent.dbml?&DB_OEM_ID=30800&CONTENT_ID=773117
 
-## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG% GW  PK-ATT FG OT HAT GTG Foul
--------------------------------------------------------------------------------------------
-16 Christner, Robby     19-16   7   2  16  35  .200  16  .457  0   1-2    1  0   1   1    0
-10 Mwanga, Danny        11-11   4   0   8  23  .174  10  .435  1   0-0    2  0   0   1    0
-20 Callahan, Ryan       19-19   2   2   6  14  .143   8  .571  1   1-1    1  0   0   0    0
-14 Cameron, Josh        19-18   0   4   4  39  .000  23  .590  0   0-0    0  0   0   0    0
-9  Foster, Collin       18-16   1   1   3  21  .048   7  .333  1   0-0    1  0   0   0    0
-4  Leach, Daniel        17-17   1   1   3  13  .077   7  .538  1   0-0    0  0   0   0    0
-23 Parker, Mike         18-5    1   0   2  16  .062   6  .375  1   0-0    0  0   0   0    0
-22 Ramsey, Brian        17-8    1   0   2  11  .091   4  .364  0   0-0    0  0   0   0    0
-5  Miller, Chris        18-16   1   0   2   8  .125   2  .250  1   0-0    1  1   0   0    0
-3  Kelly, Tim           19-19   1   0   2   3  .333   2  .667  0   0-0    0  0   0   0    0
-8  Drake, Matt           7-3    0   1   1   2  .000   2 1.000  0   0-0    0  0   0   0    0
-7  Hasson, Tracy        19-14   0   0   0  11  .000   6  .545  0   0-0    0  0   0   0    0
-13 Mitchell, Colin      16-1    0   0   0   6  .000   3  .500  0   0-0    0  0   0   0    0
-19 Carboneau, Andrew     6-0    0   0   0   4  .000   2  .500  0   0-0    0  0   0   0    0
-6  Epple, Mike          14-10   0   0   0   4  .000   1  .250  0   0-0    0  0   0   0    0
-15 Lara, Jaime           6-0    0   0   0   2  .000   1  .500  0   0-0    0  0   0   0    0
-12 Swenson, John         9-0    0   0   0   2  .000   1  .500  0   0-0    0  0   0   0    0
-11 Woodward, Justin     17-17   0   0   0   2  .000   0  .000  0   0-0    0  0   0   0    0
-21 Harris, Jordan        7-0    0   0   0   1  .000   0  .000  0   0-0    0  0   0   0    0
+*## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG% GW  PK-ATT FG OT HAT GTG Foul
+
+16; Christner, Robby  ;   19; 16 ;  7 ;  2 ; 16 ; 35 ; .200  16  .457  0   1-2    1  0   1   1    0
+10; Mwanga, Danny     ;   11; 11 ;  4 ;  0 ;  8 ; 23 ; .174  10  .435  1   0-0    2  0   0   1    0
+20; Callahan, Ryan    ;   19; 19 ;  2 ;  2 ;  6 ; 14 ; .143   8  .571  1   1-1    1  0   0   0    0
+14; Cameron, Josh     ;   19; 18 ;  0 ;  4 ;  4 ; 39 ; .000  23  .590  0   0-0    0  0   0   0    0
+9 ; Foster, Collin    ;   18; 16 ;  1 ;  1 ;  3 ; 21 ; .048   7  .333  1   0-0    1  0   0   0    0
+4 ; Leach, Daniel     ;   17; 17 ;  1 ;  1 ;  3 ; 13 ; .077   7  .538  1   0-0    0  0   0   0    0
+23; Parker, Mike      ;   18; 5  ;  1 ;  0 ;  2 ; 16 ; .062   6  .375  1   0-0    0  0   0   0    0
+22; Ramsey, Brian     ;   17; 8  ;  1 ;  0 ;  2 ; 11 ; .091   4  .364  0   0-0    0  0   0   0    0
+5 ; Miller, Chris     ;   18; 16 ;  1 ;  0 ;  2 ;  8 ; .125   2  .250  1   0-0    1  1   0   0    0
+3 ; Kelly, Tim        ;   19; 19 ;  1 ;  0 ;  2 ;  3 ; .333   2  .667  0   0-0    0  0   0   0    0
+8 ; Drake, Matt       ;    7; 3  ;  0 ;  1 ;  1 ;  2 ; .000   2 1.000  0   0-0    0  0   0   0    0
+7 ; Hasson, Tracy     ;   19; 14 ;  0 ;  0 ;  0 ; 11 ; .000   6  .545  0   0-0    0  0   0   0    0
+13; Mitchell, Colin   ;   16; 1  ;  0 ;  0 ;  0 ;  6 ; .000   3  .500  0   0-0    0  0   0   0    0
+19; Carboneau, Andrew ;    6; 0  ;  0 ;  0 ;  0 ;  4 ; .000   2  .500  0   0-0    0  0   0   0    0
+6 ; Epple, Mike       ;   14; 10 ;  0 ;  0 ;  0 ;  4 ; .000   1  .250  0   0-0    0  0   0   0    0
+15; Lara, Jaime       ;    6; 0  ;  0 ;  0 ;  0 ;  2 ; .000   1  .500  0   0-0    0  0   0   0    0
+12; Swenson, John     ;    9; 0  ;  0 ;  0 ;  0 ;  2 ; .000   1  .500  0   0-0    0  0   0   0    0
+11; Woodward, Justin  ;   17; 17 ;  0 ;  0 ;  0 ;  2 ; .000   0  .000  0   0-0    0  0   0   0    0
+21; Harris, Jordan    ;    7; 0  ;  0 ;  0 ;  0 ;  1 ; .000   0  .000  0   0-0    0  0   0   0    0
 
 
 Season: 2007
@@ -140,60 +142,58 @@ Season: 2007
 Season: 2005
 BlockSource: http://www.osubeavers.com/ViewArticle.dbml?&DB_OEM_ID=30800&ATCLID=207834690
 
-*2005 OSU Beavers - Men's Soccer Oregon State Overall Individual Statistics (as of Nov 13, 2005) All games Overall: 9-7-4 Conf: 5-5-0 Home: 5-2-2 Away: 3-5-1 Neut: 1-0-1 
+*## Name GP-GS G A Pts Sh Shot% SOG SOG% YC-RC GW PK-ATT ------------------------------------------------------------------------------- 
 
-
-
-## Name GP-GS G A Pts Sh Shot% SOG SOG% YC-RC GW PK-ATT ------------------------------------------------------------------------------- 
-11 Johnson, Ryan 19-19 6 9 21 47 .128 27 .574 2-1 0 1-2 
-10 Findley, Robbie 14-10 4 4 12 36 .111 18 .500 0-0 3 0-2 
-6 Jordan, Bryan 17-6 5 0 10 23 .217 12 .522 1-0 2 0-0 
-8 Webb, Nick 18-8 4 2 10 24 .167 12 .500 0-0 2 0-1 
-19 Asai, Alex 20-19 1 8 10 7 .143 5 .714 1-0 0 0-0 
-12 Gardner, Brett 20-20 3 2 8 14 .214 10 .714 2-0 1 0-0 
-7 Egenwall, Lucas 15-12 3 1 7 11 .273 6 .545 1-0 1 0-0 
-4 Leach, Daniel 20-20 2 0 4 6 .333 3 .500 4-0 0 1-1 
-3 Christensen, Alex 8-8 1 2 4 5 .200 3 .600 1-0 0 0-0 
-18 Foster, Collin 20-14 1 0 2 15 .067 5 .333 1-0 0 0-0 
-21 Johnson, Matt 16-3 1 0 2 11 .091 4 .364 2-0 0 0-0 
-2 Webb, Mason 16-8 0 1 1 11 .000 4 .364 0-0 0 0-0 
-13 Bowman, Matt 14-11 0 1 1 3 .000 0 .000 1-1 0 0-0 
-20 Callahan, Ryan 20-18 0 1 1 2 .000 0 .000 2-0 0 0-0 
-0 Deenihan, Packy 19-19 0 1 1 0 .000 0 .000 0-0 0 0-0 
-14 Cameron, Josh 15-2 0 0 0 6 .000 1 .167 1-0 0 0-0 
-24 Hill, Loren 4-0 0 0 0 2 .000 1 .500 0-0 0 0-0 
-23 Fuller, Garrett 17-16 0 0 0 2 .000 2 1.000 1-0 0 0-0 
-17 Hasson, Tracy 7-1 0 0 0 2 .000 2 1.000 0-0 0 0-0 
-25 Fobi, Lloyd 4-0 0 0 0 0 .000 0 .000 0-0 0 0-0 
-5 Loreth, Joey 9-5 0 0 0 0 .000 0 .000 0-0 0 0-0 
-1 Mariner, Jason 2-1 0 0 0 0 .000 0 .000 0-0 0 0-0
+11; Johnson, Ryan    ;  19; 19  ; 6; 9; 21; 47; .128 27 .574 2-1 0 1-2 
+10; Findley, Robbie  ;  14; 10  ; 4; 4; 12; 36; .111 18 .500 0-0 3 0-2 
+6 ; Jordan, Bryan    ;  17; 6   ; 5; 0; 10; 23; .217 12 .522 1-0 2 0-0 
+8 ; Webb, Nick       ;  18; 8   ; 4; 2; 10; 24; .167 12 .500 0-0 2 0-1 
+19; Asai, Alex       ;  20; 19  ; 1; 8; 10; 7 ; .143 5 .714 1-0 0 0-0 
+12; Gardner, Brett   ;  20; 20  ; 3; 2; 8 ; 14; .214 10 .714 2-0 1 0-0 
+7 ; Egenwall, Lucas  ;  15; 12  ; 3; 1; 7 ; 11; .273 6 .545 1-0 1 0-0 
+4 ; Leach, Daniel    ;  20; 20  ; 2; 0; 4 ; 6 ; .333 3 .500 4-0 0 1-1 
+3 ; Christensen, Alex;   8; 8   ; 1; 2; 4 ; 5 ; .200 3 .600 1-0 0 0-0 
+18; Foster, Collin   ;  20; 14  ; 1; 0; 2 ; 15; .067 5 .333 1-0 0 0-0 
+21; Johnson, Matt    ;  16; 3   ; 1; 0; 2 ; 11; .091 4 .364 2-0 0 0-0 
+2 ; Webb, Mason      ;  16; 8   ; 0; 1; 1 ; 11; .000 4 .364 0-0 0 0-0 
+13; Bowman, Matt     ;  14; 11  ; 0; 1; 1 ; 3 ; .000 0 .000 1-1 0 0-0 
+20; Callahan, Ryan   ;  20; 18  ; 0; 1; 1 ; 2 ; .000 0 .000 2-0 0 0-0 
+0 ; Deenihan, Packy  ;  19; 19  ; 0; 1; 1 ; 0 ; .000 0 .000 0-0 0 0-0 
+14; Cameron, Josh    ;  15; 2   ; 0; 0; 0 ; 6 ; .000 1 .167 1-0 0 0-0 
+24; Hill, Loren      ;   4; 0   ; 0; 0; 0 ; 2 ; .000 1 .500 0-0 0 0-0 
+23; Fuller, Garrett  ;  17; 16  ; 0; 0; 0 ; 2 ; .000 2 1.000 1-0 0 0-0 
+17; Hasson, Tracy    ;   7; 1   ; 0; 0; 0 ; 2 ; .000 2 1.000 0-0 0 0-0 
+25; Fobi, Lloyd      ;   4; 0   ; 0; 0; 0 ; 0 ; .000 0 .000 0-0 0 0-0 
+5 ; Loreth, Joey     ;   9; 5   ; 0; 0; 0 ; 0 ; .000 0 .000 0-0 0 0-0 
+1 ; Mariner, Jason   ;   2; 1   ; 0; 0; 0 ; 0 ; .000 0 .000 0-0 0 0-0
 
 
 Season: 2004
 BlockSource: http://www.osubeavers.com/ViewArticle.dbml?&DB_OEM_ID=30800&ATCLID=208332482
 
-  DATE          OPPONENT               W/L  SCORE   ATT   ## PLAYER                GP   G   A Pts  Sh Shot% SOG  SOG% GW PK-AT
-  ----------    ---------------------- ---   ----- -----  --------------------------------------------------------------------
-  Sep 01     at Valparaiso             W     4-2    183   10 Findley, Robbie       17   8   4  20  47  .170  22  .468  1  0-0
-  Sep 03     vs Notre Dame               L   1-2   3774   18 Bartlome, Chad        18   7   3  17  25  .280  15  .600  1  0-0
-  Sep 05     at Indiana                  L   1-3   3222   11 Johnson, Ryan         19   5   3  13  42  .119  22  .524  2  0-0
- $Sep 10     vs SMS                      L   1-2    120   12 Gardner, Brett        19   4   4  12  28  .143  11  .393  1  0-0
- $Sep 11     at Bradley                  L   0-1   1404   21 Johnson, Matt         19   4   1   9  19  .211  11  .579  1  0-0
-  Sep 15        GONZAGA                W     6-0    210   13 Jordan, Bryan         18   3   1   7  18  .167   6  .333  0  0-0
-  Sep 17        UC-DAVIS                T O2 1-1    124   9  Murphy, Chris         16   3   0   6  17  .176  11  .647  0  0-0
-  Sep 19        #21 RHODE ISLAND       W     3-0    200   5  McNeley, Evan         19   2   2   6   7  .286   5  .714  0  1-1
-  Sep 24        ST. BONAVENTURE        W  O2 2-1    250   7  Cornejo, Carlos       12   2   1   5  17  .118   5  .294  1  0-0
-  Sep 26        CORNELL                W     5-0    250   19 Asai, Alex            19   1   0   2   7  .143   3  .429  0  0-0
- *Oct 01     at #12 UCLA                 L   1-3   1032   16 Christner, Robby       9   1   0   2   5  .200   1  .200  1  0-0
- *Oct 08        STAN                     L   1-2    150   2  Webb, Mason           16   1   0   2   2  .500   1  .500  0  0-0
- *Oct 10        CALIFORNIA               L   0-2      -   4  Hill, Loren            8   0   2   2   4  .000   2  .500  0  0-0
- *Oct 17     at #12 Washington           L   0-2   1159   8  Quan, Nathan          12   0   2   2   0  .000   0  .000  0  0-0
- *Oct 29     at #18 California           L   1-2    150   3  Christensen, Alex     18   0   1   1   9  .000   2  .222  0  0-0
- *Oct 31     at STAN                     L   0-2   1001   23 Clayton, Stephen       9   0   1   1   2  .000   0  .000  0  0-0
-  Nov 05        HUMBOLDT STATE         W    10-0    150   20 Bowman, Matt          17   0   1   1   2  .000   0  .000  0  0-0
- *Nov 07        UCLA                   W     1-0      -   15 Pulido, Josh           9   0   1   1   1  .000   0  .000  0  0-0
- *Nov 14        WASHINGTON             W  OT 3-2    350   1  Mariner, Jason        16   0   1   1   0  .000   0  .000  0  0-0
-                                                          6  Johnson, Brian        17   0   0   0   2  .000   1  .500  0  0-0
-TEAM STATISTICS                    OSU          OPP       14 Bolden, Nate           6   0   0   0   1  .000   0  .000  0  0-0
----------------------------------------------------       0  Fitchett, Matt         8   0   0   0   0  .000   0  .000  0  0-0
-SHOT STATISTICS..........                                 00 Deenihan, Packy        1   0   0   0   0  .000   0  .000  0  0-0
+Key: number; name; games_played; goals; assists; points; shots; etc
+
+*  ## PLAYER                GP   G   A Pts  Sh Shot% SOG  SOG% GW PK-AT
+   10; Findley, Robbie     ;  17 ;  8 ;  4 ; 20 ; 47 ; .170  22  .468  1  0-0
+   18; Bartlome, Chad      ;  18 ;  7 ;  3 ; 17 ; 25 ; .280  15  .600  1  0-0
+   11; Johnson, Ryan       ;  19 ;  5 ;  3 ; 13 ; 42 ; .119  22  .524  2  0-0
+   12; Gardner, Brett      ;  19 ;  4 ;  4 ; 12 ; 28 ; .143  11  .393  1  0-0
+   21; Johnson, Matt       ;  19 ;  4 ;  1 ;  9 ; 19 ; .211  11  .579  1  0-0
+   13; Jordan, Bryan       ;  18 ;  3 ;  1 ;  7 ; 18 ; .167   6  .333  0  0-0
+   9 ; Murphy, Chris       ;  16 ;  3 ;  0 ;  6 ; 17 ; .176  11  .647  0  0-0
+   5 ; McNeley, Evan       ;  19 ;  2 ;  2 ;  6 ;  7 ; .286   5  .714  0  1-1
+   7 ; Cornejo, Carlos     ;  12 ;  2 ;  1 ;  5 ; 17 ; .118   5  .294  1  0-0
+   19; Asai, Alex          ;  19 ;  1 ;  0 ;  2 ;  7 ; .143   3  .429  0  0-0
+   16; Christner, Robby    ;   9 ;  1 ;  0 ;  2 ;  5 ; .200   1  .200  1  0-0
+   2 ; Webb, Mason         ;  16 ;  1 ;  0 ;  2 ;  2 ; .500   1  .500  0  0-0
+   4 ; Hill, Loren         ;   8 ;  0 ;  2 ;  2 ;  4 ; .000   2  .500  0  0-0
+   8 ; Quan, Nathan        ;  12 ;  0 ;  2 ;  2 ;  0 ; .000   0  .000  0  0-0
+   3 ; Christensen, Alex   ;  18 ;  0 ;  1 ;  1 ;  9 ; .000   2  .222  0  0-0
+   23; Clayton, Stephen    ;   9 ;  0 ;  1 ;  1 ;  2 ; .000   0  .000  0  0-0
+   20; Bowman, Matt        ;  17 ;  0 ;  1 ;  1 ;  2 ; .000   0  .000  0  0-0
+   15; Pulido, Josh        ;   9 ;  0 ;  1 ;  1 ;  1 ; .000   0  .000  0  0-0
+   1 ; Mariner, Jason      ;  16 ;  0 ;  1 ;  1 ;  0 ; .000   0  .000  0  0-0
+   6 ; Johnson, Brian      ;  17 ;  0 ;  0 ;  0 ;  2 ; .000   1  .500  0  0-0
+   14; Bolden, Nate        ;   6 ;  0 ;  0 ;  0 ;  1 ; .000   0  .000  0  0-0
+   0 ; Fitchett, Matt      ;   8 ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0  0-0
+   00; Deenihan, Packy     ;   1 ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0  0-0

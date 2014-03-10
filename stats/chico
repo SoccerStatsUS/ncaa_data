@@ -1,0 +1,383 @@
+Team: Chico State
+
+Competition: NCAA Division II Men's Soccer Championship
+
+
+Season: 2000
+BlockSource: http://www.csuchico.edu/athletics/msc/stats00/teamcume.htm
+
+Key: number; name; games_played; goals; assists; points; shots; etc
+
+* ## INDIVIDUAL (by pts)   GP   G   A Pts  Sh Shot% GW PK-ATT
+
+ 20; WILLIAMS, Brett      ; 19 ;  5 ;  2 ; 12 ; 27 ; .185  0  0-0  
+ 15; MARSHALL, Ian        ; 19 ;  6 ;  3 ; 15 ; 25 ; .240  1  0-0  
+ 4 ; TADEO, Enrique       ; 18 ;  2 ;  1 ;  5 ; 24 ; .083  0  1-1  
+ 5 ; COLLINGWOOD, Loren   ; 17 ;  0 ;  0 ;  0 ; 21 ; .000  0  0-0  
+ 6 ; PEARCE, Andy         ; 19 ;  2 ;  3 ;  7 ; 18 ; .111  0  0-0  
+ 3 ; JAMTAAS, Keith       ; 18 ;  1 ;  0 ;  2 ; 13 ; .077  0  0-0  
+ 16; BEDGOOD, Tim         ; 19 ;  2 ;  0 ;  4 ; 12 ; .167  1  0-0  
+ 8 ; RIBAUDO, Donny       ; 19 ;  2 ;  2 ;  6 ; 11 ; .182  0  0-0  
+ 17; GUZMAN, Ricardo      ; 11 ;  2 ;  0 ;  4 ;  9 ; .222  1  0-0  
+ 13; BRKICH, Michael      ; 14 ;  2 ;  0 ;  4 ;  9 ; .222  1  0-0  
+ 14; TONG, Dustin         ; 17 ;  3 ;  2 ;  8 ;  7 ; .429  1  0-0  
+ 7 ; GRIGG Jesse          ; 15 ;  0 ;  1 ;  1 ;  6 ; .000  0  0-0  
+ 12; KUIPER, Kevin        ; 19 ;  1 ;  1 ;  3 ;  5 ; .200  1  0-0  
+ 9 ; STAUFFER, Jake       ; 19 ;  1 ;  0 ;  2 ;  4 ; .250  1  0-2  
+ 18; JOSTAD, Jeremy       ; 17 ;  0 ;  1 ;  1 ;  4 ; .000  0  0-0  
+ 22; BEENY, Steven        ; 19 ;  1 ;  0 ;  2 ;  4 ; .250  0  0-0  
+ 10; PARKS, Sean          ;  5 ;  0 ;  0 ;  0 ;  2 ; .000  0  0-0  
+ 11; MOLL, Michael        ;  7 ;  0 ;  1 ;  1 ;  0 ; .000  0  0-0  
+ 2 ; VALDERRMAM, Andrew   ;  1 ;  0 ;  0 ;  0 ;  0 ; .000  0  0-0  
+ 26; WILLSON NARANJO, G.  ; 11 ;  0 ;  0 ;  0 ;  0 ; .000  0  0-0  
+ 25; WILLIAMS, Mike       ; 11 ;  0 ;  0 ;  0 ;  0 ; .000  0  0-0  
+ 24; ESCOVEDO, Phillip    ;  1 ;  0 ;  0 ;  0 ;  0 ; .000  0  0-0  
+
+
+Season: 2001
+BlockSource: http://www.csuchico.edu/athletics/msc/stats01/teamstat.htm
+
+* ## PLAYER                GP   G   A Pts  Sh Shot% GW PK-ATT
+
+ 13; WONDOLOWSKI, Chris   ; 19 ; 10 ;  6 ; 26 ; 59 ; .169  1  2-2
+ 14; MARAS, Joe           ; 17 ;  3 ;  4 ; 10 ; 29 ; .103  0  0-0
+ 6 ; PEARCE, Andy         ; 19 ;  5 ;  0 ; 10 ; 27 ; .185  0  0-0
+ 5 ; TONG, Dustin         ; 18 ;  2 ;  1 ;  5 ; 26 ; .077  1  0-0
+ 15; MARSHALL, Ian        ; 16 ;  3 ;  4 ; 10 ; 24 ; .125  1  0-0
+ 20; WILLIAMS, Brett      ; 19 ;  3 ;  6 ; 12 ; 24 ; .125  0  0-0
+ 12; KUIPER, Kevin        ; 18 ;  2 ;  1 ;  5 ; 16 ; .125  1  0-0
+ 8 ; RIBAUDO, Donny       ; 19 ;  2 ;  2 ;  6 ; 13 ; .154  2  0-0
+ 18; JOSTAD, Jeremy       ; 19 ;  1 ;  2 ;  4 ; 13 ; .077  0  0-0
+ 17; GUZMAN, Ricardo      ;  8 ;  2 ;  0 ;  4 ; 11 ; .182  1  0-0
+ 16; VAN DER HAYDEN,Ryder ; 17 ;  2 ;  0 ;  4 ; 11 ; .182  0  0-0
+ 19; PHILLIPS, Brian      ; 19 ;  3 ;  2 ;  8 ; 10 ; .300  0  0-0
+ 7 ; GRIGG, Jesse         ; 10 ;  0 ;  1 ;  1 ;  7 ; .000  0  0-0
+ 23; DOTY, Matthew        ;  8 ;  2 ;  1 ;  5 ;  6 ; .333  0  0-0
+ 3 ; JAMTAAS, Keith       ; 19 ;  0 ;  2 ;  2 ;  6 ; .000  0  0-0
+ 22; PHILLIPS, Rusty      ; 19 ;  0 ;  0 ;  0 ;  6 ; .000  0  0-0
+ 2 ; VALDERRAMA, Andy     ;  5 ;  0 ;  1 ;  1 ;  5 ; .000  0  0-0
+ 21; PEREGO, Aaron        ;  5 ;  0 ;  1 ;  1 ;  3 ; .000  0  0-0
+ 4 ; TADEO, Enrique       ;  4 ;  0 ;  0 ;  0 ;  2 ; .000  0  0-0
+ 11; BYSTROWSKI, Tim      ; 10 ;  0 ;  0 ;  0 ;  0 ; .000  0  0-0
+ 0 ; EASTMENT, Dustin     ; 11 ;  0 ;  0 ;  0 ;  0 ; .000  0  0-0
+ 25; WILLIAMS, Mike       ; 13 ;  0 ;  0 ;  0 ;  0 ; .000  0  0-0
+
+
+Season: 2002
+
+* ## PLAYER                GP   G   A Pts  Sh Shot% SOG  SOG% GW PK-ATT
+
+ 8 ; WONDOLOWSKI, Chris   ; 19 ; 12 ;  7 ; 31 ; 51 ; .235  22  .431  2  2-2
+ 5 ; TONG, Dustin         ; 18 ;  3 ;  0 ;  6 ; 33 ; .091   9  .273  1  0-1
+ 18; PHILLIPS, Rusty      ; 19 ;  4 ;  3 ; 11 ; 29 ; .138   8  .276  0  1-1
+ 19; PHILLIPS, Brian      ; 18 ;  3 ;  0 ;  6 ; 19 ; .158   6  .316  3  0-0
+ 13; GRANGE, Ryan         ; 19 ;  0 ;  1 ;  1 ; 14 ; .000   5  .357  0  0-0
+ 3 ; BUSICK, Robby        ; 19 ;  0 ;  1 ;  1 ; 13 ; .000   5  .385  0  0-0
+ 2 ; GUZMAN, Ricardo      ;  9 ;  1 ;  3 ;  5 ; 12 ; .083   1  .083  0  0-0
+ 11; THOMPSON, Jordan     ; 14 ;  0 ;  0 ;  0 ; 11 ; .000   2  .182  0  0-0
+ 21; RICCO, Carl          ; 16 ;  0 ;  0 ;  0 ; 11 ; .000   2  .182  0  0-0
+ 12; KUIPER, Kevin        ; 19 ;  1 ;  2 ;  4 ; 11 ; .091   2  .182  0  0-0
+ 16; STANTON, Spencer     ; 17 ;  0 ;  0 ;  0 ;  9 ; .000   1  .111  0  0-0
+ 15; LOPEZ, Stephen       ; 19 ;  0 ;  0 ;  0 ;  8 ; .000   3  .375  0  0-0
+ 17; DOTY, Matthew        ; 16 ;  0 ;  1 ;  1 ;  6 ; .000   4  .667  0  0-0
+ 7 ; GRIGG, Jesse         ; 14 ;  0 ;  0 ;  0 ;  6 ; .000   1  .167  0  0-0
+ 6 ; CADENA, Donald       ; 18 ;  0 ;  0 ;  0 ;  4 ; .000   2  .500  0  0-0
+ 22; OSLUND, Magnus       ;  6 ;  0 ;  0 ;  0 ;  1 ; .000   1 1.000  0  0-0
+ 9 ; STAUFFER, Jake       ; 19 ;  0 ;  0 ;  0 ;  1 ; .000   0  .000  0  0-0
+ 1 ; EASTMENT, Dustin     ; 16 ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0  0-0
+ 00; DOTY, Scott          ;  7 ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0  0-0
+
+
+Season: 2003
+BlockSource: http://www.csuchico.edu/athletics/msc/stats03/teamcume.htm
+
+*## PLAYER                GP   G   A Pts  Sh Shot% SOG  SOG% GW PK-AT
+
+8  ;WONDOLOWSKI, Chris    ;26  ;12  ; 8  ;32  ;68  ;.176  36  .529  4  0-1
+15 ;RODRIGUEZ, Jaime      ;27  ; 9  ; 3  ;21  ;35  ;.257  17  .486  3  0-0
+18 ;PHILLIPS, Rusty       ;27  ; 8  ; 4  ;20  ;33  ;.242  14  .424  1  0-0
+10 ;ESSER, Michael        ;26  ; 5  ; 6  ;16  ;42  ;.119  10  .238  1  0-0
+20 ;WILLIAMS, Brett       ;23  ; 4  ; 8  ;16  ;14  ;.286  12  .857  0  0-0
+7  ;GRIGG, Jesse          ;22  ; 5  ; 4  ;14  ;17  ;.294   6  .353  2  0-0
+1  ;JAKUBEK, Dominik      ;27  ; 5  ; 0  ;10  ; 5; 1.000   5 1.000  3  5-5
+4  ;TADEO, Enrique        ;27  ; 3  ; 4  ;10  ;16  ;.188   7  .438  1  0-0
+16 ;STANTON, Spencer      ;26  ; 4  ; 0  ; 8  ;20  ;.200   5  .250  0  0-0
+19 ;PHILLIPS, Brian       ;27  ; 3  ; 2  ; 8  ;24  ;.125  10  .417  2  0-0
+5  ;TONG, Dustin          ;26  ; 1  ; 5  ; 7  ;36  ;.028  11  .306  0  0-0
+12 ;KUIPER, Kevin         ;25  ; 1  ; 5  ; 7  ;15  ;.067   4  .267  1  0-0
+14 ;PHILLIPS, Jason       ;24  ; 2  ; 2  ; 6  ; 9  ;.222   3  .333  2  0-0
+13 ;GRANGE, Ryan          ;27  ; 0  ; 1  ; 1  ;11  ;.000   1  .091  0  0-0
+3  ;BUSICK, Robby         ;26  ; 0  ; 1  ; 1  ; 2  ;.000   0  .000  0  0-0
+6  ;BRYANT, Jordan        ; 9  ; 0  ; 1  ; 1  ; 0  ;.000   0  .000  0  0-0
+11 ;DOTY, Matthew         ;22  ; 0  ; 0  ; 0  ; 6  ;.000   2  .333  0  0-0
+2  ;FRASCHIERI, Keegan    ;15  ; 0  ; 0  ; 0  ; 3  ;.000   1  .333  0  0-0
+9  ;STAUFFER, Jake        ;17  ; 0  ; 0  ; 0  ; 2  ;.000   0  .000  0  0-0
+22 ;MINNITTI, Tony        ; 6  ; 0  ; 0  ; 0  ; 0  ;.000   0  .000  0  0-0
+
+
+   
+Season: 2004
+BlockSource: http://www.csuchico.edu/athletics/msc/stats04/teamcume.htm
+
+* ## PLAYER                GP   G   A Pts  Sh Shot% SOG  SOG% GW PK-ATT
+
+ 4 ; STANTON, Spencer     ; 19 ;  7 ;  1 ; 15 ; 24 ; .292  10  .417  3  1-2
+ 8 ; WONDOLOWSKI, Chris   ; 20 ;  5 ;  2 ; 12 ; 59 ; .085  20  .339  0  1-1
+ 2 ; ELENZ-MARTIN, Mike   ; 20 ;  1 ;  2 ;  4 ; 16 ; .062   5  .312  1  0-0
+ 10; ESSER, Michael       ; 17 ;  1 ;  1 ;  3 ; 27 ; .037  10  .370  0  0-0
+ 17; FRASCHIERI, Keegan   ; 18 ;  1 ;  1 ;  3 ;  9 ; .111   5  .556  0  0-0
+ 19; PHILLIPS, Jason      ; 20 ;  0 ;  3 ;  3 ; 21 ; .000   5  .238  0  0-0
+ 18; PHILLIPS, Rusty      ; 20 ;  1 ;  0 ;  2 ; 19 ; .053   7  .368  1  0-0
+ 5 ; STANTON, Zack        ; 17 ;  1 ;  0 ;  2 ; 13 ; .077   4  .308  1  0-0
+ 7 ; BRYANT, Jordan       ;  7 ;  1 ;  0 ;  2 ;  1 ;1.000   0  .000  0  0-0
+ 6 ; WILHITE, Jaime       ; 13 ;  0 ;  2 ;  2 ;  6 ; .000   2  .333  0  0-0
+ 9 ; RODRIGUEZ, Jaime     ; 18 ;  0 ;  1 ;  1 ; 24 ; .000   7  .292  0  0-0
+ 15; McCALL, Garrett      ; 20 ;  0 ;  1 ;  1 ;  7 ; .000   4  .571  0  0-0
+ 12; BUSICK, Robby        ; 20 ;  0 ;  1 ;  1 ;  4 ; .000   1  .250  0  0-0
+ 14; JIMENEZ, Sebastian   ; 12 ;  0 ;  0 ;  0 ;  9 ; .000   2  .222  0  0-0
+ 20; DOTY, Matthew        ; 19 ;  0 ;  0 ;  0 ;  5 ; .000   2  .400  0  0-0
+ 3 ; HODGKINS, Robbie     ; 13 ;  0 ;  0 ;  0 ;  5 ; .000   3  .600  0  0-0
+ 22; MOLL, Mike           ; 11 ;  0 ;  0 ;  0 ;  1 ; .000   0  .000  0  0-0
+ 16; EDGELL, Gavin        ; 20 ;  0 ;  0 ;  0 ;  1 ; .000   0  .000  0  0-0
+ 24; LINNE, Brian         ; 12 ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0  0-0
+ 11; WRIGHT, Danny        ;  1 ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0  0-0
+ 1 ; DOTY, Scott          ;  8 ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0  0-0
+
+
+Season: 2005
+
+*## PLAYER                GP   G   A Pts  Sh Shot% SOG  SOG% GW PK-AT
+
+19 ;PHILLIPS, Jason       ;19  ; 4  ; 3  ;11  ;18  ;.222   8  .444  1  2-2
+21 ;CARBONEAU, A.J.       ;19  ; 4  ; 1  ; 9  ;44  ;.091  16  .364  1  0-0
+6  ;MURIN, Kurt           ;17  ; 2  ; 3  ; 7  ;19  ;.105   7  .368  0  0-0
+10 ;DAVANGER, Roger       ;19  ; 2  ; 2  ; 6  ;20  ;.100   9  .450  2  0-0
+2  ;ELENZ-MARTIN, Mike    ;18  ; 2  ; 1  ; 5  ;24  ;.083  11  .458  0  0-0
+17 ;FRASCHIERI, Keegan    ;16  ; 2  ; 1  ; 5  ; 6  ;.333   4  .667  1  0-0
+8  ;MEYER, Grant          ;19  ; 1  ; 0  ; 2  ;26  ;.038   8  .308  0  0-0
+14 ;OCEGUERA, Alexander   ;19  ; 1  ; 0  ; 2  ;24  ;.042   7  .292  0  0-0
+9  ;McCALL, Garrett       ;19  ; 0  ; 2  ; 2  ; 5  ;.000   2  .400  0  0-0
+15 ;ARMSTRONG, Evan       ; 9  ; 0  ; 1  ; 1  ; 2  ;.000   1  .500  0  0-0
+1  ;DOTY, Scott           ;15  ; 0  ; 1  ; 1  ; 0  ;.000   0  .000  0  0-0
+4  ;STANTON, Spencer      ;14  ; 0  ; 0  ; 0  ;19  ;.000   3  .158  0  0-1
+18 ;VARGAS, Ralph         ;12  ; 0  ; 0  ; 0  ;10  ;.000   5  .500  0  0-0
+5  ;STANTON, Zach         ;15  ; 0  ; 0  ; 0  ; 9  ;.000   4  .444  0  0-0
+7  ;BRYANT, Jordan        ;14  ; 0  ; 0  ; 0  ; 8  ;.000   3  .375  0  0-0
+20 ;SALATA, Byron         ;16  ; 0  ; 0  ; 0  ; 7  ;.000   3  .429  0  0-0
+12 ;PAUL, Scott           ; 6  ; 0  ; 0  ; 0  ; 5  ;.000   2  .400  0  0-0
+24 ;LINNE, Brian          ; 7  ; 0  ; 0  ; 0  ; 1  ;.000   1 1.000  0  0-0
+22 ;MUNLEY, Nic           ; 7  ; 0  ; 0  ; 0  ; 1  ;.000   1 1.000  0  0-0
+16 ;EDGELL, Gavin         ;19  ; 0  ; 0  ; 0  ; 1  ;.000   0  .000  0  0-0
+11 ;JIMENEZ, Sebastian    ; 1  ; 0  ; 0  ; 0  ; 0  ;.000   0  .000  0  0-0
+3  ;VUE, Pao              ; 1  ; 0  ; 0  ; 0  ; 0  ;.000   0  .000  0  0-0
+
+
+Season: 2006
+BlockSource: http://www.csuchico.edu/athletics/msc/stats06/teamstat.htm
+
+*## PLAYER                GP   G   A Pts  Sh Shot% SOG  SOG% GW PK-AT
+
+19 ;PHILLIPS, Jason       ;19  ; 6  ; 3  ;15  ;29  ;.207  19  .655  2  1-1
+17 ;CARBONEAU, A.J.       ;18  ; 6  ; 1  ;13  ;45  ;.133  15  .333  2  0-0
+5  ;ARMSTRONG, Evan       ;19  ; 4  ; 1  ; 9  ;29  ;.138  14  .483  2  0-0
+23 ;GARDNER, Mike         ;19  ; 2  ; 1  ; 5  ;20  ;.100   8  .400  1  0-0
+10 ;OCEGUERA, Alexander   ;19  ; 2  ; 1  ; 5  ;18  ;.111   4  .222  1  0-0
+22 ;MUNLEY, Nic           ;11  ; 2  ; 1  ; 5  ; 7  ;.286   5  .714  1  0-0
+14 ;SCHAUER, Kris         ;14  ; 1  ; 1  ; 3  ;15  ;.067   9  .600  0  0-0
+8  ;HILGART-MARTISZUS, I  ; 8  ; 1  ; 1  ; 3  ; 8  ;.125   2  .250  0  0-0
+3  ;RAISH, Adam           ;19  ; 1  ; 1  ; 3  ; 8  ;.125   3  .375  0  0-0
+9  ;McCALL, Garrett       ;17  ; 0  ; 3  ; 3  ;13  ;.000   3  .231  0  0-0
+11 ;JIMENEZ, Sebastian    ;10  ; 1  ; 0  ; 2  ; 3  ;.333   1  .333  0  0-0
+13 ;DORAN, John           ;19  ; 0  ; 2  ; 2  ;10  ;.000   5  .500  0  0-0
+4  ;FRASCHIERI, Keegan    ;19  ; 0  ; 1  ; 1  ;10  ;.000   4  .400  0  0-0
+16 ;EDGELL, Gavin         ;18  ; 0  ; 1  ; 1  ; 5  ;.000   2  .400  0  0-0
+18 ;VELASCO, Ivan         ; 9  ; 0  ; 1  ; 1  ; 4  ;.000   2  .500  0  0-0
+12 ;GIBSON, Kevin         ;10  ; 0  ; 0  ; 0  ; 6  ;.000   1  .167  0  0-0
+20 ;SALATA, Byron         ;19  ; 0  ; 0  ; 0  ; 3  ;.000   1  .333  0  0-0
+15 ;BUDZINSKI, Armin      ; 4  ; 0  ; 0  ; 0  ; 1  ;.000   0  .000  0  0-0
+7  ;BRYANT, Jordan        ;11  ; 0  ; 0  ; 0  ; 1  ;.000   1 1.000  0  0-0
+24 ;Linne,Brian           ;18  ; 0  ; 0  ; 0  ; 0  ;.000   0  .000  0  0-0
+21 ;GATES, Tanner         ; 1  ; 0  ; 0  ; 0  ; 0  ;.000   0  .000  0  0-0
+0  ;DICKSON, Dan          ; 4  ; 0  ; 0  ; 0  ; 0  ;.000   0  .000  0  0-0
+
+
+
+Season: 2007
+BlockSource: http://www.csuchico.edu/athletics/msc/stats07/teamcume.htm
+
+*## PLAYER                GP   G   A Pts  Sh Shot%  YC-RC GW PK-AT
+
+17 ;CARBONEAU,AJ          ;18  ; 6  ; 5  ;17  ;38  ;.158   3-0   1  0-0
+23 ;GARDNER,MIKE          ;19  ; 4  ; 2  ;10  ;26  ;.154   3-0   2  4-4
+9  ;MCCALL,GARRETT        ;19  ; 3  ; 3  ; 9  ;30  ;.100   0-0   0  0-0
+11 ;CRIM,ZAC              ;11  ; 3  ; 2  ; 8  ;22  ;.136   5-0   0  0-0
+5  ;HILGART,IAN           ;19  ; 3  ; 1  ; 7  ;45  ;.067   0-1   1  0-0
+22 ;MUNLEY,NIC            ;18  ; 3  ; 1  ; 7  ;17  ;.176   1-0   1  0-0
+14 ;LUCKY,SCOTT           ;19  ; 1  ; 4  ; 6  ;25  ;.040   3-0   0  0-0
+15 ;THAO,CHIA             ; 9  ; 1  ; 2  ; 4  ; 8  ;.125   0-0   0  0-0
+6  ;BRADFORD,ZACH         ;18  ; 1  ; 1  ; 3  ;19  ;.053   0-0   1  0-0
+7  ;VERDUZCO,MANUEL       ;20  ; 1  ; 1  ; 3  ;16  ;.062   2-0   0  0-0
+20 ;SALATA,BYRON          ;19  ; 1  ; 1  ; 3  ; 7  ;.143   0-0   0  0-0
+12 ;TUCKER,LOGAN          ;13  ; 1  ; 1  ; 3  ; 4  ;.250   2-0   0  0-0
+21 ;LEMUS,MIKE            ;12  ; 1  ; 0  ; 2  ;17  ;.059   3-1   0  0-0
+8  ;VELASCO,IVAN          ;19  ; 1  ; 0  ; 2  ;13  ;.077   1-0   0  0-0
+16 ;EDGELL,GAVIN          ;20  ; 1  ; 0  ; 2  ; 3  ;.333   1-0   1  0-0
+3  ;RAISH,ADAM            ;20  ; 0  ; 1  ; 1  ; 4  ;.000   2-0   0  0-0
+24 ;LINNE,BRIAN           ;15  ; 0  ; 1  ; 1  ; 0  ;.000   0-0   0  0-0
+10 ;DORAN,JOHN            ;18  ; 0  ; 0  ; 0  ;11  ;.000   3-0   0  0-0
+4  ;JUDGE,ROSS            ;12  ; 0  ; 0  ; 0  ; 6  ;.000   1-0   0  0-0
+1  ;KOEHANE,MICHAEL       ; 8  ; 0  ; 0  ; 0  ; 0  ;.000   0-0   0  0-0
+
+
+Season: 2008
+BlockSource: http://www.csuchico.edu/athletics/msc/stats08/teamcume.htm
+
+
+
+
+*## Name                 GP-GS  Min   G   A Pts  Sh Shot% SOG  SOG% GW  PK-ATT
+
+11; CRIM, Zac           ; 19; 19; 1232 ;  9 ;  6 ; 24 ; 42 ; .214  24  .571  5   0-0
+5 ; ARMSTRONG, Evan     ; 19; 19;  956 ;  7 ;  5 ; 19 ; 41 ; .171  20  .488  3   0-0
+23; MOUKOKO, Benjamin   ; 18; 16;  736 ;  6 ;  3 ; 15 ; 27 ; .222  14  .519  0   0-0
+8 ; CRAIN, Kyle         ; 19; 19; 1244 ;  4 ;  7 ; 15 ; 51 ; .078  25  .490  0   1-1
+12; TEDROW, Nicholas    ; 19; 0 ;  678 ;  3 ;  1 ;  7 ; 31 ; .097  17  .548  2   0-0
+21; GIBSON, Kevin       ; 19; 1 ;  898 ;  2 ;  3 ;  7 ; 25 ; .080  10  .400  2   0-0
+13; STRUCKMEYER, Ryan   ; 17; 15; 1004 ;  1 ;  2 ;  4 ; 22 ; .045   6  .273  0   0-0
+14; RAISH, Adam         ; 19; 19; 1579 ;  0 ;  4 ;  4 ;  0 ; .000   0  .000  0   0-0
+22; MUNLEY, Nic         ; 12; 6 ;  285 ;  1 ;  0 ;  2 ;  7 ; .143   2  .286  1   0-0
+17; NEVAREZ, Ryan       ; 19; 1 ;  779 ;  0 ;  2 ;  2 ;  7 ; .000   4  .571  0   0-0
+1 ; KEOHANE, Michael    ; 19; 19; 1648 ;  0 ;  2 ;  2 ;  0 ; .000   0  .000  0   0-0
+19; DAWKINS, Aren       ; 12; 2 ;  391 ;  0 ;  1 ;  1 ;  7 ; .000   3  .429  0   0-0
+15; AKWAJA, Chris       ; 16; 13; 1009 ;  0 ;  1 ;  1 ;  7 ; .000   2  .286  0   0-0
+4 ; JUDGE, Ross         ; 17; 14; 1136 ;  0 ;  1 ;  1 ;  0 ; .000   0  .000  0   0-0
+20; SALATA, Byron       ; 19; 18; 1616 ;  0 ;  0 ;  0 ;  6 ; .000   2  .333  0   0-0
+10; BRADFORD, Zach      ;  9; 2 ;  324 ;  0 ;  0 ;  0 ;  5 ; .000   1  .200  0   0-0
+6 ; MARTIN, William     ;  3; 0 ;    0 ;  0 ;  0 ;  0 ;  3 ; .000   1  .333  0   0-0
+3 ; CONRAD, Kyle        ; 16; 6 ;  889 ;  0 ;  0 ;  0 ;  3 ; .000   0  .000  0   0-0
+9 ; DARR, Jacob         ; 19; 19; 1566 ;  0 ;  0 ;  0 ;  2 ; .000   1  .500  0   0-0
+28; STROBEL, Michael    ;  5; 1 ;   63 ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
+7 ; THAO, Chia          ;  6; 0 ;   24 ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
+
+
+Season: 2009
+BlockSource: http://www.csuchico.edu/athletics/msc/stats09/teamcume.htm
+
+*## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG% GW  PK-ATT
+
+Key: number; name; games_played; games_started; goals; assists; points; shots; etc
+
+5 ; ARMSTRONG, Evan     ; 20; 20;   8  ; 4  ;20  ;42  ;.190;  20  .476  3   0-0
+15; AKWAJA, Chris       ; 20; 13;   5  ; 1  ;11  ;33  ;.152;  13  .394  1   0-0
+8 ; CRAIN, Kyle         ; 20; 18;   3  ; 4  ;10  ;41  ;.073;  11  .268  2   3-3
+10; MARTINEZ, Luis      ; 19; 13;   2  ; 4  ; 8  ;34  ;.059;  16  .471  0   0-0
+21; GIBSON, Kevin       ; 16; 5 ;   3  ; 0  ; 6  ;16  ;.188;   6  .375  1   0-0
+22; JOHNSON, Josh       ; 18; 8 ;   2  ; 1  ; 5  ;16  ;.125;   9  .562  1   0-0
+6 ; BRADFORD, Zach      ; 16; 9 ;   1  ; 1  ; 3  ;12  ;.083;   4  .333  0   0-0
+17; NEVAREZ, Ryan       ; 18; 16;   0  ; 3  ; 3  ; 4  ;.000;   1  .250  0   0-0
+13; STRUCKMEYER, Ryan   ; 19; 19;   1  ; 0  ; 2  ;21  ;.048;   7  .333  0   0-0
+16; BORJA, Josh         ; 18; 16;   1  ; 0  ; 2  ;10  ;.100;   5  .500  0   0-0
+14; RAISH, Adam         ; 20; 20;   1  ; 0  ; 2  ; 6  ;.167;   2  .333  0   0-0
+12; TEDROW, Nick        ; 20; 3 ;   0  ; 2  ; 2  ;14  ;.000;   6  .429  0   0-0
+11; CRIM, Tyson         ; 17; 8 ;   0  ; 2  ; 2  ; 9  ;.000;   7  .778  0   0-0
+19; DAWKINS, Aren       ; 12; 4 ;   0  ; 1  ; 1  ; 5  ;.000;   0  .000  0   0-0
+7 ; VILLALPANDO, Ryan   ;  4; 0 ;   0  ; 1  ; 1  ; 0  ;.000;   0  .000  0   0-0
+9 ; DARR, Jacob         ; 16; 16;   0  ; 0  ; 0  ; 7  ;.000;   2  .286  0   0-0
+3 ; CONRAD, Kyle        ; 14; 6 ;   0  ; 0  ; 0  ; 4  ;.000;   2  .500  0   0-0
+2 ; DAZZI, NICOLAS      ; 11; 0 ;   0  ; 0  ; 0  ; 4  ;.000;   2  .500  0   0-0
+28; STROBEL, Michael    ;  7; 1 ;   0  ; 0  ; 0  ; 1  ;.000;   1 1.000  0   0-0
+4 ; JUDGE, Ross         ;  9; 4 ;   0  ; 0  ; 0  ; 1  ;.000;   0  .000  0   0-0
+18; MIRANDA, Micah      ;  8; 1 ;   0  ; 0  ; 0  ; 0  ;.000;   0  .000  0   0-0
+1 ; KEOHANE, Michael    ; 20; 20;   0  ; 0  ; 0  ; 0  ;.000;   0  .000  0   0-0
+
+
+Season: 2010
+BlockSource: http://www.csuchico.edu/athletics/msc/stats10/teamcume.htm
+
+*## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG% GW  PK-ATT
+
+19; CELOSMANOVIC, Ferid ; 21; 21;  13  ; 2  ;28  ;93  ;.140;  35  .376  5   1-1
+15; AKWAJA, Chris       ; 22; 15;   9  ; 2  ;20  ;42  ;.214;  15  .357  3   0-0
+11; CRIM, Tyson         ; 22; 21;   3  ; 6  ;12  ;19  ;.158;  10  .526  0   0-0
+6 ; BRADFORD, Zach      ; 22; 22;   2  ; 4  ; 8  ;36  ;.056;   9  .250  2   0-0
+20; JANJIGIAN, Mike     ; 22; 22;   2  ; 2  ; 6  ; 7  ;.286;   4  .571  1   0-0
+10; MARTINEZ, Luis      ;  8; 6 ;   2  ; 1  ; 5  ;12  ;.167;   6  .500  1   0-0
+8 ; PALMER, Luke        ; 22; 22;   2  ; 0  ; 4  ;18  ;.111;   5  .278  1   0-0
+17; NEVAREZ, Ryan       ; 21; 19;   0  ; 4  ; 4  ; 5  ;.000;   1  .200  0   0-0
+12; TEDROW, Nick        ; 22; 22;   1  ; 1  ; 3  ;26  ;.038;   8  .308  1   0-0
+23; JOHNSTON, Evan      ; 18; 16;   0  ; 3  ; 3  ; 4  ;.000;   2  .500  0   0-0
+7 ; JOHNSON, Josh       ; 22; 1 ;   0  ; 1  ; 1  ;14  ;.000;   7  .500  0   0-0
+16; BORJA, Josh         ; 20; 3 ;   0  ; 1  ; 1  ; 7  ;.000;   2  .286  0   0-0
+2 ; TIEKU, Michael      ;  9; 0 ;   0  ; 1  ; 1  ; 4  ;.000;   2  .500  0   0-0
+9 ; DARR, Jacob         ; 22; 22;   0  ; 1  ; 1  ; 1  ;.000;   0  .000  0   0-0
+5 ; THOMAS, Dillon      ; 14; 0 ;   0  ; 0  ; 0  ; 8  ;.000;   2  .250  0   0-0
+28; PLUMMER, Elliott    ; 13; 7 ;   0  ; 0  ; 0  ; 2  ;.000;   1  .500  0   0-0
+22; ZARATE, Leo         ;  6; 1 ;   0  ; 0  ; 0  ; 2  ;.000;   0  .000  0   0-0
+4 ; JUDGE, Ross         ; 11; 0 ;   0  ; 0  ; 0  ; 2  ;.000;   1  .500  0   0-0
+24; BEIGARTEN, Mike     ;  1; 0 ;   0  ; 0  ; 0  ; 0  ;.000;   0  .000  0   0-0
+18; MIRANDA, Micah      ;  5; 0 ;   0  ; 0  ; 0  ; 0  ;.000;   0  .000  0   0-0
+1 ; STROUD, James       ;  9; 7 ;   0  ; 0  ; 0  ; 0  ;.000;   0  .000  0   0-0
+
+
+Season: 2011
+BlockSource: http://www.csuchico.edu/athletics/msc/stats11/teamcume.htm
+
+*## Name                 GP-GS  Min   G   A Pts  Sh Shot% SOG  SOG% GW  PK-ATT
+
+19; CELOSMANOVIC, Ferid ; 21; 19; 1341 ;  9 ;  4 ; 22 ; 74 ; .122  31  .419  5   1-1
+17; GUZMAN, Octavio     ; 21; 4 ; 1002 ;  8 ;  1 ; 17 ; 39 ; .205  15  .385  2   3-3
+15; AKWAJA, Chris       ; 21; 20; 1157 ;  7 ;  0 ; 14 ; 37 ; .189  23  .622  2   0-0
+18; MIRANDA, Micah      ; 20; 20; 1760 ;  2 ;  5 ;  9 ; 32 ; .062  12  .375  2   0-0
+3 ; LEVAR, Cody         ; 20; 2 ;  716 ;  2 ;  1 ;  5 ; 17 ; .118   8  .471  0   0-0
+21; BLACK, Adam         ; 12; 0 ;  261 ;  2 ;  1 ;  5 ;  8 ; .250   5  .625  2   0-0
+11; CRIM, Tyson         ; 21; 21; 1686 ;  0 ;  5 ;  5 ; 43 ; .000   9  .209  0   0-0
+5 ; JOHNSTON, Evan      ; 20; 19; 1694 ;  0 ;  4 ;  4 ; 12 ; .000   6  .500  0   0-0
+20; JANJIGIAN, Mike     ; 21; 21; 1971 ;  1 ;  1 ;  3 ;  9 ; .111   1  .111  0   0-0
+8 ; PALMER, Luke        ; 16; 16; 1447 ;  1 ;  0 ;  2 ; 11 ; .091   2  .182  0   0-0
+28; PLUMMER, Elliot     ; 18; 10; 1211 ;  1 ;  0 ;  2 ;  2 ; .500   1  .500  0   0-0
+14; PAULO, Chris        ; 10; 0 ;  106 ;  1 ;  0 ;  2 ;  1 ;1.000   1 1.000  0   0-0
+12; TEDROW,Nick         ; 20; 19; 1269 ;  0 ;  2 ;  2 ; 24 ; .000   8  .333  0   0-0
+13; STRUCKMEYER, Ryan   ; 16; 7 ;  672 ;  0 ;  1 ;  1 ;  4 ; .000   2  .500  0   0-0
+23; SPURGEON, Trevor    ; 10; 6 ;  514 ;  0 ;  1 ;  1 ;  3 ; .000   1  .333  0   0-0
+9 ; DARR, Jacob         ; 21; 21; 1879 ;  0 ;  0 ;  0 ;  5 ; .000   1  .200  0   0-0
+22; LUNDE, Tyler        ; 13; 0 ;  325 ;  0 ;  0 ;  0 ;  3 ; .000   3 1.000  0   0-0
+6 ; WARD, Jake          ; 11; 5 ;  547 ;  0 ;  0 ;  0 ;  3 ; .000   0  .000  0   0-0
+25; EVANS, Sam          ; 14; 12; 1230 ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
+24; HARTER, Quinn       ;  1; 0 ;    0 ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
+1 ; STROUD, James       ;  9; 9 ;  786 ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
+
+
+
+Season: 2012
+
+BlockSource: http://www.csuchico.edu/athletics/msc/stats12/teamcume.htm
+
+*## Name                 GP-GS  Min   G   A Pts  Sh Shot% SOG  SOG% GW  PK-ATT
+
+7 ; AJEAKWA, Akwafei    ; 17; 6 ;  858 ;  8 ;  1 ; 17 ; 34 ; .235  13  .382  2   1-1
+23; HURLOW, Matt        ; 18; 13;  793 ;  4 ;  2 ; 10 ; 28 ; .143  16  .571  2   0-0
+18; MIRANDA, Micah      ; 18; 18; 1691 ;  4 ;  1 ;  9 ; 36 ; .111  13  .361  1   0-0
+10; MARTINEZ, Luis      ; 18; 18; 1648 ;  3 ;  3 ;  9 ; 40 ; .075  11  .275  2   0-0
+17; GUZMAN, Octavio     ; 18; 18; 1202 ;  1 ;  7 ;  9 ; 48 ; .021  13  .271  0   0-0
+9 ; RUNAGER, Kramer     ; 17; 5 ;  774 ;  2 ;  3 ;  7 ; 28 ; .071  10  .357  0   0-0
+13; WARD, Jake          ; 17; 17; 1613 ;  2 ;  1 ;  5 ; 17 ; .118   5  .294  2   0-0
+12; CERVANTES, Jorge    ; 12; 11;  557 ;  1 ;  2 ;  4 ; 10 ; .100   3  .300  0   0-0
+19; BLACK, Adam         ; 15; 0 ;  393 ;  1 ;  1 ;  3 ;  8 ; .125   4  .500  0   0-0
+3 ; GORMAN, Jordan      ; 16; 7 ;  845 ;  1 ;  0 ;  2 ;  5 ; .200   2  .400  0   0-0
+22; GALLAGHER, Sean     ; 16; 13; 1322 ;  0 ;  2 ;  2 ;  2 ; .000   0  .000  0   0-0
+8 ; PALMER, Luke        ; 18; 18; 1626 ;  0 ;  1 ;  1 ; 14 ; .000   5  .357  0   0-0
+20; JANJIGIAN, Mike     ; 18; 18; 1753 ;  0 ;  1 ;  1 ;  3 ; .000   0  .000  0   0-0
+15; STORY, Ethan        ;  9; 0 ;  225 ;  0 ;  1 ;  1 ;  3 ; .000   1  .333  0   0-0
+2 ; ROSECRANCE, Kenny   ; 10; 7 ;  634 ;  0 ;  1 ;  1 ;  2 ; .000   1  .500  0   0-0
+14; LEVAR, Cody         ; 10; 3 ;  455 ;  0 ;  0 ;  0 ;  7 ; .000   2  .286  0   0-0
+21; CIBRIAN, Hector     ;  6; 0 ;   57 ;  0 ;  0 ;  0 ;  2 ; .000   0  .000  0   0-0
+28; BROWN, Brandon      ;  2; 0 ;    6 ;  0 ;  0 ;  0 ;  1 ; .000   0  .000  0   0-0
+16; PLUMMER, Elliott    ; 17; 7 ;  965 ;  0 ;  0 ;  0 ;  1 ; .000   0  .000  0   0-0
+6 ; PAULO, Chris        ;  1; 1 ;    9 ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
+5 ; BROWN, Matt         ;  2; 0 ;   17 ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
+4 ; ELLYSON, Russ       ;  5; 0 ;   58 ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
+
+
+Season: 2013
+BlockSource: http://www.csuchico.edu/athletics/msc/stats13/teamcume.htm
+

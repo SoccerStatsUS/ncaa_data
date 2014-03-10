@@ -1,225 +1,235 @@
 Team: UVA
-
+Competition: NCAA Division I Men's Soccer Championship
 
 Season: 2012
 BlockSource: http://www.virginiasports.com/sports/m-soccer/stats/2012-2013/teamcume.html
 
-10           Will Bates                 20-17   1727    12      1       25      62       .194   26       .419   4       2-2 
-2            Zach Carroll               16-16   1454    4       2       10      10        .400  7         .700  2       0-0 
-6            Scott Thomsen              21-21   1991    0       8       8       11         .000           2      .182   0   0-0 
-16           Marcus SalandyDefour       21-21   1883    2       3       7          19              .105  5       .263   0  0-0 
-11           Eric Bird                  21-21   1686    2       1       5          38               .053         11      .289  1  0-0 
-9            Darius Madison             17-15   1293    2       0       4          33                .061        14       .424    1   1-1 
-8            Chris Somerville           13-5    593     2       0       4          13                 .154       5         .385   0   1-1 
-17           Brian James                18-14   1108    1       2       4          10                  .100      1          .100  0   0-0 
-7            Todd Wharton               21-18   1779    1       0       2          20                   .050     8           .400     1   0-1 
-3            Matt Brown                 17-15   1455    1       0       2          7                     .143    5            .714    0   0-0 
-21           Ryan Zinkhan               10-1    318     1       0       2          3                      .333   2             .667   0   0-0 
-25           Cameron Chavira             6-1    126     1       0       2          1                      1.000  1             1.000  1   0-0 
-20           Marcus Douglas             10-0    203     0       1       1          1                       .000  0              .000  0   0-0 
-27           Jordan Poarch              14-10   735     0       0       0          11                       .000                3      .273   0  0-0 
-22           Kyle McCord                 8-0    172     0       0       0          4                         .000               0       .000  0  0-0 
-28           Shane Cooke                 8-5    519     0       0       0                         2                   .000   1      .500  0  0-0 
-13           Kyler Sullivan             17-16   1600    0       0       0                         1                    .000  1      1.000    0   0-0 
-26           Sean Murnane               10-5    596     0       0       0                         0                     .000        0         .000   0  0-0 
-23           Will Hare                   1-0    13      0       0       0                         0                      .000       0          .000  0  0-0 
-19           Ari Dimas                   4-3    207     0       0       0                         0                       .000      0           .000    0   0-0 
-15           Kevin McBride               7-6    568     0       0       0                         0                        .000     0            .000   0   0-0 
-5            Bryan Lima                  2-0    70      0       0       0                         0                         .000    0             .000  0   0-0 
-4            Grant Silvester             4-0    63      0       0       0                         0                          .000   0              .000     0   0-0 
-1            Spencer LaCivita           20-20   1885    0       0       0                         0                           .000  0               .000    0   0-0 
-0            Matt Miscione               4-1    90      0       0       0                         0                            .000                 0        .000   0  0-0 
+Key: number; name; games_played; games_started; minutes; goals; assists; points; shots; etc
+
+
+10    ;       Will Bates                ; 20; 17  ; 1727   ; 12     ; 1      ; 25     ; 62 ;      .194   26       .419   4       2-2 
+2     ;       Zach Carroll              ; 16; 16  ; 1454   ; 4      ; 2      ; 10     ; 10 ;       .400  7         .700  2       0-0 
+6     ;       Scott Thomsen             ; 21; 21  ; 1991   ; 0      ; 8      ; 8      ; 11 ;        .000           2      .182   0   0-0 
+16    ;       Marcus SalandyDefour      ; 21; 21  ; 1883   ; 2      ; 3      ; 7      ; 19 ;             .105  5       .263   0  0-0 
+11    ;       Eric Bird                 ; 21; 21  ; 1686   ; 2      ; 1      ; 5      ; 38 ;              .053         11      .289  1  0-0 
+9     ;       Darius Madison            ; 17; 15  ; 1293   ; 2      ; 0      ; 4      ; 33 ;               .061        14       .424    1   1-1 
+8     ;       Chris Somerville          ; 13; 5   ; 593    ; 2      ; 0      ; 4      ; 13 ;                .154       5         .385   0   1-1 
+17    ;       Brian James               ; 18; 14  ; 1108   ; 1      ; 2      ; 4      ; 10 ;                 .100      1          .100  0   0-0 
+7     ;       Todd Wharton              ; 21; 18  ; 1779   ; 1      ; 0      ; 2      ; 20 ;                  .050     8           .400     1   0-1 
+3     ;       Matt Brown                ; 17; 15  ; 1455   ; 1      ; 0      ; 2      ; 7  ;                   .143    5            .714    0   0-0 
+21    ;       Ryan Zinkhan              ; 10; 1   ; 318    ; 1      ; 0      ; 2      ; 3  ;                    .333   2             .667   0   0-0 
+25    ;       Cameron Chavira           ;  6; 1   ; 126    ; 1      ; 0      ; 2      ; 1  ;                    1.000  1             1.000  1   0-0 
+20    ;       Marcus Douglas            ; 10; 0   ; 203    ; 0      ; 1      ; 1      ; 1  ;                     .000  0              .000  0   0-0 
+27    ;       Jordan Poarch             ; 14; 10  ; 735    ; 0      ; 0      ; 0      ; 11 ;                      .000                3      .273   0  0-0 
+22    ;       Kyle McCord               ;  8; 0   ; 172    ; 0      ; 0      ; 0      ; 4  ;                       .000               0       .000  0  0-0 
+28    ;       Shane Cooke               ;  8; 5   ; 519    ; 0      ; 0      ; 0      ; 2  ;                 .000   1      .500  0  0-0 
+13    ;       Kyler Sullivan            ; 17; 16  ; 1600   ; 0      ; 0      ; 0      ; 1  ;                  .000  1      1.000    0   0-0 
+26    ;       Sean Murnane              ; 10; 5   ; 596    ; 0      ; 0      ; 0      ; 0  ;                   .000        0         .000   0  0-0 
+23    ;       Will Hare                 ;  1; 0   ; 13     ; 0      ; 0      ; 0      ; 0  ;                    .000       0          .000  0  0-0 
+19    ;       Ari Dimas                 ;  4; 3   ; 207    ; 0      ; 0      ; 0      ; 0  ;                     .000      0           .000    0   0-0 
+15    ;       Kevin McBride             ;  7; 6   ; 568    ; 0      ; 0      ; 0      ; 0  ;                      .000     0            .000   0   0-0 
+5     ;       Bryan Lima                ;  2; 0   ; 70     ; 0      ; 0      ; 0      ; 0  ;                       .000    0             .000  0   0-0 
+4     ;       Grant Silvester           ;  4; 0   ; 63     ; 0      ; 0      ; 0      ; 0  ;                        .000   0              .000     0   0-0 
+1     ;       Spencer LaCivita          ; 20; 20  ; 1885   ; 0      ; 0      ; 0      ; 0  ;                         .000  0               .000    0   0-0 
+0     ;       Matt Miscione             ;  4; 1   ; 90     ; 0      ; 0      ; 0      ; 0  ;                          .000                 0        .000   0  0-0 
 
 
 Season: 2011
 BlockSource: http://www.virginiasports.com/sports/m-soccer/stats/2011-2012/teamcume.htm
 
-10           Will Bates         15-15   1185    14      4       32      61       .230   27       .443   3       4-5 
-23           Brian Span         21-21   1867    7       5       19      57        .123  23        .404  2       1-1 
-9            Brian Ownby        18-12   1124    6       2       14      47         .128           18     .383   2   0-0 
-21           Ryan Zinkhan       21-17   1474    4       3       11      22          .182          11      .500  2   0-0 
-17           Hunter Jumper      17-17   1554    2       4       8       20           .100         8        .400     1   0-0 
-27           Calvin Rezende     16-10   918     2       2       6       19            .105        8         .421    1   0-0 
-7            Felipe Libreros    21-15   1484    1       4       6       23             .043       4          .174   0   0-0 
-11           Eric Bird           9-8    562     1       2       4       17              .059      6           .353  0   0-0 
-8            Chris Somerville   13-9    847     1       1       3       13               .077     2            .154     0   0-0 
-19           Ari Dimas          15-15   1249    1       1       3       4                 .250    3             .750    1   0-0 
-22           Kyle McCord         9-0    156     1       1       3       2                  .500   1              .500   0   0-0 
-31           Kyler Sullivan     14-13   1196    0       1       1                  4       .000          1       .250   0  0-0 
-6            Greg Monaco        16-16   1499    0       1       1                  3        .000         1        .333  0  0-0 
-15           Mike Volk          19-19   1754    0       0       0                  10        .000        1         .100    0   0-0 
-20           Marcus Douglas     13-6    657     0       0       0                  4          .000       3          .750   0   0-0 
-16           Sean Hiller        12-7    787     0       0       0                  3           .000      1           .333  0   0-0 
-13           Conner Rezende      5-0    93      0       0       0                  3            .000     0            .000     0   0-0 
-25           Cameron Chavira     1-0    6       0       0       0                  2             .000    1             .500    0   0-0 
-30           Matt Mills          3-0    32      0       0       0                  1              .000   1             1.000   0   0-0 
-4            Grant Silvester     8-7    641     0       0       0                  1               .000  0              .000   0   0-0 
-28           Shane Cooke         1-1    84      0       0       0                  0                .000                0       .000   0  0-0 
-24           Trey Saunders       1-0    5       0       0       0                  0                 .000               0        .000  0  0-0 
-3            Matt Brown          4-1    147     0       0       0                  0                  .000              0         .000    0   0-0 
-2            Kevin McBride       2-1    96      0       0       0                  0                   .000             0          .000   0   0-0 
+10    ;       Will Bates        ; 15; 15  ; 1185   ; 14    ;  4     ;  32   ;   61   ;    .230   27       .443   3       4-5 
+23    ;       Brian Span        ; 21; 21  ; 1867   ; 7     ;  5     ;  19   ;   57   ;     .123  23        .404  2       1-1 
+9     ;       Brian Ownby       ; 18; 12  ; 1124   ; 6     ;  2     ;  14   ;   47   ;      .128           18     .383   2   0-0 
+21    ;       Ryan Zinkhan      ; 21; 17  ; 1474   ; 4     ;  3     ;  11   ;   22   ;       .182          11      .500  2   0-0 
+17    ;       Hunter Jumper     ; 17; 17  ; 1554   ; 2     ;  4     ;  8    ;   20   ;        .100         8        .400     1   0-0 
+27    ;       Calvin Rezende    ; 16; 10  ; 918    ; 2     ;  2     ;  6    ;   19   ;         .105        8         .421    1   0-0 
+7     ;       Felipe Libreros   ; 21; 15  ; 1484   ; 1     ;  4     ;  6    ;   23   ;          .043       4          .174   0   0-0 
+11    ;       Eric Bird         ;  9; 8   ; 562    ; 1     ;  2     ;  4    ;   17   ;           .059      6           .353  0   0-0 
+8     ;       Chris Somerville  ; 13; 9   ; 847    ; 1     ;  1     ;  3    ;   13   ;            .077     2            .154     0   0-0 
+19    ;       Ari Dimas         ; 15; 15  ; 1249   ; 1     ;  1     ;  3    ;   4    ;             .250    3             .750    1   0-0 
+22    ;       Kyle McCord       ;  9; 0   ; 156    ; 1     ;  1     ;  3    ;   2    ;              .500   1              .500   0   0-0 
+31    ;       Kyler Sullivan    ; 14; 13  ; 1196   ; 0     ;  1     ;  1    ;        ;      4       .000          1       .250   0  0-0 
+6     ;       Greg Monaco       ; 16; 16  ; 1499   ; 0     ;  1     ;  1    ;        ;      3        .000         1        .333  0  0-0 
+15    ;       Mike Volk         ; 19; 19  ; 1754   ; 0     ;  0     ;  0    ;        ;      10        .000        1         .100    0   0-0 
+20    ;       Marcus Douglas    ; 13; 6   ; 657    ; 0     ;  0     ;  0    ;        ;      4          .000       3          .750   0   0-0 
+16    ;       Sean Hiller       ; 12; 7   ; 787    ; 0     ;  0     ;  0    ;        ;      3           .000      1           .333  0   0-0 
+13    ;       Conner Rezende    ;  5; 0   ; 93     ; 0     ;  0     ;  0    ;        ;      3            .000     0            .000     0   0-0 
+25    ;       Cameron Chavira   ;  1; 0   ; 6      ; 0     ;  0     ;  0    ;        ;      2             .000    1             .500    0   0-0 
+30    ;       Matt Mills        ;  3; 0   ; 32     ; 0     ;  0     ;  0    ;        ;      1              .000   1             1.000   0   0-0 
+4     ;       Grant Silvester   ;  8; 7   ; 641    ; 0     ;  0     ;  0    ;        ;      1               .000  0              .000   0   0-0 
+28    ;       Shane Cooke       ;  1; 1   ; 84     ; 0     ;  0     ;  0    ;        ;      0                .000                0       .000   0  0-0 
+24    ;       Trey Saunders     ;  1; 0   ; 5      ; 0     ;  0     ;  0    ;        ;      0                 .000               0        .000  0  0-0 
+3     ;       Matt Brown        ;  4; 1   ; 147    ; 0     ;  0     ;  0    ;        ;      0                  .000              0         .000    0   0-0 
+2     ;       Kevin McBride     ;  2; 1   ; 96     ; 0     ;  0     ;  0    ;        ;      0                   .000             0          .000   0   0-0 
 
 
 Season: 2010
 BlockSource: http://www.virginiasports.com/sports/m-soccer/stats/2010-2011/teamcume.html
 
 
-##           Player     GP-GS   Min     G       A       Pts     Sh      Shot%   SOG     SOG%    YC-RC   GW      PK-Att 
-10           Will Bates         17-17   1141    8       4       20      49       .163   21       .429   1-0     3      0-0 
-9            Brian Ownby        20-18   1477    7       3       17      65        .108  27        .415  4-0     2      0-0 
-23           Brian Span         20-18   1433    5       3       13      28         .179           17     .607   0-0    1   0-0 
-11           Jimmy Simpson      20-15   1213    4       1       9       20          .200          9       .450  3-0    1   0-0 
-16           Sean Hiller        20-19   1655    2       3       7       8            .250         3        .375        3-0     0  1-1 
-19           Ari Dimas          20-20   1719    2       4       8       18            .111        6         .333       2-0     2  1-2 
-12           Ahkeel Rodney      20-0    509     2       2       6       14             .143       7          .500      0-0     0  0-0 
-5            Bryan Lima          8-0    172     1       1       3       2               .500      1           .500     0-0     0  0-0 
-6            Greg Monaco        20-20  1759    1       0       2       8                .125     3            .375    2-0     1  0-0 
-7            Felipe Libreros    20-11  1063    1       1       3       13                .077    3             .231   1-0     0  0-0 
-17           Hunter Jumper      19-19  1612    1       0       2       18                 .056   5              .278  6-0     1  0-0 
-8            Sean Murnane       20-20  1764    1       4       6       13                  .077  5               .385         0-0    0  0-0 
-4            TJ Cyrus           20-4   820     0       2       2       9                    .000                 1             .111  2-0    0  0-0 
-28           Shane Cooke         6-0   113     0       0       0       0                     .000                0              .000        0-0    0  0-0 
-2            Kevin McBride       2-0          53      0       0       0                     0                    .000          0            .000  0-0    0  0-0 
-15           Mike Volk          20-19        1786    0       0       0                     4                     .000         1             .250        5-0    0  0-0 
-20           Marcus Douglas     14-0         226     0       3       3                     1                      .000        1             1.000       1-1    0  0-0 
-25           Cameron Chavira     3-0         51      0       0       0                     0                       .000       0              .000       0-0    0  0-0 
+*##           Player     GP-GS   Min     G       A       Pts     Sh      Shot%   SOG     SOG%    YC-RC   GW      PK-Att 
+
+10  ;         Will Bates      ;   17; 17 ;  1141  ;  8   ;    4  ;     20  ;    49   ;    .163   21       .429   1-0     3      0-0 
+9   ;         Brian Ownby     ;   20; 18 ;  1477  ;  7   ;    3  ;     17  ;    65   ;     .108  27        .415  4-0     2      0-0 
+23  ;         Brian Span      ;   20; 18 ;  1433  ;  5   ;    3  ;     13  ;    28   ;      .179           17     .607   0-0    1   0-0 
+11  ;         Jimmy Simpson   ;   20; 15 ;  1213  ;  4   ;    1  ;     9   ;    20   ;       .200          9       .450  3-0    1   0-0 
+16  ;         Sean Hiller     ;   20; 19 ;  1655  ;  2   ;    3  ;     7   ;    8    ;        .250         3        .375        3-0     0  1-1 
+19  ;         Ari Dimas       ;   20; 20 ;  1719  ;  2   ;    4  ;     8   ;    18   ;         .111        6         .333       2-0     2  1-2 
+12  ;         Ahkeel Rodney   ;   20; 0  ;   509  ;  2   ;    2  ;     6   ;    14   ;          .143       7          .500      0-0     0  0-0 
+5   ;         Bryan Lima      ;    8; 0  ;   172  ;  1   ;    1  ;     3   ;    2    ;           .500      1           .500     0-0     0  0-0 
+6   ;         Greg Monaco     ;   20; 20 ;  1759  ;  1   ;    0  ;     2   ;    8    ;            .125     3            .375    2-0     1  0-0 
+7   ;         Felipe Libreros ;   20; 11 ;  1063  ;  1   ;    1  ;     3   ;    13   ;             .077    3             .231   1-0     0  0-0 
+17  ;         Hunter Jumper   ;   19; 19 ;  1612  ;  1   ;    0  ;     2   ;    18   ;              .056   5              .278  6-0     1  0-0 
+8   ;         Sean Murnane    ;   20; 20 ;  1764  ;  1   ;    4  ;     6   ;    13   ;               .077  5               .385         0-0    0  0-0 
+4   ;         TJ Cyrus        ;   20; 4  ;   820  ;  0   ;    2  ;     2   ;    9    ;                .000                 1             .111  2-0    0  0-0 
+28  ;         Shane Cooke     ;    6; 0  ;   113  ;  0   ;    0  ;     0   ;    0    ;                 .000                0              .000        0-0    0  0-0 
+2   ;         Kevin McBride   ;    2; 0  ;    53  ;  0   ;    0  ;     0   ;    0    ;                .000          0            .000  0-0    0  0-0 
+15  ;         Mike Volk       ;   20; 19 ;  1786  ;  0   ;    0  ;     0   ;    4    ;                 .000         1             .250        5-0    0  0-0 
+20  ;         Marcus Douglas  ;   14; 0  ;   226  ;  0   ;    3  ;     3   ;    1    ;                  .000        1             1.000       1-1    0  0-0 
+25  ;         Cameron Chavira ;    3; 0  ;    51  ;  0   ;    0  ;     0   ;    0    ;                   .000       0              .000       0-0    0  0-0 
 
 
 Season: 2009
 BlockSource: http://www.virginiasports.com/sports/m-soccer/stats/2009-2010/teamcume.html
 
-25           Will Bates                 25-21   12      1       25      58       .207   5       0-0 
-23           Tony Tchani                24-23   8       4       20      63        .127  2       2-2 
-7            Neil Barlow                24-24   5       6       16      39         .128         4   0-0 
-12           Brian Ownby                15-6    3       1       7       33          .091        2   0-0 
-20           Chris Agorsor              13-10   2       2       6       21           .095       1   0-0 
-2            Jordan Evans               13-3    1       2       4       9             .111      0   0-0 
-19           Ari Dimas                  20-10   1       1       3       9              .111     1   0-0 
-17           Hunter Jumper              24-24   1       4       6       15              .067    0   0-0 
-15           Mike Volk                  25-24   1       0       2       3                .333   1   0-0 
-8            Ross LaBauex               22-22   1       1       3       12                .083  1   0-0 
-10           Jonathan Villanueva        25-22   1       2       4                 47     .021   1       0-0 
-6            Greg Monaco                25-25   1       1       3                 10      .100  0       0-0 
-4            T.J. Cyrus                 16-5    0       0       0                 8        .000         0   0-0 
-27           Sean Murnane                4-0    0       0       0                 0         .000        0   0-0 
-26           Ahkeel Rodney              12-1    0       0       0                 2          .000       0   0-0 
-21           Shawn Barry                24-24   0       2       2                 8           .000      0   0-0 
-16           Sean Hiller                13-1    0       0       0                 0            .000     0   0-0 
-13           Howard Turk                 7-0    0       0       0                 0             .000    0   0-0 
-11           Jimmy Simpson              11-3    0       0                 0             9        .000   0       0-0 
-9            Chase Neinken              17-2    0       1                 1             10        .000  0       0-0 
-1            Diego Restrepo             25-24   0       0                 0             0          .000         0   0-0 
+Key: number; name; games_played; games_started; goals; assists; points; shots; etc
+
+
+25    ;       Will Bates             ;    25; 21  ; 12    ;  1    ;   25   ;   58   ;    .207   5       0-0 
+23    ;       Tony Tchani            ;    24; 23  ; 8     ;  4    ;   20   ;   63   ;     .127  2       2-2 
+7     ;       Neil Barlow            ;    24; 24  ; 5     ;  6    ;   16   ;   39   ;      .128         4   0-0 
+12    ;       Brian Ownby            ;    15; 6   ; 3     ;  1    ;   7    ;   33   ;       .091        2   0-0 
+20    ;       Chris Agorsor          ;    13; 10  ; 2     ;  2    ;   6    ;   21   ;        .095       1   0-0 
+2     ;       Jordan Evans           ;    13; 3   ; 1     ;  2    ;   4    ;   9    ;         .111      0   0-0 
+19    ;       Ari Dimas              ;    20; 10  ; 1     ;  1    ;   3    ;   9    ;          .111     1   0-0 
+17    ;       Hunter Jumper          ;    24; 24  ; 1     ;  4    ;   6    ;   15   ;           .067    0   0-0 
+15    ;       Mike Volk              ;    25; 24  ; 1     ;  0    ;   2    ;   3    ;            .333   1   0-0 
+8     ;       Ross LaBauex           ;    22; 22  ; 1     ;  1    ;   3    ;   12   ;             .083  1   0-0 
+10    ;       Jonathan Villanueva    ;    25; 22  ; 1     ;  2    ;   4    ;   47   ;  .021   1       0-0 
+6     ;       Greg Monaco            ;    25; 25  ; 1     ;  1    ;   3    ;   10   ;   .100  0       0-0 
+4     ;       T.J. Cyrus             ;    16; 5   ; 0     ;  0    ;   0    ;   8    ;    .000         0   0-0 
+27    ;       Sean Murnane           ;     4; 0   ; 0     ;  0    ;   0    ;   0    ;     .000        0   0-0 
+26    ;       Ahkeel Rodney          ;    12; 1   ; 0     ;  0    ;   0    ;   2    ;      .000       0   0-0 
+21    ;       Shawn Barry            ;    24; 24  ; 0     ;  2    ;   2    ;   8    ;       .000      0   0-0 
+16    ;       Sean Hiller            ;    13; 1   ; 0     ;  0    ;   0    ;   0    ;        .000     0   0-0 
+13    ;       Howard Turk            ;     7; 0   ; 0     ;  0    ;   0    ;   0    ;         .000    0   0-0 
+11    ;       Jimmy Simpson          ;    11; 3   ; 0     ;  0    ;   0    ;   9    ;    .000   0       0-0 
+9     ;       Chase Neinken          ;    17; 2   ; 0     ;  1    ;   1    ;  10    ;    .000  0       0-0 
+1     ;       Diego Restrepo         ;    25; 24  ; 0     ;  0    ;   0    ;   0    ;      .000         0   0-0 
 
 
 Season: 2008
 BlockSource: http://www.virginiasports.com/sports/m-soccer/stats/2008-2009/teamcume.html
 
-23           Tony Tchani                13-12   9       3       21      40       .225   22       .550   2       4-4 
-11           Jimmy Simpson              20-12   6       3       15      23        .261  11        .478  1       0-0 
-27           Brian Ownby                19-14   5       4       14      47         .106           21     .447   2   0-0 
-9            Matt Mitchell              20-17   4       4       12      33          .121          14      .424  2   0-0 
-20           Chris Agorsor               7-5    4       0       8       17           .235         9        .529     1   0-0 
-10           Jonathan Villanueva        21-18   3       5       11           34            .088    16        .471   1   0-0 
-3            Matt Poole                 20-19   3       1       7            12             .250   6          .500  1   3-3 
-6            Chase Neinken              21-6    2       1       5            15              .133  7           .467     1   0-1 
-8            Ross LaBauex               19-17   2       4       8            22               .091             13        .591   0  0-0 
-28           Hunter Jumper              19-19   1       5       7            16                .062            8          .500  0  0-0 
-17           Greg Monaco                 3-0    0       0       0            0                  .000           0           .000    0   0-0 
-19           Nino DiMaggio               5-0   0       0       0            1                   .000          0            .000   0   0-0 
-24           Matt Weiler                12-9          0       0            0                   1              .000        1      1.000   0  0-0 
-2            Jordan Evans               13-1          0       0            0                   2               .000       0       .000   0  0-0 
-4            T.J. Cyrus                  7-1          0       0            0                   0                .000      0        .000  0  0-0 
-13           David Newman                1-0         0       0            0                   0                 .000     0         .000    0   0-0 
-26           Howard Turk                21-21       0       0            0                   2                  .000    1          .500   0   0-0 
-7            Neil Barlow                21-12       0       5            5                   19                  .000   9           .474  0   0-0 
-15           Robby Rogers                8-4        0       0            0                   0                    .000  0            .000     0   0-0 
-21           Shawn Barry                21-18      0       0            0                   1                     .000              0         .000   0  0-0 
-5            Karter Smith               12-5       0       0            0                   2                      .000             0          .000  0  0-0 
+23    ;       Tony Tchani              ;  13; 12  ; 9      ; 3     ;  21   ;   40  ;     .225   22       .550   2       4-4 
+11    ;       Jimmy Simpson            ;  20; 12  ; 6      ; 3     ;  15   ;   23  ;      .261  11        .478  1       0-0 
+27    ;       Brian Ownby              ;  19; 14  ; 5      ; 4     ;  14   ;   47  ;       .106           21     .447   2   0-0 
+9     ;       Matt Mitchell            ;  20; 17  ; 4      ; 4     ;  12   ;   33  ;        .121          14      .424  2   0-0 
+20    ;       Chris Agorsor            ;   7; 5   ; 4      ; 0     ;  8    ;   17  ;         .235         9        .529     1   0-0 
+10    ;       Jonathan Villanueva      ;  21; 18  ; 3      ; 5     ;  11   ;   34  ;          .088    16        .471   1   0-0 
+3     ;       Matt Poole               ;  20; 19  ; 3      ; 1     ;  7    ;   12  ;           .250   6          .500  1   3-3 
+6     ;       Chase Neinken            ;  21; 6   ; 2      ; 1     ;  5    ;   15  ;            .133  7           .467     1   0-1 
+8     ;       Ross LaBauex             ;  19; 17  ; 2      ; 4     ;  8    ;   22  ;             .091             13        .591   0  0-0 
+28    ;       Hunter Jumper            ;  19; 19  ; 1      ; 5     ;  7    ;   16  ;              .062            8          .500  0  0-0 
+17    ;       Greg Monaco              ;   3; 0   ; 0      ; 0     ;  0    ;   0   ;               .000           0           .000    0   0-0 
+19    ;       Nino DiMaggio            ;   5; 0   ; 0      ; 0     ;  0    ;   1   ;                .000          0            .000   0   0-0 
+24    ;       Matt Weiler              ;  12; 9   ; 0      ; 0     ;  0    ;   1   ;           .000        1      1.000   0  0-0 
+2     ;       Jordan Evans             ;  13; 1   ; 0      ; 0     ;  0    ;   2   ;            .000       0       .000   0  0-0 
+4     ;       T.J. Cyrus               ;   7; 1   ; 0      ; 0     ;  0    ;   0   ;             .000      0        .000  0  0-0 
+13    ;       David Newman             ;   1; 0   ; 0      ; 0     ;  0    ;   0   ;              .000     0         .000    0   0-0 
+26    ;       Howard Turk              ;  21; 21  ; 0      ; 0     ;  0    ;   2   ;               .000    1          .500   0   0-0 
+7     ;       Neil Barlow              ;  21; 12  ; 0      ; 5     ;  5    ;   19  ;                .000   9           .474  0   0-0 
+15    ;       Robby Rogers             ;   8; 4   ; 0      ; 0     ;  0    ;   0   ;                 .000  0            .000     0   0-0 
+21    ;       Shawn Barry              ;  21; 18  ; 0      ; 0     ;  0    ;   1   ;                  .000              0         .000   0  0-0 
+5     ;       Karter Smith             ;  12; 5   ; 0      ; 0     ;  0    ;   2   ;                   .000             0          .000  0  0-0 
 
 
 Season: 2007
 BlockSource: http://www.virginiasports.com/sports/m-soccer/stats/2007-2008/teamcume.html
 
-11           Yannick Reyering           15-13   1124    12      0       24      41       .293   27       .659   4       4-4 
-2            Chris Tierney              20-17   1496    7       7       21      39        .179  21        .538  2       2-2 
-8            Ross LaBauex               20-16   1355    7       3       17      22         .318           12     .545   3   0-0 
-12           Neil Barlow                19-19   1499    3       5       11      21          .143          11      .524  1   0-0 
-10           Jonathan Villanueva        20-16   1361    2       5       9           35             .057   12     .343   0  0-0 
-7            Jeremy Barlow              17-14   1237    1       6       8           22              .045  12      .545  0  0-0 
-9            Matt Mitchell              18-16   1147    3       1       7           30               .100         15     .500  0  0-0 
-23           Matt Ayotte                18-4    589     3       1       7           17                .176        9       .529    1   0-0 
-16           Will Hall                  14-5    598     1       1       3           7                  .143       2        .286   0   1-1 
-17           Dane Murphy                20-16   1336    1       0       2           13                  .077      5         .385  1   0-0 
-6            Jason Kim                  13-3    357     1       0       2           8                    .125     3          .375     0   0-0 
-19           Nino DiMaggio               6-0    84      1       0       2           3                     .333    1           .333    0   0-0 
-13           Chase Neinken              20-1   601     0       1       1           6                      .000   5            .833   0   0-0 
-5            Colin Givens               12-9   752     0       1       1           4                       .000  1             .250  0   0-0 
-18           Dan Louisignau              7-6   609     0       1       1           0                        .000               0      .000   0  0-0 
-4            T.J. Cyrus                 15-6          602     0       1           1                        0                   .000  0       .000  0  0-0 
-3            Matt Poole                 20-18         1782    0       0           0                        7                    .000         1      .143  0  0-0 
-30           Karter Smith               11-5          491     0       0           0                        3                     .000        0       .000    0   0-0 
-15           Zola Short                 20-20         1788    0       0           0                        2                      .000       0        .000   0   0-0 
-25           Jimmy Simpson               2-0          28      0       0           0                        1                       .000      1        1.000  0   0-0 
-26           David Newman                1-0         6       0       0           0                        0                        .000     0         .000  0   0-0 
-24           Matt Williams              12-12       1049    0       0           0                        0                         .000    0          .000     0   0-0 
-22           Kyle Rudzinski              2-1        33      0       0           0                        0                          .000   0           .000    0   0-0 
-21           Henry Tembon                3-0       21      0       0           0                        0                           .000  0            .000   0   0-0 
-20           Xavier Rock                 4-0      42      0       0           0                        0                            .000              0       .000   0  0-0 
-1            Michael Giallombardo       14-14    1293    0       0           0                        0                             .000             0        .000  0  0-0 
+Key: number; name; games_played; games_started; minutes; goals; assists; points; shots; etc
+
+
+11       ;    Yannick Reyering        ;   15; 13 ;  1124   ; 12  ;    0   ;    24   ;   41   ;    .293   27       .659   4       4-4 
+2        ;    Chris Tierney           ;   20; 17 ;  1496   ; 7   ;    7   ;    21   ;   39   ;     .179  21        .538  2       2-2 
+8        ;    Ross LaBauex            ;   20; 16 ;  1355   ; 7   ;    3   ;    17   ;   22   ;      .318           12     .545   3   0-0 
+12       ;    Neil Barlow             ;   19; 19 ;  1499   ; 3   ;    5   ;    11   ;   21   ;       .143          11      .524  1   0-0 
+10       ;    Jonathan Villanueva     ;   20; 16 ;  1361   ; 2   ;    5   ;    9    ;   35   ;          .057   12     .343   0  0-0 
+7        ;    Jeremy Barlow           ;   17; 14 ;  1237   ; 1   ;    6   ;    8    ;   22   ;           .045  12      .545  0  0-0 
+9        ;    Matt Mitchell           ;   18; 16 ;  1147   ; 3   ;    1   ;    7    ;   30   ;            .100         15     .500  0  0-0 
+23       ;    Matt Ayotte             ;   18; 4  ;   589   ; 3   ;    1   ;    7    ;   17   ;             .176        9       .529    1   0-0 
+16       ;    Will Hall               ;   14; 5  ;   598   ; 1   ;    1   ;    3    ;   7    ;              .143       2        .286   0   1-1 
+17       ;    Dane Murphy             ;   20; 16 ;  1336   ; 1   ;    0   ;    2    ;   13   ;               .077      5         .385  1   0-0 
+6        ;    Jason Kim               ;   13; 3  ;   357   ; 1   ;    0   ;    2    ;   8    ;                .125     3          .375     0   0-0 
+19       ;    Nino DiMaggio           ;    6; 0  ;    84   ; 1   ;    0   ;    2    ;   3    ;                 .333    1           .333    0   0-0 
+13       ;    Chase Neinken           ;   20; 1  ;   601   ; 0   ;    1   ;    1    ;   6    ;                  .000   5            .833   0   0-0 
+5        ;    Colin Givens            ;   12; 9  ;   752   ; 0   ;    1   ;    1    ;   4    ;                   .000  1             .250  0   0-0 
+18       ;    Dan Louisignau          ;    7; 6  ;   609   ; 0   ;    1   ;    1    ;   0    ;                    .000               0      .000   0  0-0 
+4        ;    T.J. Cyrus              ;   15; 6  ;   602   ; 0   ;    1   ;    1    ;   0    ;               .000  0       .000  0  0-0 
+3        ;    Matt Poole              ;   20; 18 ;  1782   ; 0   ;    0   ;    0    ;   7    ;                .000         1      .143  0  0-0 
+30       ;    Karter Smith            ;   11; 5  ;   491   ; 0   ;    0   ;    0    ;   3    ;                 .000        0       .000    0   0-0 
+15       ;    Zola Short              ;   20; 20 ;  1788   ; 0   ;    0   ;    0    ;   2    ;                  .000       0        .000   0   0-0 
+25       ;    Jimmy Simpson           ;    2; 0  ;    28   ; 0   ;    0   ;    0    ;   1    ;                   .000      1        1.000  0   0-0 
+26       ;    David Newman            ;    1; 0  ;     6   ; 0   ;    0   ;    0    ;   0    ;                    .000     0         .000  0   0-0 
+24       ;    Matt Williams           ;   12; 12 ;  1049   ; 0   ;    0   ;    0    ;   0    ;                     .000    0          .000     0   0-0 
+22       ;    Kyle Rudzinski          ;    2; 1  ;    33   ; 0   ;    0   ;    0    ;   0    ;                      .000   0           .000    0   0-0 
+21       ;    Henry Tembon            ;    3; 0  ;    21   ; 0   ;    0   ;    0    ;   0    ;                       .000  0            .000   0   0-0 
+20       ;    Xavier Rock             ;    4; 0  ;    42   ; 0   ;    0   ;    0    ;   0    ;                        .000              0       .000   0  0-0 
+1        ;    Michael Giallombardo    ;   14; 14 ;  1293   ; 0   ;    0   ;    0    ;   0    ;                         .000             0        .000  0  0-0 
 
 
 Season: 2006
 BlockSource: http://www.virginiasports.com/sports/m-soccer/stats/2006-2007/teamcume.html
 
-11 Yannick Reyering     22-21 1867  12   8  32  79  .152  45  .570  6   3-3
-9  Adam Cristman        22-19 1559  10   5  25  62  .161  31  .500  3   0-0
-8  Nico Colaluca        22-22 1778   7  10  24  61  .115  36  .590  3   0-0
-10 Jonathan Villanueva  21-19 1387   3   5  11  34  .088  13  .382  2   0-0
-6  Ian Holder           22-19 1618   3   2   8  27  .111  15  .556  0   0-0
-7  Jeremy Barlow        18-5   799   2   2   6  14  .143   7  .500  2   0-0
-17 Dane Murphy          21-20 1367   1   2   4  13  .077   5  .385  1   0-0
-2  Chris Tierney        18-1   346   1   1   3   6  .167   4  .667  0   0-0
-19 Sean Hinkle          20-4   635   0   2   2   3  .000   1  .333  0   0-0
-3  Matt Poole           22-21 1998   0   1   1   7  .000   1  .143  0   0-0
-23 Matt Ayotte           9-1   172   0   1   1   3  .000   1  .333  0   0-0
-15 Zola Short           22-21 1895   0   1   1   2  .000   1  .500  0   0-0
-13 Matt Mitchell         6-1   177   0   0   0  10  .000   6  .600  0   0-0
-4  Bakary Soumare       21-20 1839   0   0   0   7  .000   1  .143  0   0-0
-29 Neil Barlow           3-0   117   0   0   0   2  .000   0  .000  0   0-0
-21 Ross LaBauex         10-0   210   0   0   0   1  .000   1 1.000  0   0-0
-5  Robby Rogers         10-1   219   0   0   0   1  .000   1 1.000  0   0-0
-28 Nino DiMaggio         1-0    14   0   0   0   0  .000   0  .000  0   0-0
-25 Lee Sandwina          6-3   207   0   0   0   0  .000   0  .000  0   0-0
-24 Matt Williams        22-22 1978   0   0   0   0  .000   0  .000  0   0-0
-12 Drew Harrison         2-0    23   0   0   0   0  .000   0  .000  0   0-0
+11; Yannick Reyering    ; 22; 21; 1867 ; 12 ;  8 ; 32 ; 79 ; .152  45  .570  6   3-3
+9 ; Adam Cristman       ; 22; 19; 1559 ; 10 ;  5 ; 25 ; 62 ; .161  31  .500  3   0-0
+8 ; Nico Colaluca       ; 22; 22; 1778 ;  7 ; 10 ; 24 ; 61 ; .115  36  .590  3   0-0
+10; Jonathan Villanueva ; 21; 19; 1387 ;  3 ;  5 ; 11 ; 34 ; .088  13  .382  2   0-0
+6 ; Ian Holder          ; 22; 19; 1618 ;  3 ;  2 ;  8 ; 27 ; .111  15  .556  0   0-0
+7 ; Jeremy Barlow       ; 18; 5 ;  799 ;  2 ;  2 ;  6 ; 14 ; .143   7  .500  2   0-0
+17; Dane Murphy         ; 21; 20; 1367 ;  1 ;  2 ;  4 ; 13 ; .077   5  .385  1   0-0
+2 ; Chris Tierney       ; 18; 1 ;  346 ;  1 ;  1 ;  3 ;  6 ; .167   4  .667  0   0-0
+19; Sean Hinkle         ; 20; 4 ;  635 ;  0 ;  2 ;  2 ;  3 ; .000   1  .333  0   0-0
+3 ; Matt Poole          ; 22; 21; 1998 ;  0 ;  1 ;  1 ;  7 ; .000   1  .143  0   0-0
+23; Matt Ayotte         ;  9; 1 ;  172 ;  0 ;  1 ;  1 ;  3 ; .000   1  .333  0   0-0
+15; Zola Short          ; 22; 21; 1895 ;  0 ;  1 ;  1 ;  2 ; .000   1  .500  0   0-0
+13; Matt Mitchell       ;  6; 1 ;  177 ;  0 ;  0 ;  0 ; 10 ; .000   6  .600  0   0-0
+4 ; Bakary Soumare      ; 21; 20; 1839 ;  0 ;  0 ;  0 ;  7 ; .000   1  .143  0   0-0
+29; Neil Barlow         ;  3; 0 ;  117 ;  0 ;  0 ;  0 ;  2 ; .000   0  .000  0   0-0
+21; Ross LaBauex        ; 10; 0 ;  210 ;  0 ;  0 ;  0 ;  1 ; .000   1 1.000  0   0-0
+5 ; Robby Rogers        ; 10; 1 ;  219 ;  0 ;  0 ;  0 ;  1 ; .000   1 1.000  0   0-0
+28; Nino DiMaggio       ;  1; 0 ;   14 ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
+25; Lee Sandwina        ;  6; 3 ;  207 ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
+24; Matt Williams       ; 22; 22; 1978 ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
+12; Drew Harrison       ;  2; 0 ;   23 ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
 
 
 Season: 2005
 BlockSource: http://www.virginiasports.com/sports/m-soccer/stats/2005-2006/teamcume.html
 
-11 Yannick Reyering     18-18 1544  14   2  30  60  .233  29  .483  5   1-1
-9  Adam Cristman        18-17 1398   7   6  20  42  .167  21  .500  4   0-0
-7  Jeremy Barlow        20-16 1435   2   9  13  19  .105   8  .421  0   0-0
-10 Joe Vide             19-16 1318   3   3   9  34  .088  12  .353  1   0-0
-6  Ian Holder           20-8   976   3   3   9  26  .115  14  .538  1   0-0
-8  Nico Colaluca        17-17 1367   2   3   7  25  .080  13  .520  0   0-1
-17 Dane Murphy          14-13  958   2   1   5  13  .154   6  .462  0   0-0
-2  Chris Tierney        19-17 1506   0   5   5  10  .000   3  .300  0   0-0
-21 David Rosenbaum      14-1   260   1   1   3   3  .333   2  .667  1   0-0
-26 Jimmy Taranto         7-0   146   1   0   2   5  .200   1  .200  0   0-0
-13 Milovan Milosevic     5-1   136   1   0   2   2  .500   1  .500  0   0-0
-28 Nino DiMaggio         1-0    14   1   0   2   1 1.000   1 1.000  0   0-0
-16 Will Hall            20-12 1349   0   2   2  15  .000   7  .467  0   0-0
-12 Drew Harrison         7-1   218   0   1   1   6  .000   2  .333  0   0-0
-3  Matt Poole           20-19 1838   0   1   1   1  .000   1 1.000  0   0-0
-25 Lee Sandwina         20-18 1647   0   0   0   8  .000   4  .500  0   0-0
-15 Zola Short           20-17 1654   0   0   0   5  .000   3  .600  0   0-0
-23 Matt Ayotte           6-0    89   0   0   0   3  .000   0  .000  0   0-0
-5  Robby Rogers         13-8   740   0   0   0   1  .000   1 1.000  0   0-0
-24 Matt Williams         5-1   113   0   0   0   0  .000   0  .000  0   0-0
-20 Gifford Okatah-Boi    5-0    93   0   0   0   0  .000   0  .000  0   0-0
-4  Bakary Soumare        1-0     1   0   0   0   0  .000   0  .000  0   0-0
-1  Ryan Burke           20-21 1883   0   0   0   0  .000   0  .000  0   0-0
+11; Yannick Reyering    ; 18; 18; 1544 ; 14 ;  2 ; 30 ; 60 ; .233  29  .483  5   1-1
+9 ; Adam Cristman       ; 18; 17; 1398 ;  7 ;  6 ; 20 ; 42 ; .167  21  .500  4   0-0
+7 ; Jeremy Barlow       ; 20; 16; 1435 ;  2 ;  9 ; 13 ; 19 ; .105   8  .421  0   0-0
+10; Joe Vide            ; 19; 16; 1318 ;  3 ;  3 ;  9 ; 34 ; .088  12  .353  1   0-0
+6 ; Ian Holder          ; 20; 8 ;  976 ;  3 ;  3 ;  9 ; 26 ; .115  14  .538  1   0-0
+8 ; Nico Colaluca       ; 17; 17; 1367 ;  2 ;  3 ;  7 ; 25 ; .080  13  .520  0   0-1
+17; Dane Murphy         ; 14; 13;  958 ;  2 ;  1 ;  5 ; 13 ; .154   6  .462  0   0-0
+2 ; Chris Tierney       ; 19; 17; 1506 ;  0 ;  5 ;  5 ; 10 ; .000   3  .300  0   0-0
+21; David Rosenbaum     ; 14; 1 ;  260 ;  1 ;  1 ;  3 ;  3 ; .333   2  .667  1   0-0
+26; Jimmy Taranto       ;  7; 0 ;  146 ;  1 ;  0 ;  2 ;  5 ; .200   1  .200  0   0-0
+13; Milovan Milosevic   ;  5; 1 ;  136 ;  1 ;  0 ;  2 ;  2 ; .500   1  .500  0   0-0
+28; Nino DiMaggio       ;  1; 0 ;   14 ;  1 ;  0 ;  2 ;  1 ;1.000   1 1.000  0   0-0
+16; Will Hall           ; 20; 12; 1349 ;  0 ;  2 ;  2 ; 15 ; .000   7  .467  0   0-0
+12; Drew Harrison       ;  7; 1 ;  218 ;  0 ;  1 ;  1 ;  6 ; .000   2  .333  0   0-0
+3 ; Matt Poole          ; 20; 19; 1838 ;  0 ;  1 ;  1 ;  1 ; .000   1 1.000  0   0-0
+25; Lee Sandwina        ; 20; 18; 1647 ;  0 ;  0 ;  0 ;  8 ; .000   4  .500  0   0-0
+15; Zola Short          ; 20; 17; 1654 ;  0 ;  0 ;  0 ;  5 ; .000   3  .600  0   0-0
+23; Matt Ayotte         ;  6; 0 ;   89 ;  0 ;  0 ;  0 ;  3 ; .000   0  .000  0   0-0
+5 ; Robby Rogers        ; 13; 8 ;  740 ;  0 ;  0 ;  0 ;  1 ; .000   1 1.000  0   0-0
+24; Matt Williams       ;  5; 1 ;  113 ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
+20; Gifford Okatah-Boi  ;  5; 0 ;   93 ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
+4 ; Bakary Soumare      ;  1; 0 ;    1 ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
+1 ; Ryan Burke          ; 20; 21; 1883 ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
 
 
 Season: 2003
@@ -227,55 +237,57 @@ BlockSource: http://www.virginiasports.com/sports/m-soccer/archive/071504aaa.htm
 
 * ## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW PK   
 
- 9  Adam Cristman        23-22   8   1  17  62  .129  29  .468   2-0   5  0    
- 7  Mike Littlefield     23-22   4   6  14  35  .114  11  .314   1-0   3  0    
- 3  John Hartman         23-23   2   3   7  15  .133   6  .400   5-0   0  1    
- 21 Ian Holder           23-7    2   1   5  25  .080  12  .480   2-0   0  0    
- 16 Will Hall            23-22   1   3   5  40  .025  15  .375   0-0   1  0    
- 2  Jeff Tuman           22-22   2   0   4   9  .222   3  .333   1-0   1  0    
- 24 Chris Megaloudis      8-0    2   0   4   6  .333   5  .833   0-0   0  1    
- 5  Matt Oliver          18-18   2   0   4   6  .333   2  .333   4-0   0  0    
- 10 Joe Vide             21-15   0   4   4  42  .000  11  .262   1-0   0  0    
- 8  Hunter Freeman       21-21   0   4   4   6  .000   1  .167   6-0   0  0    
- 15 Phillip Long         13-11   1   1   3  14  .071   6  .429   2-0   0  0    
- 25 Zane Hill            17-12   1   1   3   5  .200   1  .200   0-0   0  0    
- 19 Sean Hinkle          16-3    1   1   3   5  .200   2  .400   1-0   0  0    
- 12 Drew Harrison        14-4    1   0   2  11  .091   5  .455   0-0   0  0    
- 4  Paul Johnson         15-8    1   0   2   9  .111   5  .556   2-0   0  0    
- 6  Kirk Dinnall         20-19   0   2   2  32  .000  15  .469   3-0   0  0    
- 17 Martin Burwell        5-1    0   0   0   5  .000   2  .400   0-0   0  0    
- 13 Brian Yi             11-0    0   0   0   4  .000   1  .250   1-0   0  0    
- 27 Ryan Burke           16-0    0   0   0   0  .000   0  .000   0-0   0  0    
- 20 Gifford Okatah-Boi    8-0    0   0   0   0  .000   0  .000   0-0   0  0    
- 18 Joe Villanueva        1-0    0   0   0   0  .000   0  .000   0-0   0  0    
- 1  Ryan Best             8-0    0   0   0   0  .000   0  .000   0-0   0  0    
+Key: number; name; games_played; games_started; goals; assists; points; shots; etc
+
+ 9 ; Adam Cristman       ; 23; 22 ;  8 ;  1 ; 17 ; 62;  .129  29  .468   2-0   5  0    
+ 7;  Mike Littlefield   ;  23; 22 ;  4 ;  6 ; 14 ; 35;  .114  11  .314   1-0   3  0    
+ 3;  John Hartman       ;  23; 23 ;  2 ;  3 ;  7 ; 15;  .133   6  .400   5-0   0  1    
+ 21; Ian Holder         ;  23; 7  ;  2 ;  1 ;  5 ; 25;  .080  12  .480   2-0   0  0    
+ 16; Will Hall          ;  23; 22 ;  1 ;  3 ;  5 ; 40;  .025  15  .375   0-0   1  0    
+ 2 ; Jeff Tuman         ;  22; 22 ;  2 ;  0 ;  4 ;  9;  .222   3  .333   1-0   1  0    
+ 24; Chris Megaloudis   ;   8; 0  ;  2 ;  0 ;  4 ;  6;  .333   5  .833   0-0   0  1    
+ 5 ; Matt Oliver        ;  18; 18 ;  2 ;  0 ;  4 ;  6;  .333   2  .333   4-0   0  0    
+ 10; Joe Vide           ;  21; 15 ;  0 ;  4 ;  4 ; 42;  .000  11  .262   1-0   0  0    
+ 8 ; Hunter Freeman     ;  21; 21 ;  0 ;  4 ;  4 ;  6;  .000   1  .167   6-0   0  0    
+ 15; Phillip Long       ;  13; 11 ;  1 ;  1 ;  3 ; 14;  .071   6  .429   2-0   0  0    
+ 25; Zane Hill          ;  17; 12 ;  1 ;  1 ;  3 ;  5;  .200   1  .200   0-0   0  0    
+ 19; Sean Hinkle        ;  16; 3  ;  1 ;  1 ;  3 ;  5;  .200   2  .400   1-0   0  0    
+ 12; Drew Harrison      ;  14; 4  ;  1 ;  0 ;  2 ; 11;  .091   5  .455   0-0   0  0    
+ 4 ; Paul Johnson       ;  15; 8  ;  1 ;  0 ;  2 ;  9;  .111   5  .556   2-0   0  0    
+ 6 ; Kirk Dinnall       ;  20; 19 ;  0 ;  2 ;  2 ; 32;  .000  15  .469   3-0   0  0    
+ 17; Martin Burwell     ;   5; 1  ;  0 ;  0 ;  0 ;  5;  .000   2  .400   0-0   0  0    
+ 13; Brian Yi           ;  11; 0  ;  0 ;  0 ;  0 ;  4;  .000   1  .250   1-0   0  0    
+ 27; Ryan Burke         ;  16; 0  ;  0 ;  0 ;  0 ;  0;  .000   0  .000   0-0   0  0    
+ 20; Gifford Okatah-Boi ;   8; 0  ;  0 ;  0 ;  0 ;  0;  .000   0  .000   0-0   0  0    
+ 18; Joe Villanueva     ;   1; 0  ;  0 ;  0 ;  0 ;  0;  .000   0  .000   0-0   0  0    
+ 1 ; Ryan Best          ;   8; 0  ;  0 ;  0 ;  0 ;  0;  .000   0  .000   0-0   0  0    
 
 
 Season: 2001
 BlockSource: http://www.virginiasports.com/sports/m-soccer/stats/080702aaa.html
 
- 7  Ryan Gibbs           17-14   9   5  23  59  .153  35  .593   0-0   5  0    
- 11 Alecko Eskandarian   16-14   9   3  21  69  .130  31  .449   3-0   5  0   
- 16 Kyle Martino         18-18   6   8  20  44  .136  22  .500   3-0   3  2   
- 13 Jacob LeBlanc        20-20   2   6  10  22  .091  11  .500   3-0   0  0   
- 19 Kenny Arena          19-19   3   3   9  23  .130   9  .391   6-0   1  0   
- 4  Eric Solomon         16-1    2   3   7  19  .105   7  .368   0-0   0  1   
- 10 Steve Totten         20-17   2   2   6  26  .077  10  .385   2-0   1  0   
- 17 Jonathan Cole        18-18   2   2   6  15  .133   8  .533   3-0   2  0   
- 24 Chris Megaloudis      5-0    2   1   5   4  .500   3  .750   0-0   0  0   
- 9  Sheldon Barnes       10-5    1   2   4  24  .042   6  .250   3-0   0  0   
- 21 Sean Feeney          12-1    1   1   3   3  .333   2  .667   1-0   0  0   
- 6  Kirk Dinnal          20-12   0   3   3  12  .000   4  .333   0-0   0  0   
- 8  Marshall Leonard     19-19   0   3   3   5  .000   0  .000   3-0   0  0   
- 5  Matt Oliver          19-19   0   1   1  10  .000   1  .100   1-0   0  0   
- 25 Zane Hill             5-0    0   0   0   2  .000   0  .000   0-0   0  0   
- 20 Curtis Bush          17-14   0   0   0   2  .000   1  .500   1-0   0  0   
- 3  John Hartman         13-5    0   0   0   1  .000   1 1.000   1-0   0  0   
- 27 David Comfort        17-0    0   0   0   0  .000   0  .000   1-0   0  0   
- 22 Chris Fehrle          6-3    0   0   0   0  .000   0  .000   0-0   0  0   
- 18 Matt Beran            3-1    0   0   0   0  .000   0  .000   0-0   0  0   
- 2  Jeff Tuman            3-0    0   0   0   0  .000   0  .000   0-0   0  0   
- 1  Kyle Singer           4-0    0   0   0   0  .000   0  .000   0-0   0  0   
+ 7 ; Ryan Gibbs          ; 17; 14 ;  9 ;  5 ; 23 ; 59 ; .153  35  .593   0-0   5  0    
+ 11; Alecko Eskandarian  ; 16; 14 ;  9 ;  3 ; 21 ; 69 ; .130  31  .449   3-0   5  0   
+ 16; Kyle Martino        ; 18; 18 ;  6 ;  8 ; 20 ; 44 ; .136  22  .500   3-0   3  2   
+ 13; Jacob LeBlanc       ; 20; 20 ;  2 ;  6 ; 10 ; 22 ; .091  11  .500   3-0   0  0   
+ 19; Kenny Arena         ; 19; 19 ;  3 ;  3 ;  9 ; 23 ; .130   9  .391   6-0   1  0   
+ 4 ; Eric Solomon        ; 16; 1  ;  2 ;  3 ;  7 ; 19 ; .105   7  .368   0-0   0  1   
+ 10; Steve Totten        ; 20; 17 ;  2 ;  2 ;  6 ; 26 ; .077  10  .385   2-0   1  0   
+ 17; Jonathan Cole       ; 18; 18 ;  2 ;  2 ;  6 ; 15 ; .133   8  .533   3-0   2  0   
+ 24; Chris Megaloudis    ;  5; 0  ;  2 ;  1 ;  5 ;  4 ; .500   3  .750   0-0   0  0   
+ 9 ; Sheldon Barnes      ; 10; 5  ;  1 ;  2 ;  4 ; 24 ; .042   6  .250   3-0   0  0   
+ 21; Sean Feeney         ; 12; 1  ;  1 ;  1 ;  3 ;  3 ; .333   2  .667   1-0   0  0   
+ 6 ; Kirk Dinnal         ; 20; 12 ;  0 ;  3 ;  3 ; 12 ; .000   4  .333   0-0   0  0   
+ 8 ; Marshall Leonard    ; 19; 19 ;  0 ;  3 ;  3 ;  5 ; .000   0  .000   3-0   0  0   
+ 5 ; Matt Oliver         ; 19; 19 ;  0 ;  1 ;  1 ; 10 ; .000   1  .100   1-0   0  0   
+ 25; Zane Hill           ;  5; 0  ;  0 ;  0 ;  0 ;  2 ; .000   0  .000   0-0   0  0   
+ 20; Curtis Bush         ; 17; 14 ;  0 ;  0 ;  0 ;  2 ; .000   1  .500   1-0   0  0   
+ 3 ; John Hartman        ; 13; 5  ;  0 ;  0 ;  0 ;  1 ; .000   1 1.000   1-0   0  0   
+ 27; David Comfort       ; 17; 0  ;  0 ;  0 ;  0 ;  0 ; .000   0  .000   1-0   0  0   
+ 22; Chris Fehrle        ;  6; 3  ;  0 ;  0 ;  0 ;  0 ; .000   0  .000   0-0   0  0   
+ 18; Matt Beran          ;  3; 1  ;  0 ;  0 ;  0 ;  0 ; .000   0  .000   0-0   0  0   
+ 2 ; Jeff Tuman          ;  3; 0  ;  0 ;  0 ;  0 ;  0 ; .000   0  .000   0-0   0  0   
+ 1 ; Kyle Singer         ;  4; 0  ;  0 ;  0 ;  0 ;  0 ; .000   0  .000   0-0   0  0   
 
 Season: 2000
 BlockSource: http://www.virginiasports.com/sports/m-soccer/archive/061001aaa.html
@@ -283,53 +295,58 @@ BlockSource: http://www.virginiasports.com/sports/m-soccer/archive/061001aaa.htm
 *Player                  GP      GS      Min.    Sh.     G       A       Pts     GWG     GWA     YC
 
 
-Alecko Eskandarian      24      22      1858    102     16      6       38      4       3       3
-Ryan Gibbs                      22      16      1367    41      12      5       29      5       1       1
-Steve Totten                            21      21      1725    37      8       5       21      1       2       2
-Sheldon Barnes    24      6       857     35      6       5       17      1       1       2
-Kyle Martino              22      22      1647    41      4       6       14      1       1 1
-Jonathan Cole                     24      24      2197    12      3       4       10      1 2 5
-Ryan Kelly                                22      14      1180    43      4       0       8 1 0 4
-Eric Solomon                                      20      5       659     22      1       6 8 0 2 1
-Kenny Arena                                               22      21      1832    21      3 1 7 1 0 8
-Marshall Leonard                                          24      24      2173    13      1 5 7 0 2 4
-Ryan Trout                                                        16      12      1076    27  1 4 6 1 1 2
-Jacob LeBlanc           24      5       928 7 1 2 4 0 0 1
-Curtis Bush                     19      5   722 7 1 1 3 0 1 1
-Chad Prince                             20  20  1698  0 0 1 1 0 0 2
-Mike Feller                                 23  23    2065  1 0 0 0 0 0 5
-David Comfort                                   13    13    1200  0 0 0 0 0 0 0
-Kyle Singer                                           11    11    1018  0 0 0 0 0 0 0
-Rob Wright                                                  9     0     118 1 0 0 0 0 0 0
-Sean Feeney                                                       6     0   100 1 0 0 0 0 0 0
-Neil Bianco                                                             5   0   98  0 0 0 0 0 0 0
-Matt Beran                                                                  4   0   68  0 0 0 0 0 0 0
-Nelson Cupello                                                                  1   0   21  0 0 0 0 0 0 0
-Mahatha Oliver                                                                      0   0   0 0 0 0 0 0 0 0
-B. Mayer-Aschhoff                                                                   0   0   0 0 0 0 0 0 0 0
-Carter Burgess                                                                          0   0 0 0 0 0 0 0 0 0
+Key: name; games_played; games_started; minutes; shots; goals; assists; points; gwg; gwa; yc
+
+Alecko Eskandarian     ; 24     ; 22  ;    1858  ;  102   ;  16; 6; 38   ;   4; 3; 3
+Ryan Gibbs             ; 22     ; 16  ;    1367  ;  41    ;  12; 5; 29   ;   5; 1; 1
+Steve Totten           ; 21     ; 21  ;    1725  ;  37    ;  8 ; 5; 21   ;   1; 2; 2
+Sheldon Barnes         ; 24     ; 6   ;    857   ;  35    ;  6 ; 5; 17   ;   1; 1; 2
+Kyle Martino           ; 22     ; 22  ;    1647  ;  41    ;  4 ; 6; 14   ;   1; 1; 1
+Jonathan Cole          ; 24     ; 24  ;    2197  ;  12    ;  3 ; 4; 10   ;   1; 2; 5
+Ryan Kelly             ; 22     ; 14  ;    1180  ;  43    ;  4 ; 0; 8    ;   1; 0; 4
+Eric Solomon           ; 20     ; 5   ;    659   ;  22    ;  1 ; 6; 8    ;   0; 2; 1
+Kenny Arena            ; 22     ; 21  ;    1832  ;  21    ;  3 ; 1; 7    ;   1; 0; 8
+Marshall Leonard       ; 24     ; 24  ;    2173  ;  13    ;  1 ; 5; 7    ;   0; 2; 4
+Ryan Trout             ; 16     ; 12  ;    1076  ;  27    ;  1 ; 4; 6    ;   1; 1; 2
+Jacob LeBlanc          ; 24     ; 5   ;    928   ;   7    ;  1 ; 2; 4    ;   0; 0; 1
+Curtis Bush            ; 19     ; 5   ;    722   ;   7    ;  1 ; 1; 3    ;   0; 1; 1
+Chad Prince            ; 20     ; 20  ;    1698  ;   0    ;  0 ; 1; 1    ;   0; 0; 2
+Mike Feller            ; 23     ; 23  ;    2065  ;   1    ;  0 ; 0; 0    ;   0; 0; 5
+David Comfort          ; 13     ; 13  ;    1200  ;   0    ;  0 ; 0; 0    ;   0; 0; 0
+Kyle Singer            ; 11     ; 11  ;    1018  ;   0    ;  0 ; 0; 0    ;   0; 0; 0
+Rob Wright             ;  9     ;  0  ;     118  ;   1    ;  0 ; 0; 0    ;   0; 0; 0
+Sean Feeney            ;  6     ;  0  ;     100  ;   1    ;  0 ; 0; 0    ;   0; 0; 0
+Neil Bianco            ;  5     ;  0  ;      98  ;   0    ;  0 ; 0; 0    ;   0; 0; 0
+Matt Beran             ;  4     ;  0  ;      68  ;   0    ;  0 ; 0; 0    ;   0; 0; 0
+Nelson Cupello         ;  1     ;  0  ;      21  ;   0    ;  0 ; 0; 0    ;   0; 0; 0
+Mahatha Oliver         ;  0     ;  0  ;       0  ;   0    ;  0 ; 0; 0    ;   0; 0; 0
+B. Mayer-Aschhoff      ;  0     ;  0  ;       0  ;   0    ;  0 ; 0; 0    ;   0; 0; 0
+Carter Burgess         ;  0     ;  0  ;       0  ;   0    ;  0 ; 0; 0    ;   0; 0; 0
 
 
 Season: 1999
 BlockSource: http://www.virginiasports.com/sports/m-soccer/archive/060800aae.html
 
-Ryan Trout,     F/M 21-20   1819    57      9       10      28      3       1       1       18      32      68      7       7
-Sheldon Barnes, F       24-19   1672    47      9       4       22      2       3       2       15      9       39      4 5
-Kyle Martino,   M 23-23   1971    25      7       7       21      3       2       1       7       7       21      3       2
-Ryan Gibbs,     F 22-19     1443    43      8       4       20      2       2       1       8       4       20      2       2
-Steve Totten,   M         24-24   2226    43      6       5       17      1       2       4       12      12      36      1 4
-Drew O'Donnell, M       24-24   2083    21      2       3       7       2       0       1       5       11      21      3 0
-Curtis Bush,    M  24-9    1244    11      2       0       4       1       0       3       4       0       8       1       0
-Mike Feller,    M/D        24-24   2181    8       1       1       3       0       0       3       1       3       5       0 0
-Kenny Arena,    M          20-9    1023    7       0       3       3       0       2       4       0       3       3       0 2
-Rob Wright,     F           13-0    218     3       0       1       1       0       0       1       3       1       7       2 0
-Marshall Leonard, D     24-24   2233    5       0       1       1       0       1       4       0       4       4       0 1
-Chad Prince,    D    22-22 1950    0       0       1       1       0       0       4       0       1       1       0       0
-David Comfort,  G  9-9   874     0       0       1       1       0       0       0       0       1       1       0       0
-Eric Solomon,   M/D 20-5  676     6       0       1       1       0       0       3       0       1       1       0       0
-Mike McQuatters, M      7-0     100     2       0       1       1       0       0       0       0       1       1       0 0
-Jonathan Cole,  D/M      24-18   1722    4       0       0       0       0       0       3       0       0       0       0 0
-Carter Burgess, D       7-0     100     0       0       0       0       0       0       0       0       0       0       0 0
-Sean Feeney,    M/D        3-0     47      0       0       0       0       0       0       0       0       0       0       0 0
-Matt Beran,     M           0-0     0       0       0       0       0       0       0       0       0       0       0       0 0
-Kito Pruitt,    M          0-0     0       0       0       0       0       0       0       0       0       0       0       0 0
+
+Key: name; position; games_played; games_started; minutes; shots; goals; assists; points; gwg; gma; yc; cg; ca; cpts; cgwg; cgwa
+
+Ryan Trout    ; F/M    ; 21; 20 ;  1819  ;  57   ;   9    ;   10   ;   28    ;  3  ;     1  ;     1   ;    18   ;   32  ;    68   ;   7   ;    7
+Sheldon Barnes; F      ; 24; 19 ;  1672  ;  47   ;   9    ;   4    ;   22    ;  2  ;     3  ;     2   ;    15   ;   9   ;    39   ;   4; 5
+Kyle Martino  ; M      ; 23; 23 ;  1971  ;  25   ;   7    ;   7    ;   21    ;  3  ;     2  ;     1   ;    7    ;   7   ;    21   ;   3; 2
+Ryan Gibbs    ; F      ; 22; 19 ;  1443  ;  43   ;   8    ;   4    ;   20    ;  2  ;     2  ;     1   ;    8    ;   4   ;    20   ;   2; 2
+Steve Totten  ; M      ; 24; 24 ;  2226  ;  43   ;   6    ;   5    ;   17    ;  1  ;     2  ;     4   ;    12   ;   12  ;    36   ;   1; 4
+Drew O'Donnell; M      ; 24; 24 ;  2083  ;  21   ;   2    ;   3    ;   7     ;  2  ;     0  ;     1   ;    5    ;   11  ;    21   ;   3; 0
+Curtis Bush   ; M      ; 24; 9  ;  1244  ;  11   ;   2    ;   0    ;   4     ;  1  ;     0  ;     3   ;    4    ;   0   ;    8    ;   1; 0
+Mike Feller   ; M/D    ; 24; 24 ;  2181  ;  8    ;   1    ;   1    ;   3     ;  0  ;     0  ;     3   ;    1    ;   3   ;    5    ;   0; 0
+Kenny Arena   ; M      ; 20; 9  ;  1023  ;  7    ;   0    ;   3    ;   3     ;  0  ;     2  ;     4   ;    0    ;   3   ;    3    ;   0; 2
+Rob Wright    ; F      ; 13; 0  ;  218   ;  3    ;   0    ;   1    ;   1     ;  0  ;     0  ;     1   ;    3    ;   1   ;    7    ;   2; 0
+Marshall Leonar;d D    ; 24; 24 ;  2233  ;  5    ;   0    ;   1    ;   1     ;  0  ;     1  ;     4   ;    0    ;   4   ;    4    ;   0; 1
+Chad Prince   ; D      ; 22; 22 ;  1950  ;  0    ;   0    ;   1    ;   1     ;  0  ;     0  ;     4   ;    0    ;   1   ;    1    ;   0; 0
+David Comfort ; G      ;  9; 9  ;  874   ;  0    ;   0    ;   1    ;   1     ;  0  ;     0  ;     0   ;    0    ;   1   ;    1    ;   0; 0
+Eric Solomon  ; M/D    ; 20; 5  ;  676   ;  6    ;   0    ;   1    ;   1     ;  0  ;     0  ;     3   ;    0    ;   1   ;    1    ;   0; 0
+Mike McQuatters; M     ;  7; 0  ;  100   ;  2    ;   0    ;   1    ;   1     ;  0  ;     0  ;     0   ;    0    ;   1   ;    1    ;   0; 0
+Jonathan Cole ; D/M    ; 24; 18 ;  1722  ;  4    ;   0    ;   0    ;   0     ;  0  ;     0  ;     3   ;    0    ;   0   ;    0    ;   0; 0
+Carter Burgess; D      ;  7; 0  ;  100   ;  0    ;   0    ;   0    ;   0     ;  0  ;     0  ;     0   ;    0    ;   0   ;    0    ;   0; 0
+Sean Feeney   ; M/D    ;  3; 0  ;  47    ;  0    ;   0    ;   0    ;   0     ;  0  ;     0  ;     0   ;    0    ;   0   ;    0    ;   0; 0
+Matt Beran    ; M      ;  0; 0  ;  0     ;  0    ;   0    ;   0    ;   0     ;  0  ;     0  ;     0   ;    0    ;   0   ;    0    ;   0; 0
+Kito Pruitt   ; M      ;  0; 0  ;  0     ;  0    ;   0    ;   0    ;   0     ;  0  ;     0  ;     0   ;    0    ;   0   ;    0    ;   0; 0

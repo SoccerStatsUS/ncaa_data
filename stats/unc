@@ -1,121 +1,126 @@
 Team: UNC
+Competition: NCAA Division I Men's Soccer Championship
 
 Season: 2012
 BlockSource: http://www.goheels.com/fls/3350/Men's_Soccer/TeamCume.pdf?SPID=12969&DB_OEM_ID=3350
 
 *## Player gp g a pts sh sh% sog sog% gw pk-att
 
-10 Andy Craven    22 6 5 17 56 . 1 0 7 32 . 5 7 1 5 0 - 0
-17 Danny Garcia   23 4 6 14 35 . 1 1 4 12 . 3 4 3 2 0 - 0
-8  Martin Murphy  23 5 2 12 34 . 1 4 7 15 . 4 4 1 3 1 - 1
-16 Rob Lovejoy    11 5 2 12 25 . 2 0 0 13 . 5 2 0 2 0 - 1
-15 Cameron Brown  21 3 3 9 28 . 1 0 7 11 . 3 9 3 1 1 - 1
-14 Jordan Gafa    22 2 4 8 8 . 2 5 0 7 . 8 7 5 1 0 - 0
-5  Mikey Lopez    21 2 1 5 22 . 0 9 1 8 . 3 6 4 1 0 - 0
-33 Raby George    23 1 1 3 11 . 0 9 1 2 . 1 8 2 0 0 - 0
-2  Jonathan Campbell 23 1 1 3 8 . 1 2 5 6 . 7 5 0 1 0 - 0
-28 Alex Olofson      19 1 0 2 5 . 2 0 0 3 . 6 0 0 0 0 - 0
-23 Chipper Root       9 1 0 2 5 . 2 0 0 1 . 2 0 0 0 0 - 0
-21 Cooper Vandermaas-Pe 9 1 0 2 3 . 3 3 3 2 . 6 6 7 0 0 - 0
-11 David Walden         3 10 2 1 1.000 1 1.000 0 1 - 1
-18 Verneri Valimaa     20 0 1 1 16 . 0 0 0 5 . 3 1 2 0 0 - 0
-9  Jordan McCrary      22 0 1 1 5 . 0 0 0 0 . 0 0 0 0 0 - 0
-7  Josh Rice            5 0 1 1 4 . 0 0 0 1 . 2 5 0 0 0 - 0
-31 Nico Melo            2 0 1 1 1 . 0 0 0 1 1.000 0 0 - 0
-29 Daniel Tannous      12 0 0 0 1 . 0 0 0 0 . 0 0 0 0 0 - 0
-26 Glen Long           11 0 0 0 1 . 0 0 0 1 1.000 0 0 - 0
-35 Alex Walters         2 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-25 Joe Amon             3 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-22 C.J. Odenigwe        1 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-20 Nathan Diehl         2 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-13 Nyambi Jabang        3 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-4  Boyd Okwuonu        21 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-1  Scott Goodwin       23 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
+Key: number; name; games_played; goals; assists; points; shots; etc
+
+10; Andy Craven       ;   22; 6 ; 5; 17; 56; . 1 0 7 32 . 5 7 1 5 0 - 0
+17; Danny Garcia      ;   23; 4 ; 6; 14; 35; . 1 1 4 12 . 3 4 3 2 0 - 0
+8 ; Martin Murphy     ;   23; 5 ; 2; 12; 34; . 1 4 7 15 . 4 4 1 3 1 - 1
+16; Rob Lovejoy       ;   11; 5 ; 2; 12; 25; . 2 0 0 13 . 5 2 0 2 0 - 1
+15; Cameron Brown     ;   21; 3 ; 3; 9 ; 28; . 1 0 7 11 . 3 9 3 1 1 - 1
+14; Jordan Gafa       ;   22; 2 ; 4; 8 ; 8 ; . 2 5 0 7 . 8 7 5 1 0 - 0
+5 ; Mikey Lopez       ;   21; 2 ; 1; 5 ; 22; . 0 9 1 8 . 3 6 4 1 0 - 0
+33; Raby George       ;   23; 1 ; 1; 3 ; 11; . 0 9 1 2 . 1 8 2 0 0 - 0
+2 ; Jonathan Campbell ;   23; 1 ; 1; 3 ; 8 ; . 1 2 5 6 . 7 5 0 1 0 - 0
+28; Alex Olofson      ;   19; 1 ; 0; 2 ; 5 ; . 2 0 0 3 . 6 0 0 0 0 - 0
+23; Chipper Root      ;   9 ; 1 ; 0; 2 ; 5 ; . 2 0 0 1 . 2 0 0 0 0 - 0
+21; Cooper Vandermaas-Pe; 9 ; 1 ; 0; 2 ; 3 ; . 3 3 3 2 . 6 6 7 0 0 - 0
+11;  David Walden     ;   3 ; 1 ; 0; 2 ; 1 ; 1.000 1 1.000 0 1 - 1
+18; Verneri Valimaa   ;   20; 0 ; 1; 1 ; 16; . 0 0 0 5 . 3 1 2 0 0 - 0
+9 ; Jordan McCrary    ;   22; 0 ; 1; 1 ; 5 ; . 0 0 0 0 . 0 0 0 0 0 - 0
+7 ; Josh Rice         ;   5 ; 0 ; 1; 1 ; 4 ; . 0 0 0 1 . 2 5 0 0 0 - 0
+31; Nico Melo         ;   2 ; 0 ; 1; 1 ; 1 ; . 0 0 0 1 1.000 0 0 - 0
+29; Daniel Tannous    ;   12; 0 ; 0; 0 ; 1 ; . 0 0 0 0 . 0 0 0 0 0 - 0
+26; Glen Long         ;   11; 0 ; 0; 0 ; 1 ; . 0 0 0 1 1.000 0 0 - 0
+35; Alex Walters      ;   2 ; 0 ; 0; 0 ; 0 ; . 0 0 0 0 . 0 0 0 0 0 - 0
+25; Joe Amon          ;   3 ; 0 ; 0; 0 ; 0 ; . 0 0 0 0 . 0 0 0 0 0 - 0
+22; C.J. Odenigwe     ;   1 ; 0 ; 0; 0 ; 0 ; . 0 0 0 0 . 0 0 0 0 0 - 0
+20; Nathan Diehl      ;   2 ; 0 ; 0; 0 ; 0 ; . 0 0 0 0 . 0 0 0 0 0 - 0
+13; Nyambi Jabang     ;   3 ; 0 ; 0; 0 ; 0 ; . 0 0 0 0 . 0 0 0 0 0 - 0
+4 ; Boyd Okwuonu      ;   21; 0 ; 0; 0 ; 0 ; . 0 0 0 0 . 0 0 0 0 0 - 0
+1 ; Scott Goodwin     ;   23; 0 ; 0; 0 ; 0 ; . 0 0 0 0 . 0 0 0 0 0 - 0
 
 
 Season: 2011
 BlockSource: http://www.goheels.com/fls/3350/old_site/pdf/m-soccer/season_stats.pdf?SPID=12969&DB_OEM_ID=3350
 
-10 Billy Schuler 24 16 5 37 90 . 1 7 8 45 . 5 0 0 8 1 - 1
-16 Enzo Martinez 25 9 11 29 87 . 1 0 3 38 . 4 3 7 2 3 - 3
-17 Ben Speas 25 6 10 22 73 . 0 8 2 27 . 3 7 0 2 0 - 0
-25 Rob Lovejoy 25 7 5 19 52 . 1 3 5 19 . 3 6 5 2 0 - 0
-6  Matt Hedges 25 6 1 13 22 . 2 7 3 9 . 4 0 9 2 0 - 0
-3  Kirk Urso 25 3 7 13 58 . 0 5 2 16 . 2 7 6 1 0 - 0
-5  Mikey Lopez 24 3 4 10 20 . 1 5 0 9 . 4 5 0 1 0 - 0
-18 Carlos McCrary 18 3 1 7 12 . 2 5 0 8 . 6 6 7 0 0 - 0
-14 Jordan Gafa 25 2 2 6 23 . 0 8 7 7 . 3 0 4 2 0 - 0
-8  Martin Murphy 23 1 1 3 15 . 0 6 7 5 . 3 3 3 0 0 - 0
-7  Josh Rice 14 0 1 1 9 . 0 0 0 5 . 5 5 6 0 0 - 0
-9  Jordan McCrary 24 0 1 1 5 . 0 0 0 0 . 0 0 0 0 0 - 0
-4  Boyd Okwuonu 25 0 1 1 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-1  Scott Goodwin 25 0 1 1 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-21 C. Vandermaas-Peeler 5 0 0 0 3 . 0 0 0 2 . 6 6 7 0 0 - 0
-11 David Walden 3 0 0 0 2 . 0 0 0 1 . 5 0 0 0 0 - 0
-26 Glen Long 16 0 0 0 1 . 0 0 0 0 . 0 0 0 0 0 - 0
-29 Daniel Tannous 9 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-24 Brendan Moore 1 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-23 Drew McKinney 15 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-13 Ryan Dodson 5 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
+10; Billy Schuler       ; 24; 16; 5; 37; 90; . 1 7 8 45 . 5 0 0 8 1 - 1
+16; Enzo Martinez       ; 25; 9 ;11; 29; 87; . 1 0 3 38 . 4 3 7 2 3 - 3
+17; Ben Speas           ; 25; 6 ;10; 22; 73; . 0 8 2 27 . 3 7 0 2 0 - 0
+25; Rob Lovejoy         ; 25; 7 ;5 ; 19; 52; . 1 3 5 19 . 3 6 5 2 0 - 0
+6 ; Matt Hedges         ; 25; 6 ;1 ; 13; 22; . 2 7 3 9 . 4 0 9 2 0 - 0
+3 ; Kirk Urso           ; 25; 3 ;7 ; 13; 58; . 0 5 2 16 . 2 7 6 1 0 - 0
+5 ; Mikey Lopez         ; 24; 3 ;4 ; 10; 20; . 1 5 0 9 . 4 5 0 1 0 - 0
+18; Carlos McCrary      ; 18; 3 ;1 ; 7 ; 12; . 2 5 0 8 . 6 6 7 0 0 - 0
+14; Jordan Gafa         ; 25; 2 ;2 ; 6 ; 23; . 0 8 7 7 . 3 0 4 2 0 - 0
+8 ; Martin Murphy       ; 23; 1 ;1 ; 3 ; 15; . 0 6 7 5 . 3 3 3 0 0 - 0
+7 ; Josh Rice           ; 14; 0 ;1 ; 1 ; 9 ;. 0 0 0 5 . 5 5 6 0 0 - 0
+9 ; Jordan McCrary      ; 24; 0 ;1 ; 1 ; 5 ;. 0 0 0 0 . 0 0 0 0 0 - 0
+4 ; Boyd Okwuonu        ; 25; 0 ;1 ; 1 ; 0 ;. 0 0 0 0 . 0 0 0 0 0 - 0
+1 ; Scott Goodwin       ; 25; 0 ;1 ; 1 ; 0 ;. 0 0 0 0 . 0 0 0 0 0 - 0
+21; C. Vandermaas-Peeler; 5 ; 0 ;0 ; 0 ; 3 ;. 0 0 0 2 . 6 6 7 0 0 - 0
+11; David Walden        ; 3 ; 0 ;0 ; 0 ; 2 ;. 0 0 0 1 . 5 0 0 0 0 - 0
+26; Glen Long           ;16 ; 0 ;0 ; 0 ; 1 ;. 0 0 0 0 . 0 0 0 0 0 - 0
+29; Daniel Tannous      ; 9 ; 0 ;0 ; 0 ; 0 ;. 0 0 0 0 . 0 0 0 0 0 - 0
+24; Brendan Moore       ; 1 ; 0 ;0 ; 0 ; 0 ;. 0 0 0 0 . 0 0 0 0 0 - 0
+23; Drew McKinney       ;15 ; 0 ;0 ; 0 ; 0 ;. 0 0 0 0 . 0 0 0 0 0 - 0
+13; Ryan Dodson         ; 5 ; 0 ;0 ; 0 ; 0 ;. 0 0 0 0 . 0 0 0 0 0 - 0
 
 
 Season: 2010
 BlockSource: http://www.goheels.com/ViewContent.dbml?SPID=12969&DB_OEM_ID=3350&CONTENT_ID=224620
 
 
+Key: number; name; games_played; games_started; goals; assists; points; shots; etc
+
 *## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG% GW  PK-ATT
 
-16 Enzo Martinez        24-22  10   5  25  70  .143  29  .414  5   0-0
-3  Kirk Urso            24-23   5   5  15  58  .086  23  .397  2   0-0
-19 Michael Farfan       19-19   5   3  13  60  .083  27  .450  3   2-2
-20 Martin Murphy        21-12   4   1   9  14  .286   7  .500  1   0-0
-13 Josh Rice            22-2    2   4   8  30  .067  12  .400  1   0-0
-25 Robbie Lovejoy       12-0    3   1   7  15  .200   5  .333  1   0-0
-9  Eddie Ababio         24-24   2   3   7  24  .083  11  .458  1   0-0
-8  Stephen McCarthy     18-17   2   1   5  26  .077   8  .308  0   0-0
-17 Alex Dixon           20-16   1   3   5  45  .022  16  .356  0   0-0
-18 Carlos McCrary       15-4    1   2   4  11  .091   6  .545  1   0-0
-27 Matt Rose            19-17   1   1   3  14  .071   5  .357  0   1-1
-14 Jordan Gafa          19-3    1   1   3   8  .125   4  .500  0   0-0
-11 Bruno Castro          9-1    1   0   2   2  .500   1  .500  1   0-0
-7  Dustin McCarty       24-23   0   1   1  15  .000   2  .133  0   0-0
-4  Brett King            6-6    0   1   1   0  .000   0  .000  0   0-0
-5  Jalil Anibaba        24-24   0   0   0  11  .000   2  .182  0   0-0
-28 Alex Walters         10-1    0   0   0   5  .000   2  .400  0   0-0
-10 Billy Schuler         2-2    0   0   0   4  .000   2  .500  0   0-0
-23 Drew McKinney        24-24   0   0   0   3  .000   2  .667  0   0-0
-22 C.J. Odenigwe         7-0    0   0   0   1  .000   0  .000  0   0-0
-6  David Rodriguez       3-0    0   0   0   1  .000   1 1.000  0   0-0
-2  Anton Sealey          1-0    0   0   0   0  .000   0  .000  0   0-0
+16; Enzo Martinez       ; 24; 22 ; 10 ;  5 ; 25 ; 70 ; .143  29  .414  5   0-0
+3 ; Kirk Urso           ; 24; 23 ;  5 ;  5 ; 15 ; 58 ; .086  23  .397  2   0-0
+19; Michael Farfan      ; 19; 19 ;  5 ;  3 ; 13 ; 60 ; .083  27  .450  3   2-2
+20; Martin Murphy       ; 21; 12 ;  4 ;  1 ;  9 ; 14 ; .286   7  .500  1   0-0
+13; Josh Rice           ; 22; 2  ;  2 ;  4 ;  8 ; 30 ; .067  12  .400  1   0-0
+25; Robbie Lovejoy      ; 12; 0  ;  3 ;  1 ;  7 ; 15 ; .200   5  .333  1   0-0
+9 ; Eddie Ababio        ; 24; 24 ;  2 ;  3 ;  7 ; 24 ; .083  11  .458  1   0-0
+8 ; Stephen McCarthy    ; 18; 17 ;  2 ;  1 ;  5 ; 26 ; .077   8  .308  0   0-0
+17; Alex Dixon          ; 20; 16 ;  1 ;  3 ;  5 ; 45 ; .022  16  .356  0   0-0
+18; Carlos McCrary      ; 15; 4  ;  1 ;  2 ;  4 ; 11 ; .091   6  .545  1   0-0
+27; Matt Rose           ; 19; 17 ;  1 ;  1 ;  3 ; 14 ; .071   5  .357  0   1-1
+14; Jordan Gafa         ; 19; 3  ;  1 ;  1 ;  3 ;  8 ; .125   4  .500  0   0-0
+11; Bruno Castro        ;  9; 1  ;  1 ;  0 ;  2 ;  2 ; .500   1  .500  1   0-0
+7 ; Dustin McCarty      ; 24; 23 ;  0 ;  1 ;  1 ; 15 ; .000   2  .133  0   0-0
+4 ; Brett King          ;  6; 6  ;  0 ;  1 ;  1 ;  0 ; .000   0  .000  0   0-0
+5 ; Jalil Anibaba       ; 24; 24 ;  0 ;  0 ;  0 ; 11 ; .000   2  .182  0   0-0
+28; Alex Walters        ; 10; 1  ;  0 ;  0 ;  0 ;  5 ; .000   2  .400  0   0-0
+10; Billy Schuler       ;  2; 2  ;  0 ;  0 ;  0 ;  4 ; .000   2  .500  0   0-0
+23; Drew McKinney       ; 24; 24 ;  0 ;  0 ;  0 ;  3 ; .000   2  .667  0   0-0
+22; C.J. Odenigwe       ;  7; 0  ;  0 ;  0 ;  0 ;  1 ; .000   0  .000  0   0-0
+6 ; David Rodriguez     ;  3; 0  ;  0 ;  0 ;  0 ;  1 ; .000   1 1.000  0   0-0
+2 ; Anton Sealey        ;  1; 0  ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
 
 
 
 Season: 2009
 BlockSource: http://www.goheels.com/ViewContent.dbml?SPID=12969&DB_OEM_ID=3350&CONTENT_ID=224635
 
-10 Billy Schuler        22-22   9   5  23  55  .164  31  .564  7   0-1
-3  Alex Dixon           21-20   8   1  17  39  .205  23  .590  2   0-0
-19 Michael Farfan       22-22   5   4  14  55  .091  23  .418  1   1-1
-18 Kirk Urso            22-22   4   6  14  49  .082  27  .551  1   0-0
-15 Cameron Brown        21-20   5   3  13  46  .109  22  .478  3   0-0
-16 Enzo Martinez        22-6    3   4  10  40  .075  15  .375  0   0-0
-14 Jordan Graye         22-22   2   3   7  20  .100   8  .400  1   0-0
-5  Zach Loyd            17-17   2   2   6  11  .182   7  .636  0   1-3
-20 Martin Murphy        12-0    2   1   5   7  .286   6  .857  0   0-0
-7  Dustin McCarty       20-16   2   0   4   7  .286   4  .571  0   0-0
-25 Jordan Gafa           7-2    1   0   2   1 1.000   1 1.000  1   0-0
-28 Alex Walters         12-0    0   1   1   3  .000   2  .667  0   0-0
-11 Chris Lebo           12-1    0   1   1   3  .000   1  .333  0   0-0
-9  Eddie Ababio          3-2    0   1   1   3  .000   0  .000  0   0-0
-23 Drew McKinney        22-22   0   1   1   0  .000   0  .000  0   0-0
-2  Bill Dworsky          9-0    0   0   0   4  .000   4 1.000  0   0-0
-8  Stephen McCarthy      3-3    0   0   0   3  .000   1  .333  0   0-0
-30 Scott Goodwin         4-3    0   0   0   0  .000   0  .000  0   0-0
-29 Eli Garner            5-0    0   0   0   0  .000   0  .000  0   0-0
-22 Daniel Tannous        8-5    0   0   0   0  .000   0  .000  0   0-0
-21 Javier Velez          2-1    0   0   0   0  .000   0  .000  0   0-0
-4  Brett King           20-17   0   0   0   0  .000   0  .000  0   0-0
-1  Brooks Haggerty      19-19   0   0   0   0  .000   0  .000  0   0-0
+10; Billy Schuler      ;  22; 22 ;  9 ;  5 ; 23 ; 55 ; .164  31  .564  7   0-1
+3 ; Alex Dixon         ;  21; 20 ;  8 ;  1 ; 17 ; 39 ; .205  23  .590  2   0-0
+19; Michael Farfan     ;  22; 22 ;  5 ;  4 ; 14 ; 55 ; .091  23  .418  1   1-1
+18; Kirk Urso          ;  22; 22 ;  4 ;  6 ; 14 ; 49 ; .082  27  .551  1   0-0
+15; Cameron Brown      ;  21; 20 ;  5 ;  3 ; 13 ; 46 ; .109  22  .478  3   0-0
+16; Enzo Martinez      ;  22; 6  ;  3 ;  4 ; 10 ; 40 ; .075  15  .375  0   0-0
+14; Jordan Graye       ;  22; 22 ;  2 ;  3 ;  7 ; 20 ; .100   8  .400  1   0-0
+5 ; Zach Loyd          ;  17; 17 ;  2 ;  2 ;  6 ; 11 ; .182   7  .636  0   1-3
+20; Martin Murphy      ;  12; 0  ;  2 ;  1 ;  5 ;  7 ; .286   6  .857  0   0-0
+7 ; Dustin McCarty     ;  20; 16 ;  2 ;  0 ;  4 ;  7 ; .286   4  .571  0   0-0
+25; Jordan Gafa        ;   7; 2  ;  1 ;  0 ;  2 ;  1 ;1.000   1 1.000  1   0-0
+28; Alex Walters       ;  12; 0  ;  0 ;  1 ;  1 ;  3 ; .000   2  .667  0   0-0
+11; Chris Lebo         ;  12; 1  ;  0 ;  1 ;  1 ;  3 ; .000   1  .333  0   0-0
+9 ; Eddie Ababio       ;   3; 2  ;  0 ;  1 ;  1 ;  3 ; .000   0  .000  0   0-0
+23; Drew McKinney      ;  22; 22 ;  0 ;  1 ;  1 ;  0 ; .000   0  .000  0   0-0
+2 ; Bill Dworsky       ;   9; 0  ;  0 ;  0 ;  0 ;  4 ; .000   4 1.000  0   0-0
+8 ; Stephen McCarthy   ;   3; 3  ;  0 ;  0 ;  0 ;  3 ; .000   1  .333  0   0-0
+30; Scott Goodwin      ;   4; 3  ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
+29; Eli Garner         ;   5; 0  ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
+22; Daniel Tannous     ;   8; 5  ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
+21; Javier Velez       ;   2; 1  ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
+4 ; Brett King         ;  20; 17 ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
+1 ; Brooks Haggerty    ;  19; 19 ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
 
 
 
@@ -124,76 +129,76 @@ BlockSource: http://www.goheels.com/ViewContent.dbml?SPID=12969&DB_OEM_ID=3350&C
 
 *## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT
 
-31 Brian Shriver        24-22  14   5  33  77  .182  40  .519   0-0   5   0-0
-9  Eddie Ababio         23-23   7   4  18  48  .146  21  .438   5-1   1   0-0
-10 Billy Schuler        24-16   4   5  13  44  .091  20  .455   0-0   1   0-0
-18 Kirk Urso            19-11   3   6  12  27  .111  12  .444   1-0   1   0-0
-15 Cameron Brown        24-23   3   5  11  35  .086  15  .429   4-0   0   0-0
-5  Michael Callahan     23-23   3   5  11  30  .100  12  .400   3-0   1   1-1
-22 Alex Dixon           20-1    5   0  10  14  .357   9  .643   2-0   2   0-0
-8  Garry Lewis          24-23   4   2  10  28  .143  16  .571   4-0   2   0-0
-11 Chris Lebo           18-1    1   2   4  10  .100   7  .700   1-0   0   0-0
-20 Sheanon Williams     24-24   1   2   4   6  .167   2  .333   6-0   1   0-0
-7  Dustin McCarty       16-2    1   2   4   3  .333   1  .333   1-0   0   0-0
-3  Zach Loyd            24-24   0   4   4   9  .000   3  .333   2-0   0   0-0
-14 Jordan Graye         23-23   0   1   1   8  .000   3  .375   1-0   0   0-0
-13 Ryan Adeleye         24-21   0   0   0   3  .000   1  .333   3-0   0   0-0
-6  David Rodriguez      12-3    0   0   0   1  .000   0  .000   1-0   0   0-0
-32 Ryan Johnson          2-0    0   0   0   0  .000   0  .000   0-0   0   0-0
-30 Jacob Wescoe         16-16   0   0   0   0  .000   0  .000   1-0   0   0-0
-16 John Niyonsaba        3-0    0   0   0   0  .000   0  .000   1-0   0   0-0
-4  Brett King            4-0    0   0   0   0  .000   0  .000   0-0   0   0-0
-1  Brooks Haggerty       9-8    0   0   0   0  .000   0  .000   0-0   0   0-0
+31; Brian Shriver      ;  24; 22 ; 14 ;  5 ; 33 ; 77 ; .182  40  .519   0-0   5   0-0
+9 ; Eddie Ababio       ;  23; 23 ;  7 ;  4 ; 18 ; 48 ; .146  21  .438   5-1   1   0-0
+10; Billy Schuler      ;  24; 16 ;  4 ;  5 ; 13 ; 44 ; .091  20  .455   0-0   1   0-0
+18; Kirk Urso          ;  19; 11 ;  3 ;  6 ; 12 ; 27 ; .111  12  .444   1-0   1   0-0
+15; Cameron Brown      ;  24; 23 ;  3 ;  5 ; 11 ; 35 ; .086  15  .429   4-0   0   0-0
+5 ; Michael Callahan   ;  23; 23 ;  3 ;  5 ; 11 ; 30 ; .100  12  .400   3-0   1   1-1
+22; Alex Dixon         ;  20; 1  ;  5 ;  0 ; 10 ; 14 ; .357   9  .643   2-0   2   0-0
+8 ; Garry Lewis        ;  24; 23 ;  4 ;  2 ; 10 ; 28 ; .143  16  .571   4-0   2   0-0
+11; Chris Lebo         ;  18; 1  ;  1 ;  2 ;  4 ; 10 ; .100   7  .700   1-0   0   0-0
+20; Sheanon Williams   ;  24; 24 ;  1 ;  2 ;  4 ;  6 ; .167   2  .333   6-0   1   0-0
+7 ; Dustin McCarty     ;  16; 2  ;  1 ;  2 ;  4 ;  3 ; .333   1  .333   1-0   0   0-0
+3 ; Zach Loyd          ;  24; 24 ;  0 ;  4 ;  4 ;  9 ; .000   3  .333   2-0   0   0-0
+14; Jordan Graye       ;  23; 23 ;  0 ;  1 ;  1 ;  8 ; .000   3  .375   1-0   0   0-0
+13; Ryan Adeleye       ;  24; 21 ;  0 ;  0 ;  0 ;  3 ; .000   1  .333   3-0   0   0-0
+6 ; David Rodriguez    ;  12; 3  ;  0 ;  0 ;  0 ;  1 ; .000   0  .000   1-0   0   0-0
+32; Ryan Johnson       ;   2; 0  ;  0 ;  0 ;  0 ;  0 ; .000   0  .000   0-0   0   0-0
+30; Jacob Wescoe       ;  16; 16 ;  0 ;  0 ;  0 ;  0 ; .000   0  .000   1-0   0   0-0
+16; John Niyonsaba     ;   3; 0  ;  0 ;  0 ;  0 ;  0 ; .000   0  .000   1-0   0   0-0
+4 ; Brett King         ;   4; 0  ;  0 ;  0 ;  0 ;  0 ; .000   0  .000   0-0   0   0-0
+1 ; Brooks Haggerty    ;   9; 8  ;  0 ;  0 ;  0 ;  0 ; .000   0  .000   0-0   0   0-0
 
 
 Season: 2007
 BlockSource: http://www.goheels.com/ViewContent.dbml?SPID=12969&DB_OEM_ID=3350&CONTENT_ID=224627
 
-2  Bill Dworsky         20-17   6   5  17  29  .207  16  .552  3   0-0
-5  Michael Callahan     18-18   2   5   9  16  .125   7  .438  1   0-0
-3  Zach Loyd            18-17   3   2   8  30  .100  13  .433  0   1-1
-7  Scott Campbell       19-19   2   4   8  39  .051  21  .538  0   0-1
-8  Garry Lewis          20-18   3   1   7  20  .150  10  .500  0   0-0
-9  Eddie Ababio         20-19   2   3   7  21  .095   7  .333  0   1-1
-10 Joan Carvajal        17-13   2   3   7  18  .111   7  .389  0   0-0
-15 Cameron Brown        19-4    3   0   6  15  .200   6  .400  0   0-0
-31 Brian Shriver        20-15   2   2   6  39  .051  20  .513  1   0-0
-13 Ryan Adeleye         17-16   2   1   5   4  .500   2  .500  1   0-0
-6  David Rodriguez      11-7    1   0   2   6  .167   2  .333  1   0-0
-32 Ryan Johnson         13-0    0   1   1  12  .000   3  .250  0   0-0
-14 Jordan Graye         17-2    0   1   1   8  .000   3  .375  0   0-0
-18 Cameron Lewis        20-15   0   0   0   8  .000   2  .250  0   0-0
-22 Daniel Choi           3-0    0   0   0   1  .000   1 1.000  0   0-0
-21 Javier Velez          2-0    0   0   0   1  .000   0  .000  0   0-0
-26 Ryley Leech           1-0    0   0   0   0  .000   0  .000  0   0-0
-25 Abe Chenathara        3-0    0   0   0   0  .000   0  .000  0   0-0
-20 Andre Sherard        20-20   0   0   0   0  .000   0  .000  0   0-0
-19 Bradley Brown         1-0    0   0   0   0  .000   0  .000  0   0-0
+2 ; Bill Dworsky       ;  20; 17 ;  6 ;  5 ; 17 ; 29 ; .207  16  .552  3   0-0
+5 ; Michael Callahan   ;  18; 18 ;  2 ;  5 ;  9 ; 16 ; .125   7  .438  1   0-0
+3 ; Zach Loyd          ;  18; 17 ;  3 ;  2 ;  8 ; 30 ; .100  13  .433  0   1-1
+7 ; Scott Campbell     ;  19; 19 ;  2 ;  4 ;  8 ; 39 ; .051  21  .538  0   0-1
+8 ; Garry Lewis        ;  20; 18 ;  3 ;  1 ;  7 ; 20 ; .150  10  .500  0   0-0
+9 ; Eddie Ababio       ;  20; 19 ;  2 ;  3 ;  7 ; 21 ; .095   7  .333  0   1-1
+10; Joan Carvajal      ;  17; 13 ;  2 ;  3 ;  7 ; 18 ; .111   7  .389  0   0-0
+15; Cameron Brown      ;  19; 4  ;  3 ;  0 ;  6 ; 15 ; .200   6  .400  0   0-0
+31; Brian Shriver      ;  20; 15 ;  2 ;  2 ;  6 ; 39 ; .051  20  .513  1   0-0
+13; Ryan Adeleye       ;  17; 16 ;  2 ;  1 ;  5 ;  4 ; .500   2  .500  1   0-0
+6 ; David Rodriguez    ;  11; 7  ;  1 ;  0 ;  2 ;  6 ; .167   2  .333  1   0-0
+32; Ryan Johnson       ;  13; 0  ;  0 ;  1 ;  1 ; 12 ; .000   3  .250  0   0-0
+14; Jordan Graye       ;  17; 2  ;  0 ;  1 ;  1 ;  8 ; .000   3  .375  0   0-0
+18; Cameron Lewis      ;  20; 15 ;  0 ;  0 ;  0 ;  8 ; .000   2  .250  0   0-0
+22; Daniel Choi        ;   3; 0  ;  0 ;  0 ;  0 ;  1 ; .000   1 1.000  0   0-0
+21; Javier Velez       ;   2; 0  ;  0 ;  0 ;  0 ;  1 ; .000   0  .000  0   0-0
+26; Ryley Leech        ;   1; 0  ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
+25; Abe Chenathara     ;   3; 0  ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
+20; Andre Sherard      ;  20; 20 ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
+19; Bradley Brown      ;   1; 0  ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
 
 
 Season: 2006
 BlockSource: http://www.goheels.com/ViewContent.dbml?SPID=12969&DB_OEM_ID=3350&CONTENT_ID=224632
 
-11 Ben Hunter           17-16   4   5  13  39  .103  20  .513  1   0-0
-5  Michael Callahan     18-16   4   2  10  26  .154  15  .577  0   0-0
-15 Corey Ashe           19-16   3   4  10  40  .075  17  .425  1   0-0
-7  Scott Campbell       19-11   3   3   9  26  .115  12  .462  1   0-0
-6  Bill Dworsky         20-14   2   3   7  21  .095   7  .333  1   0-0
-10 Stephen Bickford     15-0    2   3   7   9  .222   6  .667  1   0-0
-13 Zach Loyd            19-8    2   2   6  20  .100   5  .250  1   0-0
-9  Michael Harrington   19-19   1   4   6  14  .071   7  .500  1   0-0
-16 Eddie Ababio         19-3    2   1   5   8  .250   3  .375  1   0-0
-31 Brian Shriver        20-11   1   3   5  17  .059   7  .412  1   0-0
-8  Garry Lewis          19-11   1   0   2  18  .056  10  .556  1   0-0
-26 Ted Odgers           18-18   1   0   2  14  .071   6  .429  1   1-2
-17 David Boole          20-20   0   1   1  19  .000   5  .263  0   0-0
-3  Blake Beach          16-13   0   1   1   4  .000   0  .000  0   0-0
-18 Cameron Lewis         9-2    0   0   0   1  .000   0  .000  0   0-0
-24 Justin Hughes        18-18   0   0   0   0  .000   0  .000  0   0-0
-22 Tim Evans             5-3    0   0   0   0  .000   0  .000  0   0-0
-21 Javier Velez          2-0    0   0   0   0  .000   0  .000  0   0-0
-20 Andre Sherard        20-19   0   0   0   0  .000   0  .000  0   0-0
-1  Brooks Haggerty       3-2    0   0   0   0  .000   0  .000  0   0-0
+11; Ben Hunter         ;  17; 16 ;  4 ;  5 ; 13 ; 39 ; .103  20  .513  1   0-0
+5 ; Michael Callahan   ;  18; 16 ;  4 ;  2 ; 10 ; 26 ; .154  15  .577  0   0-0
+15; Corey Ashe         ;  19; 16 ;  3 ;  4 ; 10 ; 40 ; .075  17  .425  1   0-0
+7 ; Scott Campbell     ;  19; 11 ;  3 ;  3 ;  9 ; 26 ; .115  12  .462  1   0-0
+6 ; Bill Dworsky       ;  20; 14 ;  2 ;  3 ;  7 ; 21 ; .095   7  .333  1   0-0
+10; Stephen Bickford   ;  15; 0  ;  2 ;  3 ;  7 ;  9 ; .222   6  .667  1   0-0
+13; Zach Loyd          ;  19; 8  ;  2 ;  2 ;  6 ; 20 ; .100   5  .250  1   0-0
+9 ; Michael Harrington ;  19; 19 ;  1 ;  4 ;  6 ; 14 ; .071   7  .500  1   0-0
+16; Eddie Ababio       ;  19; 3  ;  2 ;  1 ;  5 ;  8 ; .250   3  .375  1   0-0
+31; Brian Shriver      ;  20; 11 ;  1 ;  3 ;  5 ; 17 ; .059   7  .412  1   0-0
+8 ; Garry Lewis        ;  19; 11 ;  1 ;  0 ;  2 ; 18 ; .056  10  .556  1   0-0
+26; Ted Odgers         ;  18; 18 ;  1 ;  0 ;  2 ; 14 ; .071   6  .429  1   1-2
+17; David Boole        ;  20; 20 ;  0 ;  1 ;  1 ; 19 ; .000   5  .263  0   0-0
+3 ; Blake Beach        ;  16; 13 ;  0 ;  1 ;  1 ;  4 ; .000   0  .000  0   0-0
+18; Cameron Lewis      ;   9; 2  ;  0 ;  0 ;  0 ;  1 ; .000   0  .000  0   0-0
+24; Justin Hughes      ;  18; 18 ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
+22; Tim Evans          ;   5; 3  ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
+21; Javier Velez       ;   2; 0  ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
+20; Andre Sherard      ;  20; 19 ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
+1 ; Brooks Haggerty    ;   3; 2  ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
 
 
 Season: 2005
@@ -201,54 +206,54 @@ BlockSource: http://www.goheels.com/fls/3350/old_site/pdf/m-soccer/05-cumulative
 
 *## Name GP-GS G A Pts Sh Shot% SOG SOG% YC-RC GW PK-ATT
 
- 11 Ben Hunter     24-20 13 5 31 73 .178 38 .521 3-0 4 1-2
- 7  Scott Campbell 23-23 10 6 26 57 .175 23 .404 1-0 4 0-0
- 15 Corey Ashe     23-23 6 4 16 56 .107 31 .554 1-0 4 0-0
- 8  Dax McCarty    24-24 2 8 12 34 .059 10 .294 1-0 2 0-0
- 31 Brian Shriver  24-6 5 1 11 23 .217 10 .435 1-0 2 0-0
- 26 Ted Odgers     24-24 2 0 4 7 .286 2 .286 3-0 0 0-0
- 9  Michael Harrington 24-24 0 4 4 21 .000 7 .333 1-0 0 0-0
- 17 David Boole        24-24 0 4 4 13 .000 5 .385 1-0 0 0-0
- 10 Stephen Bickford   19-3 1 1 3 21 .048 9 .429 0-0 0 0-0
- 5  Michael Callahan   23-22 1 1 3 19 .053 7 .368 2-0 1 0-0
- 3  Blake Beach        23-21 1 0 2 9 .111 4 .444 1-1 0 0-0
- 4  Ty Allison         3-0 0 1 1 3 .000 3 1.000 1-0 0 0-0
- 14 Jordan Graye       4-0 0 1 1 1 .000 0 .000 0-0 0 0-0
- 18 Cameron Lewis     18-1 0 0 0 6 .000 4 .667 1-0 0 0-0
- 6  Adam Sloustcher   16-1 0 0 0 5 .000 0 .000 1-0 0 0-0
- 16 Chris Germani      3-0 0 0 0 3 .000 0 .000 0-0 0 0-0
- 13 Wes Shull          9-0 0 0 0 3 .000 0 .000 0-0 0 0-0
- 20 Andre Sherard    23-23 0 0 0 1 .000 0 .000 0-1 0 0-0
- 29 Michael Walters    2-0 0 0 0 0 .000 0 .000 0-0 0 0-0
- 25 Abe Chenathara     1-0 0 0 0 0 .000 0 .000 0-0 0 0-0
- 22 Tim Evans          7-1 0 0 0 0 .000 0 .000 0-0 0 0-0
+ 11; Ben Hunter        ; 24; 20; 13; 5; 31; 73; .178 38 .521 3-0 4 1-2
+ 7 ; Scott Campbell    ; 23; 23; 10; 6; 26; 57; .175 23 .404 1-0 4 0-0
+ 15; Corey Ashe        ; 23; 23; 6 ; 4; 16; 56; .107 31 .554 1-0 4 0-0
+ 8 ; Dax McCarty       ; 24; 24; 2 ; 8; 12; 34; .059 10 .294 1-0 2 0-0
+ 31; Brian Shriver     ; 24; 6 ; 5 ; 1; 11; 23; .217 10 .435 1-0 2 0-0
+ 26; Ted Odgers        ; 24; 24; 2 ; 0; 4 ; 7 ; .286 2 .286 3-0 0 0-0
+ 9 ; Michael Harrington; 24; 24; 0 ; 4; 4 ; 21; .000 7 .333 1-0 0 0-0
+ 17; David Boole       ; 24; 24; 0 ; 4; 4 ; 13; .000 5 .385 1-0 0 0-0
+ 10; Stephen Bickford  ; 19; 3 ; 1 ; 1; 3 ; 21; .048 9 .429 0-0 0 0-0
+ 5 ; Michael Callahan  ; 23; 22; 1 ; 1; 3 ; 19; .053 7 .368 2-0 1 0-0
+ 3 ; Blake Beach       ; 23; 21; 1 ; 0; 2 ; 9 ; .111 4 .444 1-1 0 0-0
+ 4 ; Ty Allison        ;  3; 0 ; 0 ; 1; 1 ; 3 ; .000 3 1.000 1-0 0 0-0
+ 14; Jordan Graye      ;  4; 0 ; 0 ; 1; 1 ; 1 ; .000 0 .000 0-0 0 0-0
+ 18; Cameron Lewis     ; 18; 1 ; 0 ; 0; 0 ; 6 ; .000 4 .667 1-0 0 0-0
+ 6 ; Adam Sloustcher   ; 16; 1 ; 0 ; 0; 0 ; 5 ; .000 0 .000 1-0 0 0-0
+ 16; Chris Germani     ;  3; 0 ; 0 ; 0; 0 ; 3 ; .000 0 .000 0-0 0 0-0
+ 13; Wes Shull         ;  9; 0 ; 0 ; 0; 0 ; 3 ; .000 0 .000 0-0 0 0-0
+ 20; Andre Sherard     ; 23; 23; 0 ; 0; 0 ; 1 ; .000 0 .000 0-1 0 0-0
+ 29; Michael Walters   ;  2; 0 ; 0 ; 0; 0 ; 0 ; .000 0 .000 0-0 0 0-0
+ 25; Abe Chenathara    ;  1; 0 ; 0 ; 0; 0 ; 0 ; .000 0 .000 0-0 0 0-0
+ 22; Tim Evans         ;  7; 1 ; 0 ; 0; 0 ; 0 ; .000 0 .000 0-0 0 0-0
 
 
 Season: 2004
 BlockSource: http://www.goheels.com/ViewContent.dbml?SPID=12969&DB_OEM_ID=3350&CONTENT_ID=224625
 
-15 Corey Ashe           21-21   9   0  18  39  .231  23  .590  3   0-0
-5  Jamie Watson         20-12   7   4  18  38  .184  16  .421  0   1-1
-7  Marcus Storey        20-20   6   6  18  40  .150  16  .400  2   0-0
-10 Tim Merritt          21-21   3   4  10  14  .214   6  .429  1   0-0
-14 Andrew Rhea          20-19   2   5   9  19  .105   7  .368  1   0-0
-9  Michael Harrington   19-18   2   4   8  18  .111   7  .389  0   0-1
-8  Dax McCarty          21-5    2   3   7  16  .125   9  .562  0   0-0
-11 Ray Fumo             17-14   1   3   5   3  .333   2  .667  1   0-0
-26 Ted Odgers           21-16   0   3   3   3  .000   1  .333  0   0-0
-13 Wes Shull            16-2    1   0   2   9  .111   6  .667  1   0-0
-6  Adam Sloustcher      21-18   1   0   2   2  .500   2 1.000  1   0-0
-4  Ty Allison            9-0    0   2   2   3  .000   1  .333  0   0-0
-3  Blake Beach          17-13   0   1   1   7  .000   2  .286  0   0-0
-20 Andre Sherard        21-21   0   1   1   0  .000   0  .000  0   0-0
-17 David Boole          10-1    0   0   0   7  .000   0  .000  0   0-0
-12 Lee Superville        4-0    0   0   0   1  .000   0  .000  0   0-0
-29 Michael Walters       4-4    0   0   0   0  .000   0  .000  0   0-0
-28 Zach Haines           2-0    0   0   0   0  .000   0  .000  0   0-0
-19 Brad Darby            7-0    0   0   0   0  .000   0  .000  0   0-0
-18 Cameron Lewis         3-1    0   0   0   0  .000   0  .000  0   0-0
-16 Chris Germani         6-4    0   0   0   0  .000   0  .000  0   0-0
-1  Ford Williams        17-18   0   0   0   0  .000   0  .000  0   0-0
+15; Corey Ashe        ;   21; 21 ;  9 ;  0 ; 18 ; 39 ; .231  23  .590  3   0-0
+5 ; Jamie Watson      ;   20; 12 ;  7 ;  4 ; 18 ; 38 ; .184  16  .421  0   1-1
+7 ; Marcus Storey     ;   20; 20 ;  6 ;  6 ; 18 ; 40 ; .150  16  .400  2   0-0
+10; Tim Merritt       ;   21; 21 ;  3 ;  4 ; 10 ; 14 ; .214   6  .429  1   0-0
+14; Andrew Rhea       ;   20; 19 ;  2 ;  5 ;  9 ; 19 ; .105   7  .368  1   0-0
+9 ; Michael Harrington;   19; 18 ;  2 ;  4 ;  8 ; 18 ; .111   7  .389  0   0-1
+8 ; Dax McCarty       ;   21; 5  ;  2 ;  3 ;  7 ; 16 ; .125   9  .562  0   0-0
+11; Ray Fumo          ;   17; 14 ;  1 ;  3 ;  5 ;  3 ; .333   2  .667  1   0-0
+26; Ted Odgers        ;   21; 16 ;  0 ;  3 ;  3 ;  3 ; .000   1  .333  0   0-0
+13; Wes Shull         ;   16; 2  ;  1 ;  0 ;  2 ;  9 ; .111   6  .667  1   0-0
+6 ; Adam Sloustcher   ;   21; 18 ;  1 ;  0 ;  2 ;  2 ; .500   2 1.000  1   0-0
+4 ; Ty Allison        ;    9; 0  ;  0 ;  2 ;  2 ;  3 ; .000   1  .333  0   0-0
+3 ; Blake Beach       ;   17; 13 ;  0 ;  1 ;  1 ;  7 ; .000   2  .286  0   0-0
+20; Andre Sherard     ;   21; 21 ;  0 ;  1 ;  1 ;  0 ; .000   0  .000  0   0-0
+17; David Boole       ;   10; 1  ;  0 ;  0 ;  0 ;  7 ; .000   0  .000  0   0-0
+12; Lee Superville    ;    4; 0  ;  0 ;  0 ;  0 ;  1 ; .000   0  .000  0   0-0
+29; Michael Walters   ;    4; 4  ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
+28; Zach Haines       ;    2; 0  ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
+19; Brad Darby        ;    7; 0  ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
+18; Cameron Lewis     ;    3; 1  ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
+16; Chris Germani     ;    6; 4  ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
+1 ; Ford Williams     ;   17; 18 ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
 
 
 Season: 2003
@@ -256,25 +261,25 @@ BlockSource: http://www.goheels.com/ViewContent.dbml?SPID=12969&DB_OEM_ID=3350&C
 
 *## Name                 GP-GS   G   A Pts  Sh Shot% GW  PK-ATT
 
-7  Marcus Storey        19-19   6   3  15  48  .125  1   0-0
-5  Jamie Watson         20-18   5   5  15  57  .088  2   1-1
-15 Corey Ashe           14-6    4   2  10  18  .222  2   0-0
-10 Tim Merritt          20-20   4   1   9  18  .222  2   0-0
-11 Ray Fumo             20-20   2   3   7  13  .154  1   1-2
-13 Wes Shull            18-18   2   2   6  28  .071  1   0-0
-9  Michael Harrington   20-20   1   2   4  30  .033  1   0-0
-18 Sean McGinty         20-20   1   1   3   4  .250  1   0-0
-14 Andrew Rhea          20-20   1   0   2  26  .038  1   0-0
-26 Ted Odgers           16-11   1   0   2   4  .250  0   0-0
-4  Ty Allison           17-3    0   2   2  13  .000  0   0-0
-17 David Boole          14-3    0   0   0   5  .000  0   0-0
-20 Dixon Soffe          11-0    0   0   0   3  .000  0   0-0
-8  Justin Sorsabal       8-2    0   0   0   1  .000  0   0-0
-24 Justin Hughes         9-9    0   0   0   0  .000  0   0-0
-21 Grant Porter         20-20   0   0   0   0  .000  0   0-0
-3  Blake Beach           3-0    0   0   0   0  .000  0   0-0
-2  Michael Fortier       1-0    0   0   0   0  .000  0   0-0
-1  Ford Williams        11-11   0   0   0   0  .000  0   0-0
+7 ; Marcus Storey     ;   19; 19 ;  6 ;  3 ; 15 ; 48 ; .125  1   0-0
+5 ; Jamie Watson      ;   20; 18 ;  5 ;  5 ; 15 ; 57 ; .088  2   1-1
+15; Corey Ashe        ;   14; 6  ;  4 ;  2 ; 10 ; 18 ; .222  2   0-0
+10; Tim Merritt       ;   20; 20 ;  4 ;  1 ;  9 ; 18 ; .222  2   0-0
+11; Ray Fumo          ;   20; 20 ;  2 ;  3 ;  7 ; 13 ; .154  1   1-2
+13; Wes Shull         ;   18; 18 ;  2 ;  2 ;  6 ; 28 ; .071  1   0-0
+9 ; Michael Harrington;   20; 20 ;  1 ;  2 ;  4 ; 30 ; .033  1   0-0
+18; Sean McGinty      ;   20; 20 ;  1 ;  1 ;  3 ;  4 ; .250  1   0-0
+14; Andrew Rhea       ;   20; 20 ;  1 ;  0 ;  2 ; 26 ; .038  1   0-0
+26; Ted Odgers        ;   16; 11 ;  1 ;  0 ;  2 ;  4 ; .250  0   0-0
+4 ; Ty Allison        ;   17; 3  ;  0 ;  2 ;  2 ; 13 ; .000  0   0-0
+17; David Boole       ;   14; 3  ;  0 ;  0 ;  0 ;  5 ; .000  0   0-0
+20; Dixon Soffe       ;   11; 0  ;  0 ;  0 ;  0 ;  3 ; .000  0   0-0
+8 ; Justin Sorsabal   ;    8; 2  ;  0 ;  0 ;  0 ;  1 ; .000  0   0-0
+24; Justin Hughes     ;    9; 9  ;  0 ;  0 ;  0 ;  0 ; .000  0   0-0
+21; Grant Porter      ;   20; 20 ;  0 ;  0 ;  0 ;  0 ; .000  0   0-0
+3 ; Blake Beach       ;    3; 0  ;  0 ;  0 ;  0 ;  0 ; .000  0   0-0
+2 ; Michael Fortier   ;    1; 0  ;  0 ;  0 ;  0 ;  0 ; .000  0   0-0
+1 ; Ford Williams     ;   11; 11 ;  0 ;  0 ;  0 ;  0 ; .000  0   0-0
 
 
 Season: 2002
@@ -282,58 +287,60 @@ BlockSource: http://www.goheels.com/ViewContent.dbml?SPID=12969&DB_OEM_ID=3350&C
 
 *## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG% GW  PK-ATT
 
-12 Ryan Kneipper        21-20  18   9  45  61  .295  30  .492  3   0-0
-19 Matt Crawford        21-21   5  16  26  38  .132  18  .474  2   0-0
-16 David Testo          16-15   7   9  23  59  .119  26  .441  3   0-1
-7  Marcus Storey        22-20   8   4  20  43  .186  18  .419  2   0-0
-15 Mike Gell            22-18   4   5  13  50  .080  23  .460  2   0-0
-6  Jonathan Davis       19-3    4   0   8  14  .286   7  .500  0   0-0
-10 Tim Merritt          21-21   2   4   8  23  .087   7  .304  1   1-1
-18 Sean McGinty         22-17   1   5   7  17  .059   8  .471  0   0-0
-8  Logan Pause          22-22   2   1   5  13  .154   3  .231  1   0-0
-2  David Stokes         22-22   2   1   5  12  .167   3  .250  0   0-0
-11 Ray Fumo             21-20   1   3   5  12  .083   4  .333  0   0-0
-20 Dixon Soffe          13-4    1   2   4  10  .100   3  .300  0   0-0
-21 Grant Porter         17-16   0   2   2   0  .000   0  .000  0   0-0
-5  Peter Gajdos          8-0    0   1   1   5  .000   2  .400  0   0-0
-14 Roy Kelly             8-0    0   0   0   4  .000   1  .250  0   0-0
-3  Jonathan Lange        1-1    0   0   0   4  .000   1  .250  0   0-0
-26 Jay Batt              6-4    0   0   0   0  .000   0  .000  0   0-0
-13 Aubrey Whitfield      2-0    0   0   0   0  .000   0  .000  0   0-0
-9  Pablo Aycinena        1-0    0   0   0   0  .000   0  .000  0   0-0
-4  Ty Allison            4-0    0   0   0   0  .000   0  .000  0   0-0
-1  Ford Williams        18-18   0   0   0   0  .000   0  .000  0   0-0
+12; Ryan Kneipper     ;   21; 20 ; 18 ;  9 ; 45 ; 61 ; .295  30  .492  3   0-0
+19; Matt Crawford     ;   21; 21 ;  5 ; 16 ; 26 ; 38 ; .132  18  .474  2   0-0
+16; David Testo       ;   16; 15 ;  7 ;  9 ; 23 ; 59 ; .119  26  .441  3   0-1
+7 ; Marcus Storey     ;   22; 20 ;  8 ;  4 ; 20 ; 43 ; .186  18  .419  2   0-0
+15; Mike Gell         ;   22; 18 ;  4 ;  5 ; 13 ; 50 ; .080  23  .460  2   0-0
+6 ; Jonathan Davis    ;   19; 3  ;  4 ;  0 ;  8 ; 14 ; .286   7  .500  0   0-0
+10; Tim Merritt       ;   21; 21 ;  2 ;  4 ;  8 ; 23 ; .087   7  .304  1   1-1
+18; Sean McGinty      ;   22; 17 ;  1 ;  5 ;  7 ; 17 ; .059   8  .471  0   0-0
+8 ; Logan Pause       ;   22; 22 ;  2 ;  1 ;  5 ; 13 ; .154   3  .231  1   0-0
+2 ; David Stokes      ;   22; 22 ;  2 ;  1 ;  5 ; 12 ; .167   3  .250  0   0-0
+11; Ray Fumo          ;   21; 20 ;  1 ;  3 ;  5 ; 12 ; .083   4  .333  0   0-0
+20; Dixon Soffe       ;   13; 4  ;  1 ;  2 ;  4 ; 10 ; .100   3  .300  0   0-0
+21; Grant Porter      ;   17; 16 ;  0 ;  2 ;  2 ;  0 ; .000   0  .000  0   0-0
+5 ; Peter Gajdos      ;    8; 0  ;  0 ;  1 ;  1 ;  5 ; .000   2  .400  0   0-0
+14; Roy Kelly         ;    8; 0  ;  0 ;  0 ;  0 ;  4 ; .000   1  .250  0   0-0
+3 ; Jonathan Lange    ;    1; 1  ;  0 ;  0 ;  0 ;  4 ; .000   1  .250  0   0-0
+26; Jay Batt          ;    6; 4  ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
+13; Aubrey Whitfield  ;    2; 0  ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
+9 ; Pablo Aycinena    ;    1; 0  ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
+4 ; Ty Allison        ;    4; 0  ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
+1 ; Ford Williams     ;   18; 18 ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0   0-0
 
 
 Season: 2001
 BlockSource: http://www.goheels.com/ViewContent.dbml?SPID=12969&DB_OEM_ID=3350&CONTENT_ID=227852
 
+Key: name; games_played; games_started; shots; goals; assists; points; game_winning_goals 
+
 *Carolina                   GP-GS      Sh     G     A   Pts    GWG
 
-Ryan Kneipper              24-13      73    14     6     34     4
-David Testo                25-24      68    11     6     28     2
-Marcus Storey              25-17      38     9     8     26     2
-Mike Gell                  23-14      37     7     4     18     3
-Matt Crawford              25-25      35     5     8     18     1
-Noz Yamauchi               25-25      50     2    11     15     0
-Logan Pause                18-17      27     4     1      9     3
-Sean McGinty               20- 9      26     4     1      9     2
-Chris Leitch               25-25       7     2     4      8     1
-David Stokes               25-25      11     2     3      7     2
-Jonathan Davis             21- 1      23     2     1      5     0
-Danny Jackson              25-25      11     1     2      4     0
-Tim Merritt                14- 2      10     1     2      4     0
-Raymond Fumo               20- 6      10     0     4      4     0
-Zach Morrow                 1- 0       1     1     0      2     0
-Grant Porter               23-22       4     0     2      2     0
-Ryan Schumacher             6- 0       2     0     2      2     0
-Michael Ueltschey          25-25       0     0     1      1     0
-Roy Kelly                   6- 0       1     0     0      0     0
-Ryan Levitan                1- 0       0     0     0      0     0
-Zack Mansfield              2- 0       0     0     0      0     0
-Wes Ange                    2- 0       0     0     0      0     0
-Nick Jordan                 1- 0       0     0     0      0     0
-Jay Batt                    1- 0       0     0     0      0     0
+Ryan Kneipper      ;        24; 13  ;    73  ;  14  ;   6  ;   34  ;   4
+David Testo        ;        25; 24  ;    68  ;  11  ;   6  ;   28  ;   2
+Marcus Storey      ;        25; 17  ;    38  ;   9  ;   8  ;   26  ;   2
+Mike Gell          ;        23; 14  ;    37  ;   7  ;   4  ;   18  ;   3
+Matt Crawford      ;        25; 25  ;    35  ;   5  ;   8  ;   18  ;   1
+Noz Yamauchi       ;        25; 25  ;    50  ;   2  ;  11  ;   15  ;   0
+Logan Pause        ;        18; 17  ;    27  ;   4  ;   1  ;    9  ;   3
+Sean McGinty       ;        20;  9  ;    26  ;   4  ;   1  ;    9  ;   2
+Chris Leitch       ;        25; 25  ;     7  ;   2  ;   4  ;    8  ;   1
+David Stokes       ;        25; 25  ;    11  ;   2  ;   3  ;    7  ;   2
+Jonathan Davis     ;        21;  1  ;    23  ;   2  ;   1  ;    5  ;   0
+Danny Jackson      ;        25; 25  ;    11  ;   1  ;   2  ;    4  ;   0
+Tim Merritt        ;        14;  2  ;    10  ;   1  ;   2  ;    4  ;   0
+Raymond Fumo       ;        20;  6  ;    10  ;   0  ;   4  ;    4  ;   0
+Zach Morrow        ;         1;  0  ;     1  ;   1  ;   0  ;    2  ;   0
+Grant Porter       ;        23; 22  ;     4  ;   0  ;   2  ;    2  ;   0
+Ryan Schumacher    ;         6;  0  ;     2  ;   0  ;   2  ;    2  ;   0
+Michael Ueltschey  ;        25; 25  ;     0  ;   0  ;   1  ;    1  ;   0
+Roy Kelly          ;         6;  0  ;     1  ;   0  ;   0  ;    0  ;   0
+Ryan Levitan       ;         1;  0  ;     0  ;   0  ;   0  ;    0  ;   0
+Zack Mansfield     ;         2;  0  ;     0  ;   0  ;   0  ;    0  ;   0
+Wes Ange           ;         2;  0  ;     0  ;   0  ;   0  ;    0  ;   0
+Nick Jordan        ;         1;  0  ;     0  ;   0  ;   0  ;    0  ;   0
+Jay Batt           ;         1;  0  ;     0  ;   0  ;   0  ;    0  ;   0
 
 
 Season: 2000
@@ -341,30 +348,30 @@ BlockSource: http://www.goheels.com/ViewContent.dbml?SPID=12969&DB_OEM_ID=3350&C
 
 *Carolina                   GP-GS      Sh     G     A   Pts    GWG
 
-Chris Carrieri             24-24     103    25    14     64     6
-Caleb Norkus               24-21      65    15    13     43     6
-Michael Bucy               24-24      54     9    15     33     2
-Logan Pause                22-20      20     4     5     13     2
-Ryan Kneipper              20- 0      20     4     1      9     1
-Noz Yamauchi               24-17      29     3     3      9     1
-Matt Crawford              24-22      22     1     7      9     0
-Eddie Robinson             22-20      37     3     2      8     0
-Sean McGinty               24- 7      16     1     5      7     0
-Matt Laycock                9- 0       9     3     0      6     1
-Danny Jackson              24-24      17     1     4      6     1
-C.J. Steffen               17- 1      11     2     1      5     0
-Mike Gell                  20- 4      15     0     5      5     0
-David Stokes               24-24       8     1     2      4     1
-Grant Porter               17- 8       7     1     1      3     0
-Chris Leitch               24-24       5     0     3      3     0
-Stephen Cash                5- 0       2     0     1      1     0
-Carson Porter              13- 0       3     0     0      0     0
-Michael Ueltschey          22-22       0     0     0      0     0
-Brad Thomas                 7- 2       0     0     0      0     0
-Steve Sartorio              7- 0       0     0     0      0     0
-Andrew Moon                 3- 0       0     0     0      0     0
-Ryan Levitan                1- 0       0     0     0      0     0
-Nick Jordan                 1- 0       0     0     0      0     0
+Chris Carrieri     ;        24; 24  ;   103  ;  25  ;  14  ;   64  ;   6
+Caleb Norkus       ;        24; 21  ;    65  ;  15  ;  13  ;   43  ;   6
+Michael Bucy       ;        24; 24  ;    54  ;   9  ;  15  ;   33  ;   2
+Logan Pause        ;        22; 20  ;    20  ;   4  ;   5  ;   13  ;   2
+Ryan Kneipper      ;        20;  0  ;    20  ;   4  ;   1  ;    9  ;   1
+Noz Yamauchi       ;        24; 17  ;    29  ;   3  ;   3  ;    9  ;   1
+Matt Crawford      ;        24; 22  ;    22  ;   1  ;   7  ;    9  ;   0
+Eddie Robinson     ;        22; 20  ;    37  ;   3  ;   2  ;    8  ;   0
+Sean McGinty       ;        24;  7  ;    16  ;   1  ;   5  ;    7  ;   0
+Matt Laycock       ;         9;  0  ;     9  ;   3  ;   0  ;    6  ;   1
+Danny Jackson      ;        24; 24  ;    17  ;   1  ;   4  ;    6  ;   1
+C.J. Steffen       ;        17;  1  ;    11  ;   2  ;   1  ;    5  ;   0
+Mike Gell          ;        20;  4  ;    15  ;   0  ;   5  ;    5  ;   0
+David Stokes       ;        24; 24  ;     8  ;   1  ;   2  ;    4  ;   1
+Grant Porter       ;        17;  8  ;     7  ;   1  ;   1  ;    3  ;   0
+Chris Leitch       ;        24; 24  ;     5  ;   0  ;   3  ;    3  ;   0
+Stephen Cash       ;         5;  0  ;     2  ;   0  ;   1  ;    1  ;   0
+Carson Porter      ;        13;  0  ;     3  ;   0  ;   0  ;    0  ;   0
+Michael Ueltschey  ;        22; 22  ;     0  ;   0  ;   0  ;    0  ;   0
+Brad Thomas        ;         7;  2  ;     0  ;   0  ;   0  ;    0  ;   0
+Steve Sartorio     ;         7;  0  ;     0  ;   0  ;   0  ;    0  ;   0
+Andrew Moon        ;         3;  0  ;     0  ;   0  ;   0  ;    0  ;   0
+Ryan Levitan       ;         1;  0  ;     0  ;   0  ;   0  ;    0  ;   0
+Nick Jordan        ;         1;  0  ;     0  ;   0  ;   0  ;    0  ;   0
 
 
 Season: 1999
@@ -372,28 +379,28 @@ BlockSource: http://www.goheels.com/ViewContent.dbml?SPID=12969&DB_OEM_ID=3350&C
 
 *Carolina                   GP-GS      Sh     G     A   Pts    GWG
 
-Chris Carrieri             20-20      73    12     5     29     1
-Caleb Norkus               19-19      35     9     2     20     4
-Michael Bucy               20-14      25     5    10     20     1
-Noz Yamauchi               20-14      38     4     9     17     0
-Matt Laycock               15- 7      23     4     4     12     1
-Joey DiSalvo               20-20      18     2     8     12     0
-Daniel Jackson             20-20      17     3     4     10     1
-Ryan Kneipper              16- 0      11     3     1      7     0
-Matt Crawford              19-13      10     1     4      6     1
-Mike Gell                  19- 7       8     2     0      4     1
-Eddie Robinson             17- 0      17     1     2      4     1
-David Popp                 20-20      10     1     2      4     0
-John Wean                  17-15       4     1     2      4     0
-C.J. Steffen               19-11      13     1     1      3     1
-Carson Porter              12- 0       4     1     1      3     0
-Chris Leitch               20-20       4     1     0      2     0
-Ryan Schumacher             6- 0       1     0     1      1     0
-Brandon Helms               3- 0       1     0     0      0     0
-Michael Ueltschey          16-16       0     0     0      0     0
-Brad Thomas                 4- 4       0     0     0      0     0
-Marshall Insley             3- 0       0     0     0      0     0
-William Woodroffe           1- 0       0     0     0      0     0
+Chris Carrieri     ;        20; 20  ;    73  ;  12  ;   5  ;   29  ;   1
+Caleb Norkus       ;        19; 19  ;    35  ;   9  ;   2  ;   20  ;   4
+Michael Bucy       ;        20; 14  ;    25  ;   5  ;  10  ;   20  ;   1
+Noz Yamauchi       ;        20; 14  ;    38  ;   4  ;   9  ;   17  ;   0
+Matt Laycock       ;        15;  7  ;    23  ;   4  ;   4  ;   12  ;   1
+Joey DiSalvo       ;        20; 20  ;    18  ;   2  ;   8  ;   12  ;   0
+Daniel Jackson     ;        20; 20  ;    17  ;   3  ;   4  ;   10  ;   1
+Ryan Kneipper      ;        16;  0  ;    11  ;   3  ;   1  ;    7  ;   0
+Matt Crawford      ;        19; 13  ;    10  ;   1  ;   4  ;    6  ;   1
+Mike Gell          ;        19;  7  ;     8  ;   2  ;   0  ;    4  ;   1
+Eddie Robinson     ;        17;  0  ;    17  ;   1  ;   2  ;    4  ;   1
+David Popp         ;        20; 20  ;    10  ;   1  ;   2  ;    4  ;   0
+John Wean          ;        17; 15  ;     4  ;   1  ;   2  ;    4  ;   0
+C.J. Steffen       ;        19; 11  ;    13  ;   1  ;   1  ;    3  ;   1
+Carson Porter      ;        12;  0  ;     4  ;   1  ;   1  ;    3  ;   0
+Chris Leitch       ;        20; 20  ;     4  ;   1  ;   0  ;    2  ;   0
+Ryan Schumacher    ;         6;  0  ;     1  ;   0  ;   1  ;    1  ;   0
+Brandon Helms      ;         3;  0  ;     1  ;   0  ;   0  ;    0  ;   0
+Michael Ueltschey  ;        16; 16  ;     0  ;   0  ;   0  ;    0  ;   0
+Brad Thomas        ;         4;  4  ;     0  ;   0  ;   0  ;    0  ;   0
+Marshall Insley    ;         3;  0  ;     0  ;   0  ;   0  ;    0  ;   0
+William Woodroffe  ;         1;  0  ;     0  ;   0  ;   0  ;    0  ;   0
 
 
 Season: 1998
@@ -403,50 +410,50 @@ BlockSource: http://www.goheels.com/ViewContent.dbml?SPID=12969&DB_OEM_ID=3350&C
 
 *Carolina                   GP-GS      Sh     G     A   Pts    GWG
 
-Chris Carrieri             20-20      73    12     5     29     1
-Caleb Norkus               19-19      35     9     2     20     4
-Michael Bucy               20-14      25     5    10     20     1
-Noz Yamauchi               20-14      38     4     9     17     0
-Matt Laycock               15- 7      23     4     4     12     1
-Joey DiSalvo               20-20      18     2     8     12     0
-Daniel Jackson             20-20      17     3     4     10     1
-Ryan Kneipper              16- 0      11     3     1      7     0
-Matt Crawford              19-13      10     1     4      6     1
-Mike Gell                  19- 7       8     2     0      4     1
-Eddie Robinson             17- 0      17     1     2      4     1
-David Popp                 20-20      10     1     2      4     0
-John Wean                  17-15       4     1     2      4     0
-C.J. Steffen               19-11      13     1     1      3     1
-Carson Porter              12- 0       4     1     1      3     0
-Chris Leitch               20-20       4     1     0      2     0
-Ryan Schumacher             6- 0       1     0     1      1     0
-Brandon Helms               3- 0       1     0     0      0     0
-Michael Ueltschey          16-16       0     0     0      0     0
-Brad Thomas                 4- 4       0     0     0      0     0
-Marshall Insley             3- 0       0     0     0      0     0
-William Woodroffe           1- 0       0     0     0      0     0
+*Chris Carrieri     ;        20; 20  ;    73  ;  12  ;   5  ;   29  ;   1
+*Caleb Norkus       ;        19; 19  ;    35  ;   9  ;   2  ;   20  ;   4
+*Michael Bucy       ;        20; 14  ;    25  ;   5  ;  10  ;   20  ;   1
+*Noz Yamauchi       ;        20; 14  ;    38  ;   4  ;   9  ;   17  ;   0
+*Matt Laycock       ;        15;  7  ;    23  ;   4  ;   4  ;   12  ;   1
+*Joey DiSalvo       ;        20; 20  ;    18  ;   2  ;   8  ;   12  ;   0
+*Daniel Jackson     ;        20; 20  ;    17  ;   3  ;   4  ;   10  ;   1
+*Ryan Kneipper      ;        16;  0  ;    11  ;   3  ;   1  ;    7  ;   0
+*Matt Crawford      ;        19; 13  ;    10  ;   1  ;   4  ;    6  ;   1
+*Mike Gell          ;        19;  7  ;     8  ;   2  ;   0  ;    4  ;   1
+*Eddie Robinson     ;        17;  0  ;    17  ;   1  ;   2  ;    4  ;   1
+*David Popp         ;        20; 20  ;    10  ;   1  ;   2  ;    4  ;   0
+*John Wean          ;        17; 15  ;     4  ;   1  ;   2  ;    4  ;   0
+*C.J. Steffen       ;        19; 11  ;    13  ;   1  ;   1  ;    3  ;   1
+*Carson Porter      ;        12;  0  ;     4  ;   1  ;   1  ;    3  ;   0
+*Chris Leitch       ;        20; 20  ;     4  ;   1  ;   0  ;    2  ;   0
+*Ryan Schumacher    ;         6;  0  ;     1  ;   0  ;   1  ;    1  ;   0
+*Brandon Helms      ;         3;  0  ;     1  ;   0  ;   0  ;    0  ;   0
+*Michael Ueltschey  ;        16; 16  ;     0  ;   0  ;   0  ;    0  ;   0
+*Brad Thomas        ;         4;  4  ;     0  ;   0  ;   0  ;    0  ;   0
+*Marshall Insley    ;         3;  0  ;     0  ;   0  ;   0  ;    0  ;   0
+*William Woodroffe  ;         1;  0  ;     0  ;   0  ;   0  ;    0  ;   0
 
 
 Season: 1997
 BlockSource: http://www.goheels.com/ViewContent.dbml?SPID=12969&DB_OEM_ID=3350&CONTENT_ID=227848
 
-*Carolina     GP-GS      Sh      G       A       Pts     GWG      GP-GS  Sh      G       A       Pts     GWG
+*Carolina     GP-GS      Sh      G       A       Pts     GWG      
 
-Carey Talley            19-17   54      6       10      22      0        75-73  155     26      22      74      7
-Caleb Norkus            18-16   39      9       2       20      0        18-16  39      9       2       20      0
-Matt Laycock            18-18   14      3       3       9       1        18-18  14      3       3       9       1
-Michael Bucy            16-15   20      3       1       7       3        16-15  20      3       1       7       3
-Daniel Kulenic          17-14   26      2       1       5        1      64-59   69      4       3       11      2
-Tim Reynolds            14-4    6       2       1       5        0      14-4    6       2       1       5       0
-Joe DiSalvo             19-19   19      1       3       5        0      36-35   32      1       8       10      0
-David Popp              19-19   8       1       2       4        0      19-19   8       1       2       4       0
-Jorge Redmond           6-4     8       1       0       2        1      23-19   35      4       0       8       2
-Andreas DiMeo           6-0     4       1       0       2        0      6-0     4       1       0       2       0
-Ciaran Barrett          19-5    14      0       2       2        0      19-5    14      0       2       2       0
-Benoit Girou            18-2    6       0       2       2        0      18-2    6       0       2       2       0
-Carson Porter           19-19   14      0       1       1        0      19-19   14      0       1       1       0
-Anson Ashby             18-18   4       0       0       0        0      31-20   5       0       0       0       0
-Brian Strong            18-17   4       0       0       0        0      24-18   5       0       0       0       0
-Vincent Velez           9-3     3       0       0       0        0      9-3     3       0       0       0       0
-Daniel Popik            12-12   0       0       0       0        0      12-12   0       0       0       0       0
-William Woodroffe       8-7     0       0       0       0        0      13-11   0       0       0       0       0
+Carey Talley         ;   19; 17 ;  54  ;    6   ;    10   ;   22  ;    0   
+Caleb Norkus         ;   18; 16 ;  39  ;    9   ;    2    ;   20  ;    0   
+Matt Laycock         ;   18; 18 ;  14  ;    3   ;    3    ;   9   ;    1   
+Michael Bucy         ;   16; 15 ;  20  ;    3   ;    1    ;   7   ;    3   
+Daniel Kulenic       ;   17; 14 ;  26  ;    2   ;    1    ;   5   ;     1  
+Tim Reynolds         ;   14; 4  ;  6   ;    2   ;    1    ;   5   ;     0  
+Joe DiSalvo          ;   19; 19 ;  19  ;    1   ;    3    ;   5   ;     0  
+David Popp           ;   19; 19 ;  8   ;    1   ;    2    ;   4   ;     0  
+Jorge Redmond        ;   6; 4   ;  8   ;    1   ;    0    ;   2   ;     1  
+Andreas DiMeo        ;   6; 0   ;  4   ;    1   ;    0    ;   2   ;     0  
+Ciaran Barrett       ;   19; 5  ;  14  ;    0   ;    2    ;   2   ;     0  
+Benoit Girou         ;   18; 2  ;  6   ;    0   ;    2    ;   2   ;     0  
+Carson Porter        ;   19; 19 ;  14  ;    0   ;    1    ;   1   ;     0  
+Anson Ashby          ;   18; 18 ;  4   ;    0   ;    0    ;   0   ;     0  
+Brian Strong         ;   18; 17 ;  4   ;    0   ;    0    ;   0   ;     0  
+Vincent Velez        ;   9; 3   ;  3   ;    0   ;    0    ;   0   ;     0  
+Daniel Popik         ;   12; 12 ;  0   ;    0   ;    0    ;   0   ;     0  
+William Woodroffe    ;   8; 7   ;  0   ;    0   ;    0    ;   0   ;     0  

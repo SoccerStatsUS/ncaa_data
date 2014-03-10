@@ -4,8 +4,8 @@ Team: Stanford
 Season: 2012
 BlockSource: http://www.gostanford.com/ViewContent.dbml?&DB_OEM_ID=30600&CONTENT_ID=781560
 
-## Name                 GP-GS   G   A Pts  Sh Shot%  YC-RC GW  PK-ATT
----------------------------------------------------------------------
+*## Name                 GP-GS   G   A Pts  Sh Shot%  YC-RC GW  PK-ATT
+
 9  Jahn, Adam           18-18  13   4  30  57  .228   0-0   4   3-3
 2  Koval, JJ            17-17   2   2   6  35  .057   4-0   0   0-0
 19 Edwards, Bobby       17-9    0   1   1  33  .000   1-0   0   0-0
@@ -32,94 +32,95 @@ BlockSource: http://www.gostanford.com/ViewContent.dbml?&DB_OEM_ID=30600&CONTENT
 Season: 2011
 BlockSource: http://www.gostanford.com/ViewContent.dbml?&DB_OEM_ID=30600&CONTENT_ID=781567
 
-##           Player     GP-GS   G       A       Pts     Sh      Shot%   SOG     SOG%    GW      PK-Att 
-5            Gunther, Garrett   18-18   5       2       12      34       .147   17       .500   3      1-1 
-12           Jahn, Adam         17-14   4       2       10      41        .098  19        .463  2      1-1 
-18           Abolfathi, Dersu   18-18   3       0       6       19         .158           5      .263  1   0-0 
-2            Koval, JJ          18-18   2       1       5       11          .182          2       .182     0   0-0 
-9            Binnie, Alexander          16-9    2       0       4           19             .105   7         .368   0    0-0 
-14           Batteer, Zach              17-7    1       1       3           21              .048  12         .571  0    0-0 
-7            Noguerol, Felipe           17-2    1       1       3           18               .056            6      .333    0  0-0 
-10           Amman, Taylor              18-8    1       1       3           12                .083           6       .500   0  0-0 
-23           Anderson, Eric             18-18   0       3       3           7                  .000          1        .143  0  0-0 
-3            Gorskie, Hunter            17-17   1       0       2           6                   .167         1         .167    0   0-0 
-6            Levine, Adoni              18-18   0       2       2           3                    .000        2          .667   0   0-0 
-19           Edwards, Bobby              7-1    0       1       1           8                     .000       5           .625  0   0-0 
-21           Callinan, Jimmy             17-2   0       0       0           8                      .000      4            .500     0   0-0 
-24           Grafentin, Grant            13-5   0       0       0           4                       .000     2             .500    0   0-0 
-22           Holz, Clayton                8-1   0       0       0           4                        .000    1              .250   0   0-0 
-16           Taylor, Matt                  7-4          0       0           0                        2        .000          1       .500   0  0-0 
-13           Wilson, Cullen                 6-0         0       0           0                        2         .000         0        .000  0  0-0 
-8            Ryan, Tommy                    18-18       0       0           0                        2          .000        0         .000    0   0-0 
-17           Meyer, Austin                   2-0        0       0           0                        1           .000       0          .000   0   0-0 
-11           Grafentin, Ben                   3-1       0       0           0                        1            .000      1          1.000  0   0-0 
-25           Conklin, Tyler                    2-0      0       0           0                        0             .000     0           .000  0   0-0 
-4            Ryan, Jack                         1-0     0       0           0                        0              .000    0            .000     0   0-0 
+*##           Player     GP-GS   G       A       Pts     Sh      Shot%   SOG     SOG%    GW      PK-Att 
+
+5            Gunther, Garrett           18-18   5       2       12      34       .147   17       .500   3      1-1 
+12           Jahn, Adam                 17-14   4       2       10      41        .098  19        .463  2      1-1 
+18           Abolfathi, Dersu           18-18   3       0       6       19         .158           5      .263  1   0-0 
+2            Koval, JJ                  18-18   2       1       5       11          .182          2       .182     0   0-0 
+9            Binnie, Alexander          16-9    2       0       4       19             .105   7         .368   0    0-0 
+14           Batteer, Zach              17-7    1       1       3       21              .048  12         .571  0    0-0 
+7            Noguerol, Felipe           17-2    1       1       3       18               .056            6      .333    0  0-0 
+10           Amman, Taylor              18-8    1       1       3       12                .083           6       .500   0  0-0 
+23           Anderson, Eric             18-18   0       3       3       7                  .000          1        .143  0  0-0 
+3            Gorskie, Hunter            17-17   1       0       2       6                   .167         1         .167    0   0-0 
+6            Levine, Adoni              18-18   0       2       2       3                    .000        2          .667   0   0-0 
+19           Edwards, Bobby              7-1    0       1       1       8                     .000       5           .625  0   0-0 
+21           Callinan, Jimmy            17-2    0       0       0       8                      .000      4            .500     0   0-0 
+24           Grafentin, Grant           13-5    0       0       0       4                       .000     2             .500    0   0-0 
+22           Holz, Clayton               8-1    0       0       0       4                        .000    1              .250   0   0-0 
+16           Taylor, Matt                7-4    0       0       0       2        .000          1       .500   0  0-0 
+13           Wilson, Cullen              6-0    0       0       0       2         .000         0        .000  0  0-0 
+8            Ryan, Tommy                18-18   0       0       0       2          .000        0         .000    0   0-0 
+17           Meyer, Austin               2-0    0       0       0       1           .000       0          .000   0   0-0 
+11           Grafentin, Ben              3-1    0       0       0       1            .000      1          1.000  0   0-0 
+25           Conklin, Tyler              2-0    0       0       0       0             .000     0           .000  0   0-0 
+4            Ryan, Jack                  1-0    0       0       0       0              .000    0            .000     0   0-0 
 
 
 Season: 2010
 BlockSource: http://www.gostanford.com/ViewContent.dbml?&DB_OEM_ID=30600&CONTENT_ID=781564
 
-12           Jahn, Adam         18-16   3       3       9       34       .088   14       .412   1       0-0 
-14           Warshaw, Bobby     18-18   4       1       9       32        .125  12        .375  2       1-1 
-18           Abolfathi, Dersu   18-16   3       2       8       28         .107           7      .250   1   0-0 
-11           Yahyavi, Dominique         18-16   6       1       13         22              .273  11      .500   3       0-0 
-5            Gunther, Garrett            9-6    0       2       2          22               .000         7       .318   0   0-0 
-9            Leon, Daniel                17-9   0       2       2          17                .000        5        .294  0   0-0 
-15           Lamming, Cameron            18-17  2       0       4          13                 .154       7         .538     1   0-0 
-99           Thomas, Ryan                18-18  1       3       5          11                  .091      7          .636    0   0-0 
-98           Amman, Taylor               17-2   2       1       5          8                    .250     6           .750   0   0-0 
-6            Levine, Adoni               18-11  0       2       2          6                     .000    4            .667  0   0-0 
-7            Anderson, Eric              13-8   0       1       1          6                      .000   3             .500     0   0-0 
-13           Wilson, Cullen               6-0   0       0       0          3                       .000  0              .000    0   0-0 
-10           Sa Freire, Thiago            16-2          0       2          2                       3      .000          0        .000   0  0-0 
-3            Gorskie, Hunter              16-4          0       0          0                       2       .000         0         .000  0  0-0 
-22           Holz, Clayton                13-0          0       1          1                       2        .000        0          .000    0   0-0 
-2            Koval, JJ                    18-17         0       0          0                       2         .000       0           .000   0   0-0 
-8            Ryan, Tommy                  18-17         0       0          0                       1          .000      1           1.000  0   0-0 
-33           Binnie, Alexander             4-0          0       1          1                       1           .000     0            .000  0   0-0 
-24           Culver, Shaun                  9-3         0       1          1                       1            .000    0             .000     0   0-0 
-20           Hutchins, Drew                  1-0        0       0          0                       0             .000   0              .000    0   0-0 
-0            Perkins, Galen                   6-4       0       0          0                       0              .000  0               .000   0   0-0 
-1            Dodson, Jason                    14-14     0       0          0                       0               .000                 0       .000   0  0-0 
-25           Conklin, Tyler                    6-0      0       0          0                       0                .000                0        .000  0  0-0 
-23           Grafentin, Ben                     2-0     0       0          0                       0                 .000               0         .000    0   0-0 
+12           Jahn, Adam                 18-16   3       3       9       34       .088   14       .412   1       0-0 
+14           Warshaw, Bobby             18-18   4       1       9       32        .125  12        .375  2       1-1 
+18           Abolfathi, Dersu           18-16   3       2       8       28         .107           7      .250   1   0-0 
+11           Yahyavi, Dominique         18-16   6       1       13      22              .273  11      .500   3       0-0 
+5            Gunther, Garrett            9-6    0       2       2       22               .000         7       .318   0   0-0 
+9            Leon, Daniel               17-9    0       2       2       17                .000        5        .294  0   0-0 
+15           Lamming, Cameron           18-17   2       0       4       13                 .154       7         .538     1   0-0 
+99           Thomas, Ryan               18-18   1       3       5       11                  .091      7          .636    0   0-0 
+98           Amman, Taylor              17-2    2       1       5       8                    .250     6           .750   0   0-0 
+6            Levine, Adoni              18-11   0       2       2       6                     .000    4            .667  0   0-0 
+7            Anderson, Eric             13-8    0       1       1       6                      .000   3             .500     0   0-0 
+13           Wilson, Cullen              6-0    0       0       0       3                       .000  0              .000    0   0-0 
+10           Sa Freire, Thiago          16-2    0       2       2       3      .000          0        .000   0  0-0 
+3            Gorskie, Hunter            16-4    0       0       0       2       .000         0         .000  0  0-0 
+22           Holz, Clayton              13-0    0       1       1       2        .000        0          .000    0   0-0 
+2            Koval, JJ                  18-17   0       0       0       2         .000       0           .000   0   0-0 
+8            Ryan, Tommy                18-17   0       0       0       1          .000      1           1.000  0   0-0 
+33           Binnie, Alexander           4-0    0       1       1       1           .000     0            .000  0   0-0 
+24           Culver, Shaun               9-3    0       1       1       1            .000    0             .000     0   0-0 
+20           Hutchins, Drew              1-0    0       0       0       0             .000   0              .000    0   0-0 
+0            Perkins, Galen              6-4    0       0       0       0              .000  0               .000   0   0-0 
+1            Dodson, Jason              14-14   0       0       0       0               .000                 0       .000   0  0-0 
+25           Conklin, Tyler              6-0    0       0       0       0                .000                0        .000  0  0-0 
+23           Grafentin, Ben              2-0    0       0       0       0                 .000               0         .000    0   0-0 
 
 
 Season: 2009
 BlockSource: http://www.gostanford.com/ViewContent.dbml?&DB_OEM_ID=30600&CONTENT_ID=781635
 
-12           Jahn, Adam         20-20   4       3       11      44       .091   23       .523   2       0-0 
-27           Gunther, Garrett   17-17   3       2       8       25        .120  13        .520  1       0-0 
-21           Leon, Daniel       19-0    3       1       7       23         .130           11     .478   1   0-0 
-14           Warshaw, Bobby     20-20   6       1       13      21          .286          10      .476  4   1-1 
-9            Morgan, Evan       20-18   4       4       12      21           .190         8        .381     1   0-0 
-15           Lamming, Cameron   20-19   2       1       5       20            .100        8         .400    1   0-0 
-11           Yahyavi, Dominique         19-12   2       3       7             17           .118     9        .529   0   0-0 
-18           Abolfathi, Dersu           20-3    1       1       3             14            .071    3         .214  0   0-0 
-99           Thomas, Ryan               20-20   1       3       5             10             .100   4          .400     1   0-0 
-26           Amman, Taylor              19-1    1       2       4             6               .167  4           .667    1   0-0 
-2            Holz, Clayton              12-5    0       0       0             5                .000             3        .600   0  0-0 
-6            Levine, Adoni              17-0    1       0       2             4                 .250            3         .750  0  0-0 
-7            Anderson, Eric             15-0    0       1       1             4                  .000           1          .250    0   0-0 
-3            Gorskie, Hunter            20-20   0       0       0             4                   .000          0           .000   0   0-0 
-17           Novak, T.J.                19-16   0       0       0             3                    .000         1            .333  0   0-0 
-5            Strickland, Michael        20-20   0       1       1             3                     .000        1             .333     0   0-0 
-24           Culver, Shaun              11-7    0       0       0             2                      .000       1              .500    0   0-0 
-22           Binnie, Alexander           2-0    0       0       0             2                       .000      0               .000   0   0-0 
-8            Ryan, Tommy                  3-0   0       0       0             0                        .000     0                .000  0   0-0 
-13           Wilson, Cullen                2-0          0       0             0                        0         .000            0      .000   0  0-0 
-4            Huang, Kevin                   1-0         0       0             0                        0          .000           0       .000  0  0-0 
-23           Grafentin, Ben                  1-0        0       0             0                        0           .000          0        .000    0   0-0 
-20           Moore, John                     20-20      0       0             0                        0            .000         0         .000   0   0-0 
-10           Sa Freire, Thiago                2-2       0       0             0                        0             .000        0          .000  0   0-0 
+12           Jahn, Adam                 20-20   4       3       11      44       .091   23       .523   2       0-0 
+27           Gunther, Garrett           17-17   3       2       8       25        .120  13        .520  1       0-0 
+21           Leon, Daniel               19-0    3       1       7       23         .130           11     .478   1   0-0 
+14           Warshaw, Bobby             20-20   6       1       13      21          .286          10      .476  4   1-1 
+9            Morgan, Evan               20-18   4       4       12      21           .190         8        .381     1   0-0 
+15           Lamming, Cameron           20-19   2       1       5       20            .100        8         .400    1   0-0 
+11           Yahyavi, Dominique         19-12   2       3       7       17           .118     9        .529   0   0-0 
+18           Abolfathi, Dersu           20-3    1       1       3       14            .071    3         .214  0   0-0 
+99           Thomas, Ryan               20-20   1       3       5       10             .100   4          .400     1   0-0 
+26           Amman, Taylor              19-1    1       2       4       6               .167  4           .667    1   0-0 
+2            Holz, Clayton              12-5    0       0       0       5                .000             3        .600   0  0-0 
+6            Levine, Adoni              17-0    1       0       2       4                 .250            3         .750  0  0-0 
+7            Anderson, Eric             15-0    0       1       1       4                  .000           1          .250    0   0-0 
+3            Gorskie, Hunter            20-20   0       0       0       4                   .000          0           .000   0   0-0 
+17           Novak, T.J.                19-16   0       0       0       3                    .000         1            .333  0   0-0 
+5            Strickland, Michael        20-20   0       1       1       3                     .000        1             .333     0   0-0 
+24           Culver, Shaun              11-7    0       0       0       2                      .000       1              .500    0   0-0 
+22           Binnie, Alexander           2-0    0       0       0       2                       .000      0               .000   0   0-0 
+8            Ryan, Tommy                 3-0    0       0       0       0                        .000     0                .000  0   0-0 
+13           Wilson, Cullen              2-0    0       0       0       0         .000            0      .000   0  0-0 
+4            Huang, Kevin                1-0    0       0       0       0          .000           0       .000  0  0-0 
+23           Grafentin, Ben              1-0    0       0       0       0           .000          0        .000    0   0-0 
+20           Moore, John                20-20   0       0       0       0            .000         0         .000   0   0-0 
+10           Sa Freire, Thiago           2-2    0       0       0       0             .000        0          .000  0   0-0 
 
 
 Season: 2008
 BlockSource:http://www.gostanford.com/ViewContent.dbml?&DB_OEM_ID=30600&CONTENT_ID=781557
 
-## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG% GW  PK-ATT
-------------------------------------------------------------------------
+*## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG% GW  PK-ATT
+
 14 Warshaw, Bobby       18-18   3   2   8  36  .083  12  .333  2   1-1
 11 Montgomery, Tom      18-18   3   0   6  42  .071  18  .429  0   0-0
 5  Strickland, Michael  17-17   1   1   3   6  .167   4  .667  0   0-0
@@ -150,8 +151,8 @@ BlockSource:http://www.gostanford.com/ViewContent.dbml?&DB_OEM_ID=30600&CONTENT_
 Season: 2007
 BlockSource: http://www.gostanford.com/ViewContent.dbml?&DB_OEM_ID=30600&CONTENT_ID=781596
 
-## Name                 GP-GS  Min   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT FG OT HAT GTG
---------------------------------------------------------------------------------------------------
+*## Name                 GP-GS  Min   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT FG OT HAT GTG
+
 14 Warshaw, Bobby       18-17 1440   5   2  12  50  .100  19  .380   1-0   2   0-0    3  0   0   0
 6  Hency, Kyle          17-6   692   4   2  10  20  .200  12  .600   0-0   2   0-0    1  0   0   0
 13 Shapiro, Dan         18-18 1161   4   0   8  39  .103  14  .359   0-0   2   0-0    2  0   0   0
@@ -182,8 +183,8 @@ BlockSource: http://www.gostanford.com/ViewContent.dbml?&DB_OEM_ID=30600&CONTENT
 Season: 2006
 BlockSource: http://www.gostanford.com/ViewContent.dbml?&DB_OEM_ID=30600&CONTENT_ID=781611
 
-## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG% GW  PK-ATT
-------------------------------------------------------------------------
+*## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG% GW  PK-ATT
+
 4  Thompson, Galen      18-18   4   4  12  31  .129  19  .613  2   0-0
 9  Morgan, Evan         18-17   5   1  11  15  .333  10  .667  1   0-0
 6  Hency, Kyle          17-15   1   3   5  11  .091   3  .273  0   0-0
@@ -212,8 +213,8 @@ BlockSource: http://www.gostanford.com/ViewContent.dbml?&DB_OEM_ID=30600&CONTENT
 Season: 2005
 BlockSource: http://www.gostanford.com/ViewContent.dbml?&DB_OEM_ID=30600&CONTENT_ID=781608
 
-## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT
--------------------------------------------------------------------------------
+*## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT
+
 7  Ryan, Marcus         13-13   4   1   9  23  .174  13  .565   2-0   2   2-2
 4  Thompson, Galen      18-12   2   1   5  16  .125  12  .750   2-0   1   0-0
 6  Hency, Kyle          17-10   1   1   3   4  .250   1  .250   3-0   0   0-0
@@ -240,54 +241,31 @@ BlockSource: http://www.gostanford.com/ViewContent.dbml?&DB_OEM_ID=30600&CONTENT
 Season: 2002
 BlockSource: http://www.gostanford.com/ViewArticle.dbml?&DB_OEM_ID=30600&ATCLID=208438989
 
-## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG% GW  PK-ATT
+*## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG% GW  PK-ATT
 
-------------------------------------------------------------------------
 
 7  Levesque, Roger      20-20   7  13  27  46  .152  23  .500  3   0-0
-
 19 Maliza, Johanes      23-22   8   6  22  44  .182  19  .432  3   0-0
-
 20 Fernandez, Darren    24-24   9   0  18  44  .205  22  .500  4   0-0
-
 8  Dunivant, Todd       20-20   2  11  15  19  .105  10  .526  1   1-1
-
 11 Janusz, Matt         23-14   5   4  14  38  .132  20  .526  3   0-0
-
 3  Twellman, James      24-15   5   3  13  28  .179  13  .464  1   0-0
-
 18 Wilson, Mike         24-24   5   2  12  28  .179  14  .500  0   0-0
-
 14 Marshall, Chad       20-19   2   1   5  12  .167   8  .667  2   0-0
-
 4  Whalen, Sean         13-1    1   1   3  10  .100   5  .500  0   0-0
-
 13 Graham, Taylor       24-24   1   0   2  17  .059   8  .471  0   0-0
-
 17 Geiger, Abe          23-23   0   1   1  15  .000   6  .400  0   0-0
-
 6  Leber, Todd          14-3    0   1   1   3  .000   0  .000  0   0-0
-
 16 Coyne, Kevin         11-0    0   1   1   2  .000   0  .000  0   0-0
-
 9  Peters, Clayton      16-0    0   1   1   2  .000   0  .000  0   0-0
-
 5  Abolaji, Seyi        20-6    0   1   1   1  .000   0  .000  0   0-0
-
 22 Maines, Aaron        24-24   0   0   0   4  .000   2  .500  0   0-0
-
 23 Gonzalez, Luis        5-0    0   0   0   1  .000   0  .000  0   0-0
-
 15 McDonald, Bronson    10-0    0   0   0   1  .000   1 1.000  0   0-0
-
 25 Oleson, David         3-0    0   0   0   0  .000   0  .000  0   0-0
-
 21 Ahlgren, Taylor       1-1    0   0   0   0  .000   0  .000  0   0-0
-
 2  Kumar, Ashvin         6-0    0   0   0   0  .000   0  .000  0   0-0
-
 1  Terris, Andrew        9-8    0   0   0   0  .000   0  .000  0   0-0
-
 0  Fulton, Robby        17-16   0   0   0   0  .000   0  .000  0   0-0
 
 
@@ -295,8 +273,8 @@ BlockSource: http://www.gostanford.com/ViewArticle.dbml?&DB_OEM_ID=30600&ATCLID=
 Season: 2001
 BlockSource: http://www.gostanford.com/ViewArticle.dbml?&DB_OEM_ID=30600&ATCLID=208083394
 
- ## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG% GW PK         
- -------------------------------------------------------------------         
+* ## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG% GW PK         
+
  7  Levesque, Roger      21-21  14   9  37  66  .212  25  .379  4  0         
  11 Janusz, Matt         20-16   9   4  22  48  .188  14  .292  3  0         
  10 Shanahan, Derek      20-20   7   8  22  30  .233   8  .267  2  1         
@@ -330,8 +308,8 @@ BlockSource: http://www.gostanford.com/ViewArticle.dbml?&DB_OEM_ID=30600&ATCLID=
 Season: 2000
 BlockSource: http://www.gostanford.com/ViewArticle.dbml?&DB_OEM_ID=30600&ATCLID=208158933#TEAM.TEM
 
- ## Name                 GP-GS   G   A Pts  Sh Shot%  YC-RC GW PK            
- ----------------------------------------------------------------            
+* ## Name                 GP-GS   G   A Pts  Sh Shot%  YC-RC GW PK            
+
  23 Woolfolk, Corey      22-16  12   8  32  47  .255   3-0   4  0            
  7  Leber, Scott         22-22  13   4  30  51  .255   3-0   3  0            
  25 Levesque, Roger      22-0    7   7  21  41  .171   1-0   2  0            
@@ -380,7 +358,9 @@ Eric Vandevelde    5/5     3      0     0     0
 
 Season: 1995
 BlockSource: http://www.gostanford.com/ViewArticle.dbml?&DB_OEM_ID=30600&ATCLID=208438994
+
 No. Name                GP/GS  Shots  Goals  Assists Points
+
  2  Aaron Jones         14/ 9    13      0       3       3
  2  Aaron Jones         18/13    14      0       4       4
  3  Mark Walker          3/ 0     0      0       0       0

@@ -1,5 +1,5 @@
-
 Team: Boston College
+Competition: NCAA Division I Men's Soccer Championship
 
 
 Season: 2012
@@ -7,26 +7,28 @@ BlockSource: http://grfx.cstv.com/photos/schools/bc/sports/m-soccer/auto_pdf/201
 
 *## Player gp g a pts sh sh% sog sog% gw pk-att
 
-17 Charlie Rugg    13 5 4 14 25 . 2 0 0 14 . 5 6 0 3 0 - 0
-7  Derrick Boateng 18 3 3 9 36 . 0 8 3 13 . 3 6 1 1 0 - 0
-12 Kevin Mejia     16 3 0 6 27 . 1 1 1 11 . 4 0 7 1 0 - 0
-10 Kyle Bekker     17 1 4 6 47 . 0 2 1 17 . 3 6 2 1 0 - 0
-6  Jason Abbott    18 1 3 5 23 . 0 4 3 10 . 4 3 5 1 0 - 0
-23 Stefan Carter   19 2 0 4 12 . 1 6 7 6 . 5 0 0 1 0 - 0
-3  Ryan Dunn       19 1 0 2 4 . 2 5 0 2 . 5 0 0 0 0 - 0
-15 Diego Medina-Mendez 19 0 2 2 19 . 0 0 0 9 . 4 7 4 0 0 - 0
-24 Christian Johnson    9 0 2 2 3 . 0 0 0 1 . 3 3 3 0 0 - 0
-2  Chris Ager          19 0 1 1 8 . 0 0 0 3 . 3 7 5 0 0 - 0
-14 Dylan Pritchard     13 0 1 1 7 . 0 0 0 5 . 7 1 4 0 0 - 0
-21 Colin Murphy        19 0 0 0 20 . 0 0 0 4 . 2 0 0 0 0 - 0
-8  Matt Wendelken      12 0 0 0 4 . 0 0 0 1 . 2 5 0 0 0 - 0
-11 Isaac Taylor         7 0 0 0 3 . 0 0 0 2 . 6 6 7 0 0 - 0
-5  Nick Corliss         9 0 0 0 2 . 0 0 0 0 . 0 0 0 0 0 - 0
-29 Brendan Hayes        8 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-18 Daniel Norris        7 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-13 John Bunkall         2 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-9  Zack Rockmore        3 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-1  Justin Luthy        18 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
+Key: number; name; games_played; goals; assists; points; shots; misc
+
+17; Charlie Rugg        ; 13; 5; 4; 14; 25; . 2 0 0 14 . 5 6 0 3 0 - 0
+7 ; Derrick Boateng     ; 18; 3; 3; 9 ;36 ;. 0 8 3 13 . 3 6 1 1 0 - 0
+12; Kevin Mejia         ; 16; 3; 0; 6 ;27 ;. 1 1 1 11 . 4 0 7 1 0 - 0
+10; Kyle Bekker         ; 17; 1; 4; 6 ;47 ;. 0 2 1 17 . 3 6 2 1 0 - 0
+6 ; Jason Abbott        ; 18; 1; 3; 5 ;23 ;. 0 4 3 10 . 4 3 5 1 0 - 0
+23; Stefan Carter       ; 19; 2; 0; 4 ;12 ;. 1 6 7 6 . 5 0 0 1 0 - 0
+3 ; Ryan Dunn           ; 19; 1; 0; 2 ;4 ; 2 5 0 2 . 5 0 0 0 0 - 0
+15; Diego Medina-Mendez ; 19; 0; 2; 2 ;19 ;. 0 0 0 9 . 4 7 4 0 0 - 0
+24; Christian Johnson   ;  9; 0; 2; 2 ;3 ; 0 0 0 1 . 3 3 3 0 0 - 0
+2 ; Chris Ager          ; 19; 0; 1; 1 ;8 ; 0 0 0 3 . 3 7 5 0 0 - 0
+14; Dylan Pritchard     ; 13; 0; 1; 1 ;7 ; 0 0 0 5 . 7 1 4 0 0 - 0
+21; Colin Murphy        ; 19; 0; 0; 0 ;20 ;. 0 0 0 4 . 2 0 0 0 0 - 0
+8 ; Matt Wendelken      ; 12; 0; 0; 0 ;4 ; 0 0 0 1 . 2 5 0 0 0 - 0
+11; Isaac Taylor        ;  7; 0; 0; 0 ;3 ; 0 0 0 2 . 6 6 7 0 0 - 0
+5 ; Nick Corliss        ;  9; 0; 0; 0 ;2 ; 0 0 0 0 . 0 0 0 0 0 - 0
+29; Brendan Hayes       ;  8; 0; 0; 0 ;0 ; 0 0 0 0 . 0 0 0 0 0 - 0
+18; Daniel Norris       ;  7; 0; 0; 0 ;0 ; 0 0 0 0 . 0 0 0 0 0 - 0
+13; John Bunkall        ;  2; 0; 0; 0 ;0 ; 0 0 0 0 . 0 0 0 0 0 - 0
+9 ; Zack Rockmore       ;  3; 0; 0; 0 ;0 ; 0 0 0 0 . 0 0 0 0 0 - 0
+1 ; Justin Luthy        ; 18; 0; 0; 0 ;0 ; 0 0 0 0 . 0 0 0 0 0 - 0
 
 
 Season: 2011
@@ -34,30 +36,30 @@ BlockSource: http://grfx.cstv.com/photos/schools/bc/sports/m-soccer/auto_pdf/201
 
 *## Player gp g a pts sh sh% sog sog% gw pk-att
 
-10 Kyle Bekker         20 8 7 23 61 . 1 3 1 26 . 4 2 6 4 0 - 0
-17 Charlie Rugg        21 8 5 21 40 . 2 0 0 21 . 5 2 5 5 0 - 0
-15 Diego Medina-Mendez 21 8 2 18 30 . 2 6 7 19 . 6 3 3 3 0 - 0
-7  Amit Aburmad        20 6 5 17 36 . 1 6 7 14 . 3 8 9 1 1 - 1
-12 Kevin Mejia         20 1 3 5 27 . 0 3 7 5 . 1 8 5 0 0 - 0
-21 Colin Murphy         21 1 3 5 20 . 0 5 0 6 . 3 0 0 1 0 - 0
-23 Stefan Carter      20 1 1 3 3 . 3 3 3 1 . 3 3 3 0 0 - 0
-9  Patrick Chin       21 1 1 3 3 . 3 3 3 1 . 3 3 3 0 0 - 0
-2  Chris Ager         19 1 1 3 2 . 5 0 0 2 1.000 0 0 - 0
-6  Steve Rose         19 0 1 1 10 . 0 0 0 4 . 4 0 0 0 0 - 0
-3  Ryan Dunn          21 0 1 1 6 . 0 0 0 1 . 1 6 7 0 0 - 0
-11 Isaac Taylor       13 0 1 1 4 . 0 0 0 1 . 2 5 0 0 0 - 0
-14 Jeremiah Gallington 12 0 0 0 5 . 0 0 0 1 . 2 0 0 0 0 - 0
-8  Conor Fitzpatrick   12 0 0 0 4 . 0 0 0 0 . 0 0 0 0 0 - 0
-32 Keady Segel          1 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-29 Brendan Hayes        1 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-25 Jamie Doherty        1 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-24 Christian Johnson    6 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-22 Cameron Stoker       3 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-20 Tebs Maqubela        2 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-19 Michael DiFronzo     3 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-16 Frank Glover         1 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-13 John Bunkall         1 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-1 Justin Luthy         21 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
+10; Kyle Bekker        ; 20; 8; 7; 23; 61; . 1 3 1 26 . 4 2 6 4 0 - 0
+17; Charlie Rugg       ; 21; 8; 5; 21; 40; . 2 0 0 21 . 5 2 5 5 0 - 0
+15; Diego Medina-Mendez; 21; 8; 2; 18; 30; . 2 6 7 19 . 6 3 3 3 0 - 0
+7 ; Amit Aburmad       ; 20; 6; 5; 17; 36; . 1 6 7 14 . 3 8 9 1 1 - 1
+12; Kevin Mejia        ; 20; 1; 3; 5 ;27 ;. 0 3 7 5 . 1 8 5 0 0 - 0
+21; Colin Murphy       ; 21; 1; 3; 5 ;20 ;. 0 5 0 6 . 3 0 0 1 0 - 0
+23; Stefan Carter      ; 20; 1; 1; 3 ;3 ; 3 3 3 1 . 3 3 3 0 0 - 0
+9 ; Patrick Chin       ; 21; 1; 1; 3 ;3 ; 3 3 3 1 . 3 3 3 0 0 - 0
+2 ; Chris Ager         ; 19; 1; 1; 3 ;2 ; 5 0 0 2 1.000 0 0 - 0
+6 ; Steve Rose         ; 19; 0; 1; 1 ;10 ;. 0 0 0 4 . 4 0 0 0 0 - 0
+3 ; Ryan Dunn          ; 21; 0; 1; 1 ;6 ; 0 0 0 1 . 1 6 7 0 0 - 0
+11; Isaac Taylor       ; 13; 0; 1; 1 ;4 ; 0 0 0 1 . 2 5 0 0 0 - 0
+14; Jeremiah Gallington; 12; 0; 0; 0 ;5 ; 0 0 0 1 . 2 0 0 0 0 - 0
+8 ; Conor Fitzpatrick  ; 12; 0; 0; 0 ;4 ; 0 0 0 0 . 0 0 0 0 0 - 0
+32; Keady Segel        ;  1; 0; 0; 0 ;0 ; 0 0 0 0 . 0 0 0 0 0 - 0
+29; Brendan Hayes      ;  1; 0; 0; 0 ;0 ; 0 0 0 0 . 0 0 0 0 0 - 0
+25; Jamie Doherty      ;  1; 0; 0; 0 ;0 ; 0 0 0 0 . 0 0 0 0 0 - 0
+24; Christian Johnson  ;  6; 0; 0; 0 ;0 ; 0 0 0 0 . 0 0 0 0 0 - 0
+22; Cameron Stoker     ;  3; 0; 0; 0 ;0 ; 0 0 0 0 . 0 0 0 0 0 - 0
+20; Tebs Maqubela      ;  2; 0; 0; 0 ;0 ; 0 0 0 0 . 0 0 0 0 0 - 0
+19; Michael DiFronzo   ;  3; 0; 0; 0 ;0 ; 0 0 0 0 . 0 0 0 0 0 - 0
+16; Frank Glover       ;  1; 0; 0; 0 ;0 ; 0 0 0 0 . 0 0 0 0 0 - 0
+13; John Bunkall       ;  1; 0; 0; 0 ;0 ; 0 0 0 0 . 0 0 0 0 0 - 0
+1 ;Justin Luthy        ; 21; 0; 0; 0 ;0 ; 0 0 0 0 . 0 0 0 0 0 - 0
 
 
 Season: 2010
@@ -65,57 +67,57 @@ BlockSource: http://www.bceagles.com/auto_pdf/p_hotos/s_chools/bc/sports/m-socce
 
 *## Player gp g a pts sh sh% sog sog% gw pk-att
 
-17 Charlie Rugg      20 8 2 18 59 . 1 3 6 23 . 3 9 0 2 0 - 0
-6  Edvin Worley      15 6 3 15 26 . 2 3 1 11 . 4 2 3 0 0 - 0
-16 Amit Aburmad      20 4 7 15 60 . 0 6 7 25 . 4 1 7 3 0 - 0
-10 Kyle Bekker       20 4 5 13 51 . 0 7 8 17 . 3 3 3 2 0 - 0
-8  Conor Fitzpatrick 20 5 0 10 12 . 4 1 7 7 . 5 8 3 3 3 - 3
-9  Patrick Chin      19 0 5 5 11 . 0 0 0 3 . 2 7 3 0 0 - 0
-5  Sacir Hot         13 2 0 4 6 . 3 3 3 4 . 6 6 7 0 0 - 0
-21 Colin Murphy      20 0 3 3 17 . 0 0 0 5 . 2 9 4 0 0 - 0
-7  Karl Reddick      17 1 0 2 23 . 0 4 3 7 . 3 0 4 0 0 - 0
-23 Stefan Carter     10 1 0 2 3 . 3 3 3 2 . 6 6 7 0 0 - 0
-11 Isaac Taylor      10 1 0 2 2 . 5 0 0 1 . 5 0 0 0 0 - 0
-12 Kevin Mejia       16 0 1 1 10 . 0 0 0 4 . 4 0 0 0 0 - 0
-3  Ryan Dunn         12 0 1 1 1 . 0 0 0 1 1.000 0 0 - 0
-24 Myles Gerraty      7 0 1 1 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-29 Dave Dale          6 0 0 0 3 . 0 0 0 0 . 0 0 0 0 0 - 0
-18 Nico Capetola      7 0 0 0 1 . 0 0 0 0 . 0 0 0 0 0 - 0
-4 Gregg Bryer         8 0 0 0 1 . 0 0 0 0 . 0 0 0 0 0 - 0
-2 Chris Ager         15 0 0 0 1 . 0 0 0 0 . 0 0 0 0 0 - 0
-32 Ayotunde Ogunbiyi  2 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-22 Cameron Stoker     3 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-1 Justin Luthy       20 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
+17; Charlie Rugg     ; 20; 8; 2; 18; 59; . 1 3 6 23 . 3 9 0 2 0 - 0
+6 ; Edvin Worley     ; 15; 6; 3; 15; 26; . 2 3 1 11 . 4 2 3 0 0 - 0
+16; Amit Aburmad     ; 20; 4; 7; 15; 60; . 0 6 7 25 . 4 1 7 3 0 - 0
+10; Kyle Bekker      ; 20; 4; 5; 13; 51; . 0 7 8 17 . 3 3 3 2 0 - 0
+8 ; Conor Fitzpatrick; 20; 5; 0; 10; 12; . 4 1 7 7 . 5 8 3 3 3 - 3
+9 ; Patrick Chin     ; 19; 0; 5; 5 ;11 ;. 0 0 0 3 . 2 7 3 0 0 - 0
+5 ; Sacir Hot        ; 13; 2; 0; 4 ;6 ; 3 3 3 4 . 6 6 7 0 0 - 0
+21; Colin Murphy     ; 20; 0; 3; 3 ;17 ;. 0 0 0 5 . 2 9 4 0 0 - 0
+7 ; Karl Reddick     ; 17; 1; 0; 2 ;23 ;. 0 4 3 7 . 3 0 4 0 0 - 0
+23; Stefan Carter    ; 10; 1; 0; 2 ;3 ; 3 3 3 2 . 6 6 7 0 0 - 0
+11; Isaac Taylor     ; 10; 1; 0; 2 ;2 ; 5 0 0 1 . 5 0 0 0 0 - 0
+12; Kevin Mejia      ; 16; 0; 1; 1 ;10 ;. 0 0 0 4 . 4 0 0 0 0 - 0
+3 ; Ryan Dunn        ; 12; 0; 1; 1 ;1 ; 0 0 0 1 1.000 0 0 - 0
+24; Myles Gerraty    ;  7; 0; 1; 1 ;0 ; 0 0 0 0 . 0 0 0 0 0 - 0
+29; Dave Dale        ;  6; 0; 0; 0 ;3 ; 0 0 0 0 . 0 0 0 0 0 - 0
+18; Nico Capetola    ;  7; 0; 0; 0 ;1 ; 0 0 0 0 . 0 0 0 0 0 - 0
+4 ;Gregg Bryer       ;  8; 0; 0; 0 ;1 ; 0 0 0 0 . 0 0 0 0 0 - 0
+2 ;Chris Ager        ; 15; 0; 0; 0 ;1 ; 0 0 0 0 . 0 0 0 0 0 - 0
+32; Ayotunde Ogunbiyi;  2; 0; 0; 0 ;0 ; 0 0 0 0 . 0 0 0 0 0 - 0
+22; Cameron Stoker   ;  3; 0; 0; 0 ;0 ; 0 0 0 0 . 0 0 0 0 0 - 0
+1 ;Justin Luthy      ; 20; 0; 0; 0 ;0 ; 0 0 0 0 . 0 0 0 0 0 - 0
 
 
 
 Season: 2009
 BlockSource: http://www.bceagles.com/auto_pdf/p_hotos/s_chools/bc/sports/m-soccer/auto_pdf/09-final-stats
 
-## Player gp g a pts sh sh% sog sog% gw pk-att
-17 Charlie Rugg        22 7 7 21 48 . 1 4 6 15 . 3 1 2 3 0 - 0
-6  Edvin Worley        20 5 4 14 39 . 1 2 8 14 . 3 5 9 3 0 - 0
-20 Kyle Bekker         23 4 6 14 43 . 0 9 3 14 . 3 2 6 1 0 - 0
-12 Kevin Mejia         23 5 0 10 25 . 2 0 0 12 . 4 8 0 3 3 - 3
-21 Colin Murphy        22 2 4 8 23 . 0 8 7 12 . 5 2 2 2 0 - 0
-7  Karl Reddick        22 2 3 7 35 . 0 5 7 12 . 3 4 3 1 0 - 0
-10 Mor Avi Hanan       21 2 1 5 37 . 0 5 4 12 . 3 2 4 0 0 - 0
-8  Conor Fitzpatrick   23 1 1 3 9 . 1 1 1 3 . 3 3 3 0 1 - 1
-11 Isaac Taylor        20 1 1 3 7 . 1 4 3 2 . 2 8 6 1 0 - 0
-9  Patrick Chin        22 1 0 2 11 . 0 9 1 2 . 1 8 2 0 0 - 0
-14 Jeremiah Gallington 23 0 0 0 13 . 0 0 0 4 . 3 0 8 0 0 - 0
-23 Stefan Carter       16 0 0 0 2 . 0 0 0 0 . 0 0 0 0 0 - 0
-5  Sacir Hot           16 0 0 0 2 . 0 0 0 1 . 5 0 0 0 0 - 0
-32 Ayotunde Ogunbiyi    3 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-29 Dave Dale            4 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-24 Myles Gerraty        1 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-19 Chris Carey          3 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-18 Ernie McAlister      6 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-16 Luke Kelly           1 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-15 Aidan Buick          1 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-4  Boitumelo Gugushe    2 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-3  Guillaume Amarat    12 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-1  Justin Luthy        21 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
+*## Player gp g a pts sh sh% sog sog% gw pk-att
+17; Charlie Rugg       ; 22; 7; 7; 21; 48; . 1 4 6 15 . 3 1 2 3 0 - 0
+6 ; Edvin Worley       ; 20; 5; 4; 14; 39; . 1 2 8 14 . 3 5 9 3 0 - 0
+20; Kyle Bekker        ; 23; 4; 6; 14; 43; . 0 9 3 14 . 3 2 6 1 0 - 0
+12; Kevin Mejia        ; 23; 5; 0; 10; 25; . 2 0 0 12 . 4 8 0 3 3 - 3
+21; Colin Murphy       ; 22; 2; 4; 8 ;23 ;. 0 8 7 12 . 5 2 2 2 0 - 0
+7 ; Karl Reddick       ; 22; 2; 3; 7 ;35 ;. 0 5 7 12 . 3 4 3 1 0 - 0
+10; Mor Avi Hanan      ; 21; 2; 1; 5 ;37 ;. 0 5 4 12 . 3 2 4 0 0 - 0
+8 ; Conor Fitzpatrick  ; 23; 1; 1; 3 ;9 ; 1 1 1 3 . 3 3 3 0 1 - 1
+11; Isaac Taylor       ; 20; 1; 1; 3 ;7 ; 1 4 3 2 . 2 8 6 1 0 - 0
+9 ; Patrick Chin       ; 22; 1; 0; 2 ;11 ;. 0 9 1 2 . 1 8 2 0 0 - 0
+14; Jeremiah Gallington; 23; 0; 0; 0 ;13 ;. 0 0 0 4 . 3 0 8 0 0 - 0
+23; Stefan Carter      ; 16; 0; 0; 0 ;2 ; 0 0 0 0 . 0 0 0 0 0 - 0
+5 ; Sacir Hot          ; 16; 0; 0; 0 ;2 ; 0 0 0 1 . 5 0 0 0 0 - 0
+32; Ayotunde Ogunbiyi  ;  3; 0; 0; 0 ;0 ; 0 0 0 0 . 0 0 0 0 0 - 0
+29; Dave Dale          ;  4; 0; 0; 0 ;0 ; 0 0 0 0 . 0 0 0 0 0 - 0
+24; Myles Gerraty      ;  1; 0; 0; 0 ;0 ; 0 0 0 0 . 0 0 0 0 0 - 0
+19; Chris Carey        ;  3; 0; 0; 0 ;0 ; 0 0 0 0 . 0 0 0 0 0 - 0
+18; Ernie McAlister    ;  6; 0; 0; 0 ;0 ; 0 0 0 0 . 0 0 0 0 0 - 0
+16; Luke Kelly         ;  1; 0; 0; 0 ;0 ; 0 0 0 0 . 0 0 0 0 0 - 0
+15; Aidan Buick        ;  1; 0; 0; 0 ;0 ; 0 0 0 0 . 0 0 0 0 0 - 0
+4 ; Boitumelo Gugushe  ;  2; 0; 0; 0 ;0 ; 0 0 0 0 . 0 0 0 0 0 - 0
+3 ; Guillaume Amarat   ; 12; 0; 0; 0 ;0 ; 0 0 0 0 . 0 0 0 0 0 - 0
+1 ; Justin Luthy       ; 21; 0; 0; 0 ;0 ; 0 0 0 0 . 0 0 0 0 0 - 0
 
 
 Season: 2008
@@ -123,115 +125,119 @@ BlockSource: http://www.bceagles.com/auto_pdf/p_hotos/s_chools/bc/sports/m-socce
 
 *## Player gp g a pts sh sh% sog sog% gw pk-att
 
-16 Alejandro Bedoya 16 6 5 17 61 . 0 9 8 28 . 4 5 9 2 0 - 0
-6  Edvin Worley     21 5 6 16 38 . 1 3 2 18 . 4 7 4 3 0 - 0
-21 Mike Konicoff    21 1 2 4 36 . 0 2 8 15 . 4 1 7 0 0 - 0
-20 Mario Uribe      19 1 1 3 32 . 0 3 1 8 . 2 5 0 0 0 - 0
-11 Shawn Chin       21 3 2 8 26 . 1 1 5 9 . 3 4 6 2 0 - 0
-10 Mor Avi Hanan    17 1 2 4 24 . 0 4 2 10 . 4 1 7 1 0 - 0
-2  Paul Gerstenberger  19 0 2 2 19 . 0 0 0 6 . 3 1 6 0 0 - 0
-8  Conor Fitzpatrick   21 1 1 3 15 . 0 6 7 4 . 2 6 7 0 0 - 0
-17 Karl Reddick        20 0 2 2 10 . 0 0 0 2 . 2 0 0 0 0 - 0
-14 Jeremiah Gallington 16 2 0 4 7 . 2 8 6 4 . 5 7 1 1 0 - 0
-22 Greg O'Neil         18 1 1 3 6 . 1 6 7 3 . 5 0 0 1 0 - 0
-3  Nate Bourdeau       19 1 1 3 5 . 2 0 0 3 . 6 0 0 0 0 - 0
-12 Stephen Hepburn     21 1 0 2 4 . 2 5 0 1 . 2 5 0 0 1 - 1
-27 Jamie Melas         20 0 1 1 3 . 0 0 0 2 . 6 6 7 0 0 - 0
-25 Dan Lane             4 0 0 0 2 . 0 0 0 2 1.000 0 0 - 0
-4  Idan Shefler        19 0 1 1 2 . 0 0 0 1 . 5 0 0 0 0 - 0
-23 Joey Clarke          3 0 0 0 1 . 0 0 0 0 . 0 0 0 0 0 - 0
-19 Chris Carey          6 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-9  Patrick Chin         7 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-7  Ryan Sherman         3 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-24 Myles Gerraty        5 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
+16; Alejandro Bedoya    ; 16; 6; 5; 17; 61; . 0 9 8 28 . 4 5 9 2 0 - 0
+6 ; Edvin Worley        ; 21; 5; 6; 16; 38; . 1 3 2 18 . 4 7 4 3 0 - 0
+21; Mike Konicoff       ; 21; 1; 2; 4 ;36 ;. 0 2 8 15 . 4 1 7 0 0 - 0
+20; Mario Uribe         ; 19; 1; 1; 3 ;32 ;. 0 3 1 8 . 2 5 0 0 0 - 0
+11; Shawn Chin          ; 21; 3; 2; 8 ;26 ;. 1 1 5 9 . 3 4 6 2 0 - 0
+10; Mor Avi Hanan       ; 17; 1; 2; 4 ;24 ;. 0 4 2 10 . 4 1 7 1 0 - 0
+2 ; Paul Gerstenberger  ; 19; 0; 2; 2 ;19 ;. 0 0 0 6 . 3 1 6 0 0 - 0
+8 ; Conor Fitzpatrick   ; 21; 1; 1; 3 ;15 ;. 0 6 7 4 . 2 6 7 0 0 - 0
+17; Karl Reddick        ; 20; 0; 2; 2 ;10 ;. 0 0 0 2 . 2 0 0 0 0 - 0
+14; Jeremiah Gallington ; 16; 2; 0; 4 ;7 ; 2 8 6 4 . 5 7 1 1 0 - 0
+22; Greg O'Neil         ; 18; 1; 1; 3 ;6 ; 1 6 7 3 . 5 0 0 1 0 - 0
+3 ; Nate Bourdeau       ; 19; 1; 1; 3 ;5 ; 2 0 0 3 . 6 0 0 0 0 - 0
+12; Stephen Hepburn     ; 21; 1; 0; 2 ;4 ; 2 5 0 1 . 2 5 0 0 1 - 1
+27; Jamie Melas         ; 20; 0; 1; 1 ;3 ; 0 0 0 2 . 6 6 7 0 0 - 0
+25; Dan Lane            ;  4; 0; 0; 0 ;2 ; 0 0 0 2 1.000 0 0 - 0
+4 ; Idan Shefler        ; 19; 0; 1; 1 ;2 ; 0 0 0 1 . 5 0 0 0 0 - 0
+23; Joey Clarke         ;  3; 0; 0; 0 ;1 ; 0 0 0 0 . 0 0 0 0 0 - 0
+19; Chris Carey         ;  6; 0; 0; 0 ;0 ; 0 0 0 0 . 0 0 0 0 0 - 0
+9 ; Patrick Chin        ;  7; 0; 0; 0 ;0 ; 0 0 0 0 . 0 0 0 0 0 - 0
+7 ; Ryan Sherman        ;  3; 0; 0; 0 ;0 ; 0 0 0 0 . 0 0 0 0 0 - 0
+24; Myles Gerraty       ;  5; 0; 0; 0 ;0 ; 0 0 0 0 . 0 0 0 0 0 - 0
 
 
 Season: 2007
 BlockSource: http://www.bceagles.com/auto_pdf/p_hotos/s_chools/bc/sports/m-soccer/auto_pdf/cumulative-stats0708
 
-E OPPONENT W/L SCORE ATT ## PLAYER GP G A Pts Sh Shot% SOG SOG% GW PK-AT
-8 Sherron Manswell 21 11 7 29 41 .268 25 .610 4 0-0
-16 Alejandro Bedoya 21 8 10 26 85 .094 43 .506 4 0-0
-21 Mike Konicoff 21 4 5 13 34 .118 20 .588 3 0-0
- 2 Paul Gerstenberger 20 4 5 13 23 .174 11 .478 0 0-0
- 5 Reuben Ayarna 20 2 9 13 47 .043 12 .255 1 0-0
-ina W OT 2-1 1575 18 Shawn Chin 21 3 2 8 19 .158 14 .737 1 0-0
-36 7 Ryan Sherman 19 2 1 5 19 .105 6 .316 0 0-0
- STATE W 2-1 648 17 Karl Reddick 21 1 3 5 23 .043 5 .217 1 0-0
--2 1566 9 Satoshi Mitsuda 1 1 1 3 1 1.000 1 1.000 0 0-0
-T 0-1 1140 27 Jamie Melas 17 1 0 2 5 .200 2 .400 1 0-0
-EGE L 0-1 363 25 Dan Lane 5 1 0 2 3 .333 1 .333 0 0-0
- W 2-1 2916 22 Greg O'Neil 14 0 2 2 1 .000 0 .000 0 0-0
- 411 14 Jeremiah Gallington 17 0 1 1 10 .000 5 .500 0 0-0
- W 1-0 733 12 Stephen Hepburn 21 0 1 1 1 .000 0 .000 0 0-0
- OT 2-1 525 10 Mor Avi Hanan 3 0 1 1 1 .000 0 .000 0 0-0
--1 1130 4 Idan Shefler 17 0 1 1 0 .000 0 .000 0 0-0
-CH W 3-1 702 20 Mario Uribe 3 0 0 0 1 .000 0 .000 0 0-0
- W 1-0 653 19 Chris Carey 13 0 0 0 1 .000 1 1.000 0 0-0
-Tech W 3-1 2013 23 Joey Clarke 3 0 0 0 0 .000 0 .000 0 0-0
-st W 2-1 2039 15 Aidan Buick 1 0 0 0 0 .000 0 .000 0 0-0
- 1-2 1882 6 Aiden Blake 4 0 0 0 0 .000 0 .000 0 0-0
+*E OPPONENT W/L SCORE ATT ## PLAYER GP G A Pts Sh Shot% SOG SOG% GW PK-AT
+
+8 ; Sherron Manswell   ; 21; 11; 7; 29; 41; .268 25 .610 4 0-0
+16; Alejandro Bedoya   ; 21; 8 ;10; 26; 85; .094 43 .506 4 0-0
+21; Mike Konicoff      ; 21; 4 ;5 ;13 ;34 ;.118 20 .588 3 0-0
+ 2; Paul Gerstenberger ; 20; 4 ;5 ;13 ;23 ;.174 11 .478 0 0-0
+ 5; Reuben Ayarna      ; 20; 2 ;9 ;13 ;47 ;.043 12 .255 1 0-0
+18; Shawn Chin         ; 21; 3 ;2 ;8; 19 ;158 14 .737 1 0-0
+36; Ryan Sherman     ; 19; 2 ;1 ;5; 19 ;105 6 .316 0 0-0
+17; Karl Reddick       ; 21; 1 ;3 ;5; 23 ;043 5 .217 1 0-0
+ 9; Satoshi Mitsuda    ;  1; 1 ;1 ;3; 1; 1.000 1 1.000 0 0-0
+27; Jamie Melas        ; 17; 1 ;0 ;2; 5; .200 2 .400 1 0-0
+25; Dan Lane           ;  5; 1 ;0 ;2; 3; .333 1 .333 0 0-0
+22; Greg O'Neil        ; 14; 0 ;2 ;2; 1; .000 0 .000 0 0-0
+14; Jeremiah Gallington; 17; 0 ;1 ;1; 1;0 .000 5 .500 0 0-0
+12; Stephen Hepburn    ; 21; 0 ;1 ;1; 1; .000 0 .000 0 0-0
+10; Mor Avi Hanan      ;  3; 0 ;1 ;1; 1; .000 0 .000 0 0-0
+4 ; Idan Shefler       ; 17; 0 ;1 ;1; 0; .000 0 .000 0 0-0
+20; Mario Uribe        ;  3; 0 ;0 ;0; 1; .000 0 .000 0 0-0
+19; Chris Carey        ; 13; 0 ;0 ;0; 1; .000 1 1.000 0 0-0
+23; Joey Clarke        ;  3; 0 ;0 ;0; 0; .000 0 .000 0 0-0
+15; Aidan Buick        ;  1; 0 ;0 ;0; 0; .000 0 .000 0 0-0
+6 ; Aiden Blake        ;  4; 0 ;0 ;0; 0; .000 0 .000 0 0-0
 
 
 Season: 2006
 BlockSource: http://www.bceagles.com/auto_pdf/p_hotos/s_chools/bc/sports/m-soccer/auto_pdf/bc-stats-m-socc-06
 
- DATE OPPONENT W/L SCORE ATTEND ## PLAYER GP G A Pts Sh Shot% YC-RC GW PK-ATT
- ---------- ---------------------- --- ----- ------ ------------------------------------------------------------------
-TY LO2 1-2 335 10 Charlie Davies 16 15 6 36 71 .211 2-0 6 3-4
- 15 Mor Avi Hanan 17 5 3 13 54 .093 4-0 0 0-0
--1 312 20 Reuben Ayarna 17 1 7 9 40 .025 3-0 0 0-0
-26 25 Sam Brill 17 3 2 8 26 .115 0-0 0 0-0
-ECH W OT 2-1 438 12 Stephen Hepburn 14 2 1 5 13 .154 0-0 1 0-0
- LOT 2-3 3839 4 Sherron Manswell 17 1 3 5 17 .059 1-0 1 0-0
-) W 1-0 275 7 Ryan Sherman 12 1 3 5 5 .200 0-0 0 0-0
--1 1529 21 Mike Konicoff 16 2 0 4 23 .087 1-0 0 0-0
- 5-1 316 3 Jamen Amato 14 1 2 4 8 .125 4-0 0 0-0
- 734 8 Alberto Sanchis 4 1 1 3 1 1.000 0-0 0 0-0
- 583 2 Paul Gerstenberger 13 0 3 3 10 .000 0-0 0 0-0
-est T O2 2-2 1954 22 Greg O'Neil 14 0 3 3 8 .000 0-0 0 0-0
- W 3-1 6214 19 Chris Carey 11 1 0 2 2 .500 0-0 0 0-0
-1-0 175 27 Jamie Melas 17 0 1 1 1 .000 3-0 0 0-0
-O2 1-1 1521 26 Matt Mones 11 0 1 1 0 .000 0-0 0 0-0
- L 1-3 - 16 Ernie McAlister 6 0 0 0 1 .000 0-0 0 0-0
- 0-1 6312 6 Richard Gavilanes 5 0 0 0 1 .000 0-0 0 0-0
- 0 1 .000 1-0 0 0-0
- 28 Chris Brown 9 0 0 0 0 .000 0-0 0 0-0
------------------------------ 23 Joey Clarke 2 0 0 0 0 .000 0-0 0 0-0
-... 13 Shane Boggis 5 0 0 0 0 .000 0-0 0 0-0
-. 33-282 24-152 1 Issey Maholo 4 0 0 0 0 .000 0-0 0 0-0
+Key: number; name; games_played; goals; assists; points; shots; etc
+
+* DATE OPPONENT W/L SCORE ATTEND ## PLAYER GP G A Pts Sh Shot% YC-RC GW PK-ATT
+10; Charlie Davies    ; 16; 15; 6; 36; 71; .211 2-0 6 3-4
+15; Mor Avi Hanan     ; 17; 5; 3; 13; 54; .093 4-0 0 0-0
+20; Reuben Ayarna     ; 17; 1; 7; 9 ;40 ;.025 3-0 0 0-0
+25; Sam Brill         ; 17; 3; 2; 8 ;26 ;.115 0-0 0 0-0
+12; Stephen Hepburn   ; 14; 2; 1; 5 ;13 ;.154 0-0 1 0-0
+ 4; Sherron Manswell  ; 17; 1; 3; 5 ;17 ;.059 1-0 1 0-0
+ 7; Ryan Sherman      ; 12; 1; 3; 5 ;5 ;200 0-0 0 0-0
+ 21; Mike Konicoff    ; 16; 2; 0; 4 ;23 ;.087 1-0 0 0-0
+ 3; Jamen Amato       ; 14; 1; 2; 4 ;8 ;125 4-0 0 0-0
+ 8; Alberto Sanchis   ;  4; 1; 1; 3 ;1 ;1.000 0-0 0 0-0
+ 2; Paul Gerstenberger; 13; 0; 3; 3 ;10 ;.000 0-0 0 0-0
+ 22; Greg O'Neil      ; 14; 0; 3; 3 ;8 ;000 0-0 0 0-0
+ 19; Chris Carey      ; 11; 1; 0; 2 ;2 ;500 0-0 0 0-0
+ 27; Jamie Melas      ; 17; 0; 1; 1 ;1 ;000 3-0 0 0-0
+ 26; Matt Mones       ; 11; 0; 1; 1 ;0 ;000 0-0 0 0-0
+ 16; Ernie McAlister  ;  6; 0; 0; 0 ;1 ;000 0-0 0 0-0
+ 6; Richard Gavilanes ;  5; 0; 0; 0 ;1 ;000 0-0 0 0-0
+* missing line?
+ 28; Chris Brown      ;  9; 0; 0; 0 ;0 ;000 0-0 0 0-0
+ 23; Joey Clarke      ;  2; 0; 0; 0 ;0 ;000 0-0 0 0-0
+ 13; Shane Boggis     ;  5; 0; 0; 0 ;0 ;000 0-0 0 0-0
+ 1; Issey Maholo      ;  4; 0; 0; 0 ;0 ;000 0-0 0 0-0
 
 
 Season: 2005
 BlockSource: http://www.bceagles.com/sports/m-soccer/stats/2005-2006/teamcume.html
 
-## Name                 GP-GS  Min   G   A Pts  Sh Shot% SOG  SOG% GW  PK-ATT
------------------------------------------------------------------------------
-4  Sherron Manswell     16-16  561  10   2  22  33  .303  15  .455  3   0-0
-11 Hadrien Toure        10-5   230   4   2  10  18  .222   7  .389  1   0-0
-5  Lennie McMillian     14-11  392   2   1   5  12  .167   6  .500  1   0-0
-3  Jamen Amato          15-14  547   1   1   3   9  .111   2  .222  0   0-0
-20 Reuben Ayarna        15-14  418   1   5   7  19  .053   4  .211  0   0-0
-25 Sam Brill            11-9   229   1   1   3   4  .250   1  .250  0   0-0
-8  Brendan Burke        12-7   361   0   0   0   1  .000   1 1.000  0   0-0
-23 Joey Clarke          13-7   336   0   0   0   0  .000   0  .000  0   0-0
-12 Stephen Hepburn       5-0   143   0   0   0   0  .000   0  .000  0   0-0
-26 James Begen           4-1    23   0   0   0   0  .000   0  .000  0   0-0
-10 Charlie Davies        1-1    96   0   1   1   0  .000   0  .000  0   0-0
-18 Mario Nicholas        5-1    24   0   0   0   1  .000   1 1.000  0   0-0
-14 Will Munger           5-0    39   0   0   0   0  .000   0  .000  0   0-0
-21 Mike Konicoff        14-13  552   0   1   1  13  .000   4  .308  0   0-0
-17 Ryan Sherman         15-7   404   0   0   0   8  .000   3  .375  0   0-0
-15 Justin Flood         11-2    54   0   0   0   2  .000   1  .500  0   0-0
-16 Brendan Ferullo       8-1    81   0   1   1   2  .000   1  .500  0   0-0
-13 Shane Boggis          6-3    45   0   0   0   0  .000   0  .000  0   0-0
-1  Issey Maholo         14-14  469   0   0   0   0  .000   0  .000  0   0-0
-9  Satoshi Mitsuda      12-0   139   0   2   2   1  .000   0  .000  0   0-0
-22 Greg O'Neil          13-7   217   0   2   2   4  .000   0  .000  0   0-0
-6  Richard Gavilanes    16-15  570   0   0   0   4  .000   0  .000  0   0-0
-2  Paul Gerstenberger   14-14  408   0   0   0   9  .000   2  .222  0   0-0
-19 Bill Arnault         15-15  569   0   1   1  10  .000   3  .300  0   0-0
-27 Jamie Melas           1-0     0   0   0   0   0  .000   0  .000  0   0-0
+*## Name                 GP-GS  Min   G   A Pts  Sh Shot% SOG  SOG% GW  PK-ATT
+
+Key: number; name; games_played; games_started; minutes; goals; assists; points; shots; etc
+
+4 ; Sherron Manswell    ; 16; 16 ; 561 ; 10  ; 2 ; 22 ; 33 ; .303  15  .455  3   0-0
+11; Hadrien Toure       ; 10; 5  ; 230 ;  4  ; 2 ; 10 ; 18 ; .222   7  .389  1   0-0
+5 ; Lennie McMillian    ; 14; 11 ; 392 ;  2  ; 1 ;  5 ; 12 ; .167   6  .500  1   0-0
+3 ; Jamen Amato         ; 15; 14 ; 547 ;  1  ; 1 ;  3 ;  9 ; .111   2  .222  0   0-0
+20; Reuben Ayarna       ; 15; 14 ; 418 ;  1  ; 5 ;  7 ; 19 ; .053   4  .211  0   0-0
+25; Sam Brill           ; 11; 9  ; 229 ;  1  ; 1 ;  3 ;  4 ; .250   1  .250  0   0-0
+8 ; Brendan Burke       ; 12; 7  ; 361 ;  0  ; 0 ;  0 ;  1 ; .000   1 1.000  0   0-0
+23; Joey Clarke         ; 13; 7  ; 336 ;  0  ; 0 ;  0 ;  0 ; .000   0  .000  0   0-0
+12; Stephen Hepburn     ;  5; 0  ; 143 ;  0  ; 0 ;  0 ;  0 ; .000   0  .000  0   0-0
+26; James Begen         ;  4; 1  ;  23 ;  0  ; 0 ;  0 ;  0 ; .000   0  .000  0   0-0
+10; Charlie Davies      ;  1; 1  ;  96 ;  0  ; 1 ;  1 ;  0 ; .000   0  .000  0   0-0
+18; Mario Nicholas      ;  5; 1  ;  24 ;  0  ; 0 ;  0 ;  1 ; .000   1 1.000  0   0-0
+14; Will Munger         ;  5; 0  ;  39 ;  0  ; 0 ;  0 ;  0 ; .000   0  .000  0   0-0
+21; Mike Konicoff       ; 14; 13 ; 552 ;  0  ; 1 ;  1 ; 13 ; .000   4  .308  0   0-0
+17; Ryan Sherman        ; 15; 7  ; 404 ;  0  ; 0 ;  0 ;  8 ; .000   3  .375  0   0-0
+15; Justin Flood        ; 11; 2  ;  54 ;  0  ; 0 ;  0 ;  2 ; .000   1  .500  0   0-0
+16; Brendan Ferullo     ;  8; 1  ;  81 ;  0  ; 1 ;  1 ;  2 ; .000   1  .500  0   0-0
+13; Shane Boggis        ;  6; 3  ;  45 ;  0  ; 0 ;  0 ;  0 ; .000   0  .000  0   0-0
+1 ; Issey Maholo        ; 14; 14 ; 469 ;  0  ; 0 ;  0 ;  0 ; .000   0  .000  0   0-0
+9 ; Satoshi Mitsuda     ; 12; 0  ; 139 ;  0  ; 2 ;  2 ;  1 ; .000   0  .000  0   0-0
+22; Greg O'Neil         ; 13; 7  ; 217 ;  0  ; 2 ;  2 ;  4 ; .000   0  .000  0   0-0
+6 ; Richard Gavilanes   ; 16; 15 ; 570 ;  0  ; 0 ;  0 ;  4 ; .000   0  .000  0   0-0
+2 ; Paul Gerstenberger  ; 14; 14 ; 408 ;  0  ; 0 ;  0 ;  9 ; .000   2  .222  0   0-0
+19; Bill Arnault        ; 15; 15 ; 569 ;  0  ; 1 ;  1 ; 10 ; .000   3  .300  0   0-0
+27; Jamie Melas         ;  1; 0  ;   0 ;  0  ; 0 ;  0 ;  0 ; .000   0  .000  0   0-0
 
 
 Season: 2004
@@ -239,50 +245,55 @@ BlockSource: http://www.bceagles.com/sports/m-soccer/stats/2004-2005/teamcume.ht
 
 ## Name                 GP-GS   G   A Pts  Sh Shot% GW  PK-ATT
 
-10 Davies, Charlie      20-20   9   4  22  50  .180  5   0-0
-24 Melamed, Guy         20-20   1   4   6  34  .029  0   0-0
-11 Toure, Hadrien       19-16   0   3   3  21  .000  0   0-0
-9  Helgason, Johann     20-20   1   5   7  20  .050  1   0-0
-7  Magen-David, Uri     16-8    2   2   6  20  .100  0   0-0
-12 Haggerty, Pat        20-20   5   1  11  17  .294  1   0-0
-25 Brill, Sam           20-20   2   0   4  17  .118  2   0-0
-23 Mitsuda, Satoshi     18-3    2   1   5   8  .250  2   0-0
-5  McMillian, Lennie    12-9    0   0   0   8  .000  0   0-0
-3  Amato, Jamen         20-18   0   0   0   8  .000  0   0-0
-17 Goldberg, Jarryd     20-15   2   1   5   7  .286  1   0-0
-18 Nicholas, Mario      15-7    1   0   2   6  .167  0   0-0
-6  Gavilanes, Richard   20-20   0   1   1   6  .000  0   0-0
-21 Talaat, Ahmed         3-0    0   0   0   4  .000  0   0-0
-14 Manswell, Sherron     9-4    0   1   1   1  .000  0   0-0
-1  Maholo, Issey        20-20   0   1   1   0  .000  0   0-0
-13 Boggis, Shane         1-0    0   0   0   0  .000  0   0-0
+
+Key: number; name; games_played; games_started; goals; assists; points; shots; etc
+
+10; Davies, Charlie     ; 20; 20 ;  9 ;  4 ; 22 ; 50 ; .180  5   0-0
+24; Melamed, Guy        ; 20; 20 ;  1 ;  4 ;  6 ; 34 ; .029  0   0-0
+11; Toure, Hadrien      ; 19; 16 ;  0 ;  3 ;  3 ; 21 ; .000  0   0-0
+9 ; Helgason, Johann    ; 20; 20 ;  1 ;  5 ;  7 ; 20 ; .050  1   0-0
+7 ; Magen-David, Uri    ; 16; 8  ;  2 ;  2 ;  6 ; 20 ; .100  0   0-0
+12; Haggerty, Pat       ; 20; 20 ;  5 ;  1 ; 11 ; 17 ; .294  1   0-0
+25; Brill, Sam          ; 20; 20 ;  2 ;  0 ;  4 ; 17 ; .118  2   0-0
+23; Mitsuda, Satoshi    ; 18; 3  ;  2 ;  1 ;  5 ;  8 ; .250  2   0-0
+5 ; McMillian, Lennie   ; 12; 9  ;  0 ;  0 ;  0 ;  8 ; .000  0   0-0
+3 ; Amato, Jamen        ; 20; 18 ;  0 ;  0 ;  0 ;  8 ; .000  0   0-0
+17; Goldberg, Jarryd    ; 20; 15 ;  2 ;  1 ;  5 ;  7 ; .286  1   0-0
+18; Nicholas, Mario     ; 15; 7  ;  1 ;  0 ;  2 ;  6 ; .167  0   0-0
+6 ; Gavilanes, Richard  ; 20; 20 ;  0 ;  1 ;  1 ;  6 ; .000  0   0-0
+21; Talaat, Ahmed       ;  3; 0  ;  0 ;  0 ;  0 ;  4 ; .000  0   0-0
+14; Manswell, Sherron   ;  9; 4  ;  0 ;  1 ;  1 ;  1 ; .000  0   0-0
+1 ; Maholo, Issey       ; 20; 20 ;  0 ;  1 ;  1 ;  0 ; .000  0   0-0
+13; Boggis, Shane       ;  1; 0  ;  0 ;  0 ;  0 ;  0 ; .000  0   0-0
 
 
 
 Season: 2003
 BlockSource: http://www.bceagles.com/sports/m-soccer/stats/2003/teamstat.html
 
+Key: number; name; games_played; goals; assists; points; shots; etc
+
 * ## PLAYER                GP   G   A Pts  Sh Shot% SOG  SOG% GW PK-ATT
 
- 22 KRAUSE, Neil          16   8   0  16  40  .200  21  .525  2  0-0
- 4  AMATO, Jamen          17   2   1   5  14  .143   8  .571  1  0-0
- 17 GOLDBERG, Jarryd      17   1   3   5  15  .067   5  .333  1  0-0
- 10 PFEIFER, Adam         15   0   4   4  23  .000  14  .609  0  0-0
- 9  KILIC, Oktay          10   1   1   3  21  .048   7  .333  1  0-0
- 16 FERULLO, Brendon      14   1   1   3   5  .200   3  .600  1  0-0
- 12 HAGGERTY, Pat         17   1   0   2   6  .167   3  .500  0  0-1
- 11 KRAUSE, John          16   0   2   2  15  .000   8  .533  0  0-0
- 3  CHASE, Paul           14   0   2   2   8  .000   2  .250  0  0-0
- 6  GAVILANES, Richard    17   0   2   2   4  .000   2  .500  0  0-0
- 24 MELAMED, Guy          17   0   1   1  32  .000   8  .250  0  0-0
- 19 ARNAULT, Bill         16   0   0   0  31  .000   6  .194  0  0-0
- 25 BRILL, Sam            15   0   0   0   7  .000   3  .429  0  0-0
- 7  MAGEN-DAVID, Uri       9   0   0   0   5  .000   1  .200  0  0-0
- 2  ADAMS, Kenny          10   0   0   0   1  .000   1 1.000  0  0-0
- 18 NICHOLAS, Mario        2   0   0   0   0  .000   0  .000  0  0-0
- 15 SLOSS, Ian             5   0   0   0   0  .000   0  .000  0  0-0
- 13 CARDENAS, Mike        15   0   0   0   0  .000   0  .000  0  0-0
- 1  MAHOLO, Issey          2   0   0   0   0  .000   0  .000  0  0-0
+ 22; KRAUSE, Neil         ; 16 ;  8 ;  0 ; 16 ; 40 ; .200  21  .525  2  0-0
+ 4 ; AMATO, Jamen         ; 17 ;  2 ;  1 ;  5 ; 14 ; .143   8  .571  1  0-0
+ 17; GOLDBERG, Jarryd     ; 17 ;  1 ;  3 ;  5 ; 15 ; .067   5  .333  1  0-0
+ 10; PFEIFER, Adam        ; 15 ;  0 ;  4 ;  4 ; 23 ; .000  14  .609  0  0-0
+ 9 ; KILIC, Oktay         ; 10 ;  1 ;  1 ;  3 ; 21 ; .048   7  .333  1  0-0
+ 16; FERULLO, Brendon     ; 14 ;  1 ;  1 ;  3 ;  5 ; .200   3  .600  1  0-0
+ 12; HAGGERTY, Pat        ; 17 ;  1 ;  0 ;  2 ;  6 ; .167   3  .500  0  0-1
+ 11; KRAUSE, John         ; 16 ;  0 ;  2 ;  2 ; 15 ; .000   8  .533  0  0-0
+ 3 ; CHASE, Paul          ; 14 ;  0 ;  2 ;  2 ;  8 ; .000   2  .250  0  0-0
+ 6 ; GAVILANES, Richard   ; 17 ;  0 ;  2 ;  2 ;  4 ; .000   2  .500  0  0-0
+ 24; MELAMED, Guy         ; 17 ;  0 ;  1 ;  1 ; 32 ; .000   8  .250  0  0-0
+ 19; ARNAULT, Bill        ; 16 ;  0 ;  0 ;  0 ; 31 ; .000   6  .194  0  0-0
+ 25; BRILL, Sam           ; 15 ;  0 ;  0 ;  0 ;  7 ; .000   3  .429  0  0-0
+ 7 ; MAGEN-DAVID, Uri     ;  9 ;  0 ;  0 ;  0 ;  5 ; .000   1  .200  0  0-0
+ 2 ; ADAMS, Kenny         ; 10 ;  0 ;  0 ;  0 ;  1 ; .000   1 1.000  0  0-0
+ 18; NICHOLAS, Mario      ;  2 ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0  0-0
+ 15; SLOSS, Ian           ;  5 ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0  0-0
+ 13; CARDENAS, Mike       ; 15 ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0  0-0
+ 1 ; MAHOLO, Issey        ;  2 ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0  0-0
 
 
 
@@ -291,89 +302,92 @@ BlockSource: http://www.bceagles.com/sports/m-soccer/archive/02-teamcume.html
 
 * ## PLAYER                GP   G   A Pts  Sh Shot% SOG  SOG% GW PK-ATT
 
- 17 SCHMIDT, Casey        23  11   6  28  69  .159  18  .261  6  0-0
- 22 KRAUSE, Neil          22   6   6  18  49  .122   6  .122  4  0-0
- 5  THOMPSON, Bobby       23   4  10  18  55  .073  11  .200  0  0-0
- 9  KILIC, Oktay          19   6   1  13  20  .300   6  .300  3  0-0
- 24 MELAMED, Guy          23   6   0  12  26  .231   3  .115  3  0-0
- 10 PFEIFER, Adam         17   4   3  11  22  .182   5  .227  1  0-0
- 11 KRAUSE, John          22   3   4  10  22  .136   4  .182  0  0-0
- 19 ARNAULT, Bill         23   2   2   6  25  .080   4  .160  0  0-0
- 3  CHASE, Paul           22   1   4   6  11  .091   0  .000  0  0-0
- 7  MAGEN-DAVID, Uri      17   2   1   5  13  .154   7  .538  0  0-0
- 12 HAGGERTY, Pat         23   1   2   4  10  .100   1  .100  0  0-0
- 26 DORSETT, Kirt         21   1   1   3  11  .091   1  .091  0  0-0
- 4  MUNKO, Johnathan      21   1   0   2   8  .125   2  .250  0  0-0
- 2  ADAMS, Kenny          23   1   0   2   1 1.000   1 1.000  0  0-0
- 15 SLOSS, Ian            11   0   1   1   1  .000   0  .000  0  0-0
- 20 HALPENNY, Thomas      11   0   0   0   3  .000   0  .000  0  0-0
- 16 FERULLO, Brendon       8   0   0   0   3  .000   0  .000  0  0-0
- 18 NICHOLAS, Mario        3   0   0   0   0  .000   0  .000  0  0-0
- 13 CARDENAS, Mike         1   0   0   0   0  .000   0  .000  0  0-0
- 8  DESROSIERS, Junior     1   0   0   0   0  .000   0  .000  0  0-0
- 6  SINGER, Kyle          22   0   0   0   0  .000   0  .000  0  0-0
- 1  CARUSO, Danny          1   0   0   0   0  .000   0  .000  0  0-0
+ 17; SCHMIDT, Casey       ; 23 ; 11 ;  6 ; 28 ; 69 ; .159  18  .261  6  0-0
+ 22; KRAUSE, Neil         ; 22 ;  6 ;  6 ; 18 ; 49 ; .122   6  .122  4  0-0
+ 5 ; THOMPSON, Bobby      ; 23 ;  4 ; 10 ; 18 ; 55 ; .073  11  .200  0  0-0
+ 9 ; KILIC, Oktay         ; 19 ;  6 ;  1 ; 13 ; 20 ; .300   6  .300  3  0-0
+ 24; MELAMED, Guy         ; 23 ;  6 ;  0 ; 12 ; 26 ; .231   3  .115  3  0-0
+ 10; PFEIFER, Adam        ; 17 ;  4 ;  3 ; 11 ; 22 ; .182   5  .227  1  0-0
+ 11; KRAUSE, John         ; 22 ;  3 ;  4 ; 10 ; 22 ; .136   4  .182  0  0-0
+ 19; ARNAULT, Bill        ; 23 ;  2 ;  2 ;  6 ; 25 ; .080   4  .160  0  0-0
+ 3 ; CHASE, Paul          ; 22 ;  1 ;  4 ;  6 ; 11 ; .091   0  .000  0  0-0
+ 7 ; MAGEN-DAVID, Uri     ; 17 ;  2 ;  1 ;  5 ; 13 ; .154   7  .538  0  0-0
+ 12; HAGGERTY, Pat        ; 23 ;  1 ;  2 ;  4 ; 10 ; .100   1  .100  0  0-0
+ 26; DORSETT, Kirt        ; 21 ;  1 ;  1 ;  3 ; 11 ; .091   1  .091  0  0-0
+ 4 ; MUNKO, Johnathan     ; 21 ;  1 ;  0 ;  2 ;  8 ; .125   2  .250  0  0-0
+ 2 ; ADAMS, Kenny         ; 23 ;  1 ;  0 ;  2 ;  1 ;1.000   1 1.000  0  0-0
+ 15; SLOSS, Ian           ; 11 ;  0 ;  1 ;  1 ;  1 ; .000   0  .000  0  0-0
+ 20; HALPENNY, Thomas     ; 11 ;  0 ;  0 ;  0 ;  3 ; .000   0  .000  0  0-0
+ 16; FERULLO, Brendon     ;  8 ;  0 ;  0 ;  0 ;  3 ; .000   0  .000  0  0-0
+ 18; NICHOLAS, Mario      ;  3 ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0  0-0
+ 13; CARDENAS, Mike       ;  1 ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0  0-0
+ 8 ; DESROSIERS, Junior   ;  1 ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0  0-0
+ 6 ; SINGER, Kyle         ; 22 ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0  0-0
+ 1 ; CARUSO, Danny        ;  1 ;  0 ;  0 ;  0 ;  0 ; .000   0  .000  0  0-0
 
 
 Season: 2001
 BlockSource: http://www.bceagles.com/sports/m-soccer/archive/bc-m-soccer-2001.html
 
-No. Name GP GS G A Pts. Shots GP/GS G A Pts. Sh. GP/GS G A Pts. Sh.
-10 Adam Pfeifer  18 11 6 3 15 39 10/6 6 1 13 25 38/27 6 9 21 88
-22 Neil Krause   18 9 5 414 29 10/6 2 3 7 14 39/30 21 6 48 75
-16 Chris Cleary  18 18 3 6 12 36 10/10 2 5 9 21 73/68 12 17 41 155
-17 Casey Schmidt 9 8 5 1 11 28 4/3 4 1 9 13 42/39 24 6 54 126
-5 Bobby Thompson 17 12 42 10 28 10/7 2 2 6 14 51/41 10 10 30 69
-19 Bill Arnault  18 18 0 8 8 17 10/10 0 6 6 418/18 0 8 8 17
-26 Kirt Dorsett  18 13 1 46 11 10/8 1 46 8 38/32 1 6 8 21
-24Guy Melamed     17 17 2 1 5 21 10/10 2 1 5 7 17/17 2 1 5 21
-14Martin Cantillo 17 15 0 5 5 0 10/9 0 3 3 0 60/52 0 7 7 5
-11 Ramon Smith    17 5 1 2 49 9/2 1 0 2 6 37/4 3 3 9 36
-9 Eyvind Aasen     2 1 1 0 2 1 1/1 1 0 2 1 32/17 3 1 7 35
-12 Pat Haggerty   17 140 2 2 7 10/8 0 1 1 4 17/14 0 2 2 7
-3 Paul Chase      16 16 0 1 1 10 9/9 0 1 1 7 33/33 1 3 5 18
-6 Paul Bourke     18 18 0 1 1 0 10/10 0 1 1 0 74/74 0 4 4 12
-1 Danny Caruso    17 16 0 1 1 0 10/9 0 0 0 0 18/16 0 1 1 0
-2 Kenny Adams      9 5 0 0 0 0 4/2 0 0 0 0 27/23 1 1 3 1
-8 Junior Desrosiers 2 0 0 0 0 0 1/0 0 0 0 0 2/0 0 0 0 0
-18 Gabe Margolis    1 0 0 0 0 0 0/0 0 0 0 0 1/0 0 0 0 0
-21 Brendan Burke    1 1 0 0 0 0 0/0 0 0 0 0 1/1 0 0 0 0
-0 Greg Bertleff     0 0 0 0 0 0 0/0 0 0 0 0 0 0 0 0 0
-4Johnathan Munko    0 0 0 0 0 0 0/0 0 0 0 0 11/3 0 0 0 1
-30 Joe Roos         2 2 0 0 0 0 1/1 0 0 0 0 2/2 0 0 0 0
+*No. Name GP GS G A Pts. Shots GP/GS G A Pts. Sh. GP/GS G A Pts. Sh.
+
+Key: number; name; games_played; games_started; goals; assists ;points; shots; etc
+
+10; Adam Pfeifer     ; 18 ; 11; 6 ; 3 ; 15; 39; 10/6 6 1 13 25 38/27 6 9 21 88
+22; Neil Krause      ; 18 ; 9 ; 5 ; 4 ; 14; 29; 10/6 2 3 7 14 39/30 21 6 48 75
+16; Chris Cleary     ; 18 ; 18; 3 ; 6 ; 12; 36; 10/10 2 5 9 21 73/68 12 17 41 155
+17; Casey Schmidt    ;  9 ; 8 ; 5 ; 1 ; 11; 28; 4/3 4 1 9 13 42/39 24 6 54 126
+5 ; Bobby Thompson   ; 17 ; 12; 4 ; 2 ; 10; 28; 10/7 2 2 6 14 51/41 10 10 30 69
+19; Bill Arnault     ; 18 ; 18; 0 ; 8 ;  8; 17; 10/10 0 6 6 418/18 0 8 8 17
+26; Kirt Dorsett     ; 18 ; 13; 1 ; 4 ;  6; 11; 10/8 1 46 8 38/32 1 6 8 21
+24; Guy Melamed      ; 17 ; 17; 2 ; 1 ;  5; 21; 10/10 2 1 5 7 17/17 2 1 5 21
+14; Martin Cantillo  ; 17 ; 15; 0 ; 5 ;  5; 0 ; 10/9 0 3 3 0 60/52 0 7 7 5
+11; Ramon Smith      ; 17 ; 5 ; 1 ; 2 ;  4; 9 ; 9/2 1 0 2 6 37/4 3 3 9 36
+9 ; Eyvind Aasen     ;  2 ; 1 ; 1 ; 0 ;  2; 1 ; 1/1 1 0 2 1 32/17 3 1 7 35
+12; Pat Haggerty     ; 17 ; 14; 0 ; 2 ;  2; 7 ; 10/8 0 1 1 4 17/14 0 2 2 7
+3 ; Paul Chase       ; 16 ; 16; 0 ; 1 ;  1; 10; 9/9 0 1 1 7 33/33 1 3 5 18
+6 ; Paul Bourke      ; 18 ; 18; 0 ; 1 ;  1; 0 ; 10/10 0 1 1 0 74/74 0 4 4 12
+1 ; Danny Caruso     ; 17 ; 16; 0 ; 1 ;  1; 0 ; 10/9 0 0 0 0 18/16 0 1 1 0
+2 ; Kenny Adams      ;  9 ; 5 ; 0 ; 0 ;  0; 0 ; 4/2 0 0 0 0 27/23 1 1 3 1
+8 ; Junior Desrosiers;  2 ; 0 ; 0 ; 0 ;  0; 0 ; 1/0 0 0 0 0 2/0 0 0 0 0
+18; Gabe Margolis    ;  1 ; 0 ; 0 ; 0 ;  0; 0 ; 0/0 0 0 0 0 1/0 0 0 0 0
+21; Brendan Burke    ;  1 ; 1 ; 0 ; 0 ;  0; 0 ; 0/0 0 0 0 0 1/1 0 0 0 0
+0 ; Greg Bertleff    ;  0 ; 0 ; 0 ; 0 ;  0; 0 ; 0/0 0 0 0 0 0 0 0 0 0
+4 ; Johnathan Munko  ;  0 ; 0 ; 0 ; 0 ;  0; 0 ; 0/0 0 0 0 0 11/3 0 0 0 1
+30; Joe Roos         ;  2 ; 2 ; 0 ; 0 ;  0; 0 ; 1/1 0 0 0 0 2/2 0 0 0 0
 
 
 Season: 2000
 BlockSource: http://www.bceagles.com/auto_pdf/p_hotos/s_chools/bc/sports/m-soccer/archive-pdf/cumulative-stats01
 
-no, name, gp, gs, g, a, pts, shots
+*no, name, gp, gs, g, a, pts, shots
 
 
-17 Casey Schmidt     17 16 8 3 19 49 10/10 6 2 14 23 33/31 19 5 43 98
-5 Bobby Thompson     20 17 5 5 15 28 11/10 2 3 7 16 32/28 6 8 20 41
-16 Chris Cleary      20 18 5 2 12 44 11/10 2 2 6 23 54/50 9 9 27 119
-19 Ramon Smith       20 4 2 1 5 27 11/3 1 0 2 16 20/4 2 1 5 27
-12 Adam Pfeifer      20 16 0 6 6 49 11/8 0 4 4 23 20/16 0 6 6 49
-10 Sjur Gundersen    18 18 1 3 5 25 9/9 0 2 2 12 48/48 1 7 9 54
-13 Brian Mollo        9 2 1 1 3 1 4/0 0 0 0 0 39/23 2 2 6 35
-2 Kenny Adams        18 18 1 1 3 1 11/11 1 1 3 1 18/18 1 1 3 1
-11 Kevin Boyd        17 16 0 2 2 13 10/9 0 1 1 6 65/63 10 6 26 107
-23 Kirt Dorsett      20 19 0 2 2 13 11/10 0 0 0 3 20/19 0 2 2 13
-3 Jorgen Lie         12 8 0 2 2 13 9/7 0 2 2 13 27/21 2 3 7 29
-15 Zach Bouchard      8 1 0 1 1 2 4/0 0 0 0 0 24/7 1 1 3 5
-6 Paul Bourke        20 20 0 1 1 2 11/11 0 0 0 1 56/56 0 3 3 12
-14 Martin Cantillo   20 20 0 1 1 4 11/11 0 0 0 3 43/37 0 2 2 5
-8 Espen Skaug        13 3 0 0 0 3 8/0 0 0 0 2 39/20 0 4 4 17
-20 Josh Rollins       9 3 0 0 0 1 4/1 0 0 0 0 21/3 0 0 0 3
-21 Chris Powell       6 0 0 0 0 0 2/0 0 0 0 0 6/0 0 0 0 0
-4 Jonathan Munko      1 0 0 0 0 0 0/0 0 0 0 0 11/3 0 0 0 1
-9 Eyvind Aasen        2 0 0 0 0 0 1/0 0 0 0 0 30/16 2 1 5 34
-7 John McCann         2 1 0 0 0 0 0/0 0 0 0 0 27/7 0 0 0 7
-25 Bryan Rose         1 0 0 0 0 0 1/0 0 0 0 0 7/3 0 0 0 1
-18 Gabe Margolis      0 0 0 0 0 0 0/0 0 0 0 0 0/0 0 0 0 0
-30 John O’Halloran    1 1 0 0 0 0 0/0 0 0 0 0 3/1 0 0 0 0
-0 Greg Bertleff       0 0 0 0 0 0 0/0 0 0 0 0 0 0 0 0 0
-00 Danny Caruso       1 0 0 0 0 0 0/0 0 0 0 0 1 0 0 0 0
-1 Chris Hamblin      20 19 0 0 0 0 11/11 0 0 0 0 68/67 0 0 0 0
+17; Casey Schmidt    ; 17; 16; 8; 3; 19; 49; 10/10 6 2 14 23 33/31 19 5 43 98
+5 ; Bobby Thompson   ; 20; 17; 5; 5; 15; 28; 11/10 2 3 7 16 32/28 6 8 20 41
+16; Chris Cleary     ; 20; 18; 5; 2; 12; 44; 11/10 2 2 6 23 54/50 9 9 27 119
+19; Ramon Smith      ; 20; 4 ; 2; 1; 5 ; 27; 11/3 1 0 2 16 20/4 2 1 5 27
+12; Adam Pfeifer     ; 20; 16; 0; 6; 6 ; 49; 11/8 0 4 4 23 20/16 0 6 6 49
+10; Sjur Gundersen   ; 18; 18; 1; 3; 5 ; 25; 9/9 0 2 2 12 48/48 1 7 9 54
+13; Brian Mollo      ;  9; 2 ; 1; 1; 3 ; 1 ;4/0 0 0 0 0 39/23 2 2 6 35
+2 ; Kenny Adams      ; 18; 18; 1; 1; 3 ; 1 ;11/11 1 1 3 1 18/18 1 1 3 1
+11; Kevin Boyd       ; 17; 16; 0; 2; 2 ; 13; 10/9 0 1 1 6 65/63 10 6 26 107
+23; Kirt Dorsett     ; 20; 19; 0; 2; 2 ; 13; 11/10 0 0 0 3 20/19 0 2 2 13
+3 ; Jorgen Lie       ; 12; 8 ; 0; 2; 2 ; 13; 9/7 0 2 2 13 27/21 2 3 7 29
+15; Zach Bouchard    ;  8; 1 ; 0; 1; 1 ; 2 ;4/0 0 0 0 0 24/7 1 1 3 5
+6 ; Paul Bourke      ; 20; 20; 0; 1; 1 ; 2 ;11/11 0 0 0 1 56/56 0 3 3 12
+14; Martin Cantillo  ; 20; 20; 0; 1; 1 ; 4 ;11/11 0 0 0 3 43/37 0 2 2 5
+8 ; Espen Skaug      ; 13; 3 ; 0; 0; 0 ; 3 ;8/0 0 0 0 2 39/20 0 4 4 17
+20; Josh Rollins     ;  9; 3 ; 0; 0; 0 ; 1 ;4/1 0 0 0 0 21/3 0 0 0 3
+21; Chris Powell     ;  6; 0 ; 0; 0; 0 ; 0 ;2/0 0 0 0 0 6/0 0 0 0 0
+4 ; Jonathan Munko   ;  1; 0 ; 0; 0; 0 ; 0 ;0/0 0 0 0 0 11/3 0 0 0 1
+9 ; Eyvind Aasen     ;  2; 0 ; 0; 0; 0 ; 0 ;1/0 0 0 0 0 30/16 2 1 5 34
+7 ; John McCann      ;  2; 1 ; 0; 0; 0 ; 0 ;0/0 0 0 0 0 27/7 0 0 0 7
+25; Bryan Rose       ;  1; 0 ; 0; 0; 0 ; 0 ;1/0 0 0 0 0 7/3 0 0 0 1
+18; Gabe Margolis    ;  0; 0 ; 0; 0; 0 ; 0 ;0/0 0 0 0 0 0/0 0 0 0 0
+30; John O’Halloran  ;  1; 1 ; 0; 0; 0 ; 0 ;0/0 0 0 0 0 3/1 0 0 0 0
+0 ; Greg Bertleff    ;  0; 0 ; 0; 0; 0 ; 0 ;0/0 0 0 0 0 0 0 0 0 0
+00; Danny Caruso     ;  1; 0 ; 0; 0; 0 ; 0 ;0/0 0 0 0 0 1 0 0 0 0
+1 ; Chris Hamblin    ; 20; 19; 0; 0; 0 ; 0 ;11/11 0 0 0 0 68/67 0 0 0 0
 
 
