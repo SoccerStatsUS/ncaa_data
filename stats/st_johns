@@ -148,6 +148,8 @@ BlockSource: http://www.redstormsports.com/sports/m-soccer/stats/2007-2008/teamc
 
 *## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG% GW  PK-ATT
 
+Key: number; name; games_played; games_started; goals; assists; points; shots; etc
+
 10; Alfonso, Omar     ;   20; 13 ;  4  ; 1 ;  9 ; 19 ; .211  10  .526  1   0-0
 22; Stepan, Jeff      ;   21; 21 ;  4  ; 1 ;  9 ; 10 ; .400   6  .600  1   0-0
 8 ; Luk, Michael      ;   20; 16 ;  2  ; 5 ;  9 ; 17 ; .118   8  .471  0   0-0

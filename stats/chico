@@ -322,6 +322,8 @@ BlockSource: http://www.csuchico.edu/athletics/msc/stats10/teamcume.htm
 Season: 2011
 BlockSource: http://www.csuchico.edu/athletics/msc/stats11/teamcume.htm
 
+Key: number; name; gmaes_played; games_started; minutes; goals; assists; points; shots; etc
+
 *## Name                 GP-GS  Min   G   A Pts  Sh Shot% SOG  SOG% GW  PK-ATT
 
 19; CELOSMANOVIC, Ferid ; 21; 19; 1341 ;  9 ;  4 ; 22 ; 74 ; .122  31  .419  5   1-1
