@@ -233,6 +233,7 @@ Season: 2008
 BlockSource: http://www.csuchico.edu/athletics/msc/stats08/teamcume.htm
 
 
+Key: number; name; games_played; games_started; minutes; goals; assists; points; shots; etc
 
 
 *## Name                 GP-GS  Min   G   A Pts  Sh Shot% SOG  SOG% GW  PK-ATT
@@ -262,6 +263,9 @@ BlockSource: http://www.csuchico.edu/athletics/msc/stats08/teamcume.htm
 
 Season: 2009
 BlockSource: http://www.csuchico.edu/athletics/msc/stats09/teamcume.htm
+
+
+Key: number; name; games_played; games_started; minutes; goals; assists; points; shots; etc
 
 *## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG% GW  PK-ATT
 

@@ -90,32 +90,40 @@ BlockSource: http://www.iuhoosiers.com/auto_pdf/p_hotos/s_chools/ind/sports/m-so
 
 
 Season: 2009
-BlockSource: http://www.iuhoosiers.com/auto_pdf/p_hotos/s_chools/ind/sports/m-soccer/auto_pdf/09-stats
+BlockSource: http://grfx.cstv.com/photos/schools/ind/sports/m-soccer/auto_pdf/09-stats.pdf
 
-11; Bruin, Will         ; 20; 20 ; 18 ;  5 ; 41; 103 ; .175  54  .524   0-0   3   0-0
-10; Adlard, Andy        ; 20; 20 ;  7 ;  7 ; 21;  36 ; .194  17  .472   0-0   3   3-3
-8 ; Kotlov, Nikita      ; 20; 16 ;  3 ;  6 ; 12;  14 ; .214   7  .500   1-0   1   0-0
-7 ; Petts, Harrison     ; 19; 19 ;  3 ;  5 ; 11;  37 ; .081  17  .459   0-0   0   0-0
-9 ; Purdie, Alec        ; 20; 8  ;  3 ;  5 ; 11;  33 ; .091  13  .394   0-0   1   0-0
-12; Tolen, Joe          ; 13; 3  ;  2 ;  5 ;  9;   7 ; .286   4  .571   0-0   1   0-0
-22; Konstanski, Caleb   ; 19; 18 ;  1 ;  0 ;  2;  14 ; .071   6  .429   0-0   1   0-0
-20; Meyer, Tommy        ; 19; 19 ;  0 ;  2 ;  2;   7 ; .000   1  .143   1-0   0   0-0
-21; Kelly, Daniel       ; 18; 17 ;  0 ;  2 ;  2;   4 ; .000   1  .250   0-0   0   0-0
-6 ; Estridge, Chris     ; 20; 18 ;  0 ;  1 ;  1;  21 ; .000   7  .333   2-0   0   0-0
-17; Bushue, Jacob       ; 20; 14 ;  0 ;  1 ;  1;   9 ; .000   4  .444   5-0   0   0-0
-26; Wylie, Tim          ; 12; 0  ;  0 ;  1 ;  1;   4 ; .000   0  .000   0-0   0   0-0
-15; Jordan, Cameron     ; 17; 9  ;  0 ;  0 ;  0;   7 ; .000   2  .286   1-0   0   0-0
-2 ; Balchan, Rich       ; 17; 16 ;  0 ;  0 ;  0;   7 ; .000   2  .286   0-0   0   0-0
-14; Wise, Blake         ;  5; 0  ;  0 ;  0 ;  0;   3 ; .000   0  .000   1-0   0   0-0
-24; Bick, Kevin         ;  6; 0  ;  0 ;  0 ;  0;   2 ; .000   1  .500   0-0   0   0-0
-27; McKain, Matt        ;  7; 2  ;  0 ;  0 ;  0;   1 ; .000   1 1.000   0-0   0   0-0
-18; Blevins, Nick       ;  5; 0  ;  0 ;  0 ;  0;   0 ; .000   0  .000   0-0   0   0-0
-16; McCarroll, Tyler    ;  9; 1  ;  0 ;  0 ;  0;   0 ; .000   0  .000   1-0   0   0-0
-4 ; Haffner, Chris      ;  1; 0  ;  0 ;  0 ;  0;   0 ; .000   0  .000   0-0   0   0-0
+Key: number; name; games_played; goals; assists; points; shots; etc
+
+*## Player gp g a pts sh sh% sog sog% gw pk-att
+11; BRUIN, Will      ; 22; 9; 4; 22; 93; . 0 9 7 40 . 4 3 0 5 0 - 0
+10; ADLARD, Andy     ; 23; 5; 4; 14; 52; . 0 9 6 23 . 4 4 2 2 0 - 0
+12; YEAGLE, Darren   ; 21; 5; 2; 12; 30; . 1 6 7 11 . 3 6 7 1 0 - 0
+17; HAGEDORN, Lee    ; 23; 3; 5; 11; 13; . 2 3 1 7 . 5 3 8 1 0 - 0
+7 ; ALEXANDER, Eric  ; 23; 1; 4; 6 ; 34; . 0 2 9 15 . 4 4 1 0 0 - 0
+18; BLEVINS, Nick    ;  8; 2; 0; 4 ; 6 ; . 3 3 3 4 . 6 6 7 0 0 - 0
+21; KELLY, Daniel    ; 20; 1; 1; 3 ; 13; . 0 7 7 3 . 2 3 1 1 0 - 0
+9 ; PURDIE, Alec     ; 18; 1; 0; 2 ; 15; . 0 6 7 6 . 4 0 0 1 0 - 0
+5 ; WIET, Matt       ; 21; 0; 2; 2 ; 4 ; . 0 0 0 2 . 5 0 0 0 0 - 0
+2 ; BALCHAN, Rich    ; 22; 0; 1; 1 ; 16; . 0 0 0 4 . 2 5 0 0 0 - 0
+24; BICK, Kevin      ; 16; 0; 1; 1 ; 11; . 0 0 0 2 . 1 8 2 0 0 - 0
+3 ; MEYER, Tommy     ; 22; 0; 1; 1 ; 8 ; . 0 0 0 2 . 2 5 0 0 0 - 0
+4 ; SARKODIE, Ofori  ; 22; 0; 1; 1 ; 3 ; . 0 0 0 0 . 0 0 0 0 0 - 0
+27; TOLEN, Joe       ;  5; 0; 1; 1 ; 1 ; . 0 0 0 0 . 0 0 0 0 0 - 0
+14; WILMARTH, Neil   ; 14; 0; 0; 0 ; 4 ; . 0 0 0 2 . 5 0 0 0 0 - 0
+22; KONSTANSKI, Caleb; 11; 0; 0; 0 ; 2 ; . 0 0 0 1 . 5 0 0 0 0 - 0
+16; McCARROLL, Tyler ;  3; 0; 0; 0 ; 2 ; . 0 0 0 0 . 0 0 0 0 0 - 0
+26; WYLIE, Tim       ;  7; 0; 0; 0 ; 1 ; . 0 0 0 1 1.000 0 0 - 0
+15; JORDAN, Cameron  ; 17; 0; 0; 0 ; 1 ; . 0 0 0 0 . 0 0 0 0 0 - 0
+25; HAFFNER, Chris   ; 3 ; 0; 0; 0 ; 0 ; . 0 0 0 0 . 0 0 0 0 0 - 0
+23; BOLER, Alex      ; 1 ; 0; 0; 0 ; 0 ; . 0 0 0 0 . 0 0 0 0 0 - 0
+20; KOSTIC, Nemanja  ; 4 ; 0; 0; 0 ; 0 ; . 0 0 0 0 . 0 0 0 0 0 - 0
+1 ; SOFFNER, Luis    ; 21; 0; 0; 0 ; 0 ; . 0 0 0 0 . 0 0 0 0 0 - 0
+
 
 
 Season: 2008
 http://www.iuhoosiers.com/sports/m-soccer/stats/2008-2009/teamcume.html
+Key: number; name; games_played; games_started; goals; assists; points; shots; etc
 
 *## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT
 
