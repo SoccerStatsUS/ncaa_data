@@ -398,8 +398,11 @@ BlockSource: http://www.wakeforestsports.com/sports/m-soccer/archive/041601aac.h
 0 ; Rob Vartughian      ; 15; 0  ;  0 ;  0 ;  0 ;  0 ; .000   0  .000   0-0   0   0-0
 
 
+Transform: name-title
+
 Season: 1999
 BlockSource: http://www.wakeforestsports.com/sports/m-soccer/archive/061100aaf.html
+
 
 Key: name; games_played; games_started; shots; goals; assists; points
 
@@ -435,7 +438,7 @@ GREG KRAUSS              ;   19; 18 ; 71 ; 10 ;  2 ; 22
 BEN STAFFORD             ;   19; 13 ; 32 ;  7 ;  6 ; 20    
 JAMAL SEALE              ;   19; 19 ; 27 ;  5 ;  4 ; 14    
 KYLE BACHMEIER           ;   18; 18 ; 37 ;  3 ;  7 ; 13    
-SERGE DANIV              ;   18; 10 ; 35 ;  5 ;  2 ; 12    
+SERGI DANIV              ;   18; 10 ; 35 ;  5 ;  2 ; 12    
 CHAD EVANS               ;   19; 19 ; 20 ;  2 ;  5 ;  9    
 CHRIS LONTEEN            ;   10;  8 ; 14 ;  4 ;  1 ;  9    
 VIKTOR LITOVKA           ;   18; 12 ; 15 ;  2 ;  4 ;  8    
