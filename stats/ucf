@@ -31,91 +31,91 @@ Key: number; name; games_played; games_started; minutes; goals; assists; points;
 Season: 2012
 BlockSource: http://www.ucfknights.com/sports/m-soccer/stats/2012-2013/teamcume.html
 
-##           Player     GP-GS   Min     G       A       Pts     Sh      Shot%   SOG     SOG%    YC-RC   GW      PK-Att  Foul 
-9            Brown, Deshorn     16-15   1251    13      3       29      60       .217   28       .467   2-0     3       1-1  0 
-10           Vallejo, Omar      18-16   1346    3       8       14      26        .115  10        .385  0-0     2       0-0  0 
-19           Tulloch, McKauly   13-10   951     5       1       11      45         .111           18     .400   1-0     1    0-0  0 
-18           Lamberta, Steven   17-7    933     3       1       7       14          .214          6       .429  2-0     1    0-0  0 
-13           Michaud, Jeff       9-7    476     1       3       5       10           .100         3        .300         0-0  0    0-0  0 
-8            Jimenez, Eduardo    18-12  1077    1       1       3       17            .059        5         .294        1-0  1    0-0  0 
-17           Nelson, A.J.        18-17  1372    0       3       3       18             .000       3          .167       2-0  0    0-0  0 
-7            Williams, Romario   17-14  1056    1       0       2       26              .038      7           .269      6-0  0    0-0  0 
-16           Quintana, Andrew    18-18  1671    1       0       2       8                .125     2            .250     2-0  0    0-0  0 
-12           Reed, Malcolm       18-12  1189    1       0       2       8                 .125    2             .250    1-0  0    0-0  0 
-21           Gaskins, Matthew    17-7   852     0       1       1       12                 .000   3              .250   0-0  0    0-0  0 
-5            Hunt, Ben           18-18  1685    0       1       1       8                   .000  0               .000  1-0  0    0-0  0 
-6            Russo, Michael      13-9   887     0       1       1       4                    .000                 1      .250     4-0  0  0-0  0 
-2            Sealey, Anton       12-3   304     0       0       0       7                     .000                2       .286    0-0  0  0-0  0 
-4            Ayala, Leonardo     16-8   807     0       0       0       2                      .000               0        .000   3-0  0  0-0  0 
-3            Sikes, Dallas       12-7   804     0       0       0       2                       .000              2        1.000  0-0  0  0-0  0 
-15           White, Justin       10-0   153     0       0       0       1                        .000             1        1.000  0-0  0  0-0  0 
-14           Miller, Mason       10-0   110     0       0       0       1                         .000            0         .000  0-0  0  0-0  0 
-27           Evers, Sebastian    16-16  1502    0       0       0       0                          .000           0          .000      2-0     0  0-0  0 
-22           Cox, Kyle            1-0   3       0       0       0       0                           .000          0           .000     0-0     0  0-0  0 
-11           Zapponi, Gabriel      4-0          42      0       0       0                           0              .000       0         .000   0-0     0  0-0  0 
+* ##           Player     GP-GS   Min     G       A       Pts     Sh      Shot%   SOG     SOG%    YC-RC   GW      PK-Att  Foul 
+9           ; Brown, Deshorn     ; 16; 15 ; 1251   ; 13     ; 3      ; 29     ; 60      ; .217  28       .467  2-0  3 1-1  0 
+10          ; Vallejo, Omar      ; 18; 16 ; 1346   ; 3      ; 8      ; 14     ; 26      ; .115  10       .385  0-0  2 0-0  0 
+19          ; Tulloch, McKauly   ; 13; 10 ; 951    ; 5      ; 1      ; 11     ; 45      ; .111  18       .400  1-0  1 0-0  0 
+18          ; Lamberta, Steven   ; 17; 7  ; 933    ; 3      ; 1      ; 7      ; 14      ; .214  6        .429  2-0  1 0-0  0 
+13          ; Michaud, Jeff      ;  9; 7  ; 476    ; 1      ; 3      ; 5      ; 10      ; .100  3        .300  0-0  0 0-0  0 
+8           ; Jimenez, Eduardo   ; 18; 12 ; 1077   ; 1      ; 1      ; 3      ; 17      ; .059  5        .294  1-0  1 0-0  0 
+17          ; Nelson, A.J.       ; 18; 17 ; 1372   ; 0      ; 3      ; 3      ; 18      ; .000  3        .167  2-0  0 0-0  0 
+7           ; Williams, Romario  ; 17; 14 ; 1056   ; 1      ; 0      ; 2      ; 26      ; .038  7        .269  6-0  0 0-0  0 
+16          ; Quintana, Andrew   ; 18; 18 ; 1671   ; 1      ; 0      ; 2      ; 8       ; .125  2        .250  2-0  0 0-0  0 
+12          ; Reed, Malcolm      ; 18; 12 ; 1189   ; 1      ; 0      ; 2      ; 8       ; .125  2        .250  1-0  0 0-0  0 
+21          ; Gaskins, Matthew   ; 17; 7  ; 852    ; 0      ; 1      ; 1      ; 12      ; .000  3        .250  0-0  0 0-0  0 
+5           ; Hunt, Ben          ; 18; 18 ; 1685   ; 0      ; 1      ; 1      ; 8       ; .000  0        .000  1-0  0 0-0  0 
+6           ; Russo, Michael     ; 13; 9  ; 887    ; 0      ; 1      ; 1      ; 4       ; .000  1        .250  4-0  0 0-0  0 
+2           ; Sealey, Anton      ; 12; 3  ; 304    ; 0      ; 0      ; 0      ; 7       ; .000  2        .286  0-0  0 0-0  0 
+4           ; Ayala, Leonardo    ; 16; 8  ; 807    ; 0      ; 0      ; 0      ; 2       ; .000  0        .000  3-0  0 0-0  0 
+3           ; Sikes, Dallas      ; 12; 7  ; 804    ; 0      ; 0      ; 0      ; 2       ; .000  2        1.000 0-0  0 0-0  0 
+15          ; White, Justin      ; 10; 0  ; 153    ; 0      ; 0      ; 0      ; 1       ; .000  1        1.000 0-0  0 0-0  0 
+14          ; Miller, Mason      ; 10; 0  ; 110    ; 0      ; 0      ; 0      ; 1       ; .000  0        .000  0-0  0 0-0  0 
+27          ; Evers, Sebastian   ; 16; 16 ; 1502   ; 0      ; 0      ; 0      ; 0       ; .000  0        .000  2-0  0 0-0  0 
+22          ; Cox, Kyle          ;  1; 0  ; 3      ; 0      ; 0      ; 0      ; 0       ; .000  0        .000  0-0  0 0-0  0 
+11          ; Zapponi, Gabriel   ;  4; 0  ;42      ;0       ;0       ;0        ; 0      ; .000  0        .000  0-0  0 0-0  0 
 
 
 Season: 2011
 BlockSource: http://www.ucfknights.com/sports/m-soccer/stats/2011-2012/teamcume.html
 
 ##           Player     GP-GS   Min     G       A       Pts     Sh      Shot%   SOG     SOG%    YC-RC   GW      PK-Att 
-19           Tulloch, McKauly   17-15   1269    15      4       34      63       .238   35       .556   3-1     6      0-0 
-10           Robson, Nik        21-17   1408    9       6       24      44        .205  20        .455  2-0     3      3-3 
-13           George, Kevan      21-21   1836    2       7       11      12         .167           5      .417   4-0    2   0-0 
-5            Hunt, Ben          21-21   1911    3       0       6       12          .250          6       .500  3-0    0   0-0 
-12           Reed, Malcolm      18-15   1415    2       2       6       8            .250         5        .625        0-0     0  0-0 
-9            Cooksey, Cameron   21-12   964     1       4       6       16            .062        6         .375       1-0     0  0-0 
-17           Nelson, A.J.       21-17   1623    2       1       5       24             .083       8          .333      3-0     0  0-0 
-14           Creavalle, Warren          17-16   1194    1       3       5              27          .037      9          .333   1-0    1  0-0 
-18           Lamberta, Steven           21-14   1571    1       1       3              18           .056     7           .389  3-0    0  0-0 
-15           Scott, Spencer             12-12   937     0       3       3              13            .000    3            .231        0-0    0  0-0 
-11           Yamashita, Luiz            16-5    570     1       0       2              17             .059   2             .118       0-0    0  0-0 
-8            Jimenez, Eduardo           18-8    857     1       0       2              15              .067  5              .333      1-0    0  0-0 
-3            Gaskins, Matthew           17-0    431     0       2       2              8                .000                1          .125  0-0    0  0-0 
-4            Ayala, Leonardo            18-13   1099    0       1       1              2                 .000               1           .500        1-0    0  0-0 
-22           Cox, Kyle                   3-0    50      0       1       1              1                  .000              0            .000       0-0    0  0-0 
-7            Feigenbaum, Chris            8-0   134     0       0       0              2                   .000             0             .000      0-0    0  0-0 
-6            Garcia, Ronald                6-1          147     0       0              0                   2                 .000         1          .500  0-0    0  0-0 
-27           Evers, Sebastian               9-9         876     0       0              0                   1                  .000        0           .000        0-0    0  0-0 
-25           Doyle, Shawn                   12-12       1086    0       0              0                   1                   .000       0            .000       0-0    0  0-0 
-16           Quintana, Andrew               21-21       1938    0       0              0                   1                    .000      0             .000      5-0    0  0-0 
-2            White, Justin                   9-2        258     0       0              0                   1                     .000     1             1.000     0-0    0  0-0 
-20           Weiss, Jake                      1-0       3       0       0              0                   0                      .000    0              .000     0-0    0  0-0 
+19           Tulloch, McKauly           17-15   1269    15      4       34      63       .238    35     .556     3-1    6  0-0 
+10           Robson, Nik                21-17   1408    9       6       24      44       .205    20     .455     2-0    3  3-3 
+13           George, Kevan              21-21   1836    2       7       11      12       .167    5      .417     4-0    2  0-0 
+5            Hunt, Ben                  21-21   1911    3       0       6       12       .250    6      .500     3-0    0  0-0 
+12           Reed, Malcolm              18-15   1415    2       2       6       8        .250    5      .625     0-0    0  0-0 
+9            Cooksey, Cameron           21-12   964     1       4       6       16       .062    6      .375     1-0    0  0-0 
+17           Nelson, A.J.               21-17   1623    2       1       5       24       .083    8      .333     3-0    0  0-0 
+14           Creavalle, Warren          17-16   1194    1       3       5       27       .037    9      .333     1-0    1  0-0 
+18           Lamberta, Steven           21-14   1571    1       1       3       18       .056    7      .389     3-0    0  0-0 
+15           Scott, Spencer             12-12   937     0       3       3       13       .000    3      .231     0-0    0  0-0 
+11           Yamashita, Luiz            16-5    570     1       0       2       17       .059    2      .118     0-0    0  0-0 
+8            Jimenez, Eduardo           18-8    857     1       0       2       15       .067    5      .333     1-0    0  0-0 
+3            Gaskins, Matthew           17-0    431     0       2       2       8        .000    1      .125     0-0    0  0-0 
+4            Ayala, Leonardo            18-13   1099    0       1       1       2        .000    1      .500     1-0    0  0-0 
+22           Cox, Kyle                   3-0    50      0       1       1       1        .000    0      .000     0-0    0  0-0 
+7            Feigenbaum, Chris           8-0    134     0       0       0       2        .000    0      .000     0-0    0  0-0 
+6            Garcia, Ronald              6-1    147     0       0       0       2        .000    1      .500     0-0    0  0-0 
+27           Evers, Sebastian            9-9    876     0       0       0       1        .000    0      .000     0-0    0  0-0 
+25           Doyle, Shawn               12-12   1086    0       0       0       1        .000    0      .000     0-0    0  0-0 
+16           Quintana, Andrew           21-21   1938    0       0       0       1        .000    0      .000     5-0    0  0-0 
+2            White, Justin               9-2    258     0       0       0       1        .000    1     1.000     0-0    0  0-0 
+20           Weiss, Jake                 1-0    3       0       0       0       0        .000    0      .000     0-0    0  0-0 
 
 
 Season: 2010
 BlockSource: http://www.ucfknights.com/sports/m-soccer/stats/2010-2011/teamcume.html
 
 ##           Player     GP-GS   G       A       Pts     Sh      Shot%   SOG     SOG%    GW      PK-Att 
-10           KEOWN-ROBSON, N.   19-19   11      9       31      48       .229   23       .479   0      4-4 
-9            Cooksey, Cameron   19-16   6       3       15      29        .207  9         .310  2      0-0 
-15           Scott, Spencer     20-20   3       8       14      18         .167           8      .444  3   0-0 
-17           Nelson, A.J.       18-14   4       4       12      35          .114          18      .514     1   0-0 
-14           Creavalle, Warren          20-20   4       4       12          30             .133   7         .233   2    0-0 
-20           Yamashita, Luiz            20-5    4       1       9           33              .121  14         .424  0    0-0 
-8            Bacher, Yaron              20-20   2       5       9           39               .051            15     .385    0  0-0 
-11           Jimenez, Eduardo           18-5    2       4       8           12                .167           6       .500   2  0-0 
-19           Eissele, Christian         12-0    3       0       6           8                  .375          6        .750  1  0-0 
-5            Hunt, Ben                  20-20   2       0       4           5                   .400         3         .600    1   0-0 
-13           George, Kevan              20-20   0       4       4           22                   .000        3          .136   0   0-0 
-2            Heffernan, Matt             3-0    0       1       1           2                     .000       1           .500  0   0-0 
-18           Lamberta, Steven            15-0   0       1       1           1                      .000      0            .000     0   0-0 
-6            Rendon, Camilo              19-19  0       0       0           4                       .000     1             .250    0   0-0 
-25           Doyle, Shawn                20-19  0       0       0           1                        .000    1             1.000   0   0-0 
-22           Cox, Kyle                    1-0   0       0       0           1                         .000   1             1.000   0   0-0 
-21           Andone, Josh                  3-0          0       0           0                         1       .000         0        .000   0  0-0 
-16           Quintana, Andrew              19-19        0       0           0                         1        .000        0         .000  0  0-0 
-3            Kraemer, Adam                  3-1         0       0           0                         1         .000       1         1.000    0   0-0 
-12           REED, Malcolm                   1-0        0       0           0                         0          .000      0          .000    0   0-0 
-7            Feigenbaum, Chris                6-0       0       0           0                         0           .000     0           .000   0   0-0 
-4            Milne, Finlay                     5-2      0       0           0                         0            .000    0            .000  0   0-0 
+10           KEOWN-ROBSON, N.           19-19   11      9       31      48       .229   23       .479  0  4-4 
+9            Cooksey, Cameron           19-16   6       3       15      29       .207   9        .310  2  0-0 
+15           Scott, Spencer             20-20   3       8       14      18       .167   8        .444  3  0-0 
+17           Nelson, A.J.               18-14   4       4       12      35       .114   18       .514  1  0-0 
+14           Creavalle, Warren          20-20   4       4       12      30       .133   7        .233  2  0-0 
+20           Yamashita, Luiz            20-5    4       1       9       33       .121   14       .424  0  0-0 
+8            Bacher, Yaron              20-20   2       5       9       39       .051   15       .385  0  0-0 
+11           Jimenez, Eduardo           18-5    2       4       8       12       .167   6        .500  2  0-0 
+19           Eissele, Christian         12-0    3       0       6       8        .375   6        .750  1  0-0 
+5            Hunt, Ben                  20-20   2       0       4       5        .400   3        .600  1  0-0 
+13           George, Kevan              20-20   0       4       4       22       .000   3        .136  0  0-0 
+2            Heffernan, Matt             3-0    0       1       1       2        .000   1        .500  0  0-0 
+18           Lamberta, Steven           15-0    0       1       1       1        .000   0        .000  0  0-0 
+6            Rendon, Camilo             19-19   0       0       0       4        .000   1        .250  0  0-0 
+25           Doyle, Shawn               20-19   0       0       0       1        .000   1       1.000  0  0-0 
+22           Cox, Kyle                   1-0    0       0       0       1        .000   1       1.000  0  0-0 
+21           Andone, Josh                3-0    0       0       0       1       .000    0        .000  0  0-0 
+16           Quintana, Andrew           19-19   0       0       0       1       .000    0        .000  0  0-0 
+3            Kraemer, Adam               3-1    0       0       0       1       .000    1       1.000  0  0-0 
+12           REED, Malcolm               1-0    0       0       0       0       .000    0        .000  0  0-0 
+7            Feigenbaum, Chris           6-0    0       0       0       0       .000    0        .000  0  0-0 
+4            Milne, Finlay               5-2    0       0       0       0       .000    0        .000  0  0-0 
 
 
 Season: 2009
 BlockSource: http://www.ucfknights.com/sports/m-soccer/stats/2009-2010/teamcume.html
 
 ## Name                 GP-GS  Min   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT
-------------------------------------------------------------------------------------
+
 10 ROBSON, Nik          16-15 1156   8   6  22  47  .170  26  .553   2-0   1   1-1
 8  Bacher, Yaron        16-16 1355   4   3  11  45  .089  23  .511   1-0   2   0-0
 18 HUNT, Benjamin       14-14 1190   3   1   7  11  .273   5  .455   5-1   1   0-0

@@ -1,6 +1,13 @@
 Team: University of Akron
 Competition: NCAA Division I Men's Soccer Championship
 
+Season: 2013
+BlockSource: http://www.gozips.com/sports/msoc/2014-15/teams/akron?view=lineup
+
+* NO.; NAME; YR; POS; GP; GS; G; A; PTS; SH; SH%; SOG; SOG%; YC; RC; PK GW
+Key: number; name; year; position; games_played; games_started; goals; assists; points; shots; shot%; sog; sog%; yc; rc; pk; gw
+
+
 Season: 2012
 Key: number; name; games_played; goals; assists; points; shots; etc
 
