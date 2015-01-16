@@ -1,10 +1,40 @@
-Team: Ohio State
 Competition: NCAA Division I Men's Soccer Championship
+Team: Ohio State
+
+
+Season: 2014
+BlockSource: http://www.ohiostatebuckeyes.com/sports/m-soccer/stats/2014-2015/teamcume.html
+* ##      Player  GP-GS   Min     G       A       Pts     Sh      Shot%   SOG     SOG%    YC-RC   GW      PK-Att  Corners 
+Key: number; name; games_played; games_started; minutes; goals; assists; points; shots; shot_percentage; shots_on_goal; sog_percentage; yellow_cards; red_cards; game_winning; pk_goals; pk_attempts; corner_kicks
+
+
+6      ; Sarris, Yianni         ; 22; 20  ; 1738   ; 5      ; 5      ; 15     ; 35     ; .143   ; 11     ; .314   ; 1; 0    ; 1      ; 0; 0 ; 16 
+9      ; Jensen, Danny          ; 21; 21  ; 1733   ; 6      ; 1      ; 13     ; 49     ; .122   ; 20     ; .408   ; 4; 0    ; 1      ; 0; 0 ; 10 
+5      ; Doyle, Liam            ; 22; 22  ; 2057   ; 5      ; 2      ; 12     ; 24     ; .208   ; 10     ; .417   ; 3; 0    ; 3      ; 3; 4 ; 5 
+3      ; Culbertson, Kyle       ; 21; 21  ; 1846   ; 4      ; 3      ; 11     ; 34     ; .118   ; 11     ; .324   ; 5; 1    ; 1      ; 1; 3 ; 54 
+19     ; McCrary, Marcus        ; 21; 11  ; 1258   ; 3      ; 1      ; 7      ; 31     ; .097   ; 11     ; .355   ; 1; 0    ; 0      ; 0; 0 ; 0 
+13     ; Soldat, Christian      ; 20; 4   ; 995    ; 3      ; 1      ; 7      ; 17     ; .176   ; 13     ; .765   ; 2; 0    ; 2      ; 0; 0 ; 6 
+23     ; Ivancic, Ryan          ; 21; 20  ; 1161   ; 1      ; 3      ; 5      ; 8      ; .125   ; 3      ; .375   ; 1; 0    ; 0      ; 0; 0 ; 0 
+11     ; Moller, Max            ; 22; 13  ; 1277   ; 0      ; 4      ; 4      ; 31     ; .000   ; 13     ; .419   ; 1; 0    ; 0      ; 0; 0 ; 7 
+29     ; Ehlers, Joao           ; 5; 0    ; 48     ; 1      ; 0      ; 2      ; 2      ; .500   ; 1      ; .500   ; 1; 0    ; 1      ; 0; 0 ; 0 
+21     ; Robertson, Hunter      ; 22; 22  ; 1894   ; 0      ; 1      ; 1      ; 13     ; .000   ; 2      ; .154   ; 0; 0    ; 0      ; 0; 0 ; 16 
+20     ; Kucharski, Konrad      ; 11; 0   ; 196    ; 0      ; 0      ; 0      ; 7      ; .000   ; 1      ; .143   ; 2; 0    ; 0      ; 0; 0 ; 0 
+7      ; Mason, Zach            ; 22; 22  ; 2033   ; 0      ; 0      ; 0      ; 6      ; .000   ; 1      ; .167   ; 0; 0    ; 0      ; 0; 0 ; 0 
+12     ; Kidwell, Tyler         ; 22; 22  ; 2056   ; 0      ; 0      ; 0      ; 4      ; .000   ; 0      ; .000   ; 2; 0    ; 0      ; 0; 0 ; 0 
+25     ; Bergstrom, Austin      ; 22; 22  ; 1921   ; 0      ; 0      ; 0      ; 3      ; .000   ; 1      ; .333   ; 0; 0    ; 0      ; 0; 0 ; 0 
+27     ; Dobey, Zach            ; 11; 0   ; 300    ; 0      ; 0      ; 0      ; 2      ; .000   ; 0      ; .000   ; 0; 0    ; 0      ; 0; 0 ; 0 
+10     ; Chancy, Henry          ; 7-;     ; 137    ; 0      ; 0      ; 0      ; 1      ; .000   ; 0      ; .000   ; 0; 0    ; 0      ; 0; 0 ; 0 
+4      ; Aguirre, Diego         ; 4-;     ; 97     ; 0      ; 0      ; 0      ; 1      ; .000   ; 0      ; .000   ; 0; 0    ; 0      ; 0; 0 ; 0 
+32     ; Ivanov, Alex           ; 22; 22  ; 2066   ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000   ; 0; 0    ; 0      ; 0; 0 ; 0 
+15     ; Crust, Matt            ; 2-;     ; 21     ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000   ; 0; 0    ; 0      ; 0; 0 ; 0 
+8      ; Ranalli, Alex          ; 4-;     ; 43     ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000   ; 0; 0    ; 0      ; 0; 0 ; 0 
+1      ; McAdams, Andrian       ; 1-;     ; 17     ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000   ; 0; 0    ; 0      ; 0; 0 ; 0
+
 
 Key: number; name; games_played; games_started; minutes; goals; assists; points; shots
-
 Season: 2012
 BlockSource: http://www.ohiostatebuckeyes.com/sports/m-soccer/stats/2012-2013/teamcume.html
+
 
 11; McAnena, Austin     ; 19; 18; 1389 ;  4 ;  3 ; 11 ; 32 ; .125  12  .375  2   0-0    50
 9 ; Hegngi, Chris       ; 19; 19; 1554 ;  3 ;  3 ;  9 ; 61 ; .049  25  .410  1   0-1     0

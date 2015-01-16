@@ -1,11 +1,39 @@
-Team: Indiana University
 Competition: NCAA Division I Men's Soccer Championship
+Team: Indiana University
+
+Season: 2014
+BlockSource: http://www.iuhoosiers.com/sports/m-soccer/stats/2014-2015/teamcume.html
+
+* ## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT
+Key: number; name; games_played; games_started; goals; assists; points; shots; etc
+
+
+10; Thompson, Tanner    ; 22; 22  ; 6  ; 3 ; 15 ; 74 ; .081 ; 28 ; .378  ; 3; 0  ; 2  ; 2; 4
+19; Doody, Patrick      ; 22; 22  ; 4  ; 5 ; 13 ; 23 ; .174 ;  7 ; .304  ; 0; 0  ; 3  ; 0; 0
+4 ; HOLLINGER-JANZEN, F ; 21; 21  ; 5  ; 2 ; 12 ; 47 ; .106 ; 22 ; .468  ; 0; 0  ; 0  ; 0; 0
+15; Vollmer, Jamie      ; 22; 22  ; 3  ; 6 ; 12 ; 36 ; .083 ; 12 ; .333  ; 2; 0  ; 1  ; 0; 0
+5 ; Lillard, Grant      ; 22; 22  ; 5  ; 1 ; 11 ; 20 ; .250 ;  8 ; .400  ; 4; 0  ; 2  ; 0; 0
+7 ; Foldesy, Matt       ; 22; 22  ; 2  ; 4 ;  8 ; 23 ; .087 ;  8 ; .348  ; 0; 0  ; 0  ; 0; 0
+9 ; Oliver, Andrew      ; 22; 21  ; 3  ; 1 ;  7 ; 47 ; .064 ; 19 ; .404  ; 1; 0  ; 1  ; 0; 0
+24; Swartz, Trevor      ; 14; 1   ; 2  ; 0 ;  4 ;  5 ; .400 ;  3 ; .600  ; 1; 0  ; 1  ; 0; 0
+16; Lax, Dylan          ; 22; 22  ; 1  ; 0 ;  2 ; 15 ; .067 ;  4 ; .267  ; 2; 0  ; 0  ; 0; 0
+17; McIntosh, Jay       ;  7; 0   ; 1  ; 0 ;  2 ;  1 ;1.000 ;  1 ;1.000  ; 1; 0  ; 1  ; 0; 0
+8 ; Riedford, Michael   ; 13; 0   ; 1  ; 0 ;  2 ;  1 ;1.000 ;  1 ;1.000  ; 0; 0  ; 1  ; 0; 0
+2 ; McConnell, Billy    ; 20; 16  ; 0  ; 2 ;  2 ;  4 ; .000 ;  2 ; .500  ; 4; 0  ; 0  ; 0; 0
+6 ; Griffith, Jack      ; 18; 0   ; 0  ; 1 ;  1 ; 12 ; .000 ;  7 ; .583  ; 0; 0  ; 0  ; 0; 0
+18; Ballard, Richard    ; 16; 1   ; 0  ; 0 ;  0 ;  9 ; .000 ;  1 ; .111  ; 0; 0  ; 0  ; 0; 0
+21; Sparks, Kyle        ; 19; 1   ; 0  ; 0 ;  0 ;  8 ; .000 ;  5 ; .625  ; 2; 0  ; 0  ; 0; 0
+27; Shaw, Brad          ; 12; 0   ; 0  ; 0 ;  0 ;  4 ; .000 ;  1 ; .250  ; 0; 0  ; 0  ; 0; 0
+3 ; Creviston, Derek    ; 22; 22  ; 0  ; 0 ;  0 ;  4 ; .000 ;  1 ; .250  ; 0; 0  ; 0  ; 0; 0
+23; Bradford, Kerel     ; 17; 5   ; 0  ; 0 ;  0 ;  2 ; .000 ;  1 ; .500  ; 2; 0  ; 0  ; 0; 0
+32; Webb, Colin         ; 22; 22  ; 0  ; 0 ;  0 ;  1 ; .000 ;  0 ; .000  ; 1; 0  ; 0  ; 0; 0
+77; 77                  ;  1; 0   ; 0  ; 0 ;  0 ;  0 ; .000 ;  0 ; .000  ; 0; 0  ; 0  ; 0; 0
+
+
 
 Season: 2012
 BlockSource: http://www.iuhoosiers.com/sports/m-soccer/stats/2012-2013/teamcume.html
-
 *## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT
-
 Key: number; name; games_played; games_started; goals; assists; points; shots; etc
 
 2 ; Zavaleta, Eriq        ; 24; 24 ; 18 ;  4 ; 40 ; 95 ; .189  44  .463   1-0   7   2-2

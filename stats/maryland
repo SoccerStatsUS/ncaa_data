@@ -1,9 +1,23 @@
-Team: University of Maryland
 Competition: NCAA Division I Men's Soccer Championship
+Team: University of Maryland
 
-BlockSource: http://www.nmnathletics.com//ViewContent.dbml?DB_OEM_ID=29700&CONTENT_ID=759390
+
+
+Season: 2014
+BlockSource: http://www.umterps.com//ViewContent.dbml?DB_OEM_ID=29700&CONTENT_ID=966761
+
+* ##      Player  GP-GS   Min     G       A       Pts     Sh      Shot%   SOG     SOG%    YC-RC   GW      PK-Att
+
+
+
+
+
+
+
 Season: 2012
-
+BlockSource: http://www.nmnathletics.com//ViewContent.dbml?DB_OEM_ID=29700&CONTENT_ID=759390
+* ##      Player  GP-GS   Min     G       A       Pts     Sh      Shot%   SOG     SOG%    YC-RC   GW      PK-Att
+Key: number; name; games_played; games_started; minutes; goals; assists; points; shots; shot_percentage; shots_on_goal; sog_percentage; yellow_cards; red_cards; game_winning; pk_goals; pk_attempts
 
 
 15 ;	Patrick Mullins		; 26; 26;	2288;	19;	8	; 46	; 109	; .174	; 53	; .486	; 1; 0	; 6	; 9; 9 

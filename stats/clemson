@@ -1,6 +1,38 @@
 Team: Clemson
 Competition: NCAA Division I Men's Soccer Championship
 
+
+Season: 2014
+* ## Player gp g a pts sh sh% sog sog% gw pk-att
+Key: number; name; games_played; goals; assists; points; shots; shot_percentage; shots_on_goal; sog_percentage; game_winning; pk_goals; pk_attempts
+BlockSource: http://www.nmnathletics.com/fls/28500/pdf/m_soccer/2014-15/combined_stats.pdf?DB_OEM_ID=28500
+
+8 ; Manolo Sanchez  ;    22; 3; 6; 12; 37; .081; 14 ; .378; 1; 0; ; 0
+10; T.J. Casner     ;   ;22; 3; 6 ;12 ;27; .111 1;0 ; .370; 0; 0 ; 0
+20; Austen Burnikel ;   ;14; 5; 0 ;10 ;15; .333 7;  ; .467; 3; 0 ; 0
+9 ; Diego Campos    ;   ;19; 3; 4 ;10 ;27; .111 1;1 ; .407; 1; 0 ; 0
+17; Thales Moreno   ;   ;22; 3; 3 ;9  ;27; .111 1;0 ; .370; 1; 0 ; 0
+6 ; Paul Clowes     ;   ;21; 2; 5 ;9  ;16; .125 6;  ; .375; 0; 0 ; 0
+4 ; Oliver Shannon  ;   ;18; 3; 2 ;8  ;22; .136 7;  ; .318; 2; 0 ; 0
+2 ; Kyle Fisher     ;   ;22; 3; 2 ;8  ;14; .214 6;  ; .429; 1; 1 ; 1
+21; Ara Amirkhanian ;   ;20; 2; 4 ;8  ;13; .154 7;  ; .538; 1; 1 ; 1
+7 ; Iman Mafi       ;   ;22; 2; 2 ;6  ;14; .143 1;1 ; .786; 1; 0 ; 0
+15; Alexandre Happi ;   ;15; 1; 4 ;6  ;13; .077 4;  ; .308; 0; 0 ; 0
+12; Saul Chinchilla ;   ;20; 1; 3 ;5  ;13; .077 4;  ; .308; 0; 0 ; 0
+19; Kyle Murphy     ;   ;19; 2; 0 ;4  ;13; .154 8;  ; .615; 1; 0 ; 0
+3 ; Bobby Belair    ;   ;19; 2; 0 ;4  ;10; .200 5;  ; .500; 0; 0 ; 0
+18; Phanuel Kavita  ;   ;22; 2; 0 ;4  ;8 ; .250 3;  ; .375; 0; 2 ; 3
+13; Michael Melvin  ;   ;13; 0; 2 ;2  ;1 ; .000 1;  ; 1.000; 0; 0 ; 0
+11; Amadou Dia      ;   ;18; 0; 1 ;1  ;7 ; .000 2;  ; .286; 0; 0 ; 0
+25; Chris Heijjer   ;   ; 2; 0; 0 ;0  ;2 ; .000 0;  ; .000; 0; 0 ; 0
+14; Grayson Raynor  ;   ; 4; 0; 0 ;0  ;1 ; .000 0;  ; .000; 0; 0 ; 0
+24; Chris Glodack   ;   ; 8; 0; 0 ;0  ;0 ; .000 0;  ; .000; 0; 0 ; 0
+23; Joseph Amon     ;   ; 7; 0; 0 ;0  ;0 ; .000 0;  ; .000; 0; 0 ; 0
+16; John Cajka      ;   ; 4; 0; 0 ;0  ;0 ; .000 0;  ; .000; 0; 0 ; 0
+5 ; Mauriq Hill     ;   ; 3; 0; 0 ;0  ;0 ; .000 0;  ; .000; 0; 0 ; 0
+1;  Michael Zierhoffer ; 1; 0; 0 ;0  ;0 ; .000 0;  ; .; 0; 0; 0; 0; 0 ; 0
+
+
 Season: 2008
 BlockSource: https://web.archive.org/web/20090827090721/http://clemsontigers.cstv.com/sports/m-soccer/stats/2008-2009/teamcume.html
 

@@ -1,11 +1,11 @@
 Team: Oregon State
 Competition: NCAA Division I Men's Soccer Championship
 
+
+
 Season: 2012
 BlockSource: http://www.nmnathletics.com//ViewContent.dbml?DB_OEM_ID=30800&CONTENT_ID=773121
-
 *## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG% GW  PK-ATT
-
 Key: number; name; games_played; games_started; goals; assists; points; shots; etc
 
 9 ; Welshman, Emery     ; 17; 17 ; 10 ;  4 ; 24 ; 45 ; .222  22  .489  4   0-1

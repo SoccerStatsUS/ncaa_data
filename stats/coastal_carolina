@@ -2,6 +2,36 @@ Team: Coastal Carolina
 Competition: NCAA Division I Men's Soccer Championship
 
 
+Season: 2014
+BlockSource: http://www.goccusports.com/sports/m-soccer/stats/2014-2015/teamcume.html
+* ##      Player  GP-GS   Min     G       A       Pts     Sh      Shot%   SOG     SOG%    GW      PK-Att  Fou
+Key: number; name; games_played; games_started; minutes; goals; assists; points; shots; shot_percentage; shots_on_goal; sog_percentage; game_winning; pk_goals; pk_attempts; fou
+
+7   ; Garbanzo, Ricky     23; 19;  1409;  8;  6;  22;  71;  .113; 29;  .408;  4;  1; 2;  0
+10  ; Camargo, Sergio     21; 10;  1150;  6;  5;  17;  52;  .115; 23;  .442;  3;  0; 0;  0
+11  ; Follensbee, Bryce   23; 12;  1228;  6;  4;  16;  40;  .150; 20;  .500;  1;  0; 0;  0
+15  ; Bjornsson, Elis     22; 13;  1175;  3;  7;  13;  20;  .150; 12;  .600;  2;  2; 2;  0
+4   ; Gudmundsson, Tommy  20; 15;  1500;  6;  0;  12;  32;  .188; 11;  .344;  1;  0; 0;  0
+18  ; Melchor, Martin     20; 1 ;  647;  5;  1;  11;  34;  .147 ; 13;  .382;  3;  0; 1;  0
+19  ; Dargent, Louis      23; 18;  1349;  4;  0;  8;  19;  .211 ; 8 ;  .421;  0;  0; 0;  0
+17  ; Arnarson, Agust     14; 2 ;  226;  3;  2;  8 ; 5  ;.600   ; 4 ;  .800;  1;  0; 0;  0
+8   ; Le Bras, Kevin      18; 4 ;  403;  1;  5;  7 ; 13 ; .077  ; 7 ;  .538;  0;  0; 0;  0
+5   ; Gueguen, Ollivier   19; 18;  1386;  3;  0;  6;  10;  .300 ; 6 ;  .600;  0;  1; 1;  0
+13  ; McLaws, Shawn       21; 21;  1870;  1;  4;  6;  13;  .077 ; 4 ;  .308;  0;  1; 1;  0
+16  ; Robinson, Ridge     23; 17;  1831;  0;  5;  5;  21;  .000 ; 9 ;  .429;  0;  0; 0;  0
+9   ; Perez, Joel         14; 7 ;  564;  1;  2;  4 ; 6  ;.167   ; 2 ;  .333;  1;  0; 0;  0
+23  ; Tyler, Jordan       23; 12;  691;  1;  0;  2 ; 29 ; .034  ; 11;  .379;  0;  0; 0;  0
+2   ; Uzo, Uchenna        23; 22;  1902;  0;  1;  1;  13;  .000 ; 4 ;  .308;  0;  0; 0;  0
+20  ; Millay, Michael     21; 12;  1210;  0;  1;  1;  4 ; .000  ; 0 ;  .000;  0;  0; 0;  0
+12  ; Helgason, Gisli     16; 8 ;  553;  0;  1;  1 ; 2  ;.000   ; 0 ;  .000;  0;  0; 0;  0
+6   ; Morin, Pierre       22; 9 ;  919;  0;  0;  0 ; 5  ;.000   ; 0 ;  .000;  0;  0; 0;  0
+21  ; Geirsson, Arnar      9; 2 ;  373;  0;  0;  0 ; 4  ;.000   ; 3 ;  .750;  0;  0; 0;  0
+14  ; Marz, Colin         10; 8 ;  680;  0;  0;  0 ; 4  ;.000   ; 2 ;  .500;  0;  0; 0;  0
+28  ; Petrus, Mark         5; 5 ;  390;  0;  0;  0 ; 0  ;.000   ; 0 ;  .000;  0;  0; 0;  0
+1   ; Cook-Perales, Devin 19; 18;  1726; 0;  0;  0;  0 ; .000   ; 0 ;   .000;  0; 0; 0;  0
+
+
+
 Season: 2010
 BlockSource: https://web.archive.org/web/20110630183638/http://www.goccusports.com/sports/m-soccer/stats/2010-2011/teamcume.html
 

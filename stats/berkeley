@@ -2,6 +2,35 @@ Team: UC Berkeley
 Competition: NCAA Division I Men's Soccer Championship
 
 
+Season: 2014
+BlockSource: http://www.calbears.com//ViewContent.dbml?DB_OEM_ID=30100&CONTENT_ID=964158
+Key: number; name; games_played; games_started; goals; assists; points; shot_percentage; shots_on_goal; sog_percentage; yellow_cards; red_cards; game_winning; pk_goals; pk_attempts
+
+
+22          ; Connor Hallisey      ; 19; 19;  9    ; 12     ; 30     ; 52     ; .173   ; 28     ; .538   ; 1; 0    ; 3      ; 0; 0 
+25          ; Stefano Bonomo       ; 17; 15 ; 12   ; 5      ; 29     ; 41     ; .293   ; 26     ; .634   ; 5; 0    ; 1      ; 0; 0 
+6           ; Christian Thierjung  ; 19; 15 ; 7    ; 2      ; 16     ; 31     ; .226   ; 19     ; .613   ; 2; 0    ; 3      ; 0; 0 
+8           ; Paul Salcedo         ; 16; 3  ; 4    ; 4      ; 12     ; 23     ; .174   ; 13     ; .565   ; 3; 0    ; 2      ; 0; 0 
+9           ; Max Oldham           ; 19; 17 ; 2    ; 7      ; 11     ; 17     ; .118   ; 8      ; .471   ; 1; 0    ; 0      ; 0; 0 
+2           ; Nick Lima            ; 19; 19 ; 0    ; 4      ; 4      ; 17     ; .000   ; 7      ; .412   ; 1; 0    ; 0      ; 0; 0 
+10          ; Seth Casiple         ; 19; 19 ; 1    ; 7      ; 9      ; 17     ; .059   ; 5      ; .294   ; 2; 0    ; 0      ; 1; 1 
+23          ; Jose Carrera-Garcia  ; 19; 18 ; 2    ; 5      ; 9      ; 16     ; .125   ; 9      ; .562   ; 1; 0    ; 1      ; 0; 0 
+3           ; Omid Jalali          ; 15; 2  ; 4    ; 1      ; 9      ; 14     ; .286   ; 5      ; .357   ; 1; 0    ; 0      ; 0; 0 
+4           ; Matt Chasman         ; 17; 0  ; 2    ; 1      ; 5      ; 9      ; .222   ; 5      ; .556   ; 0; 0    ; 0      ; 0; 1 
+7           ; Trevor Haberkorn     ; 19; 19 ; 1    ; 1      ; 3      ; 9      ; .111   ; 3      ; .333   ; 3; 0    ; 0      ; 0; 0 
+14          ; Bobby Sekine         ; 15; 7  ; 2    ; 0      ; 4      ; 6      ; .333   ; 4      ; .667   ; 2; 0    ; 1      ; 0; 0 
+20          ; Vasquez, Eloi        ; 12; 0  ; 0    ; 3      ; 3      ; 5      ; .000   ; 2      ; .400   ; 0; 0    ; 0      ; 0; 0 
+21          ; Joshua Morton        ; 14; 14 ; 0    ; 1      ; 1      ; 5      ; .000   ; 1      ; .200   ; 1; 0    ; 0      ; 0; 0 
+19          ; Aravind Sivakumar    ; 15; 0  ; 1    ; 0      ; 2      ; 3      ; .333   ; 1      ; .333   ; 0; 0    ; 0      ; 0; 0 
+15          ; Mason Case           ; 11; 0  ; 0    ; 0      ; 0      ; 2      ; .000   ; 2      ; 1.000  ; 0; 0    ; 0      ; 0; 0 
+5           ; Dylan Serrano        ; 19; 19 ; 0    ; 2      ; 2      ; 1      ; .000   ; 1      ; 1.000  ; 1; 0    ; 0      ; 0; 0 
+26          ; Ugo Rebecchini       ; 5; 4  ;  0   ;  0     ;  0     ;  1     ;  .000  ;  0     ;  .000  ;  0; 0    ; 0      ; 0; 0 
+1           ; Justin Taillole      ; 14; 14 ; 0    ; 0      ; 0      ; 0      ; .000   ; 0      ; .000   ; 0; 0    ; 0      ; 0; 0 
+18          ; Long, Trevor         ; 4; 0  ;  0   ;  0     ;  0     ;  0     ;  .000  ;  0     ;  .000  ;  0; 0    ; 0      ; 0; 0 
+24          ; Alex Mangels         ; 7; 4  ;  0   ;  0     ;  0     ;  0     ;  .000  ;  0     ;  .000  ;  0; 0    ; 0      ; 0; 0
+
+
+
 Season: 2012
 BlockSource: http://www.nmnathletics.com//ViewContent.dbml?DB_OEM_ID=30100&CONTENT_ID=767227
 

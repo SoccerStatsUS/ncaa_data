@@ -1,5 +1,43 @@
-Team: UC Irvine
 Competition: NCAA Division I Men's Soccer Championship
+Team: UC Irvine
+
+
+Season: 2014
+BlockSource: http://ucirvinesports.com/sports/m-soccer/2014-15/teams/ucirvine?view=lineup
+* NO.   NAME    YR      POS     GP      GS      G       A       PTS     SH      SH%     SOG     SOG%    YC      RC      PK GW
+Key: number; name; _; year; position; games_played; games_started; goals; assists; points; shots; shot_percentage; shots_on_goal; sog_percentage; yellow_cards; red_cards; pk_goals; pk_assists; game_winning
+
+1; Michael Breslin; ; Jr; GK; 25; 25; 0; 1; 1; 0; -; 0; -; 1; 0; 0; 0; 0
+2; Andy Mendoza; ; So; ; 19; 1; 0; 0; 0; 6; 0; 2; 0.333; 1; 0; 0; 0; 0
+3; Adam Fox; ; Fr; D; -; -; -; -; 0; -; -; -; -; -; -; 0; 0; 0
+4; Matt Tilley; ; So; D; 17; 14; 2; 0; 4; 4; 0.5; 2; 0.5; 4; 0; 0; 0; 1
+5; Corey Schramm; ; Fr; ; -; -; -; -; 0; -; -; -; -; -; -; 0; 0; 0
+6; Renato Torquato; ; So; F; 6; -; 1; 0; 2; 2; 0.5; 1; 0.5; 0; 0; 0; 0; 0
+7; Gerardo Gonzalez; ; Jr; ; 25; 7; 1; 5; 7; 18; 0.056; 4; 0.222; 4; 0; 0; 0; 1
+8; Mats Bjurman; ; Jr; ; 25; 25; 2; 5; 9; 23; 0.087; 10; 0.435; 1; 0; 0; 0; 1
+9; Mitchell Alvarez; ; Sr; ; 24; 15; 0; 1; 1; 8; 0; 1; 0.125; 0; 0; 0; 0; 0
+10; Gor Kirakosyan; ; Sr; ; 23; 14; 5; 6; 16; 39; 0.128; 18; 0.462; 2; 0; 2; 2; 2
+11; Cameron Iwasa; ; Sr; F; 25; 25; 6; 6; 18; 81; 0.074; 34; 0.42; 2; 0; 0; 0; 1
+12; Felipe Silva; ; Fr; F; -; -; -; -; 0; -; -; -; -; -; -; 0; 0; -
+13; Tony Royer; ; Fr; ; -; -; -; -; 0; -; -; -; -; -; -; 0; 0; -
+14; Edgardo Molina; ; So; F; 1; -; 0; 0; 0; 0; -; 0; -; 0; 0; 0; 0; 0
+15; Thomas Janjigian; ; So; D; 12; 12; 0; 3; 3; 5; 0; 1; 0.2; 0; 0; 0; 0; 0
+16; Bryan Breslin; ; Sr; D; 20; 20; 1; 1; 3; 18; 0.056; 6; 0.333; 2; 0; 0; 0; 1
+17; Lester Hayes iii; ; Sr; F; 19; 3; 1; 1; 3; 23; 0.043; 10; 0.435; 0; 0; 0; 0; 0
+18; Elliot Farmer; ; So; GK; -; -; -; -; 0; -; -; -; -; -; -; 0; 0; -
+19; Randall McDermott; ; So; D; -; -; -; -; 0; -; -; -; -; -; -; 0; 0; -
+20; Pavle Atanackovic; ; So; F; -; -; -; -; 0; -; -; -; -; -; -; 0; 0; -
+21; Noah Gaines; ; Jr; D; 23; 17; 1; 2; 4; 7; 0.143; 4; 0.571; 4; 0; 0; 0; 0
+22; Thom Moreira; ; Jr; F; -; -; -; -; 0; -; -; -; -; -; -; 0; 0; -
+23; Dennis Martinez; ; Sr; ; 25; 20; 6; 1; 13; 37; 0.162; 22; 0.595; 0; 0; 0; 0; 3
+25; Eduardo Calzada; ; Jr; ; 24; 24; 7; 4; 18; 41; 0.171; 22; 0.537; 0; 0; 1; 1; 3
+27; Jack Birkenbeuel; ; So; ; 22; 22; 0; 0; 0; 3; 0; 0; 0; 4; 0; 0; 0; 0
+28; Mario Ortiz; ; So; ; 21; 6; 3; 0; 6; 18; 0.167; 6; 0.333; 3; 0; 0; 0; 2
+29; Daniel Coates; ; Jr; D; 2; 1; 0; 0; 0; 0; -; 0; -; 0; 0; 0; 0; 0
+30; Ignacio Ramirez; ; Fr; D; -; -; -; -; 0; -; -; -; -; -; -; 0; 0; -
+31; Leo Harada; ; So; F; -; -; -; -; 0; -; -; -; -; -; -; 0; 0; -
+32; Michael Sperber; ; So; ; 24; 24; 1; 1; 3; 10; 0.1; 4; 0.4; 7; 0; 0; 0; 
+
 
 Season: 2012
 BlockSource: http://www.ucirvinesports.com/sports/m-soccer/2012-13/files/mseasonstats12.pdf

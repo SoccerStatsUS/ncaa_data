@@ -1,7 +1,5 @@
-Team: Chico State
-
 Competition: NCAA Division II Men's Soccer Championship
-
+Team: Chico State
 
 Season: 2000
 BlockSource: http://www.csuchico.edu/athletics/msc/stats00/teamcume.htm
@@ -387,3 +385,34 @@ BlockSource: http://www.csuchico.edu/athletics/msc/stats12/teamcume.htm
 Season: 2013
 BlockSource: http://www.csuchico.edu/athletics/msc/stats13/teamcume.htm
 
+
+
+Season: 2014
+BlockSource: http://www.csuchico.edu/athletics/msc/stats14/teamcume.htm
+Key: number; name; gmaes_played; games_started; minutes; goals; assists; points; shots; shot_percentage; shots_on_goal; sog_percentage; yellow_cards; red_cards; game_winning_goals; pk_goals; pk_attempts; fg; ot; hat; gtg
+* ##      Player  gp-gs   min     g               a               pts             sh      sh%     sog     sog%              yc rc gwg pk-att fg ot hat gtg
+
+2; Kenny Rosecrance; 8; 5; 391; 0; ; 0; ; 0; ; 0; 0; 0; 0; 1; 0; 0; 0; 0; 0; 0; 0; 0
+3; J.P. Medina; 8; 4; 470; 0; ; 0; ; 0; ; 5; 0; 2; 0.4; 0; 0; 0; 0; 0; 0; 0; 0; 0
+4; J.C. Coleman; 2; 0; 38; 0; ; 0; ; 0; ; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0
+5; Patrick Lee; 12; 8; 444; 0; ; 4; ; 4; ; 7; 0; 3; 0.429; 2; 0; 0; 0; 0; 0; 0; 0; 0
+6; Russell Ellyson; 17; 17; 1344; 0; ; 0; ; 0; ; 9; 0; 2; 0.222; 2; 0; 0; 0; 0; 0; 0; 0; 0
+7; Joachim Gasmi; 14; 12; 573; 2; ; 0; ; 4; ; 13; 0.154; 4; 0.308; 1; 0; 0; 1; 1; 0; 0; 0; 1
+8; Dylan Wakefield; 11; 0; 267; 0; ; 0; ; 0; ; 5; 0; 2; 0.4; ; ; ; 1; 0; 0; 0; 0; 0; 0; 0; 0
+9; Octavio Murillo; 8; 1; 212; 0; ; 0; ; 0; ; 4; 0; 1; 0.25; 0; 0; 0; 0; 0; 0; 0; 0; 0
+10; Akwafei Ajeakwa; 16; 15; 1104; 3; ; 1; ; 7; ; 32; 0.094; 14; 0.438; 4; 0; 2; 0; 1; 3; 0; 0; 0
+11; Nick Radosavljevic; 15; 0; 394; 0; ; 0; ; 0; ; 2; 0; 0; 0; 1; 0; 0; 0; 1; 0; 0; 0; 0
+12; Carter Johnson; 17; 3; 846; 4; ; 0; ; 8; ; 16; 0.25; 5; 0.313; 2; 0; 1; 0; 0; 1; 0; 0; 1
+13; Sean Bowker; 15; 3; 598; 0; ; 1; ; 1; ; 4; 0; 2; 0.5; 0; 0; 0; 0; 0; 0; 0; 0; 0
+14; Justin Saul; 17; 14; 1066; 1; ; 5; ; 7; ; 27; 0.037; 6; 0.222; 4; 0; 1; 0; 0; 0; 0; 0; 0
+15; Justin Walmsley; 14; 14; 1218; 3; ; 0; ; 6; ; 4; 0.75; 4; 1; 2; 0; 0; 0; 0; 1; 0; 0; 0
+16; Frankie Palmer; 15; 3; 654; 0; ; 0; ; 0; ; 7; 0; 2; 0.286; 0; 0; 0; 0; 0; 0; 0; 0; 0
+17; Sasha Peranteau; 11; 9; 772; 0; ; 0; ; 0; ; 6; 0; 2; 0.333; 2; 0; 0; 0; 0; 0; 0; 0; 0
+18; Isaiah Dargan; 14; 11; 961; 0; ; 1; ; 1; ; 0; 0; 0; 0; 1; 0; 0; 0; 0; 0; 0; 0; 0
+19; Malcom Ekeruche; 7; 4; 236; 0; ; 0; ; 0; ; 2; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0
+20; Michael Janjigian; 17; 17; 1464; 1; ; 0; ; 2; ; 6; 0.167; 3; 0.5; 1; 0; 1; 0; 0; 1; 0; 0; 0
+21; Hector Cibrian; 2; 0; 52; 0; ; 0; ; 0; ; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0
+22; Sean Gallagher; 17; 12; 1282; 0; ; 1; ; 1; ; 2; 0; 1; 0.5; 4; 0; 0; 0; 0; 0; 0; 0; 0
+23; Matt Hurlow; 17; 16; 1056; 6; ; 2; ; 14; ; 45; 0.133; 19; 0.422; 4; 0; 3; 1; 1; 1; 1; 0; 1
+26; Jeff Pereira; 11; 2; 285; 0; ; 0; ; 0; ; 10; 0; 2; 0.2; 0; 0; 0; 0; 0; 0; 0; 0; 0
+27; Matthew Tarr; 10; 0; 323; 0; ; 0; ; 0; ; 0; 0; 0; 0; 1; 0; 0; 0; 0; 0; 0; 0; 0

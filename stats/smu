@@ -1,31 +1,64 @@
+Competition: NCAA Division I Men's Soccer Championship
 Team: SMU
+
+
+Season: 2014
+BlockSource: http://grfx.cstv.com/photos/schools/smu/sports/m-soccer/auto_pdf/2014-15/stats/season_stats.pdf
+* ## Player gp g a pts sh sh% sog sog% gw pk-att
+Key: number; name; games_played; goals; assists; points; shots; shot_percentage; shots_on_goal; sog_percentge; game_winning; pk_goals; pk_attempts
+
+11; CAMARA, Idrissa    ; 18; 7; 1; 15; 43; .163; 27;  .628; 3; 0; 0
+7 ; ROSALES, Damian    ; 15; 6; 2; 14; 24; .250; 11;  .458; 0; 0; 0
+3 ; LUJANO, John       ; 18; 4; 2; 10; 10; .400; 6 ;  .600; 1; 4; 4
+21; GARCIA, Stanton    ; 18; 3; 3; 9 ;18 ; .167; 9 ;  .500; 0; 0; 0
+22; CLARK, Bryce       ; 18; 2; 5; 9 ;17 ; .118; 9 ;  .529; 1; 0; 0
+28; CICHERO, Mauro     ; 17; 2; 4; 8 ;46 ; .043; 16;  .348; 2; 0; 0
+6 ; RICE, Jared        ; 18; 0; 8; 8 ;3  ; .000; 2 ;  .667; 0; 0; 0
+10; MORALES, Andrew    ; 17; 2; 2; 6 ;18 ; .111; 8 ;  .444; 0; 1; 1
+25; JOSEPH, Benjamin   ; 17; 2; 0; 4 ;12 ; .167; 7 ;  .583; 1; 0; 0
+30; JEFFRIES, Anthony  ; 18; 2; 0; 4 ;6  ; .333; 3 ;  .500; 0; 0; 0
+4 ; SMITH, Will        ;  7; 2; 0; 4 ;4  ; .500; 3 ;  .750; 0; 0; 0
+27; YASSINE, Abdul     ; 18; 1; 2; 4 ;15 ; .067; 7 ;  .467; 1; 0; 0
+15; HABECKER, Colten   ; 18; 1; 1; 3 ;11 ; .091; 6 ;  .545; 1; 0; 0
+2 ; CANO, Jordan       ; 17; 1; 0; 2 ;8  ; .125; 3 ;  .375; 0; 0; 0
+20; MCQUAID, Danny     ;  2; 0; 1; 1 ;1  ; .000; 0 ;  .000; 0; 0; 0
+16; WELCH, Garrett     ; 17; 0; 0; 0 ;3  ; .000; 0 ;  .000; 0; 0; 0
+8 ; CARRIZALES, Marco  ;  7; 0; 0; 0 ;2  ; .000; 1 ;  .500; 0; 0; 0
+24; SPEED, Jacob       ;  7; 0; 0; 0 ;0  ; .000; 0 ;  .000; 0; 0; 0
+18; ARANDA, Edu        ;  4; 0; 0; 0 ;0  ; .000; 0 ;  .000; 0; 0; 0
+17; LEE, Brenden       ;  3; 0; 0; 0 ;0  ; .000; 0 ;  .000; 0; 0; 0
+13; RUIZ, Nick         ;  1; 0; 0; 0 ;0  ; .000; 0 ;  .000; 0; 0; 0
+12; PETRUCELLI, Nicholas; 1; 0; 0; 0 ;0  ; .000; 0 ;  .000; 0; 0; 0
+1 ; NELSON, Michael    ; 18; 0; 0; 0 ;0  ; .000; 0 ;  .000; 0; 0; 0
+
 
 Season: 2012
 BlockSource: http://grfx.cstv.com/photos/schools/smu/sports/m-soccer/auto_pdf/2012-13/stats/season_stats.pdf
+* ## Player gp g a pts sh sh% sog sog% gw pk-att
+Key: number; name; games_played; goals; assists; points; shots; shot_percentage; shots_on_goal; sog_percentge; game_winning; pk_goals; pk_attempts
 
-## Player gp g a pts sh sh% sog sog% gw pk-att
-10 ENGEL, Tyler 18 8 7 23 33 . 2 4 2 15 . 4 5 5 5 2 - 3
-8 MORALES, Andrew 19 4 4 12 32 . 1 2 5 12 . 3 7 5 1 2 - 2
-12 HILL, Ben 20 3 2 8 27 . 1 1 1 12 . 4 4 4 1 0 - 0
-11 PUSKARICH, Eddie 16 3 1 7 22 . 1 3 6 8 . 3 6 4 0 0 - 0
-16 CASTILLO, Juan 12 2 3 7 24 . 0 8 3 8 . 3 3 3 0 0 - 0
-24 VAZQUEZ, Leobardo 16 2 1 5 7 . 2 8 6 2 . 2 8 6 1 0 - 0
-2 LEE, Brenden 20 1 1 3 11 . 0 9 1 1 . 0 9 1 1 0 - 0
-7 ROSALES, Damian 18 0 3 3 8 . 0 0 0 3 . 3 7 5 0 0 - 0
-14 SIMMONS, Aaron 20 1 0 2 8 . 1 2 5 3 . 3 7 5 1 0 - 0
-27 GANDARILLA, Jacob 8 1 0 2 1 1.000 1 1.000 0 0 - 0
-21 SCHRICK, Derek 16 0 2 2 13 . 0 0 0 3 . 2 3 1 0 0 - 0
-4 SMITH, Will 19 0 1 1 11 . 0 0 0 4 . 3 6 4 0 0 - 0
-3 LUJANO, John 20 0 1 1 8 . 0 0 0 2 . 2 5 0 0 0 - 0
-15 ROSENBAUM, Ryan 9 0 1 1 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-23 NELSON, TJ 19 0 0 0 15 . 0 0 0 6 . 4 0 0 0 0 - 0
-6 PONCE, Amaury 15 0 0 0 5 . 0 0 0 3 . 6 0 0 0 0 - 0
-20 ROCKWELL, Max 18 0 0 0 4 . 0 0 0 0 . 0 0 0 0 0 - 0
-5 KING, Michael 19 0 0 0 4 . 0 0 0 3 . 7 5 0 0 0 - 0
-22 SENDEJAS, Chris 10 0 0 0 1 . 0 0 0 0 . 0 0 0 0 0 - 0
-18 ARANDA, Edu 9 0 0 0 1 . 0 0 0 0 . 0 0 0 0 0 - 0
-26 SCHAUDER, Dylan 1 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-13 IBARRA, Jaime 20 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
+10; ENGEL, Tyler     ; 18; 8; 7; 23; 33; .242; 15; .455; 5; 2 ; 3
+8 ; MORALES, Andrew  ; 19; 4; 4; 12; 32; .125; 12; .375; 1; 2 ; 2
+12; HILL, Ben        ; 20; 3; 2; 8 ; 27; .111; 12; .444; 1; 0 ; 0
+11; PUSKARICH, Eddie ; 16; 3; 1; 7 ; 22; .136; 8 ;.    ;0 ; 0 ; 0
+16; CASTILLO, Juan   ; 12; 2; 3; 7 ; 24; .083; 8 ;.    ;0 ; 0 ; 0
+24; VAZQUEZ, Leobardo; 16; 2; 1; 5 ; 7 ; .286; 2 ;.    ;1 ; 0 ; 0
+2 ; LEE, Brenden     ; 20; 1; 1; 3 ; 11; .091; 1 ;.    ;1 ; 0 ; 0
+7 ; ROSALES, Damian  ; 18; 0; 3; 3 ; 8 ; .000; 3 ;.    ;0 ; 0 ; 0
+14; SIMMONS, Aaron   ; 20; 1; 0; 2 ; 8 ; .125; 3 ;.    ;1 ; 0 ; 0
+27; GANDARILLA, Jacob;  8; 1; 0; 2 ; 1 ; 1.000; 1; 1.000; ; 0 ;  0
+21; SCHRICK, Derek   ; 16; 0; 2; 2 ; 13; .000; 3 ;.    ;0 ; 0 ; 0
+4 ; SMITH, Will      ; 19; 0; 1; 1 ; 11; .000; 4 ;.    ;0 ; 0 ; 0
+3 ; LUJANO, John     ; 20; 0; 1; 1 ; 8 ; .000; 2 ;.    ;0 ; 0 ; 0
+15; ROSENBAUM, Ryan  ;  9; 0; 1; 1 ; 0 ; .000; 0 ;.    ;0 ; 0 ; 0
+23; NELSON, TJ       ; 19; 0; 0; 0 ; 15; .000; 6 ;.    ;0 ; 0 ; 0
+6 ; PONCE, Amaury    ; 15; 0; 0; 0 ; 5 ; .000; 3 ;.    ;0 ; 0 ; 0
+20; ROCKWELL, Max    ; 18; 0; 0; 0 ; 4 ; .000; 0 ;.    ;0 ; 0 ; 0
+5 ; KING, Michael    ; 19; 0; 0; 0 ; 4 ; .000; 3 ;.    ;0 ; 0 ; 0
+22; SENDEJAS, Chris  ; 10; 0; 0; 0 ; 1 ; .000; 0 ;.    ;0 ; 0 ; 0
+18; ARANDA, Edu      ;  9; 0; 0; 0 ; 1 ; .000; 0 ;.    ;0 ; 0 ; 0
+26; SCHAUDER, Dylan  ;  1; 0; 0; 0 ; 0 ; .000; 0 ;.    ;0 ; 0 ; 0
+13; IBARRA, Jaime    ; 20; 0; 0; 0 ; 0 ; .000; 0 ;.    ;0 ; 0 ; 0
 
 
 Season: 2007
