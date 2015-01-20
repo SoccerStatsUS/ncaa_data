@@ -2,29 +2,62 @@ Team: University of Tulsa
 Competition: NCAA Division I Men's Soccer Championship
 
 
+
+Season: 2014
+BlockSource: http://www.tulsahurricane.com/sports/m-soccer/stats/2014-2015/teamcume.html#TEAM.CMB
+
+*##           Player     GP-GS   G       A       Pts     Sh      Shot%   SOG     SOG%    YC-RC   GW      PK-Att  Foul 
+Key: number; name; games_played; games_started; goals; assists; points; shots; shot_percentage; shots_on_goal; sog_percentage; yellow_cards; red_cards; game_winning; pk_goals; pk_attempts; fouls
+
+4           ; Barrett, Akeil            ; 13; 12  ; 6   ;    2  ;     14 ;     39  ;    .154 ;   22 ;     .564 ;   2; 0  ;   3  ;  2; 2;  0 
+25          ; Saari, Ray                ; 19; 17  ; 6   ;    2  ;     14 ;     33  ;    .182 ;   20 ;     .606 ;   3; 0  ;   2  ;  0; 0;  0 
+12          ; Drackett, Cameron         ; 18; 12  ; 4   ;    3  ;     11 ;     18  ;    .222 ;   10 ;     .556 ;   1; 0  ;   1  ;  0; 0;  0 
+8           ; Neil, Austin              ; 19; 10  ; 3   ;    5  ;     11 ;     40  ;    .075 ;   24 ;     .600 ;   1; 0  ;   0  ;  0; 0;  0 
+13          ; Matamoros, Abe            ; 20; 19  ; 2   ;    2  ;     6  ;     14  ;    .143 ;   8  ;     .571 ;   1; 0  ;   1  ;  0; 0;  0 
+21          ; KNOWLES-RAMIREZ, B.       ; 19; 13  ; 1   ;    3  ;     5  ;     12  ;    .083 ;   2  ;     .167 ;   0; 0  ;   0  ;  0; 0;  0 
+22          ; Bourgeois, Bradley        ; 20; 20  ; 2   ;    0  ;     4  ;     8   ;    .250 ;   4  ;     .500 ;   2; 0  ;   1  ;  0; 0;  0 
+9           ; Sigue, Aymar              ; 19; 14  ; 1   ;    2  ;     4  ;     35  ;    .029 ;   13 ;     .371 ;   1; 0  ;   1  ;  1; 1;  0 
+10          ; Rocha, Tony               ; 20; 18  ; 1   ;    1  ;     3  ;     28  ;    .036 ;   12 ;     .429 ;   4; 0  ;   0  ;  0; 0;  0 
+6           ; Dee, Geoffrey             ; 20; 20  ; 1   ;    1  ;     3  ;     16  ;    .062 ;   4  ;     .250 ;   3; 0  ;   1  ;  0; 0;  0 
+7           ; Starker, Quinn            ; 20; 14  ; 1   ;    1  ;     3  ;     8   ;    .125 ;   4  ;     .500 ;   1; 0  ;   1  ;  0; 0;  0 
+16          ; Duit, Kay                 ; 11; 4   ; 1   ;    1  ;     3  ;     6   ;    .167 ;   3  ;     .500 ;   0; 0  ;   0  ;  0; 0;  0 
+15          ; Rocha, Rollie             ; 15; 6   ; 0   ;    1  ;     1  ;     6   ;    .000 ;   3  ;     .500 ;   3; 0  ;   0  ;  0; 0;  0 
+23          ; Stavrou, Zack             ; 10; 4   ; 0   ;    1  ;     1  ;     0   ;    .000 ;   0  ;     .000 ;   0; 0  ;   0  ;  0; 0;  0 
+5           ; Speed, Jordan             ;  3; 0   ; 0   ;    1  ;     1  ;     0   ;    .000 ;   0  ;     .000 ;   0; 0  ;   0  ;  0; 0;  0 
+17          ; Jackson, Zach             ; 17; 3   ; 0   ;    0  ;     0  ;     3   ;    .000 ;   0  ;     .000 ;   0; 0  ;   0  ;  0; 0;  0 
+11          ; Samaroo, Garvin           ;  6; 0   ; 0   ;    0  ;     0  ;     3   ;    .000 ;   2  ;     .667 ;   0; 0  ;   0  ;  0; 0;  0 
+2           ; Duncan, Quinton           ; 19; 14  ; 0   ;    0  ;     0  ;     2   ;    .000 ;   0  ;     .000 ;   0; 0  ;   0  ;  0; 0;  0 
+28          ; Camera, Christian         ;  1; 0   ; 0   ;    0  ;     0  ;     0   ;    .000 ;   0  ;     .000 ;   0; 0  ;   0  ;  0; 0;  0 
+26          ; Daledovich, Kyle          ;  1; 0   ; 0   ;    0  ;     0  ;     0   ;    .000 ;   0  ;     .000 ;   0; 0  ;   0  ;  0; 0;  0 
+18          ; Mitrik, Michael           ;  9; 0   ; 0   ;    0  ;     0  ;     0   ;    .000 ;   0  ;     .000 ;   1; 0  ;   0  ;  0; 0;  0
+
+
+
 Season: 2013
 BlockSource: http://www.tulsahurricane.com/sports/m-soccer/stats/2013-2014/teamcume.html
 
-##           Player     GP-GS   G       A       Pts     Sh      Shot%   SOG     SOG%    YC-RC   GW      PK-Att 
-14           Mata, Cristian     20-19   10      7       27      89       .112   40       .449   2-0     3      0-0 
-4            Barrett, Akeil     20-18   7       8       22      44        .159  27        .614  2-0     1      1-1 
-10           Rocha, Tony        20-19   4       0       8       37         .108           15     .405   3-0    1   0-0 
-9            Mata, Omar         20-20   4       3       11      30          .133          11      .367  1-0    1   1-1 
-6            Follensbee, Bryce          20-8    3       1       7           28             .107   11     .393  0-0     1  0-0 
-11           Cumings, Kyle              20-17   4       3       11          19              .211  13      .684         1-0    2  0-0 
-21           KNOWLES-RAMIREZ, B.        19-19   0       4       4           15               .000         3             .200  1-0    0  0-0 
-13           Matamoros, Abe   20-14     2       1       5       14           .143            7             .500         0-0   1      0-0 
-16           Saari, Ray       15-4      0       2       2       10            .000           6              .600        2-0   0      0-0 
-22           Bourgeois, Bradley         19-19   0       0       0             6               .000          4            .667        5-0  0  0-0 
-2            Duncan, Quinton            20-15   2       0       4             6                .333         3             .500       5-0  1  0-0 
-12           Drackett, Cameron          18-4    0       0       0             6                 .000        3              .500      0-0  0  0-0 
-7            Starker, Quinn             14-11   0       0       0             6                  .000       2               .333     0-0  0  0-0 
-8            Neil, Austin                4-0    0       0       0             3                   .000      1                .333    0-0  0  0-0 
-18           Alexander, Dillon           19-9   0       0       0             1                    .000     0                 .000   0-0  0  0-0 
-1            McGuire, Jake               13-12  0       0       0             0                     .000    0                  .000  0-0  0  0-0 
-0            Mumma, Cody                  8-8   0       0       0             0                      .000   0                   .000      0-0    0  0-0 
-15           Salkicic, Tarik               9-4          0       0             0                      0       .000               0          .000  0-0    0  0-0 
-28           Camera, Christian              5-0         0       0             0                      0        .000              0           .000        0-0    0  0-0 
+*##           Player     GP-GS   G       A       Pts     Sh      Shot%   SOG     SOG%    YC-RC   GW      PK-Att 
+Key: number; name; games_played; games_started; goals; assists; points; shots; shot_percentage; shots_on_goal; sog_percentage; yellow_cards; red_cards; game_winning; pk_goals; pk_attempts
+
+14          ; Mata, Cristian            ; 20; 19 ;  10 ;     7   ;    27    ;  89  ;     .112;  40  ;   .449;  2; 0;  3;  0; 0 
+4           ; Barrett, Akeil            ; 20; 18 ;  7  ;     8   ;    22    ;  44  ;     .159;  27  ;   .614;  2; 0;  1;  1; 1 
+10          ; Rocha, Tony               ; 20; 19 ;  4  ;     0   ;    8     ;  37  ;     .108;  15  ;   .405;  3; 0;  1;  0; 0 
+9           ; Mata, Omar                ; 20; 20 ;  4  ;     3   ;    11    ;  30  ;     .133;  11  ;   .367;  1; 0;  1;  1; 1 
+6           ; Follensbee, Bryce         ; 20; 8  ;  3  ;     1   ;    7     ;  28  ;     .107;  11  ;   .393;  0; 0;  1;  0; 0 
+11          ; Cumings, Kyle             ; 20; 17 ;  4  ;     3   ;    11    ;  19  ;     .211;  13  ;   .684;  1; 0;  2;  0; 0 
+21          ; KNOWLES-RAMIREZ, B.       ; 19; 19 ;  0  ;     4   ;    4     ;  15  ;     .000;  3   ;   .200;  1; 0;  0;  0; 0 
+13          ; Matamoros, Abe            ; 20; 14 ;  2  ;     1   ;    5     ;  14  ;     .143;  7   ;   .500;  0; 0;  1;  0; 0 
+16          ; Saari, Ray                ; 15; 4  ;  0  ;     2   ;    2     ;  10  ;     .000;  6   ;   .600;  2; 0;  0;  0; 0 
+22          ; Bourgeois, Bradley        ; 19; 19 ;  0  ;     0   ;    0     ;  6   ;     .000;  4   ;   .667;  5; 0;  0;  0; 0 
+2           ; Duncan, Quinton           ; 20; 15 ;  2  ;     0   ;    4     ;  6   ;     .333;  3   ;   .500;  5; 0;  1;  0; 0 
+12          ; Drackett, Cameron         ; 18; 4  ;  0  ;     0   ;    0     ;  6   ;     .000;  3   ;   .500;  0; 0;  0;  0; 0 
+7           ; Starker, Quinn            ; 14; 11 ;  0  ;     0   ;    0     ;  6   ;     .000;  2   ;   .333;  0; 0;  0;  0; 0 
+8           ; Neil, Austin              ;  4; 0  ;  0  ;     0   ;    0     ;  3   ;     .000;  1   ;   .333;  0; 0;  0;  0; 0 
+18          ; Alexander, Dillon         ; 19; 9  ;  0  ;     0   ;    0     ;  1   ;     .000;  0   ;   .000;  0; 0;  0;  0; 0 
+1           ; McGuire, Jake             ; 13; 12 ;  0  ;     0   ;    0     ;  0   ;     .000;  0   ;   .000;  0; 0;  0;  0; 0 
+0           ; Mumma, Cody               ;  8; 8  ;  0  ;     0   ;    0     ;  0   ;     .000;  0   ;   .000;  0; 0;  0;  0; 0 
+15          ; Salkicic, Tarik           ;  9; 4  ;  0  ;     0   ;    0     ;  0   ;     .000;  0   ;   .000;  0; 0;  0;  0; 0 
+28          ; Camera, Christian         ;  5; 0  ;  0  ;     0   ;    0     ;  0   ;     .000;  0   ;   .000;  0; 0;  0;  0; 0 
 
 
 Season: 2012

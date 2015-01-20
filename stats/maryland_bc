@@ -1,0 +1,36 @@
+Team: University of Maryland Baltimore County
+Competition: NCAA Division I Men's Soccer Championship
+
+Season: 2014
+BlockSource: http://www.umbcretrievers.com/sports/msoc/2014-15/teams/umbc?view=lineup
+
+* NO.; NAME; ; YR; POS; GP; GS; G; A; PTS; SH; SH%; SOG; SOG%; YC; RC; PK; GW
+Key: number; name; _; year; position; games_played; games_started; goals; assists; points; shots; shot_percentage; shots_on_goa; sog_percentage; yellow_cards; red_cards; pk_goals; pk_attempts; game_winning
+
+0; Phil Breno; ; Fr; G; 9; 9; 0; 0; 0; 0; -; 0; -; 0; 0; 0; 0; 0
+0; Todd Morton; ; Fr; G; -; -; -; -; 0; -; -; -; -; -; -; 0; 0; -
+1; Billy Heavner; ; So; G; 17; 16; 0; 0; 0; 0; -; 0; -; 0; 0; 0; 0; 0
+2; Josh Lemaster; ; Jr; M; 3; 1; 0; 0; 0; 4; 0; 0; 0; 0; 0; 0; 0; 0
+3; Michael Dicesare; ; Sr; M; 15; -; 3; 0; 6; 7; 0.429; 5; 0.714; 0; 0; 0; 0; 1
+4; Tom Paul; ; Fr; B; 9; 3; 0; 0; 0; 1; 0; 0; 0; 0; 0; 0; 0; 0
+5; Marquez Fernandez; ; Sr; B; 25; 25; 1; 2; 4; 8; 0.125; 2; 0.25; 2; 0; 0; 0; 0
+6; Matthew Schwarz; ; So; B; 1; -; 0; 0; 0; 0; -; 0; -; 0; 0; 0; 0; 0
+7; Michael Burgos; ; Jr; M; 19; -; 1; 1; 3; 6; 0.167; 1; 0.167; 0; 0; 0; 0; 0
+8; Michael Scott; ; Jr; F; 25; 20; 2; 3; 7; 21; 0.095; 6; 0.286; 0; 0; 0; 0; 0
+9; Joseph Pratt; ; Jr; M; 18; 3; 1; 0; 2; 9; 0.111; 3; 0.333; 1; 0; 0; 0; 1
+10; Mamadou Kansaye; ; Sr; M; 25; 25; 5; 6; 16; 36; 0.139; 13; 0.361; 3; 0; 3; 3; 3
+11; Joseph Glos; ; Jr; F; 17; -; 0; 0; 0; 3; 0; 2; 0.667; 1; 0; 0; 0; 0
+12; Patrick Pato; ; Jr; M; 9; 1; 0; 0; 0; 2; 0; 1; 0.5; 0; 0; 0; 0; 0
+13; Gregg Hauck; ; So; M; 17; 12; 2; 1; 5; 6; 0.333; 4; 0.667; 0; 0; 0; 0; 1
+14; Stephen Ho; ; Sr; M; 25; 25; 2; 1; 5; 19; 0.105; 7; 0.368; 3; 0; 0; 0; 1
+15; Zach Wenger; ; Sr; M; -; -; -; -; 0; -; -; -; -; -; -; 0; 0; -
+16; Spencer Williams; ; Sr; B; 24; 24; 0; 0; 0; 2; 0; 1; 0.5; 1; 0; 0; 0; 0
+17; Kay Banjo; ; Sr; F; 23; 23; 8; 5; 21; 76; 0.105; 32; 0.421; 3; 0; 0; 0; 4
+18; Oumar Ballo; ; Sr; B; 23; 23; 3; 1; 7; 13; 0.231; 6; 0.462; 4; 0; 0; 0; 0
+19; Christian Morales; ; So; M; 11; -; 0; 0; 0; 0; -; 0; -; 1; 0; 0; 0; 0
+22; Kennedy O'Shea; ; So; F; 7; 1; 0; 0; 0; 1; 0; 1; 1; 1; 0; 0; 0; 0
+23; Jordan Becker; ; Sr; B; 25; 24; 1; 4; 6; 20; 0.05; 7; 0.35; 3; 0; 0; 0; 0
+25; Abdel Fonkoko; ; Jr; M; 1; -; 0; 0; 0; 0; -; 0; -; 0; 0; 0; 0; 0
+32; Cormac Noel; ; Fr; F; 14; 1; 2; 1; 5; 9; 0.222; 7; 0.778; 0; 0; 0; 0; 0
+77; Malcolm Harris; ; Jr; M; 24; 24; 2; 4; 8; 51; 0.039; 19; 0.373; 4; 0; 0; 0; 2
+80; Geaton Caltabiano; ; Sr; M; 22; 15; 4; 1; 9; 45; 0.089; 23; 0.511; 1; 0; 0; 0; 1

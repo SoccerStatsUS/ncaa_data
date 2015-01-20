@@ -1,0 +1,35 @@
+Team: University of South Florida
+Competition: NCAA Division I Men's Soccer Championship
+
+Season: 2014
+BlockSource: https://admin.xosn.com/pdf9/2979008.pdf?DB_OEM_ID=7700&amp;DB_OEM_ID=7700
+
+Key: number; name; gmaes_played; goals; assists; points; shots; shot_percentage; shots_on_goal; sog_percentage; game_winning; pk_goals; pk_assists
+* ## Player gp g a pts sh sh% sogsog% gw pk-att
+
+7 ; MOALOSI, Edwin   ; 20; 5; 9; 19; 41; .12; 15; .36; 2; 0 ; 1
+10; BALDIN, Lucas    ; 20; 5; 9; 19; 28; .17; 18; .64; 1; 0 ; 0
+12; MFEKA, Lindo     ; 20; 4; 5; 13; 31; .12; 12; .38; 1; 0 ; 0
+13; MACEIRA, Eduardo ; 20; 5; 2; 12; 23; .21; 9 ; .39; 2; 0 ; 0
+9 ; BLACKWOOD, Tyle  ; 18; 4; 3; 11; 30; .13; 10; .33; 1; 0 ; 0
+15; EPPS, Marcus     ; 20; 3; 2; 8 ; 37; .08; 15; .40; 0; 0 ; 0
+20; CHARPIE, Wesley  ; 20; 0; 6; 6 ; 31; .00; 9 ; .29; 0; 0 ; 0
+14; ADABLAH, Kenned  ; 14; 2; 0; 4 ; 18; .11; 6 ; .33; 1; 0 ; 0
+24; PFEFFER, Gabriel ; 14; 2; 0; 4 ; 5 ; .40; 3 ; .60; 1; 0 ; 0
+23; PAUNIC, Nikola   ; 19; 1; 0; 2 ; 9 ; .11; 1 ; .11; 0; 0 ; 0
+2 ;O'NEAL, Matthew   ; 18; 1; 0; 2 ; 1 ;1.00; 1; 1.00; 1; 0 ; 0
+11; HERNANDEZ, Gera  ; 19; 0; 1; 1 ; 9 ; .00; 3;  .33; 0; 0 ; 0
+18; DELANCY, Terry   ; 19; 0; 1; 1 ; 5 ; .00; 1;  .20; 0; 0 ; 0
+8 ; MUCKETTE, Duane  ; 14; 0; 0; 0 ; 4 ; .00; 0;  .00; 0; 0 ; 0
+6 ; SMITH, Graham    ; 20; 0; 0; 0 ; 4 ; .00; 2;  .50; 0; 0 ; 0
+16; ROBERTS, Rohan   ; 16; 0; 0; 0 ; 3 ; .00; 0;  .00; 0; 0 ; 0
+19; AYAH, Atsou      ; 14; 0; 0; 0 ; 1 ; .00; 1; 1.00; 0; 0 ; 0
+30; STEFANOVIC, Spa  ; 20; 0; 0; 0 ; 0 ; .00; 0;  .00; 0; 0 ; 0
+28; BROWN, Jackson   ; 3 ; 0; 0; 0 ; 0 ; .00; 0;  .00; 0; 0 ; 0
+27; SOUZA, Igor      ; 3 ; 0; 0; 0 ; 0 ; .00; 0;  .00; 0; 0 ; 0
+17; CURRISTON, Bran  ; 6 ; 0; 0; 0 ; 0 ; .00; 0;  .00; 0; 0 ; 0
+5 ; GARCIA, Juan Carl; 6 ; 0; 0; 0 ; 0 ; .00; 0;  .00; 0; 0 ; 0
+3 ; RILEY, Brandon   ; 13; 0; 0; 0 ; 0 ; .00; 0;  .00; 0; 0 ; 0
+1 ; JAYE, Dallas     ; 3 ; 0; 0; 0 ; 0 ; .00; 0;  .00; 0; 0 ; 0
+
+
