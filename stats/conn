@@ -1,6 +1,38 @@
 Competition: NCAA Division I Men's Soccer Championship
-
 Team: University of Connecticut
+
+
+Season: 2014
+BlockSource: http://www.uconnhuskies.com/sports/m-soccer/stats/2014-2015/teamcume.html
+
+* ##           Player     GP-GS   Min     G       A       Pts     Sh      Shot%   SOG     SOG%    YC-RC   GW      PK-Att
+
+
+10          ; Larin, Cyle               ; 16; 15  ; 1257   ; 9      ; 3      ; 21     ; 63     ; .143   ; 28     ; .444   ; 2; 0    ; 3  ; 1; 1 
+9           ; VANACOREDECKER,Ethan      ; 19; 18  ; 1348   ; 6      ; 3      ; 15     ; 55     ; .109   ; 21     ; .382   ; 1; 0    ; 2  ; 0; 0 
+7           ; Awuah, Kwame              ; 19; 19  ; 1745   ; 2      ; 5      ; 9      ; 20     ; .100   ; 7      ; .350   ; 1; 0    ; 2  ; 0; 0 
+11          ; Beso Marco, Adria         ; 19; 19  ; 1768   ; 3      ; 2      ; 8      ; 19     ; .158   ; 8      ; .421   ; 3; 0    ; 1  ; 1; 1 
+15          ; Nerwinski, Jakob          ; 19; 19  ; 1747   ; 2      ; 3      ; 7      ; 15     ; .133   ; 8      ; .533   ; 2; 0    ; 1  ; 0; 0 
+21          ; Zuniga, Nicholas          ; 18; 7   ; 832    ; 1      ; 4      ; 6      ; 19     ; .053   ; 9      ; .474   ; 1; 0    ; 0  ; 0; 0 
+5           ; DaGraca, Edir             ; 16; 5   ; 602    ; 1      ; 0      ; 2      ; 10     ; .100   ; 4      ; .400   ; 0; 0    ; 0  ; 0; 0 
+12          ; COLY,Cheikh Stephane      ; 19; 19  ; 1667   ; 1      ; 0      ; 2      ; 7      ; .143   ; 3      ; .429   ; 3; 0    ; 0  ; 0; 0 
+6           ; Greenberg, Dylan          ; 19; 19  ; 1719   ; 1      ; 0      ; 2      ; 2      ; .500   ; 1      ; .500   ; 1; 0    ; 1  ; 0; 0 
+30          ; Musco, Christopher        ; 1; 0    ; 3      ; 1      ; 0      ; 2      ; 1      ; 1.000  ; 1      ; 1.000  ; 0; 0    ; 0  ; 0; 0 
+4           ; Campbell, Sergio          ; 19; 19  ; 1764   ; 0      ; 1      ; 1      ; 10     ; .000   ; 0      ; .000   ; 0; 0    ; 0  ; 0; 0 
+8           ; Matheson, Allando         ; 6; 0    ; 190    ; 0      ; 1      ; 1      ; 7      ; .000   ; 5      ; .714   ; 0; 0    ; 0  ; 0; 0 
+3           ; Ackroyd, Elliott          ; 19; 19  ; 1783   ; 0      ; 1      ; 1      ; 5      ; .000   ; 2      ; .400   ; 0; 0    ; 0  ; 0; 0 
+14          ; Leeman, Tyler             ; 17; 10  ; 896    ; 0      ; 0      ; 0      ; 12     ; .000   ; 7      ; .583   ; 0; 0    ; 0  ; 0; 0 
+27          ; Geres, Andrew             ; 11; 0   ; 232    ; 0      ; 0      ; 0      ; 5      ; .000   ; 2      ; .400   ; 1; 0    ; 0  ; 0; 0 
+28          ; Kanyo, Istvan             ; 5; 0    ; 36     ; 0      ; 0      ; 0      ; 1      ; .000   ; 0      ; .000   ; 0; 0    ; 0  ; 0; 0 
+2           ; Ceballo, Dwight           ; 8; 2    ; 198    ; 0      ; 0      ; 0      ; 1      ; .000   ; 1      ; 1.000  ; 0; 0    ; 0  ; 0; 0 
+31          ; Esposito, Lorenz          ; 2; 0    ; 9      ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000   ; 0; 0    ; 0  ; 0; 0 
+25          ; Wasserman, Jesse          ; 2; 0    ; 7      ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000   ; 0; 0    ; 0  ; 0; 0 
+22          ; Muriel, Santiago          ; 3; 0    ; 18     ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000   ; 0; 0    ; 0  ; 0; 0 
+17          ; Noiset, Will              ; 3; 0    ; 22     ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000   ; 0; 0    ; 0  ; 0; 0 
+
+
+Season: 2013
+
 
 Season: 2012
 BlockSource: http://www.uconnhuskies.com/sports/m-soccer/stats/2012-2013/teamcume.html

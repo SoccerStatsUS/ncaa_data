@@ -14,54 +14,55 @@ BlockSource: http://www.uwbadgers.com/sports/m-soccer/stats/2013-2014/teamcume.h
 4            Yonga, Paul        21-21   1800    2       3       7       23             .087       7          .304      1-0     0  0-0 
 17           Ramadani, Toni     21-20   1003    2       3       7       17              .118      10          .588     0-0     0  0-0 
 2            Cochran, AJ        21-21   1807    3       0       6       16               .188     6            .375    1-0     2  0-0 
-8            Kristensen, Anders         11-6    367     1       3       5                4         .250        2        .500   0-0    0  0-0 
-23           Schneider, Carl            19-15   1343    1       1       3                6          .167       3         .500  2-0    0  0-0 
-16           Hail, Brian                20-7    778     1       0       2                11          .091      5          .455        0-0    0  0-0 
-25           Felt, Skyler                9-0    188     1       0       2                4            .250     1           .250       0-0    0  0-0 
-28           Pitts, Derek                 7-0   101     1       0       2                1            1.000    1           1.000      0-0    0  0-0 
-11           Tennyson, Joey                8-1          248     0       1                1            3         .000       0           .000  0-0    0  0-0 
-15           Buda, Ryan                     3-0         78      0       1                1            2          .000      0            .000        0-0    0  0-0 
-18           Succa, Blake                   21-20       1546    0       0                0            19          .000     2             .105       3-0    0  0-0 
-24           Naughton, Joe                   4-0        61      0       0                0            1            .000    0              .000      0-0    0  0-0 
-21           Kazmierczak, Luc                 1-0       16      0       0                0            1             .000   0               .000     0-0    0  0-0 
-19           Lancina, Tim                      3-0      26      0       0                0            1              .000  0                .000    0-0    0  0-0 
-14           Seok, JunHo                        3-3     218     0       0                0            1               .000                  0        .000  1-0    0  0-0 
-12           Wheeler, Trevor                     5-3    260     0       0                0            1                .000                 1        1.000        0-0    0  0-0 
-6            Lauko, Adam                          5-2   178     0       0                0            1                 .000                0         .000        0-0    0  0-0 
-33           Beyers, Casey                        14-13         1096    0                0            0                 0                    .000     0            .000  0-0    0  0-0 
-32           Kronser, Jameson                      1-0          25      0                0            0                 0                     .000    0             .000        0-0    0  0-0 
-26           Joe McLean                             1-0         8       0                0            0                 0                      .000   0              .000       0-0    0  0-0 
-5            Caban, David                           20-19       1616    0                0            0                 0                       .000  0               .000      3-0    0  0-0 
-1            Jentsch, Max                            9-8        721     0                0            0                 0                        .000                 0          .000  0-0    0  0-0 
+8            Kristensen, Anders 11-6    367     1       3       5                4         .250        2        .500   0-0    0  0-0 
+23           Schneider, Carl    19-15   1343    1       1       3                6          .167       3         .500  2-0    0  0-0 
+16           Hail, Brian        20-7    778     1       0       2                11          .091      5          .455        0-0    0  0-0 
+25           Felt, Skyler        9-0    188     1       0       2                4            .250     1           .250       0-0    0  0-0 
+28           Pitts, Derek        7-0   101     1       0       2                1            1.000    1           1.000      0-0    0  0-0 
+11           Tennyson, Joey      8-1          248     0       1                1            3         .000       0           .000  0-0    0  0-0 
+15           Buda, Ryan          3-0         78      0       1                1            2          .000      0            .000        0-0    0  0-0 
+18           Succa, Blake       21-20       1546    0       0                0            19          .000     2             .105       3-0    0  0-0 
+24           Naughton, Joe       4-0        61      0       0                0            1            .000    0              .000      0-0    0  0-0 
+21           Kazmierczak, Luc    1-0       16      0       0                0            1             .000   0               .000     0-0    0  0-0 
+19           Lancina, Tim        3-0      26      0       0                0            1              .000  0                .000    0-0    0  0-0 
+14           Seok, JunHo         3-3     218     0       0                0            1               .000                  0        .000  1-0    0  0-0 
+12           Wheeler, Trevor     5-3    260     0       0                0            1                .000                 1        1.000        0-0    0  0-0 
+6            Lauko, Adam         5-2   178     0       0                0            1                 .000                0         .000        0-0    0  0-0 
+33           Beyers, Casey      14-13         1096    0                0            0                 0                    .000     0            .000  0-0    0  0-0 
+32           Kronser, Jameson    1-0          25      0                0            0                 0                     .000    0             .000        0-0    0  0-0 
+26           Joe McLean          1-0         8       0                0            0                 0                      .000   0              .000       0-0    0  0-0 
+5            Caban, David       20-19       1616    0                0            0                 0                       .000  0               .000      3-0    0  0-0 
+1            Jentsch, Max        9-8        721     0                0            0                 0                        .000                 0          .000  0-0    0  0-0 
 
 
 Season: 2012
 BlockSource: http://www.uwbadgers.com/sports/m-soccer/stats/2012-2013/teamcume.html
 
-##           Player     GP-GS   Min     G       A       Pts     Sh      Shot%   SOG     SOG%    YC-RC   GW      PK-Att 
+*##           Player     GP-GS   Min     G       A       Pts     Sh      Shot%   SOG     SOG%    YC-RC   GW      PK-Att 
+
 22           Prince, Chris      19-19   1717    3       5       11      36       .083   14       .389   1-0     0      1-1 
 13           Janus, Nick        18-15   1409    4       1       9       32        .125  15        .469  1-0     1      0-0 
 20           Brindle, Jacob      8-1    235     3       0       6       7          .429           3      .429   0-0    1   0-0 
-7            Conner, Drew        18-18  1564    2       1       5       15          .133          7       .467  1-0    1   0-0 
-16           Maddi, Jerry        16-13  782     2       1       5       14           .143         5        .357        1-0     1  0-0 
-2            Cochran, AJ         19-19  1801    1       2       4       16            .062        5         .312       3-0     0  0-0 
-14           Oluyedun, Jide       4-4   312     1       1       3       2              .500       1          .500      0-0     1  0-0 
-18           Succa, Blake         19-19         1656    0       3       3              11          .000      0          .000   2-0    0  0-0 
-8            Kristensen, Anders   16-3          763     1       0       2              18           .056     5           .278  0-0    1  0-0 
-4            Yonga, Paul          19-19         1816    1       0       2              7             .143    1            .143        0-0    0  0-0 
-5            Caban, David         17-11         1241    1       0       2              5              .200   2             .400       2-0    0  0-0 
-28           Pitts, Derek         13-4          403     1       0       2              4               .250  1              .250      0-0    0  0-0 
-15           Buda, Ryan            9-2          283     1       0       2              1               1.000                1         1.000  0-0    0  0-0 
-17           Ramadani, Toni        15-3         481     0       2       2              9                .000                3          .333  1-0    0  0-0 
-11           Tennyson, Joey         8-5         439     0       2       2              7                 .000               4           .571        0-1    0  0-0 
-3            McCrudden, Kyle        13-8        738     0       1       1              9                  .000              5            .556       3-0    0  0-0 
-12           Wheeler, Trevor        17-16       1356    0       1       1              4                   .000             3             .750      1-0    0  0-0 
-6            Lauko, Adam            11-11       886     0       0       0              2                    .000            1              .500     0-0    0  0-0 
-26           McLean, Joe             2-0        22      0       0       0              1                     .000           0               .000    1-0    0  0-0 
-32           Kronser, Jameson         1-0       8       0       0       0              0                      .000          0                .000   0-0    0  0-0 
-30           Jentsch, Max              4-4      307     0       0       0              0                       .000         0                 .000  0-0    0  0-0 
-23           Schneider, Carl            5-0     222     0       0       0              0                        .000        0                  .000        0-0    0  0-0 
-19           Lancina, Tim                3-0    77      0       0       0              0                         .000       0                   .000       0-0    0  0-0 
+7            Conner, Drew       18-18   1564    2       1       5       15          .133          7       .467  1-0    1   0-0 
+16           Maddi, Jerry       16-13   782     2       1       5       14           .143         5        .357        1-0     1  0-0 
+2            Cochran, AJ        19-19   1801    1       2       4       16            .062        5         .312       3-0     0  0-0 
+14           Oluyedun, Jide      4-4    312     1       1       3       2              .500       1          .500      0-0     1  0-0 
+18           Succa, Blake       19-19   1656    0       3       3       11          .000      0          .000   2-0    0  0-0 
+8            Kristensen, Anders 16-3    763     1       0       2       18           .056     5           .278  0-0    1  0-0 
+4            Yonga, Paul        19-19   1816    1       0       2       7             .143    1            .143        0-0    0  0-0 
+5            Caban, David       17-11   1241    1       0       2       5              .200   2             .400       2-0    0  0-0 
+28           Pitts, Derek       13-4    403     1       0       2       4               .250  1              .250      0-0    0  0-0 
+15           Buda, Ryan          9-2    283     1       0       2       1               1.000                1         1.000  0-0    0  0-0 
+17           Ramadani, Toni     15-3    481     0       2       2       9                .000                3          .333  1-0    0  0-0 
+11           Tennyson, Joey      8-5    439     0       2       2       7                 .000               4           .571        0-1    0  0-0 
+3            McCrudden, Kyle    13-8    738     0       1       1       9                  .000              5            .556       3-0    0  0-0 
+12           Wheeler, Trevor    17-16   1356    0       1       1       4                   .000             3             .750      1-0    0  0-0 
+6            Lauko, Adam        11-11   886     0       0       0       2                    .000            1              .500     0-0    0  0-0 
+26           McLean, Joe         2-0    22      0       0       0       1                     .000           0               .000    1-0    0  0-0 
+32           Kronser, Jameson    1-0    8       0       0       0       0                      .000          0                .000   0-0    0  0-0 
+30           Jentsch, Max        4-4    307     0       0       0       0                       .000         0                 .000  0-0    0  0-0 
+23           Schneider, Carl     5-0    222     0       0       0       0                        .000        0                  .000        0-0    0  0-0 
+19           Lancina, Tim        3-0    77      0       0       0       0                         .000       0                   .000       0-0    0  0-0 
 
 
 Season: 2011
@@ -83,17 +84,18 @@ BlockSource: http://www.uwbadgers.com/sports/m-soccer/stats/2011-2012/teamstat.h
 28           Pitts, Derek       12-1    265     0       0       0       6                    .000                 1         .167   0  0-0 
 4            Yonga, Paul        16-15   1389    0       0       0       2                     .000                0          .000  0  0-0 
 20           Brindle, Jacob      3-0    74      0       0       0       1                      .000               0           .000    0   0-0 
-19           Zahirovic, Arnel    11-5   417     0       0       0       1                       .000              0            .000   0   0-0 
-14           Mani, Colin         19-19  1466    0       0       0       1                        .000             0             .000  0   0-0 
-30           Jentsch, Max        15-15  1414    0       0       0       0                         .000            0              .000     0   0-0 
-25           Tim Lancina          1-0   10      0       0       0       0                          .000           0               .000    0   0-0 
-21           Roettgers, Mike       2-0          3       0       0       0                          0               .000           0        .000   0  0-0 
+19           Zahirovic, Arnel   11-5   417     0       0       0       1                       .000              0            .000   0   0-0 
+14           Mani, Colin        19-19  1466    0       0       0       1                        .000             0             .000  0   0-0 
+30           Jentsch, Max       15-15  1414    0       0       0       0                         .000            0              .000     0   0-0 
+25           Tim Lancina         1-0   10      0       0       0       0                          .000           0               .000    0   0-0 
+21           Roettgers, Mike     2-0          3       0       0       0                          0               .000           0        .000   0  0-0 
 
 
 Season: 2010
 BlockSource: http://www.uwbadgers.com/sports/m-soccer/stats/2010-2011/teamcume.html
 
-##           Player     GP-GS   Min     G       A       Pts     Sh      Shot%   SOG     SOG%    YC-RC   GW      PK-Att  Foul 
+*##           Player     GP-GS   Min     G       A       Pts     Sh      Shot%   SOG     SOG%    YC-RC   GW      PK-Att  Foul 
+
 22           Prince, Chris      20-18   1497    7       0       14      26       .269   13       .500   0-0     0       0-0  8 
 20           Nichols, Aaron     19-19   1664    3       2       8       16        .188  10        .625  0-0     1       1-1  8 
 11           Tennyson, Joey     17-7    916     3       1       7       20         .150           7      .350   0-0     1    0-0  3 
@@ -109,12 +111,12 @@ BlockSource: http://www.uwbadgers.com/sports/m-soccer/stats/2010-2011/teamcume.h
 16           Rzepka, Jon        19-16   1030    0       0       0       12                   .000                4       .333     2-0  0  0-0  4 
 15           Goodnetter, Luke   19-18   1683    0       0       0       6                     .000               0        .000    0-0  0  0-0  1 
 21           Spohn, Austin      10-0    264     0       0       0       5                      .000              3         .600   1-0  0  0-0  3 
-6            Monasterio, Colin          13-7    599     0       0       0                      5                  .000     3       .600   0-0  0  0-0  0 
-7            Ozbay, Ata                  2-0    75      0       0       0                      3                   .000    0        .000  0-0  0  0-0  0 
-28           Pitts, Derek                14-0   388     0       0       0                      2                    .000   1         .500      0-0     0  0-0  5 
-18           Succa, Blake                16-15  1352    0       0       0                      1                     .000  1         1.000     1-0     0  0-0  2 
-27           Vint, Ryan                  10-10  921     0       0       0                      0                      .000           0          .000   1-0     0  0-0  0 
-5            Cooper, Cale                 4-0   54      0       0       0                      0                       .000          0           .000  0-0     0  0-0  0 
+6            Monasterio, Colin  13-7    599     0       0       0                      5                  .000     3       .600   0-0  0  0-0  0 
+7            Ozbay, Ata          2-0    75      0       0       0                      3                   .000    0        .000  0-0  0  0-0  0 
+28           Pitts, Derek        14-0   388     0       0       0                      2                    .000   1         .500      0-0     0  0-0  5 
+18           Succa, Blake        16-15  1352    0       0       0                      1                     .000  1         1.000     1-0     0  0-0  2 
+27           Vint, Ryan          10-10  921     0       0       0                      0                      .000           0          .000   1-0     0  0-0  0 
+5            Cooper, Cale         4-0   54      0       0       0                      0                       .000          0           .000  0-0     0  0-0  0 
 
 
 Season: 2009
@@ -138,13 +140,13 @@ BlockSource: http://www.uwbadgers.com/sports/m-soccer/stats/2009-2010/teamcume.h
 8            Bultman, Brian       18-18         1592    0       0       0                5             .000    1             .200    1-0    0     0-0   0  0  0  0 
 9            Wilson, Max          10-2          219     0       0       0                2              .000   0              .000   0-0    0     0-0   0  0  0  0 
 5            Cooper, Cale          4-4          381     0       0       0                1               .000  0               .000  0-0    0     0-0   0  0  0  0 
-3            McCrudden, Kyle        1-0         36      0       0       0                1                .000                 0      .000  0-0   0     0-0   0  0  0  0 
-29           Marmo, Miles            1-0        17      0       0       0                0                 .000                0       .000       0-0   0     0-0   0  0  0  0 
-27           Vint, Ryan               2-1       124     0       0       0                0                  .000               0        .000      0-0   0     0-0   0  0  0  0 
-26           Habibi, Jamal             2-0      92      0       0       0                0                   .000              0         .000     0-0   0     0-0   0  0  0  0 
-19           Nyquist, Austin            1-0     9       0       0       0                0                    .000             0          .000    0-0   0     0-0   0  0  0  0 
-6            Monasterio, Colin           3-0    18      0       0       0                0                     .000            0           .000   0-0   0     0-0   0  0  0  0 
-1            Horwath, Alex               17-17  1483    0       0       0                0                      .000           0            .000  0-0   0     0-0   0  0  0  0 
+3            McCrudden, Kyle       1-0         36      0       0       0                1                .000                 0      .000  0-0   0     0-0   0  0  0  0 
+29           Marmo, Miles          1-0        17      0       0       0                0                 .000                0       .000       0-0   0     0-0   0  0  0  0 
+27           Vint, Ryan            2-1       124     0       0       0                0                  .000               0        .000      0-0   0     0-0   0  0  0  0 
+26           Habibi, Jamal         2-0      92      0       0       0                0                   .000              0         .000     0-0   0     0-0   0  0  0  0 
+19           Nyquist, Austin       1-0     9       0       0       0                0                    .000             0          .000    0-0   0     0-0   0  0  0  0 
+6            Monasterio, Colin     3-0    18      0       0       0                0                     .000            0           .000   0-0   0     0-0   0  0  0  0 
+1            Horwath, Alex        17-17  1483    0       0       0                0                      .000           0            .000  0-0   0     0-0   0  0  0  0 
 
 
 Season: 2008
@@ -158,23 +160,22 @@ BlockSource: http://www.uwbadgers.com/sports/m-soccer/stats/2008-2009/teamcume.h
 10           Delgado, Pablo     15-11   1071    2       4       8       31           .065         10       .323         1-0     0    0-0  1    0  0  0  7 
 7            Dix, Kenny         19-18   1442    2       3       7       21            .095        9         .429        1-0     0    0-0  1    0  0  0  13 
 21           Spohn, Austin      15-6    635     1       2       4       11             .091       2          .182       3-1     0    0-0  1    0  0  0  7 
-6            Monasterio, Colin          16-9    801     1       2       4              6           .167      2           .333   0-0  1    0-0  1  0  0  0  4 
-3            Lambo, Zack                18-17   1518    0       4       4              6            .000     1            .167  4-0  0    0-0  0  0  0  0  5 
-11           Conklin, Eric              19-16   1552    1       0       2              12            .083    6             .500      4-0  1    0-0   0  0  0  0  26 
-5            Cooper, Cale                7-5    500     1       0       2              4              .250   1              .250     1-0  0    0-0   0  0  0  0  1 
-8            Bultman, Brian              16-1   414     1       0       2              2               .500  1               .500    0-0  1    0-0   0  0  0  0  2 
-23           Gerster, Bryan              12-0   275     0       1       1              7                .000                 1        .143     0-0   0  0-0   0  0  0  0  5 
-18           Miller, Andy                17-17  1562    0       1       1              5                 .000                1         .200    5-1   0  0-0   0  0  0  0  18 
-20           Nichols, Aaron              19-19  1762    0       1       1              4                  .000               3          .750   1-0   0  0-0   0  0  0  0  11 
-22           Roos, Mark                   9-0   174     0       0       0              2                   .000              2          1.000  0-0   0  0-0   0  0  0  0  1 
-19           Nyquist, Austin               4-2          97      0       0              0                   1                  .000      0       .000    0-0   0  0-0   0  0  0  0  0 
-17           Mcloughlin, Aaron              2-0         31      0       0              0                   1                   .000     1       1.000   0-0   0  0-0   0  0  0  0  0 
-27           Vint, Ryan                      1-0        15      0       0              0                   0                    .000    0        .000   0-0   0  0-0   0  0  0  0  0 
-25           Gangler, Nate                    4-0       72      0       0              0                   0                     .000   0         .000  0-0   0  0-0   0  0  0  0  0 
-14           Mani, Colin                       5-0      65      0       0              0                   0                      .000  0          .000       1-0      0  0-0   0  0  0  0  1 
-9            Wilson, Max                        4-1     93      0       0              0                   0                       .000            0           .000    0-0      0  0-0   0  0  0  0  2 
-1            Horwath, Alex                      19-19   1773    0       0              0                   0                        .000           0            .000   1-0      0  0-0   0  0  0  0  0
-
+6            Monasterio, Colin  16-9    801     1       2       4              6           .167      2           .333   0-0  1    0-0  1  0  0  0  4 
+3            Lambo, Zack        18-17   1518    0       4       4              6            .000     1            .167  4-0  0    0-0  0  0  0  0  5 
+11           Conklin, Eric      19-16   1552    1       0       2              12            .083    6             .500      4-0  1    0-0   0  0  0  0  26 
+5            Cooper, Cale        7-5    500     1       0       2              4              .250   1              .250     1-0  0    0-0   0  0  0  0  1 
+8            Bultman, Brian      16-1   414     1       0       2              2               .500  1               .500    0-0  1    0-0   0  0  0  0  2 
+23           Gerster, Bryan      12-0   275     0       1       1              7                .000                 1        .143     0-0   0  0-0   0  0  0  0  5 
+18           Miller, Andy        17-17  1562    0       1       1              5                 .000                1         .200    5-1   0  0-0   0  0  0  0  18 
+20           Nichols, Aaron      19-19  1762    0       1       1              4                  .000               3          .750   1-0   0  0-0   0  0  0  0  11 
+22           Roos, Mark           9-0   174     0       0       0              2                   .000              2          1.000  0-0   0  0-0   0  0  0  0  1 
+19           Nyquist, Austin       4-2          97      0       0              0                   1                  .000      0       .000    0-0   0  0-0   0  0  0  0  0 
+17           Mcloughlin, Aaron      2-0         31      0       0              0                   1                   .000     1       1.000   0-0   0  0-0   0  0  0  0  0 
+27           Vint, Ryan              1-0        15      0       0              0                   0                    .000    0        .000   0-0   0  0-0   0  0  0  0  0 
+25           Gangler, Nate            4-0       72      0       0              0                   0                     .000   0         .000  0-0   0  0-0   0  0  0  0  0 
+14           Mani, Colin               5-0      65      0       0              0                   0                      .000  0          .000       1-0      0  0-0   0  0  0  0  1 
+9            Wilson, Max                4-1     93      0       0              0                   0                       .000            0           .000    0-0      0  0-0   0  0  0  0  2 
+1            Horwath, Alex              19-19   1773    0       0              0                   0                        .000           0            .000   1-0      0  0-0   0  0  0  0  0
 
 Season: 2007
 BlockSource: http://www.uwbadgers.com/sports/m-soccer/stats/2007-2008/teamcume.html

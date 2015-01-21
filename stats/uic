@@ -1,35 +1,65 @@
 Team: UIC
 Competition: NCAA Division I Men's Soccer Championship
 
-BlockSource: http://grfx.cstv.com/photos/schools/ilch/sports/m-soccer/auto_pdf/2013-14/stats/season_stats.pdf
+
+Season: 2014
+BlockSource: http://grfx.cstv.com/photos/schools/ilch/sports/m-soccer/auto_pdf/2014-15/stats/season_stats.pdf
+
+* ## Player gp g a pts sh sh% sog sog% gw pk-att
+Key: 
+
+11; ALVAREZ, Jorge       14 5 1 11 43 . 1 1 6 10 . 2 3 3 2 0 - 0
+9 ; TORRES, Jesus        16 4 3 11 37 . 1 0 8 17 . 4 5 9 1 0 - 0
+20; FUENTES, Jose        17 6 1 13 31 . 1 9 4 12 . 3 8 7 1 0 - 0
+10; SALMERON, Joel       11 1 1 3  15 . 0 6 7 7 . 4 6 7 1 0 - 0
+8 ; CHAVEZ, Manny        12 0 2 2  12 . 0 0 0 7 . 5 8 3 0 0 - 0
+21; FUENTES, Sergio      14 2 1 5  12 . 1 6 7 5 . 4 1 7 0 0 - 1
+22; LAGOWSKI, Piotr      16 0 1 1  10 . 0 0 0 6 . 6 0 0 0 0 - 0
+14; HAMANN, Kyle         17 0 0 0  9 . 0 0 0 5 . 5 5 6 0 0 - 0
+7 ; TORRES, Roberto      13 0 1 1  8 . 0 0 0 1 . 1 2 5 0 0 - 0
+26; JUDICKAS, Zack       13 0 0 0  7 . 0 0 0 3 . 4 2 9 0 0 - 0
+5 ; VILLAMIL, Thomas     17 1 1 3  7 . 1 4 3 2 . 2 8 6 1 0 - 0
+15; LAUDE, Nathan        8  3 0 6  6 . 5 0 0 5 . 8 3 3 1 0 - 0
+25; EL METENNANI, Elias  15 0 1 1  6 . 0 0 0 1 . 1 6 7 0 0 - 0
+4 ; ALVAREZ, Marco       7  1 0 2  5 . 2 0 0 3 . 6 0 0 0 0 - 0
+18; SIMON, Alex          11 0 2 2  3 . 0 0 0 1 . 3 3 3 0 0 - 0
+23; MODZELEWSKI, Marcin  6  0 0 0  2 . 0 0 0 2 1.000 0 0 - 0
+12; ROMO, Gonzalo        14 0 0 0  2 . 0 0 0 0 . 0 0 0 0 0 - 0
+6 ; STANKIEWICZ, Michael 5  0 0 0  0 . 0 0 0 0 . 0 0 0 0 0 - 0
+1 ; PUTNA, Andrew        17 0 1 1  0 . 0 0 0 0 . 0 0 0 0 0 - 0
+19; YEUNG, Alex          3  0 0 0  0 . 0 0 0 0 . 0 0 0 0 0 - 0
+
+
 Season: 2013
+BlockSource: http://grfx.cstv.com/photos/schools/ilch/sports/m-soccer/auto_pdf/2013-14/stats/season_stats.pdf
 
-## Player gp g a pts sh sh% sog sog% gw pk-att
-7 ALEKSOV, Slobodan 20 10 3 23 62 . 1 6 1 29 . 4 6 8 4 1 - 3
-11 ALVAREZ, Jorge 15 4 6 14 34 . 1 1 8 11 . 3 2 4 4 0 - 0
-9 TORRES, Jesus 20 4 9 17 27 . 1 4 8 11 . 4 0 7 2 0 - 0
-4 NOVAK, Bob 20 3 6 12 24 . 1 2 5 14 . 5 8 3 2 0 - 0
-20 ZAFEIRATOS, Aris 17 2 3 7 18 . 1 1 1 10 . 5 5 6 2 0 - 0
-31 LINDBERG, Kyle 18 4 0 8 18 . 2 2 2 10 . 5 5 6 0 0 - 0
-3 BEARD, Josh 17 3 0 6 16 . 1 8 8 5 . 3 1 2 2 1 - 1
-6 LEON, Joel 12 1 0 2 10 . 1 0 0 3 . 3 0 0 0 0 - 0
-10 SALMERON, Joel 11 0 1 1 7 . 0 0 0 2 . 2 8 6 0 0 - 0
-17 GUZMAN, Abel 11 0 0 0 6 . 0 0 0 2 . 3 3 3 0 0 - 0
-5 VILLAMIL, Thomas 19 0 0 0 5 . 0 0 0 4 . 8 0 0 0 0 - 0
-2 MARTINEZ Jr, Gabriel 11 0 0 0 5 . 0 0 0 0 . 0 0 0 0 0 - 0
-12 ROMO, Gonzalo 20 0 0 0 4 . 0 0 0 2 . 5 0 0 0 0 - 0
-15 FRONIMOS, Alexios 11 1 0 2 4 . 2 5 0 1 . 2 5 0 0 0 - 0
-16 O'LEARY, Danny 7 0 0 0 3 . 0 0 0 0 . 0 0 0 0 0 - 0
-14 HAMANN, Kyle 18 0 0 0 3 . 0 0 0 0 . 0 0 0 0 0 - 0
-23 MODZELEWSKI, Marcin 3 0 0 0 2 . 0 0 0 1 . 5 0 0 0 0 - 0
-13 SALGADO, Rodrigo 13 0 1 1 2 . 0 0 0 1 . 5 0 0 0 0 - 0
-22 LAGOWSKI, Piotr 6 0 0 0 2 . 0 0 0 1 . 5 0 0 0 0 - 0
-19 YEUNG, Alex 7 1 0 2 1 1.000 1 1.000 0 0 - 0
-26 JUDICKAS, Zack 3 0 0 0 1 . 0 0 0 1 1.000 0 0 - 0
-8 CHAVEZ, Manny 7 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-38 TRYCHTA, Evan 1 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
-1 PUTNA, Andrew 20 0 0 0 0 . 0 0 0 0 . 0 0 0 0 0 - 0
+*## Player gp g a pts sh sh% sog sog% gw pk-att
 
+7 ; ALEKSOV, Slobodan    20 10 3 23 62 . 1 6 1 29 . 4 6 8 4 1 - 3
+11; ALVAREZ, Jorge       15 4  6 14 34 . 1 1 8 11 . 3 2 4 4 0 - 0
+9 ; TORRES, Jesus        20 4  9 17 27 . 1 4 8 11 . 4 0 7 2 0 - 0
+4 ; NOVAK, Bob           20 3  6 12 24 . 1 2 5 14 . 5 8 3 2 0 - 0
+20; ZAFEIRATOS, Aris     17 2  3 7  18 . 1 1 1 10 . 5 5 6 2 0 - 0
+31; LINDBERG, Kyle       18 4  0 8  18 . 2 2 2 10 . 5 5 6 0 0 - 0
+3 ; BEARD, Josh          17 3  0 6  16 . 1 8 8 5 . 3 1 2 2 1 - 1
+6 ; LEON, Joel           12 1  0 2  10 . 1 0 0 3 . 3 0 0 0 0 - 0
+10; SALMERON, Joel       11 0  1 1  7 . 0 0 0 2 . 2 8 6 0 0 - 0
+17; GUZMAN, Abel         11 0  0 0  6 . 0 0 0 2 . 3 3 3 0 0 - 0
+5 ; VILLAMIL, Thomas     19 0  0 0  5 . 0 0 0 4 . 8 0 0 0 0 - 0
+2 ; MARTINEZ Jr, Gabriel 11 0  0 0  5 . 0 0 0 0 . 0 0 0 0 0 - 0
+12; ROMO, Gonzalo        20 0  0 0  4 . 0 0 0 2 . 5 0 0 0 0 - 0
+15; FRONIMOS, Alexios    11 1  0 2  4 . 2 5 0 1 . 2 5 0 0 0 - 0
+16; O'LEARY, Danny       7  0  0 0  3 . 0 0 0 0 . 0 0 0 0 0 - 0
+14; HAMANN, Kyle         18 0  0 0  3 . 0 0 0 0 . 0 0 0 0 0 - 0
+23; MODZELEWSKI, Marcin  3  0  0 0  2 . 0 0 0 1 . 5 0 0 0 0 - 0
+13; SALGADO, Rodrigo     13 0  1 1  2 . 0 0 0 1 . 5 0 0 0 0 - 0
+22; LAGOWSKI, Piotr      6  0  0 0  2 . 0 0 0 1 . 5 0 0 0 0 - 0
+19; YEUNG, Alex 7        1  0  2 1  1.000 1 1.000 0 0 - 0
+26; JUDICKAS, Zack       3  0  0 0  1 . 0 0 0 1 1.000 0 0 - 0
+8 ; CHAVEZ, Manny        7  0  0 0  0 . 0 0 0 0 . 0 0 0 0 0 - 0
+38; TRYCHTA, Evan        1  0  0 0  0 . 0 0 0 0 . 0 0 0 0 0 - 0
+1 ; PUTNA, Andrew        20 0  0 0  0 . 0 0 0 0 . 0 0 0 0 0 - 0
+ 
 
 Season: 2012
 BlockSource: http://grfx.cstv.com/photos/schools/ilch/sports/m-soccer/auto_pdf/2012-13/stats/season_stats.pdf

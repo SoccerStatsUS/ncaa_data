@@ -27,6 +27,32 @@ Key: number; name; games_played; goals; assists; points; shots; shot_percentage;
 1 ; Alex Kapp          ; 15; 0; 0; 0 ; 0   ; .000; 0  ; .000; 0; 0 ; 0
 
 
+Season: 2013
+BlockSource: http://grfx.cstv.com/photos/schools/bc/sports/m-soccer/auto_pdf/2013-14/stats/season_stats.pdf
+
+*## Player gp g a pts sh sh% sog sog% gw pk-att
+Key: 
+
+19 Zeiko Lewis         18 3 11 17 38 . 0 7 9 14 . 3 6 8 1 0 - 0
+15 Giuliano Frano      18 4 2 10  23 . 1 7 4 11 . 4 7 8 1 1 - 1
+11 Diego Medina-Mendez 16 2 5 9   21 . 0 9 5 12 . 5 7 1 0 0 - 0
+17 Isaac Normesinu     15 2 4 8   30 . 0 6 7 9 . 3 0 0 0 0 - 0
+23 Cole DeNormandie    17 3 0 6   21 . 1 4 3 13 . 6 1 9 0 0 - 0
+10 Derrick Boateng     17 2 2 6   23 . 0 8 7 11 . 4 7 8 1 0 - 0
+6  Atobra Ampadu       18 2 2 6   18 . 1 1 1 6 . 3 3 3 1 0 - 0
+8  Matt Wendelken      18 2 2 6   12 . 1 6 7 8 . 6 6 7 0 0 - 0
+4  Nick Butler         13 2 0 4   6  . 3 3 3 2 . 3 3 3 1 0 - 0
+2  Chris Ager          18 2 0 4   5  . 4 0 0 3 . 6 0 0 1 0 - 0
+29 Brendan Hayes        6 2 0 4   3  . 6 6 7 2 . 6 6 7 0 0 - 0
+20 Amit Shumowitz      10 0 0 0   6  . 0 0 0 2 . 3 3 3 0 0 - 0
+5  Nick Corliss         8 0 0 0   2  . 0 0 0 2 1.000 0 0 - 0
+24 Christian Johnson    6 0 0 0   1  . 0 0 0 0 . 0 0 0 0 0 - 0
+14 Dylan Pritchard     11 0 0 0   1  . 0 0 0 0 . 0 0 0 0 0 - 0
+3  Ryan Dunn           11 0 0 0   1  . 0 0 0 1 1.000 0 0 - 0
+16 Sebastien Das        1 0 0 0   0  . 0 0 0 0 . 0 0 0 0 0 - 0
+7  Ado Kawuba           7 0 0 0   0  . 0 0 0 0 . 0 0 0 0 0 - 0
+
+
 Season: 2012
 BlockSource: http://grfx.cstv.com/photos/schools/bc/sports/m-soccer/auto_pdf/2012-13/stats/season_stats.pdf
 

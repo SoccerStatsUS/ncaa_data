@@ -1,13 +1,48 @@
 Team: Stanford
 Competition: NCAA Division I Men's Soccer Championship
 
+Season: 2014
+BlockSource: http://www.gostanford.com/fls/30600/MSOC/2014/Stats/teamcume.htm?DB_OEM_ID=30600
+
+
+*## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG% GW  PK-ATT
+Key: number; name; games_played; games_started; goals; assists; points; shots; shot_percentage; game_winning; pk_goals; pk_attempts
+
+
+15; Verso, Eric         ; 16; 7   ; 5  ; 5 ; 15 ; 28 ; .179 ; 13 ; .464 ; 2  ; 0; 0
+13; Morris, Jordan      ; 15; 15  ; 4  ; 6 ; 14 ; 45 ; .089 ; 16 ; .356 ; 1  ; 0; 0
+3 ; Vincent, Brandon    ; 19; 19  ; 6  ; 1 ; 13 ; 30 ; .200 ; 11 ; .367 ; 3  ; 2; 2
+14; Batteer, Zach       ; 18; 16  ; 4  ; 4 ; 12 ; 47 ; .085 ; 15 ; .319 ; 2  ; 0; 0
+10; Baird, Corey        ; 19; 14  ; 4  ; 4 ; 12 ; 28 ; .143 ; 15 ; .536 ; 2  ; 0; 0
+19; Edwards, Bobby      ; 19; 19  ; 2  ; 5 ;  9 ; 32 ; .062 ; 10 ; .312 ; 1  ; 0; 0
+17; Meyer, Austin       ; 19; 18  ; 2  ; 5 ;  9 ; 18 ; .111 ;  5 ; .278 ; 2  ; 0; 0
+21; Callinan, Jimmy     ; 19; 19  ; 1  ; 3 ;  5 ; 12 ; .083 ;  2 ; .167 ; 0  ; 0; 0
+4 ; Hilliard-Arce, Tomas; 19; 19  ; 2  ; 0 ;  4 ; 16 ; .125 ;  5 ; .312 ; 0  ; 0; 0
+5 ; Meehan, Slater      ; 18; 6   ; 1  ; 2 ;  4 ; 12 ; .083 ;  3 ; .250 ; 0  ; 0; 0
+2 ; Langsdorf, Foster   ; 13; 2   ; 1  ; 1 ;  3 ; 21 ; .048 ;  8 ; .381 ; 0  ; 0; 0
+8 ; Nana-Sinkam, Brian  ; 18; 18  ; 1  ; 0 ;  2 ;  9 ; .111 ;  3 ; .333 ; 0  ; 0; 0
+27; Glover, Marshall    ; 10; 4   ; 1  ; 0 ;  2 ;  2 ; .500 ;  1 ; .500 ; 0  ; 0; 0
+7 ; Thompson, Ty        ; 19; 14  ; 0  ; 1 ;  1 ; 26 ; .000 ;  7 ; .269 ; 0  ; 0; 0
+12; Skundrich, Drew     ; 13; 0   ; 0  ; 1 ;  1 ;  5 ; .000 ;  1 ; .200 ; 0  ; 0; 0
+9 ; Verso, Mark         ;  7; 0   ; 0  ; 0 ;  0 ;  7 ; .000 ;  3 ; .429 ; 0  ; 0; 0
+30; Corti, Nico         ;  2; 0   ; 0  ; 0 ;  0 ;  0 ; .000 ;  0 ; .000 ; 0  ; 0; 0
+29; Marion, Bryce       ;  2; 0   ; 0  ; 0 ;  0 ;  0 ; .000 ;  0 ; .000 ; 0  ; 0; 0
+18; Ainscough, Alex     ;  5; 0   ; 0  ; 0 ;  0 ;  0 ; .000 ;  0 ; .000 ; 0  ; 0; 0
+16; Taylor, Matt        ;  4; 0   ; 0  ; 0 ;  0 ;  0 ; .000 ;  0 ; .000 ; 0  ; 0; 0
+6 ; Hyman, Trevor       ;  3; 0   ; 0  ; 0 ;  0 ;  0 ; .000 ;  0 ; .000 ; 0  ; 0; 0
+1 ; Epstein, Andrew     ; 19; 19  ; 0  ; 0 ;  0 ;  0 ; .000 ;  0 ; .000 ; 0  ; 0; 0
+
+
+Season: 2013
+
+
+
 
 Season: 2012
 BlockSource: http://www.gostanford.com/ViewContent.dbml?&DB_OEM_ID=30600&CONTENT_ID=781560
 
-Key: number; name; games_played; games_started; goals; assists; points; shots; etc
-
 *## Name                 GP-GS   G   A Pts  Sh Shot%  YC-RC GW  PK-ATT
+Key: number; name; games_played; games_started; goals; assists; points; shots; etc
 
 9 ; Jahn, Adam          ; 18; 18 ; 13 ;  4 ; 30;  57;  .228   0-0   4   3-3
 2 ; Koval, JJ           ; 17; 17 ;  2 ;  2 ;  6;  35;  .057   4-0   0   0-0

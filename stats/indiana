@@ -5,7 +5,7 @@ Season: 2014
 BlockSource: http://www.iuhoosiers.com/sports/m-soccer/stats/2014-2015/teamcume.html
 
 * ## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT
-Key: number; name; games_played; games_started; goals; assists; points; shots; etc
+Key: number; name; games_played; games_started; goals; assists; points; shots; shot_percentage; shots_on_goal; sog_percentage; yellow_cards; red_cards; game_winning; pk_goals; pk_attempts
 
 
 10; Thompson, Tanner    ; 22; 22  ; 6  ; 3 ; 15 ; 74 ; .081 ; 28 ; .378  ; 3; 0  ; 2  ; 2; 4
@@ -28,6 +28,33 @@ Key: number; name; games_played; games_started; goals; assists; points; shots; e
 23; Bradford, Kerel     ; 17; 5   ; 0  ; 0 ;  0 ;  2 ; .000 ;  1 ; .500  ; 2; 0  ; 0  ; 0; 0
 32; Webb, Colin         ; 22; 22  ; 0  ; 0 ;  0 ;  1 ; .000 ;  0 ; .000  ; 1; 0  ; 0  ; 0; 0
 77; 77                  ;  1; 0   ; 0  ; 0 ;  0 ;  0 ; .000 ;  0 ; .000  ; 0; 0  ; 0  ; 0; 0
+
+
+    
+Season: 2013
+BlockSource: http://www.iuhoosiers.com/sports/m-soccer/stats/2013-2014/teamcume.html
+
+*## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT Foul
+Key: number; name; games_played; games_started; goals; assists; points; shots; shot_percentage; shots_on_goal; sog_percentage; yellow_cards; red_cards; game_winning; pk_goals; pk_attempts; _
+
+
+14; Thompson, Tommy     ; 16; 13  ; 5  ; 3 ; 13 ; 56 ; .089 ; 28 ; .500  ; 0; 0  ; 0  ; 0; 1     ; 0
+8 ; Kotlov, Nikita      ; 22; 17  ; 5  ; 3 ; 13 ; 56 ; .089 ; 29 ; .518  ; 0; 0  ; 1  ; 0; 0     ; 0
+10; Corrado, A.J.       ; 22; 22  ; 3  ; 7 ; 13 ; 34 ; .088 ; 13 ; .382  ; 1; 0  ; 0  ; 0; 0     ; 1
+4 ; HOLLINGER-JANZEN, Fe; 22; 14  ; 5  ; 0 ; 10 ; 31 ; .161 ; 12 ; .387  ; 0; 0  ; 1  ; 0; 0     ; 0
+17; Bushue, Jacob       ; 22; 22  ; 3  ; 3 ;  9 ; 19 ; .158 ; 10 ; .526  ; 2; 0  ; 1  ; 0; 0     ; 1
+6 ; Mares, Dylan        ; 22; 14  ; 3  ; 1 ;  7 ; 46 ; .065 ; 12 ; .261  ; 1; 0  ; 2  ; 0; 1     ; 2
+19; Doody, Patrick      ; 22; 21  ; 2  ; 3 ;  7 ; 19 ; .105 ;  7 ; .368  ; 0; 0  ; 1  ; 0; 0     ; 0
+9 ; Oliver, Andrew      ; 10; 4   ; 3  ; 0 ;  6 ; 13 ; .231 ;  6 ; .462  ; 0; 0  ; 1  ; 0; 0     ; 0
+7 ; Petts, Harrison     ; 21; 20  ; 2  ; 2 ;  6 ; 47 ; .043 ; 15 ; .319  ; 0; 0  ; 0  ; 0; 0     ; 0
+11; Thompson, Tanner    ; 19; 1   ; 1  ; 4 ;  6 ; 10 ; .100 ;  3 ; .300  ; 0; 0  ; 0  ; 0; 0     ; 0
+21; Sparks, Kyle        ;  8; 0   ; 2  ; 0 ;  4 ;  2 ;1.000 ;  2 ;1.000  ; 0; 0  ; 0  ; 0; 0     ; 0
+15; Vollmer, Jamie      ; 16; 4   ; 1  ; 1 ;  3 ; 11 ; .091 ;  2 ; .182  ; 1; 0  ; 1  ; 0; 0     ; 0
+5 ; McKain, Matt        ; 22; 22  ; 0  ; 3 ;  3 ; 10 ; .000 ;  3 ; .300  ; 0; 0  ; 0  ; 0; 0     ; 0
+16; Lax, Dylan          ; 19; 13  ; 1  ; 0 ;  2 ;  4 ; .250 ;  3 ; .750  ; 1; 0  ; 0  ; 0; 0     ; 1
+2 ; McConnell, Billy    ; 11; 8   ; 0  ; 0 ;  0 ;  3 ; .000 ;  1 ; .333  ; 1; 0  ; 0  ; 0; 0     ; 0
+24; Schall, Drew        ;  6; 5   ; 0  ; 0 ;  0 ;  2 ; .000 ;  0 ; .000  ; 0; 0  ; 0  ; 0; 0     ; 0
+23; Bradford, Kerel     ; 20; 20  ; 0  ; 0 ;  0 ;  0 ; .000 ;  0 ; .000  ; 1; 0  ; 0  ; 0; 0     ; 1
 
 
 

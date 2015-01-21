@@ -1,6 +1,36 @@
 Team: Furman
 Competition: NCAA Division I Men's Soccer Championship
 
+
+Season: 2014
+BlockSource: http://furmanpaladins.com/sports/m-soccer/2014-15/FURMSeasonStats.pdf
+
+*## Player gp g a pts sh sh% sog sog% gw pk-att
+Key: number; name; games_played; goals; assists; points; shots; shot_percentage; shots_on_goal; sot_percentage; game_winning; pk_goals; pk_assists
+
+17 Lewis Hawke          22 9 2 20 48 . 1 8 8 22 . 4 5 8 4 0 - 0
+9  Bobby Edet           22 5 1 11 50 . 1 0 0 16 . 3 2 0 3 0 - 0
+14 Kevin Pahl           22 2 5 9 14  . 1 4 3 5  . 3 5 7 2 1 - 1
+21 Evan De Ycaza        19 3 1 7 17  . 1 7 6 9  . 5 2 9 1 0 - 0
+13 Marco Ortiz          19 2 3 7 16  . 1 2 5 5  . 3 1 2 1 0 - 0
+2  Tony Santibanez      22 0 5 5 25  . 0 0 0 6  . 2 4 0 0 0 - 0
+19 Eli Pinner           22 1 2 4 28  . 0 3 6 10 . 3 5 7 0 0 - 0
+6  Brendan Richardson   15 1 1 3 7   . 1 4 3 5  . 7 1 4 0 0 - 0
+8  Clint Ritter         22 1 0 2 15  . 0 6 7 5  . 3 3 3 0 0 - 0
+26 Kyle McLagan         22 1 0 2 13  . 0 7 7 6  . 4 6 2 1 0 - 0
+16 Adrian McInnis       21 1 0 2 13  . 0 7 7 8  . 6 1 5 0 1 - 1
+18 Kevin Edelmann       20 1 0 2 8   . 1 2 5 3  . 3 7 5 0 0 - 0
+20 Cameron Robinson      2 1 0 2 2   . 5 0 0 1  . 5 0 0 0 0 - 0
+11 Hart Zwing           15 0 2 2 2   . 0 0 0 0  . 0 0 0 0 0 - 0
+27 Eric Steber          22 0 2 2 1   . 0 0 0 0  . 0 0 0 0 0 - 0
+15 Tyler Peoples        17 0 1 1 25  . 0 0 0 12 . 4 8 0 0 0 - 1
+4  Dylan Rowe           17 0 1 1 8   . 0 0 0 3  . 3 7 5 0 0 - 0
+1  Sven Lissek          21 0 0 0 1   . 0 0 0 0  . 0 0 0 0 0 - 0
+25 Michael Enos          2 0 0 0 0   . 0 0 0 0  . 0 0 0 0 0 - 0
+24 Wellford Moore        2 0 0 0 0   . 0 0 0 0  . 0 0 0 0 0 - 0
+
+
+
 Season: 2012
 BlockSource: http://www.furmanpaladins.com/sports/m-soccer/2012-13/teams/furman?view=lineup
 
