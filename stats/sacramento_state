@@ -1,0 +1,34 @@
+Team: Sacramento State
+Competition: NCAA Division I Men's Soccer Championship
+
+Season: 2014
+BlockSource: http://www.hornetsports.com/sports/msoc/2014-15/teams/sacramentost?view=lineup
+
+*NO.; NAME; ; YR; POS; GP; GS; G; A; PTS; SH; SH%; SOG; SOG%; YC; RC; PK; GW
+Key: number; name; _; year; position; games_played; games_started; goals; assists; points; shots; shooting_percentage; shots_on_goal; shog_percentage; yellow_cards; red_cards; pk_goals; game_winning
+
+0; James Del curto; ; Fr; GK; 7; 6; 0; 0; 0; 0; -; 0; -; 0; 0; 0; 0; 0
+0; Philip Bru; ; So; GK; 11; 10; 0; 0; 0; 0; -; 0; -; 0; 0; 0; 0; 0
+1; Teddy Sampson; ; So; GK; 4; 4; 0; 0; 0; 0; -; 0; -; 0; 0; 0; 0; 0
+2; Andrew Gosselin; ; So; D; 14; 13; 2; 0; 4; 3; 0.667; 2; 0.667; 0; 0; 0; 0; 1
+3; Mason McCann; ; Sr; D; 18; 15; 0; 1; 1; 10; 0; 4; 0.4; 1; 0; 0; 0; 0
+4; Preston Davis; ; So; D; 18; 13; 0; 2; 2; 4; 0; 1; 0.25; 2; 0; 0; 0; 0
+5; Brad Kellogg; ; Jr; F; 13; -; 0; 0; 0; 2; 0; 0; 0; 1; 0; 0; 0; 0
+6; Cesar Mendoza; ; Jr; MF; 15; -; 0; 0; 0; 4; 0; 2; 0.5; 3; 0; 0; 0; 0
+7; Trevor Jackson; ; So; MF; 1; 1; 0; 0; 0; 0; -; 0; -; 0; 0; 0; 0; 0
+8; Ivan Ramirez; ; So; MF; 20; 19; 0; 1; 1; 8; 0; 2; 0.25; 4; 0; 0; 0; 0
+9; Cody Hoster; ; Sr; F; 18; 18; 2; 1; 5; 22; 0.091; 8; 0.364; 4; 0; 0; 1; 0
+10; Adan Martinez; ; Sr; F; 20; 20; 0; 1; 1; 15; 0; 5; 0.333; 1; 0; 0; 0; 0
+11; Bert Corona; ; So; MF; 18; 7; 0; 1; 1; 17; 0; 6; 0.353; 0; 0; 0; 0; 0
+12; Brad Bumgarner; ; Fr; F; -; -; -; -; 0; -; -; -; -; -; -; 0; 0; -
+13; Andres Garcia; ; Sr; MF; 20; 20; 1; 4; 6; 17; 0.059; 3; 0.176; 3; 0; 0; 0; 0
+14; Cylus Sandoval; ; Fr; F; 20; 5; 2; 2; 6; 27; 0.074; 10; 0.37; 4; 0; 0; 0; 0
+15; Paul Geyer; ; Fr; MF; 15; 11; 1; 0; 2; 7; 0.143; 2; 0.286; 2; 0; 0; 0; 0
+16; John Quintanilla; ; Jr; D; 5; -; 0; 0; 0; 0; -; 0; -; 0; 0; 0; 0; 0
+17; Fernando Ochoa; ; Fr; MF; 19; 11; 0; 1; 1; 2; 0; 0; 0; 1; 0; 0; 0; 0
+18; Chimdum Mez; ; Sr; F; 19; 18; 7; 0; 14; 47; 0.149; 21; 0.447; 2; 1; 0; 0; 4
+19; Javier Munoz; ; So; D; 20; 20; 1; 1; 3; 9; 0.111; 5; 0.556; 2; 0; 0; 0; 0
+20; Devante Raynor; ; Fr; D; 9; -; 1; 1; 3; 7; 0.143; 4; 0.571; 1; 1; 0; 0; 0
+21; Elias Rieland; ; Fr; MF; 13; 9; 0; 2; 2; 5; 0; 1; 0.2; 2; 0; 0; 0; 0
+22; Mathew Fisher; ; Fr; D; -; -; -; -; 0; -; -; -; -; -; -; 0; 0; -
+23; Alex Martinez; ; Fr; D; -; -; -; -; 0; -; -; -; -; -; -; 0; 0; -

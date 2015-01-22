@@ -1,0 +1,30 @@
+Team: Columbia University
+Competition: NCAA Division I Men's Soccer Championship  
+
+Season: 2014
+BlockSource: http://www.ivyleaguesports.com/sports/msoc/2014-15/stats/html/col.htm?DB_OEM_ID=9600#team.cmb
+
+*##           Player     GP-GS   G       A       Pts     Sh      Shot%   SOG     SOG%    GW      PK-Att 
+Key: number; name; games_played; games_started; goals; assists; points; shots; shot_percentage; shots_on_goal; sog_percentage; game_winning; pk_goals; pk_assists
+
+18          ; Williams, Rhys            ; 16; 11  ; 3      ; 1      ; 7      ; 40     ; .075   ; 21     ; .525  ; 1  ; 0; 0 
+20          ; Agrest, Francisco         ; 14; 12  ; 3      ; 3      ; 9      ; 26     ; .115   ; 16     ; .615  ; 0  ; 0; 0 
+25          ; Tinari, Andrew            ; 15; 11  ; 1      ; 1      ; 3      ; 22     ; .045   ; 11     ; .500  ; 0  ; 0; 0 
+21          ; Bosua, Arthur             ; 15; 12  ; 2      ; 2      ; 6      ; 21     ; .095   ; 10     ; .476  ; 0  ; 0; 0 
+10          ; Matarazzo, Antonio        ; 16; 12  ; 1      ; 3      ; 5      ; 18     ; .056   ; 9      ; .500  ; 1  ; 1; 1 
+9           ; Pappacena, Nicholas       ; 15; 5   ; 2      ; 0      ; 4      ; 18     ; .111   ; 9      ; .500  ; 2  ; 0; 0 
+11          ; Elliot, Frederick         ; 14; 5   ; 2      ; 0      ; 4      ; 13     ; .154   ; 3      ; .231  ; 1  ; 0; 0 
+14          ; Zori, Ron                 ; 6; 2    ; 1      ; 0      ; 2      ; 7      ; .143   ; 2      ; .286  ; 0  ; 0; 0 
+6           ; Gagne, Jack               ; 15; 9   ; 1      ; 0      ; 2      ; 6      ; .167   ; 2      ; .333  ; 1  ; 0; 0 
+22          ; Branca, Brennan           ; 4; 3    ; 0      ; 0      ; 0      ; 5      ; .000   ; 1      ; .200  ; 0  ; 0; 0 
+2           ; Blattman, Jack            ; 6; 3    ; 1      ; 1      ; 3      ; 4      ; .250   ; 1      ; .250  ; 1  ; 0; 0 
+8           ; Wesener, Anton            ; 9; 5    ; 0      ; 0      ; 0      ; 3      ; .000   ; 2      ; .667  ; 0  ; 0; 0 
+19          ; Bangerl, Alex             ; 12; 10  ; 0      ; 0      ; 0      ; 2      ; .000   ; 1      ; .500  ; 0  ; 0; 0 
+3           ; Terrill, Bryce            ; 13; 11  ; 0      ; 0      ; 0      ; 2      ; .000   ; 1      ; .500  ; 0  ; 0; 0 
+24          ; Morris, Joe               ; 8; 4    ; 0      ; 0      ; 0      ; 1      ; .000   ; 1      ; 1.000 ; 0  ; 0; 0 
+15          ; Morant, Zach              ; 14; 8   ; 0      ; 1      ; 1      ; 1      ; .000   ; 0      ; .000  ; 0  ; 0; 0 
+13          ; Shinsky, Matthew          ; 3; 1    ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000  ; 0  ; 0; 0 
+5           ; Maldonado, Louie          ; 4; 2    ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000  ; 0  ; 0; 0 
+16          ; Butwin, Alexander         ; 2; 1    ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000  ; 0  ; 0; 0 
+4           ; Westlake, David           ; 15; 12  ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000  ; 0  ; 0; 0 
+7           ; Celsus, Andrew            ; 2; 1    ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000  ; 0  ; 0; 0

@@ -1,0 +1,38 @@
+Team: Cleveland State
+Competition: NCAA Division I Men's Soccer Championship
+
+Season: 2014
+BlockSource: http://www.csuvikings.com/sports/m-soccer/2014-15/teams/clevelandst?view=lineup
+
+*NO.; NAME; ; YR; POS; GP; GS; G; A; PTS; SH; SH%; SOG; SOG%; YC; RC; PK; GW
+Key: number; name; _; year; position; games_played; games_started; goals; assists; points; shots; shooting_percentage; shots_on_goal; sog_percentage; yellow_cards; red_cards; pk_goals; game_winning
+
+0; Pavle Majerle; ; Fr; GK; -; -; -; -; 0; -; -; -; -; -; -; 0; 0; -
+1; Aleksandar Drobac; ; So; GK; 4; 2; 0; 0; 0; 0; -; 0; -; 0; 0; 0; 0; 0
+2; Nick Kane; ; So; D; 14; 11; 0; 0; 0; 3; 0; 1; 0.333; 0; 0; 0; 0; 0
+3; James Milli; ; So; D; 8; 8; 0; 0; 0; 3; 0; 2; 0.667; 1; 0; 0; 0; 0
+4; Michael Dichlian; ; Fr; D; 14; 10; 0; 0; 0; 1; 0; 0; 0; 4; 0; 0; 0; 0
+5; Sergio Manesio; ; So; ; 18; 18; 5; 1; 11; 26; 0.192; 12; 0.462; 5; 0; 0; 0; 1
+6; Alec Nagucki; ; Fr; ; 19; 18; 3; 1; 7; 15; 0.2; 9; 0.6; 0; 0; 0; 0; 2
+7; Hesham Hammouda; ; Fr; F; 12; 5; 1; 2; 4; 7; 0.143; 4; 0.571; 1; 1; 0; 0; 0
+8; Victor Zamora; ; Jr; ; 9; -; 0; 0; 0; 0; -; 0; -; 0; 0; 0; 0; 0
+9; Alvaro Pichardo; ; Jr; F; 15; 5; 2; 1; 5; 8; 0.25; 3; 0.375; 1; 0; 0; 0; 1
+10; Alex Obbey; ; Sr; F; 11; 9; 0; 1; 1; 4; 0; 2; 0.5; 1; 0; 0; 0; 0
+11; Wallis Debourou; ; Jr; F; 3; -; 0; 0; 0; 1; 0; 1; 1; 0; 0; 0; 0; 0
+12; Kevin Blackwood; ; Fr; D; 16; 11; 0; 3; 3; 7; 0; 4; 0.571; 3; 0; 0; 0; 0
+13; Silvester Messiah; ; Fr; F; 1; -; 0; 1; 1; 3; 0; 0; 0; 0; 0; 0; 0; 0
+14; Jake Lagania; ; Fr; D; 19; 17; 1; 2; 4; 15; 0.067; 2; 0.133; 1; 0; 0; 0; 0
+15; Cheo Armstrong; ; Jr; ; 14; 5; 0; 0; 0; 2; 0; 0; 0; 1; 0; 0; 0; 0
+16; Christian Arboleda; ; Sr; ; 7; 3; 0; 0; 0; 2; 0; 2; 1; 0; 0; 0; 0; 0
+17; Mike Derezic; ; Sr; ; 17; 17; 2; 4; 8; 13; 0.154; 6; 0.462; 4; 0; 0; 0; 1
+18; Colin Eedy; ; Fr; ; 13; 4; 0; 0; 0; 0; -; 0; -; 0; 0; 0; 0; 0
+19; Jacob Naumann; ; Sr; ; 15; 5; 0; 1; 1; 5; 0; 3; 0.6; 1; 0; 0; 0; 0
+20; Kareem Banton; ; Fr; ; 18; 6; 1; 0; 2; 9; 0.111; 3; 0.333; 0; 0; 0; 0; 1
+21; Dan Koniarczyk; ; So; ; 16; 5; 2; 0; 4; 11; 0.182; 2; 0.182; 0; 0; 0; 0; 0
+22; Thomas Beck; ; Sr; F; 12; 5; 0; 2; 2; 13; 0; 8; 0.615; 0; 0; 0; 0; 0
+23; Mike Matlock; ; Sr; ; 18; 11; 2; 1; 5; 9; 0.222; 6; 0.667; 0; 0; 0; 0; 0
+24; Mustafa Raychouni; ; Jr; D; 18; 17; 0; 0; 0; 3; 0; 1; 0.333; 1; 0; 0; 0; 0
+25; Anton Segota; ; Fr; ; 1; -; 0; 0; 0; 0; -; 0; -; 0; 0; 0; 0; 0
+28; Zak Petrenko; ; Jr; GK; -; -; -; -; 0; -; -; -; -; -; -; 0; 0; -
+99; Nick Ciraldo; ; So; GK; 18; 17; 0; 0; 0; 0; -; 0; -; 1; 0; 0; 0; 0
+

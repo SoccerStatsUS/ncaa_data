@@ -1,0 +1,49 @@
+Team: Gardner-Webb University
+Competition: NCAA Division I Men's Soccer Championship
+
+Season: 2014
+BlockSource: http://www.gwusports.com/sports/msoc/2014-15/teams/gardnerwebb?view=lineup
+
+* NO.; NAME; ; YR; POS; GP; GS; G; A; PTS; SH; SH%; SOG; SOG%; YC; RC; PK; GW
+Key: number; name; _; _; _; games_played; games_started; goals; assists; points; shots; shot_percentage; shots_on_goal; sog_percentage; yellow_cards; red_cards; pk_goals; game_winning
+
+
+1; Matthew Swan; ; N/A; N/A; 16; 16; 0; 0; 0; 0; -; 0; -; 0; 0; 0; 0; 0
+2; Jake Kennedy; ; N/A; N/A; 11; 4; 0; 0; 0; 1; 0; 1; 1; 0; 0; 0; 0; 0
+3; Matt Bogart; ; N/A; N/A; 15; 15; 0; 0; 0; 1; 0; 1; 1; 0; 0; 0; 0; 0
+4; Jascha Gluckschalt; ; N/A; N/A; 16; 13; 0; 0; 0; 4; 0; 1; 0.25; 2; 0; 0; 0; 0
+5; Arjun Jung; ; N/A; N/A; 15; 6; 0; 1; 1; 8; 0; 1; 0.125; 0; 0; 0; 0; 0
+6; Barth-Luther Mouafo; ; N/A; N/A; 7; 3; 0; 0; 0; 1; 0; 1; 1; 0; 0; 0; 0; 0
+7; Filipe Conceicao; ; N/A; N/A; 15; 10; 2; 1; 5; 12; 0.167; 6; 0.5; 0; 0; 0; 0; 1
+8; Nathan Rose; ; N/A; N/A; 17; 11; 2; 3; 7; 12; 0.167; 5; 0.417; 2; 0; 0; 0; 0
+9; Dustin Peyton; ; N/A; N/A; 15; 4; 1; 0; 2; 6; 0.167; 4; 0.667; 0; 0; 0; 0; 0
+10; Ali Al-Gashamy; ; N/A; N/A; 17; 17; 7; 6; 20; 63; 0.111; 37; 0.587; 3; 0; 0; 0; 0
+11; Brandon Johnston; ; N/A; N/A; 1; -; 0; 0; 0; 0; -; 0; -; 0; 0; 0; 0; 0
+12; Craig Swaby; ; N/A; N/A; 16; 8; 2; 2; 6; 16; 0.125; 5; 0.312; 0; 0; 0; 0; 0
+13; Tristan Lain; ; N/A; N/A; 1; -; 0; 0; 0; 0; -; 0; -; 0; 0; 0; 0; 0
+14; Patrick Gurser; ; N/A; N/A; 15; 14; 1; 2; 4; 24; 0.042; 7; 0.292; 2; 0; 1; 1; 0
+15; Bryce Wells; ; Jr.; D; 14; 13; 0; 0; 0; 9; 0; 1; 0.111; 5; 0; 0; 0; 0
+17; Sami Jilla; ; N/A; N/A; 15; 6; 2; 1; 5; 9; 0.222; 3; 0.333; 1; 0; 0; 0; 1
+18; Jerome Roche; ; N/A; N/A; 17; 15; 1; 0; 2; 8; 0.125; 5; 0.625; 1; 0; 0; 0; 0
+19; Austin Shedd; ; N/A; N/A; -; -; -; -; 0; -; -; -; -; -; -; 0; 0; -
+20; Ben Weathers; ; N/A; N/A; 2; -; 0; 0; 0; 0; -; 0; -; 0; 0; 0; 0; 0
+21; Marvin Mendy; ; N/A; N/A; 1; -; 0; 0; 0; 0; -; 0; -; 0; 0; 0; 0; 0
+22; Nathan Cook; ; N/A; N/A; 1; -; 0; 0; 0; 0; -; 0; -; 0; 0; 0; 0; 0
+24; Kevin Comvalius; ; N/A; N/A; 11; 9; 0; 0; 0; 1; 0; 1; 1; 1; 0; 0; 0; 0
+25; Denzel Clarke; ; N/A; N/A; 16; 7; 4; 0; 8; 35; 0.114; 18; 0.514; 2; 0; 0; 0; 1
+26; Alec Ostendarp; ; N/A; N/A; 1; -; 0; 0; 0; 0; -; 0; -; 0; 0; 0; 0; 0
+27; Riley Shelton; ; N/A; N/A; 12; 9; 0; 1; 1; 1; 0; 0; 0; 2; 0; 0; 0; 0
+28; Emmanuel Bazemore; ; N/A; N/A; -; -; -; -; 0; -; -; -; -; -; -; 0; 0; -
+29; Clay Edwards; ; N/A; N/A; 11; -; 0; 0; 0; 3; 0; 1; 0.333; 0; 0; 0; 0; 0
+30; Joshua Rouse; ; N/A; N/A; -; -; -; -; 0; -; -; -; -; -; -; 0; 0; -
+31; William Liles; ; N/A; N/A; 1; 1; 0; 0; 0; 0; -; 0; -; 0; 0; 0; 0; 0
+32; Alejandro Rivillas; ; N/A; N/A; 12; 6; 0; 0; 0; 3; 0; 3; 1; 0; 0; 0; 0; 0
+33; Adam Stephens; ; N/A; N/A; 1; -; 0; 0; 0; 0; -; 0; -; 0; 0; 0; 0; 0
+34; Brad Minor; ; N/A; N/A; -; -; -; -; 0; -; -; -; -; -; -; 0; 0; -
+35; Stephen Chofor; ; N/A; N/A; -; -; -; -; 0; -; -; -; -; -; -; 0; 0; -
+36; Angelo Rubinelli; ; N/A; N/A; -; -; -; -; 0; -; -; -; -; -; -; 0; 0; -
+37; Devin Jordan; ; N/A; N/A; -; -; -; -; 0; -; -; -; -; -; -; 0; 0; -
+38; Jon Cardona; ; N/A; N/A; -; -; -; -; 0; -; -; -; -; -; -; 0; 0; -
+39; Gustavo Velez-Arce; ; N/A; N/A; -; -; -; -; 0; -; -; -; -; -; -; 0; 0; -
+
+

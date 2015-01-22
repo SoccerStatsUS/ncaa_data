@@ -1,0 +1,32 @@
+Team: Seattle University
+Competition: NCAA Division I Men's Soccer Championship
+
+Season: 2014
+BlockSource: http://www.goseattleu.com/fls/18200/stats/msoccer/2014/teamcume.htm
+
+* ## Name                 GP-GS  Min   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT
+Key: number; name; games_played; games_started; minutes; goals; assists; points; shots; shot_percentage; shots_on_goal; sog_percentage; yellow_cards; red_cards; game_winning; pk_goals; pk_attempts
+
+12; Brady Ballew        ; 19; 19; 1402  ; 4  ; 1  ; 9 ; 54 ; .074 ; 10 ; .185  ; 4; 0  ; 1  ; 0; 0
+11; Ian Hines-Ike       ; 19; 19; 1720  ; 4  ; 7  ;15 ; 39 ; .103 ; 15 ; .385  ; 3; 0  ; 1  ; 2; 2
+17; Hamza Haddadi       ; 18; 16;  988  ; 7  ; 2  ;16 ; 30 ; .233 ; 18 ; .600  ; 4; 0  ; 2  ; 0; 0
+23; Alex Roldan         ; 19; 19; 1415  ; 2  ; 3  ; 7 ; 22 ; .091 ;  6 ; .273  ; 0; 0  ; 1  ; 0; 0
+10; Jeff Rose           ; 13; 13;  981  ; 3  ; 3  ; 9 ; 21 ; .143 ;  8 ; .381  ; 2; 0  ; 2  ; 0; 0
+15; Cameron Rohani      ; 18; 5 ;  810  ; 0  ; 2  ; 2 ; 16 ; .000 ;  7 ; .438  ; 0; 0  ; 0  ; 0; 0
+14; Race Sciabica       ; 13; 2 ;  417  ; 2  ; 1  ; 5 ; 10 ; .200 ;  5 ; .500  ; 2; 0  ; 0  ; 0; 0
+6 ; Kyle Bjornethun     ; 19; 19; 1784  ; 4  ; 1  ; 9 ;  8 ; .500 ;  6 ; .750  ; 1; 0  ; 2  ; 0; 0
+21; Nick Prasad         ; 17; 13; 1225  ; 2  ; 3  ; 7 ;  8 ; .250 ;  5 ; .625  ; 2; 0  ; 1  ; 0; 0
+39; Sam Langston        ; 18; 14; 1460  ; 0  ; 1  ; 1 ;  7 ; .000 ;  3 ; .429  ; 2; 0  ; 0  ; 0; 0
+2 ; Chase Hanson        ; 19; 14; 1242  ; 0  ; 0  ; 0 ;  6 ; .000 ;  2 ; .333  ; 4; 0  ; 0  ; 0; 0
+16; Josh Greene         ; 19; 17; 1331  ; 1  ; 1  ; 3 ;  6 ; .167 ;  2 ; .333  ; 3; 0  ; 0  ; 0; 0
+19; Agustin Andrade III ; 14; 0 ;  359  ; 0  ; 1  ; 1 ;  6 ; .000 ;  1 ; .167  ; 0; 0  ; 0  ; 0; 0
+7 ; Ibrahima Drame      ; 11; 0 ;  255  ; 1  ; 0  ; 2 ;  4 ; .250 ;  4 ;1.000  ; 0; 0  ; 0  ; 0; 0
+30; Michael Roberts     ; 11; 1 ;  255  ; 0  ; 0  ; 0 ;  4 ; .000 ;  1 ; .250  ; 0; 0  ; 0  ; 0; 0
+24; Justice Duerksen    ;  4; 0 ;   82  ; 0  ; 0  ; 0 ;  4 ; .000 ;  1 ; .250  ; 0; 0  ; 0  ; 0; 0
+4 ; John Mau            ;  8; 6 ;  549  ; 0  ; 0  ; 0 ;  4 ; .000 ;  0 ; .000  ; 0; 0  ; 0  ; 0; 0
+8 ; Shane Mahvi         ; 15; 13; 1189  ; 0  ; 0  ; 0 ;  3 ; .000 ;  0 ; .000  ; 1; 0  ; 0  ; 0; 0
+20; Jonathan Massimino  ; 10; 0 ;  199  ; 1  ; 0  ; 2 ;  2 ; .500 ;  2 ;1.000  ; 0; 0  ; 1  ; 0; 0
+22; Joseph Harris       ;  5; 0 ;   82  ; 0  ; 0  ; 0 ;  1 ; .000 ;  1 ;1.000  ; 0; 0  ; 0  ; 0; 0
+13; Kyle Silva          ;  1; 0 ;    0  ; 0  ; 0  ; 0 ;  0 ; .000 ;  0 ; .000  ; 0; 0  ; 0  ; 0; 0
+5 ; Austin Sweeney      ;  3; 0 ;   68  ; 0  ; 0  ; 0 ;  0 ; .000 ;  0 ; .000  ; 0; 0  ; 0  ; 0; 0
+29; Medo Youssef        ;  1; 0 ;    2  ; 0  ; 0  ; 0 ;  0 ; .000 ;  0 ; .000  ; 0; 0  ; 0  ; 0; 0

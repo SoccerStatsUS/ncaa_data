@@ -1,0 +1,39 @@
+Team: Utah Valley University
+Competition: NCAA Division I Men's Soccer Championship
+
+Season: 2014
+BlockSource: http://www.wolverinegreen.com/cumestats.aspx?path=msoc&year=2014&
+
+*Player       GP-GS      Min     G       A       Pts     Sh      Shot%   SOG     SOG%    YC-RC   GW      PS-Att
+Key: name; games_played; games_started; minutes; goals; assists; points; shots; shot_percentage; shots_on_goal; sog_percentage; yellow_cards; red_cards; game_winning; pk_goals; pk_attempts
+
+Gay, Matt              ; 18; 17  ; 1169   ; 7      ; 4      ; 18     ; 66     ; 0.106  ; 28     ; 0.424  ; 4; 0    ; 3      ; 1; 1
+Payton, Karson         ; 18; 17  ; 1487   ; 5      ; 5      ; 15     ; 59     ; 0.085  ; 29     ; 0.492  ; 5; 0    ; 2      ; 0; 0
+Cawley, Lucas          ; 18; 17  ; 1518   ; 4      ; 2      ; 10     ; 27     ; 0.148  ; 15     ; 0.556  ; 0; 0    ; 0      ; 1; 1
+Milne, Skyler          ; 18; 17  ; 1377   ; 3      ; 1      ; 7      ; 26     ; 0.115  ; 11     ; 0.423  ; 5; 0    ; 2      ; 0; 0
+Hoffmeister, Paul      ; 18; 15  ; 1326   ; 1      ; 2      ; 4      ; 29     ; 0.034  ; 8      ; 0.276  ; 1; 0    ; 0      ; 0; 0
+Buxton, Austin         ; 17; 5   ; 786    ; 1      ; 2      ; 4      ; 20     ; 0.050  ; 7      ; 0.350  ; 5; 0    ; 0      ; 0; 0
+Boyd, Chandler         ; 9; 1    ; 199    ; 1      ; 1      ; 3      ; 3      ; 0.333  ; 2      ; 0.667  ; 1; 0    ; 1      ; 0; 0
+Adams, David           ; 16; 4   ; 461    ; 1      ; 0      ; 2      ; 8      ; 0.125  ; 5      ; 0.625  ; 0; 0    ; 1      ; 0; 0
+Barakat, Joe           ; 14; 8   ; 824    ; 0      ; 1      ; 1      ; 2      ; 0      ; 0      ; 0      ; 1; 0    ; 0      ; 0; 0
+Neff, Alex             ; 18; 17  ; 1580   ; 0      ; 1      ; 1      ; 6      ; 0      ; 3      ; 0.500  ; 4; 0    ; 0      ; 0; 0
+Loomis, Thomas         ; 11; 1   ; 147    ; 0      ; 1      ; 1      ; 0      ; 0      ; 0      ; 0      ; 2; 0    ; 0      ; 0; 0
+Partee, Collin         ; 16; 16  ; 1444   ; 0      ; 1      ; 1      ; 0      ; 0      ; 0      ; 0      ; 0; 0    ; 0      ; 0; 0
+Wilcox, Derek          ; 4; 2    ; 242    ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0; 0    ; 0      ; 0; 0
+Salmon, Connor         ; 7; 4    ; 286    ; 0      ; 0      ; 0      ; 3      ; 0      ; 0      ; 0      ; 0; 0    ; 0      ; 0; 0
+Kirsten, Jasper        ; 4; 2    ; 122    ; 0      ; 0      ; 0      ; 1      ; 0      ; 1      ; 1.000  ; 0; 0    ; 0      ; 0; 0
+Chan, Muny             ; 4; 0    ; 30     ; 0      ; 0      ; 0      ; 1      ; 0      ; 0      ; 0      ; 0; 0    ; 0      ; 0; 0
+Richens, Dillon        ; 7; 0    ; 58     ; 0      ; 0      ; 0      ; 1      ; 0      ; 1      ; 1.000  ; 0; 0    ; 0      ; 0; 0
+Pemberton, Payden      ; 16; 11  ; 815    ; 0      ; 0      ; 0      ; 3      ; 0      ; 0      ; 0      ; 1; 0    ; 0      ; 0; 0
+Baddley, Chandler      ; 17; 7   ; 929    ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0; 0    ; 0      ; 0; 0
+Perkins, Ben           ; 13; 3   ; 328    ; 0      ; 0      ; 0      ; 2      ; 0      ; 0      ; 0      ; 0; 0    ; 0      ; 0; 0
+Brown, Mark            ; 6; 0    ; 76     ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0; 0    ; 0      ; 0; 0
+Harguindeguy, Nic      ; 13; 2   ; 317    ; 0      ; 0      ; 0      ; 4      ; 0      ; 2      ; 0.500  ; 1; 0    ; 0      ; 0; 0
+Kidwell, Cameron       ; 14; 13  ; 1174   ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 1; 0    ; 0      ; 0; 0
+Serna, Diego           ; 12; 3   ; 340    ; 0      ; 0      ; 0      ; 4      ; 0      ; 0      ; 0      ; 0; 0    ; 0      ; 0; 0
+Galindo, Victor        ; 12; 2   ; 352    ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 2; 0    ; 0      ; 0; 0
+Brown, Tyler           ; 18; 14  ; 1208   ; 0      ; 0      ; 0      ; 4      ; 0      ; 2      ; 0.500  ; 2; 0    ; 0      ; 0; 0
+
+
+
+

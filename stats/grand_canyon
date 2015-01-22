@@ -1,0 +1,66 @@
+Competition: NCAA Division I Men's Soccer Championship
+Team: Grand Canyon University
+
+Season: 2014
+BlockSource: http://www.gculopes.com/custompages/Statistics/2014-15/Men's%20Soccer/teamcume.htm?path=msoc
+
+
+*##      Player  GP-GS   G       A       Pts     Sh      Shot%   SOG     SOG%    YC-RC   GW      PK-Att 
+Key: number; name; games_played; games_started; goals; assists; points; shots; shot_percentage; shots_on_goal; sog_percentage; yellow_cards; red_cards; game_winning; pk_goals; pk_assists
+
+9      ; Sanchez Garcia, Albe           ; 19; 16  ; 8      ; 2      ; 18     ; 69     ; .116   ; 29     ; .420   ; 1; 0   ; 1  ; 1; 1 
+13     ; Jackson, Niki                  ; 18; 16  ; 5      ; 3      ; 13     ; 57     ; .088   ; 28     ; .491   ; 3; 1   ; 0  ; 2; 2 
+6      ; Serjeant, Mark                 ; 19; 10  ; 0      ; 1      ; 1      ; 17     ; .000   ; 7      ; .412   ; 0; 0   ; 0  ; 0; 0 
+16     ; Chirandu, Courage              ; 20; 10  ; 0      ; 0      ; 0      ; 15     ; .000   ; 5      ; .333   ; 5; 0   ; 0  ; 0; 0 
+20     ; Ramirez, Alexander             ; 19; 11  ; 1      ; 1      ; 3      ; 12     ; .083   ; 3      ; .250   ; 5; 0   ; 0  ; 0; 0 
+7      ; Sasivarevic, Amer              ; 16; 16  ; 0      ; 0      ; 0      ; 11     ; .000   ; 1      ; .091   ; 3; 0   ; 0  ; 0; 0 
+10     ; Thomas, Amare                  ;  9; 1   ; 1      ; 0      ; 2      ; 10     ; .100   ; 5      ; .500   ; 1; 0   ; 1  ; 0; 0 
+24     ; Wall, Daniel                   ; 17; 6   ; 0      ; 2      ; 2      ; 10     ; .000   ; 3      ; .300   ; 0; 0   ; 0  ; 0; 0 
+15     ; Rodriguez Nieblas, J           ;  9; 4   ; 2      ; 0      ; 4      ; 9      ; .222   ; 5      ; .556   ; 0; 0   ; 1  ; 0; 0 
+11     ; Chvojan, Jan                   ; 18; 11  ; 0      ; 0      ; 0      ; 9      ; .000   ; 4      ; .444   ; 2; 0   ; 0  ; 0; 0 
+14     ; Olabarria, Jaime               ; 19; 19  ; 0      ; 0      ; 0      ; 7      ; .000   ; 3      ; .429   ; 5; 0   ; 0  ; 0; 0 
+17     ; Solscheid, Yared               ; 18; 14  ; 0      ; 1      ; 1      ; 7      ; .000   ; 1      ; .143   ; 4; 0   ; 0  ; 0; 0 
+3      ; Summerhill, Kyle               ; 14; 11  ; 2      ; 0      ; 4      ; 5      ; .400   ; 4      ; .800   ; 3; 2   ; 2  ; 0; 0 
+12     ; Tavarez, Ricardo               ; 20; 20  ; 0      ; 0      ; 0      ; 5      ; .000   ; 1      ; .200   ; 3; 0   ; 0  ; 0; 0 
+29     ; Barkoff, Ben                   ; 14; 10  ; 0      ; 0      ; 0      ; 4      ; .000   ; 2      ; .500   ; 1; 0   ; 0  ; 0; 0 
+22     ; Spajic, Ante                   ;  9; 7   ; 0      ; 1      ; 1      ; 3      ; .000   ; 1      ; .333   ; 1; 0   ; 0  ; 0; 0 
+23     ; Vasquez, Jose                  ;  5; 0   ; 0      ; 0      ; 0      ; 2      ; .000   ; 1      ; .500   ; 1; 0   ; 0  ; 0; 0 
+2      ; Slack, Jordan                  ;  6; 5   ; 0      ; 2      ; 2      ; 2      ; .000   ; 0      ; .000   ; 1; 0   ; 0  ; 0; 0 
+33     ; McGlothan, Aidan               ;  9; 4   ; 0      ; 0      ; 0      ; 2      ; .000   ; 0      ; .000   ; 0; 0   ; 0  ; 0; 0 
+5      ; Gutierrez, Horacio             ;  7; 0   ; 0      ; 0      ; 0      ; 2      ; .000   ; 0      ; .000   ;0; 0    ; 0  ; 0; 0 
+4      ; Lasso, Hector                  ; 14; 9   ; 0      ; 0      ; 0      ; 1      ; .000   ; 1      ; 1.000  ;5; 0    ; 0  ; 0; 0 
+26     ; Vinski, Nikola                 ;  5; 0   ; 0      ; 0      ; 0      ; 1      ; .000   ; 0      ; .000   ;0; 0    ; 0  ; 0; 0 
+19     ; Leyva, Jesus                   ;  7; 0   ; 0      ; 0      ; 0      ; 1      ; .000   ; 0      ; .000   ;0; 0    ; 0  ; 0; 0 
+36     ; Licciardi, Luca                ; 10; 9   ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000   ;1; 0    ; 0  ; 0; 0 
+35     ; Fiorentini, Bruno              ;  2; 0   ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000   ;0; 0    ; 0  ; 0; 0 
+
+
+
+Season: 2013
+BlockSource: http://gculopes.com/custompages/Statistics/2013-14/Men%27s%20Soccer/teamcume.htm?path=msoc
+
+*##           Player     GP-GS   G       A       Pts     Sh      Shot%   SOG     SOG%    YC-RC   GW      PK-Att 
+
+9           ; Sanchez Garcia, Albe      ; 19; 18  ; 5      ; 2      ; 12     ; 69     ; .072   ; 28     ; .406   ; 2; 0   ; 1       ; 0; 0 
+13          ; Ciliento, Kyle            ; 15; 15  ; 6      ; 2      ; 14     ; 37     ; .162   ; 18     ; .486   ; 1; 0   ; 1       ; 1; 1 
+18          ; Thomes, Gerrit            ; 19; 19  ; 3      ; 1      ; 7      ; 31     ; .097   ; 12     ; .387   ; 1; 0   ; 1       ; 0; 0 
+6           ; Holait, Jamiesh           ; 18; 18  ; 1      ; 0      ; 2      ; 17     ; .059   ; 5      ; .294   ; 0; 0   ; 1       ; 0; 0 
+15          ; Rodriguez Nieblas, J      ; 18; 3   ; 2      ; 0      ; 4      ; 14     ; .143   ; 7      ; .500   ; 0; 0   ; 0       ; 0; 0 
+16          ; Chirandu, Courage         ; 19; 7   ; 1      ; 1      ; 3      ; 13     ; .077   ; 3      ; .231   ; 2; 0   ; 0       ; 0; 0 
+5           ; Hansen, Brandon           ; 18; 4   ; 0      ; 1      ; 1      ; 12     ; .000   ; 5      ; .417   ; 0; 0   ; 0       ; 0; 0 
+17          ; Solscheid, Yared          ; 18; 15  ; 0      ; 0      ; 0      ; 12     ; .000   ; 1      ; .083   ; 0; 0   ; 0       ; 0; 0 
+7           ; Sasivarevic, Amer         ; 16; 16  ; 0      ; 4      ; 4      ; 11     ; .000   ; 6      ; .545   ; 0; 0   ; 0       ; 0; 0 
+12          ; Finnefrock, Adam          ; 19; 12  ; 1      ; 1      ; 3      ; 8      ; .125   ; 2      ; .250   ; 4; 0   ; 0       ; 0; 0 
+10          ; Cardoso, Victor           ; 14; 3   ; 1      ; 0      ; 2      ; 7      ; .143   ; 1      ; .143   ; 0; 0   ; 0       ; 0; 0 
+22          ; Spajic, Ante              ; 19; 19  ; 0      ; 1      ; 1      ; 6      ; .000   ; 2      ; .333   ; 3; 1   ; 0       ; 0; 0 
+2           ; Slack, Jordan             ; 13; 5   ; 0      ; 0      ; 0      ; 5      ; .000   ; 2      ; .400   ; 0; 0   ; 0       ; 0; 0 
+20          ; O'Dwyer, William          ; 15; 5   ; 0      ; 1      ; 1      ; 5      ; .000   ; 1      ; .200   ; 0; 0   ; 0       ; 0; 0 
+24          ; Wall, Daniel              ; 16; 8   ; 1      ; 1      ; 3      ; 5      ; .200   ; 1      ; .200   ; 1; 0   ; 0       ; 0; 0 
+4           ; Nincevic, Zoran           ; 16; 12  ; 0      ; 0      ; 0      ; 5      ; .000   ; 0      ; .000   ; 1; 0   ; 0       ; 0; 0 
+3           ; Summerhill, Kyle          ; 5; 4    ; 0      ; 1      ; 1      ; 3      ; .000   ; 1      ; .333   ; 0; 0   ; 0       ; 0; 0 
+11          ; Smajic, Anel              ; 16; 3   ; 0      ; 0      ; 0      ; 1      ; .000   ; 1      ; 1.000  ; 0; 0   ; 0       ; 0; 0 
+26          ; Fiorentini, Bruno         ; 2; 2    ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000   ; 0; 0   ; 0       ; 0; 0 
+19          ; Saavedra, Alberto         ; 1; 0    ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000   ; 0; 0   ; 0       ; 0; 0 
+25          ; Semintendi, Nick          ; 1; 0    ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000   ; 0; 0   ; 0       ; 0; 0 
+29          ; Barkoff, Ben              ; 13; 1   ; 0      ; 1      ; 1      ; 0      ; .000   ; 0      ; .000   ; 0; 0   ; 0       ; 0; 0 
+1           ; Zehring, Joshua           ; 17; 17  ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000   ; 0; 0   ; 0       ; 0; 0
