@@ -1,31 +1,62 @@
 Team: Virginia Tech
 Competition: NCAA Division I Men's Soccer Championship
 
+Season: 2014
+BlockSource: http://www.hokiesports.com/msoccer/stats/2014/?season
+
+*##           NAME       GP-GS   G       A       PTS     SH      SHOT%   SOG     SOG%    GW      PK-ATT  MINUTES
+Key: number; name; games_played; games_started; goals; assists; points; shots; shot_percentage; shots_on_goal; sog_percentage; game_winning; pk_goals; pk_attempts; minutes
+
+11          ; RICARDO JOHN              ; 17; 13  ; 5      ; 1      ; 11     ; 40     ; .125   ; 21     ; .525   ; 2      ; 0; 0    ; 1203
+6           ; MERLIN BAUS               ; 16; 16  ; 3      ; 2      ; 8      ; 23     ; .130   ; 9      ; .391   ; 0      ; 1; 1    ; 1215
+19          ; SOM ESSOME                ; 13; 12  ; 3      ; 5      ; 11     ; 25     ; .120   ; 13     ; .520   ; 2      ; 0; 0    ; 1039
+10          ; NIELS KIRCH               ; 16; 14  ; 2      ; 2      ; 6      ; 15     ; .133   ; 8      ; .533   ; 1      ; 0; 0    ; 1233
+8           ; BRAD VORV                 ; 17; 16  ; 1      ; 4      ; 6      ; 15     ; .067   ; 6      ; .400   ; 1      ; 0; 0    ; 1357
+12          ; DYLAN HUBER               ; 15; 13  ; 1      ; 0      ; 2      ; 10     ; .100   ; 5      ; .500   ; 0      ; 0; 0    ; 1253
+15          ; JAMES COMPTON             ; 6; 0    ; 1      ; 0      ; 2      ; 1      ; .000   ; 1      ; 1.000  ; 0      ; 0; 0    ; 100
+20          ; RODRIGO ZAMPIERI          ; 8; 3    ; 1      ; 0      ; 2      ; 3      ; .333   ; 1      ; .333   ; 0      ; 0; 0    ; 417
+26          ; COLLIN VERFURTH           ; 16; 13  ; 1      ; 0      ; 2      ; 10     ; .100   ; 8      ; .800   ; 1      ; 0; 0    ; 1293
+31          ; IAN GRUBB                 ; 13; 2   ; 1      ; 0      ; 2      ; 8      ; .125   ; 4      ; .500   ; 0      ; 0; 0    ; 418
+1           ; BEN LUNDGAARD             ; 12; 12  ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000   ; 0      ; 0; 0    ; 1144
+2           ; CHRISTIAN TROUT           ; 1; 0    ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000   ; 0      ; 0; 0    ; 30
+3           ; DREW RANAHAN              ; 1; 1    ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000   ; 0      ; 0; 0    ; 1
+4           ; ALESSANDRO MION           ; 17; 17  ; 0      ; 0      ; 0      ; 8      ; .000   ; 2      ; .250   ; 0      ; 0; 0    ; 1549
+5           ; ANDRE THOMAS              ; 2; 1    ; 0      ; 1      ; 1      ; 0      ; .000   ; 0      ; .000   ; 0      ; 0; 0    ; 111
+7           ; PAT CONROY                ; 16; 16  ; 0      ; 0      ; 0      ; 1      ; .000   ; 0      ; .000   ; 0      ; 0; 0    ; 1235
+9           ; DANIEL LAURETANO          ; 15; 9   ; 0      ; 2      ; 2      ; 12     ; .000   ; 5      ; .417   ; 0      ; 0; 0    ; 807
+13          ; DIEGO M DE MIGUEL         ; 11; 6   ; 0      ; 0      ; 0      ; 4      ; .000   ; 1      ; .250   ; 0      ; 0; 0    ; 682
+14          ; GRAYDON HESTER            ; 7; 0    ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000   ; 0      ; 0; 0    ; 137
+21          ; JONATHAN CRUICKSHANK      ; 15; 14  ; 0      ; 2      ; 2      ; 3      ; .000   ; 0      ; .000   ; 0      ; 0; 0    ; 1266
+23          ; FORREST WHITE             ; 13; 4   ; 0      ; 1      ; 1      ; 13     ; .000   ; 6      ; .462   ; 0      ; 0; 0    ; 525
+25          ; BEN LOCKLER               ; 5; 5    ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000   ; 0      ; 0; 0    ; 450
+
 
 Season: 2013
 BlockSource: http://www.hokiesports.com/msoccer/stats/2013/?season
 
-##           NAME       GP-GS   G       A       PTS     SH      SHOT%   SOG     SOG%    GW      PK-ATT  MINUTES
-6            ROBERT ALBERTI     16-15   6       2       14      48      .125    21      .438    1       1-1     1123
-7            KAI MARSHALL       15-8    3       2       8       16      .188    8       .500    2       0-0     810
-4            ALESSANDRO MION    14-14   2       0       4       16      .125    6       .375    1       0-0     1260
-5            ANDRE THOMAS       16-16   2       2       6       11      .182    6       .545    0       0-0     1493
-11           DAVID CLEMENS      16-16   2       2       6       38      .053    10      .263    0       1-1     1383
-30           DANIEL LAURETANO   17-11   2       0       4       22      .091    9       .409    0       0-0     961
-1            KYLE RENFRO        17-17   0       0       0       0       .000    0       .000    0       0-0     1643
-3            DREW RANAHAN       14-9    0       1       1       7       .000    2       .286    0       0-0     828
-8            BRAD VORV          16-14   0       1       1       0       .000    0       .000    0       0-0     1308
-9            DANIEL AMAR        4-0     0       0       0       0       .000    0       .000    0       0-0     42
-10           NIELS KIRCH        17-17   0       0       0       16      .000    4       .250    0       0-0     1418
-12           BRANDON EATON      17-7    0       2       2       12      .000    4       .333    0       0-0     622
-15           MIKE WILKIE        2-0     0       0       0       0       .000    0       .000    0       0-0     22
-16           DEVEN MASON        17-16   0       1       1       6       .000    2       .333    0       0-0     1563
-17           JAMES DUVCEVSKI    12-7    0       0       0       5       .000    1       .200    0       0-0     689
-20           SHANE ROSE         7-0     0       0       0       1       .000    0       .000    0       0-0     72
-21           DEVANTE DUBOSE     17-17   0       0       0       0       .000    0       .000    0       0-0     1641
-22           CONNOR POMPILIO    11-2    0       0       0       4       .000    3       .750    0       0-0     354
-23           AUSTIN STEWART     16-1    0       0       0       5       .000    1       .200    0       0-0     528
-24           CONNOR SWARTZ      1-0     0       0       0       0       .000    0       .000    0       0-0     9
-26           LEON UNGEWICKEL    6-0     0       0       0       2       .000    0       .000    0       0-0     129
-28           NICK SMIRNIOTOPOULOS       1-0     0       0       0       0       .000    0       .000    0       0-0     9
-29           CAMERON OWENS              2-0     0       0       0       0       .000    0       .000    0       0-0     50
+*##           NAME       GP-GS   G       A       PTS     SH      SHOT%   SOG     SOG%    GW      PK-ATT  MINUTES
+Key: number; name; games_played; games_started; goals; assists; points; shots; shot_percentage; shots_on_goal; sog_percentage; game_winning; pk_goals; pk_attempts; minutes
+
+6           ; ROBERT ALBERTI            ; 16; 15  ; 6      ; 2      ; 14     ; 48     ; .125   ; 21     ; .438   ; 1      ; 1; 1    ; 1123
+7           ; KAI MARSHALL              ; 15; 8   ; 3      ; 2      ; 8      ; 16     ; .188   ; 8      ; .500   ; 2      ; 0; 0    ; 810
+4           ; ALESSANDRO MION           ; 14; 14  ; 2      ; 0      ; 4      ; 16     ; .125   ; 6      ; .375   ; 1      ; 0; 0    ; 1260
+5           ; ANDRE THOMAS              ; 16; 16  ; 2      ; 2      ; 6      ; 11     ; .182   ; 6      ; .545   ; 0      ; 0; 0    ; 1493
+11          ; DAVID CLEMENS             ; 16; 16  ; 2      ; 2      ; 6      ; 38     ; .053   ; 10     ; .263   ; 0      ; 1; 1    ; 1383
+30          ; DANIEL LAURETANO          ; 17; 11  ; 2      ; 0      ; 4      ; 22     ; .091   ; 9      ; .409   ; 0      ; 0; 0    ; 961
+1           ; KYLE RENFRO               ; 17; 17  ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000   ; 0      ; 0; 0    ; 1643
+3           ; DREW RANAHAN              ; 14; 9   ; 0      ; 1      ; 1      ; 7      ; .000   ; 2      ; .286   ; 0      ; 0; 0    ; 828
+8           ; BRAD VORV                 ; 16; 14  ; 0      ; 1      ; 1      ; 0      ; .000   ; 0      ; .000   ; 0      ; 0; 0    ; 1308
+9           ; DANIEL AMAR               ; 4; 0    ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000   ; 0      ; 0; 0    ; 42
+10          ; NIELS KIRCH               ; 17; 17  ; 0      ; 0      ; 0      ; 16     ; .000   ; 4      ; .250   ; 0      ; 0; 0    ; 1418
+12          ; BRANDON EATON             ; 17; 7   ; 0      ; 2      ; 2      ; 12     ; .000   ; 4      ; .333   ; 0      ; 0; 0    ; 622
+15          ; MIKE WILKIE               ; 2; 0    ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000   ; 0      ; 0; 0    ; 22
+16          ; DEVEN MASON               ; 17; 16  ; 0      ; 1      ; 1      ; 6      ; .000   ; 2      ; .333   ; 0      ; 0; 0    ; 1563
+17          ; JAMES DUVCEVSKI           ; 12; 7   ; 0      ; 0      ; 0      ; 5      ; .000   ; 1      ; .200   ; 0      ; 0; 0    ; 689
+20          ; SHANE ROSE                ; 7; 0    ; 0      ; 0      ; 0      ; 1      ; .000   ; 0      ; .000   ; 0      ; 0; 0    ; 72
+21          ; DEVANTE DUBOSE            ; 17; 17  ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000   ; 0      ; 0; 0    ; 1641
+22          ; CONNOR POMPILIO           ; 11; 2   ; 0      ; 0      ; 0      ; 4      ; .000   ; 3      ; .750   ; 0      ; 0; 0    ; 354
+23          ; AUSTIN STEWART            ; 16; 1   ; 0      ; 0      ; 0      ; 5      ; .000   ; 1      ; .200   ; 0      ; 0; 0    ; 528
+24          ; CONNOR SWARTZ             ; 1; 0    ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000   ; 0      ; 0; 0    ; 9
+26          ; LEON UNGEWICKEL           ; 6; 0    ; 0      ; 0      ; 0      ; 2      ; .000   ; 0      ; .000   ; 0      ; 0; 0    ; 129
+28          ; NICK SMIRNIOTOPOULOS      ; 1; 0    ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000   ; 0      ; 0; 0    ; 9
+29          ; CAMERON OWENS             ; 2; 0    ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000   ; 0      ; 0; 0    ; 50
