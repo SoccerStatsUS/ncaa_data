@@ -6,6 +6,7 @@ BlockSource: http://grfx.cstv.com/photos/schools/denv/sports/m-soccer/auto_pdf/2
 
 
 *##           Player     GP-GS   Min     G       A       Pts     Sh      Shot%   SOG     SOG%    YC-RC   GW      PK-Att  FG  OT  Hat  GTG  Foul 
+Key: number; name; games_played; games_started; minutes; goals; assists; points; shots; shot_percentage; shots_on_goal; sog_percentage; yellow_cards; red_cards; game_winning; pk_goals; pk_attempts; fg; ot; hat; gtg; foul
 
 31          ; Lofgren, Cody             ; 20; 18  ; 1423   ; 7      ; 5      ; 19     ; 49     ; .143   ; 21     ; .429   ; 1; 0    ; 2      ; 0; 0 ; 2   ; 1   ; 0   ; 0 ; 0 
 22          ; Lesch, Jason              ; 20; 19  ; 1505   ; 5      ; 5      ; 15     ; 30     ; .167   ; 15     ; .500   ; 1; 0    ; 3      ; 0; 0 ; 3   ; 0   ; 0   ; 0 ; 0 

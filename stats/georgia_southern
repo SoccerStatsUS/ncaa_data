@@ -28,3 +28,28 @@ Conner, Jon            ; 7; 2    ; 237    ; 0      ; 0      ; 0      ; 0      ; 
 Johnson, Austin        ; 2; 2    ; 138    ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0; 0    ; 0      ; 0; 0
 MacMurray, Chris       ; 14; 13  ; 1128   ; 0      ; 0      ; 0      ; 2      ; 0      ; 0      ; 0      ; 0; 0    ; 0      ; 0; 0
 Falle, Jack            ; 17; 17  ; 1504   ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0; 0    ; 0      ; 0; 0
+
+
+Season: 2013
+BlockSource: http://gseagles.com/documents/2014/8/11/2013.pdf?id=749
+
+*## Player gp g a pts sh sh% sog sog% gw pk-att
+Key: number; name; games_played; goals; assists; points; shots; shot_percentage; shots_on_goal; sog_percentage; game_winning; pk_goals; pk_attempts
+
+9 ; Witt Carlisle     ; 19; 8; 3; 19; 52;  .154; 27; .519; 2; 1 ; 1
+13; Hunter Norton     ; 19; 5; 4; 14; 27;  .185; 17; .630; 1; 0 ; 0
+12; Eric Dinka        ; 18; 3; 2; 8 ; 49;  .061; 20; .408; 2; 0 ; 0
+25; Jeremy Rector     ; 17; 3; 1; 7 ; 22;  .136; 10; .455; 2; 0 ; 0
+4 ; Reed Norton       ; 18; 1; 3; 5 ; 42;  .024; 21; .500; 0; 0 ; 1
+24; Rocco Bagley      ; 15; 1; 1; 3 ; 12;  .083; 5 ; .417; 0; 0 ; 0
+11; David Vargas Masis; 17; 1; 1; 3 ; 10;  .100; 5 ; .500; 0; 0 ; 0
+10; Ethan LaPan       ; 18; 0; 3; 3 ; 15;  .000; 2 ; .133; 0; 0 ; 0
+6 ; Aidan Reising     ; 19; 1; 0; 2 ; 9 ;  .111; 3 ; .333; 1; 0 ; 0
+17; Emmanuel Raji     ; 16; 1; 0; 2 ; 8 ;  .125; 4 ; .500; 0; 0 ; 0
+8 ; Roberto Lopez     ; 11; 1; 0; 2 ; 4 ;  .250; 3 ; .750; 1; 0 ; 0
+3 ; Thomas Valikonis  ; 19; 0; 1; 1 ; 12;  .000; 5 ; .417; 0; 0 ; 0
+5 ; Josh Ward         ; 13; 0; 0; 0 ; 9 ;  .000; 1 ; .111; 0; 0 ; 0
+15; Nick Lane         ; 18; 0; 0; 0 ; 5 ;  .000; 2 ; .400; 0; 0 ; 0
+2 ; Chase Park        ; 18; 0; 0; 0 ; 5 ;  .000; 2 ; .400; 0; 0 ; 0
+14; Thomas Hamilton   ; 10; 0; 0; 0 ; 2 ;  .000; 0 ; .000; 0; 0 ; 0
+1 ; Neal Bates        ; 19; 0; 0; 0 ; 0 ;  .000; 0 ; .000; 0; 0 ; 0

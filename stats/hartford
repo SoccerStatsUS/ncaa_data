@@ -5,27 +5,188 @@ Season: 2014
 BlockSource: http://www.hartfordhawks.com/cumestats.aspx?path=msoc&year=2014
 
 *Player       GP-GS      Min     G       A       Pts     Sh      Shot%   SOG     SOG%    YC-RC   GW      PS-Att
+Key: name; games_played; games_started; minutes; goals; assists; points; shots; shot_percentage; shots_on_goal; sog_percentage; yellow_cards; red_cards; game_winning; pk_goals; pk_attempts
 
-Cohen , Udi            ; 17-15  ; 1316   ; 3      ; 5      ; 11     ; 32     ; 0.094  ; 11     ; 0.344  ; 1-0    ; 1      ; 2-2
-Tryon, Jeff            ; 18-11  ; 1103   ; 4      ; 2      ; 10     ; 36     ; 0.111  ; 19     ; 0.528  ; 3-0    ; 2      ; 0-0
-Simms, Javoni          ; 16-13  ; 1220   ; 3      ; 3      ; 9      ; 46     ; 0.065  ; 15     ; 0.326  ; 0-0    ; 2      ; 0-0
-Yeaney, Connor         ; 16-12  ; 1042   ; 3      ; 0      ; 6      ; 9      ; 0.333  ; 8      ; 0.889  ; 1-0    ; 1      ; 0-0
-Jones, Romario         ; 19-17  ; 1467   ; 3      ; 0      ; 6      ; 24     ; 0.125  ; 9      ; 0.375  ; 2-0    ; 1      ; 0-0
-Roye, Rohan            ; 19-18  ; 1557   ; 1      ; 4      ; 6      ; 18     ; 0.056  ; 6      ; 0.333  ; 5-1    ; 1      ; 0-0
-Tall, Omar             ; 18-7   ; 1102   ; 1      ; 3      ; 5      ; 15     ; 0.067  ; 6      ; 0.400  ; 0-1    ; 0      ; 0-0
-Hyde, Jhamie           ; 17-17  ; 1576   ; 1      ; 0      ; 2      ; 9      ; 0.111  ; 1      ; 0.111  ; 2-1    ; 0      ; 0-0
-Williamson, Romaine    ; 17-9   ; 810    ; 1      ; 0      ; 2      ; 20     ; 0.050  ; 7      ; 0.350  ; 2-0    ; 0      ; 0-0
-Petridis, Aleko        ; 17-5   ; 650    ; 1      ; 0      ; 2      ; 6      ; 0.167  ; 1      ; 0.167  ; 1-0    ; 1      ; 0-0
-Morrison, Andre        ; 18-18  ; 1640   ; 1      ; 0      ; 2      ; 16     ; 0.063  ; 3      ; 0.188  ; 3-1    ; 1      ; 0-0
-Team                   ; 19-0   ; 5      ; 1      ; 0      ; 2      ; 0      ; 0      ; 1      ; 0      ; 0-0    ; 1      ; 0-0
-Jones, Blake           ; 19-17  ; 1454   ; 0      ; 1      ; 1      ; 4      ; 0      ; 0      ; 0      ; 1-0    ; 0      ; 0-0
-Barry, Matt            ; 15-10  ; 984    ; 0      ; 1      ; 1      ; 2      ; 0      ; 0      ; 0      ; 1-0    ; 0      ; 0-0
-Hallahan, Patrick      ; 13-5   ; 464    ; 0      ; 1      ; 1      ; 3      ; 0      ; 1      ; 0.333  ; 0-0    ; 0      ; 0-0
-MacKinnon, David       ; 18-18  ; 1662   ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0-0    ; 0      ; 0-0
-McKirgan, Scott        ; 2-1    ; 109    ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0-0    ; 0      ; 0-0
-Murry, Andrew          ; 4-0    ; 22     ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0-0    ; 0      ; 0-0
-Altman, Daniel         ; 7-1    ; 205    ; 0      ; 0      ; 0      ; 2      ; 0      ; 1      ; 0.500  ; 1-0    ; 0      ; 0-0
-LoBello, Anthony       ; 15-10  ; 585    ; 0      ; 0      ; 0      ; 2      ; 0      ; 0      ; 0      ; 0-0    ; 0      ; 0-0
-Slomski, Jacob         ; 3-1    ; 53     ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0-0    ; 0      ; 0-0
-Barry, Mike            ; 9-3    ; 298    ; 0      ; 0      ; 0      ; 4      ; 0      ; 0      ; 0      ; 1-0    ; 0      ; 0-0
-Swift, Quenton         ; 9-1    ; 247    ; 0      ; 0      ; 0      ; 3      ; 0      ; 0      ; 0      ; 0-0    ; 0      ; 0-0
+Cohen , Udi            ; 17; 15  ; 1316   ; 3      ; 5      ; 11     ; 32     ; 0.094  ; 11     ; 0.344  ; 1; 0    ; 1      ; 2; 2
+Tryon, Jeff            ; 18; 11  ; 1103   ; 4      ; 2      ; 10     ; 36     ; 0.111  ; 19     ; 0.528  ; 3; 0    ; 2      ; 0; 0
+Simms, Javoni          ; 16; 13  ; 1220   ; 3      ; 3      ; 9      ; 46     ; 0.065  ; 15     ; 0.326  ; 0; 0    ; 2      ; 0; 0
+Yeaney, Connor         ; 16; 12  ; 1042   ; 3      ; 0      ; 6      ; 9      ; 0.333  ; 8      ; 0.889  ; 1; 0    ; 1      ; 0; 0
+Jones, Romario         ; 19; 17  ; 1467   ; 3      ; 0      ; 6      ; 24     ; 0.125  ; 9      ; 0.375  ; 2; 0    ; 1      ; 0; 0
+Roye, Rohan            ; 19; 18  ; 1557   ; 1      ; 4      ; 6      ; 18     ; 0.056  ; 6      ; 0.333  ; 5; 1    ; 1      ; 0; 0
+Tall, Omar             ; 18; 7   ; 1102   ; 1      ; 3      ; 5      ; 15     ; 0.067  ; 6      ; 0.400  ; 0; 1    ; 0      ; 0; 0
+Hyde, Jhamie           ; 17; 17  ; 1576   ; 1      ; 0      ; 2      ; 9      ; 0.111  ; 1      ; 0.111  ; 2; 1    ; 0      ; 0; 0
+Williamson, Romaine    ; 17; 9   ; 810    ; 1      ; 0      ; 2      ; 20     ; 0.050  ; 7      ; 0.350  ; 2; 0    ; 0      ; 0; 0
+Petridis, Aleko        ; 17; 5   ; 650    ; 1      ; 0      ; 2      ; 6      ; 0.167  ; 1      ; 0.167  ; 1; 0    ; 1      ; 0; 0
+Morrison, Andre        ; 18; 18  ; 1640   ; 1      ; 0      ; 2      ; 16     ; 0.063  ; 3      ; 0.188  ; 3; 1    ; 1      ; 0; 0
+Team                   ; 19; 0   ; 5      ; 1      ; 0      ; 2      ; 0      ; 0      ; 1      ; 0      ; 0; 0    ; 1      ; 0; 0
+Jones, Blake           ; 19; 17  ; 1454   ; 0      ; 1      ; 1      ; 4      ; 0      ; 0      ; 0      ; 1; 0    ; 0      ; 0; 0
+Barry, Matt            ; 15; 10  ; 984    ; 0      ; 1      ; 1      ; 2      ; 0      ; 0      ; 0      ; 1; 0    ; 0      ; 0; 0
+Hallahan, Patrick      ; 13; 5   ; 464    ; 0      ; 1      ; 1      ; 3      ; 0      ; 1      ; 0.333  ; 0; 0    ; 0      ; 0; 0
+MacKinnon, David       ; 18; 18  ; 1662   ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0; 0    ; 0      ; 0; 0
+McKirgan, Scott        ; 2; 1    ; 109    ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0; 0    ; 0      ; 0; 0
+Murry, Andrew          ; 4; 0    ; 22     ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0; 0    ; 0      ; 0; 0
+Altman, Daniel         ; 7; 1    ; 205    ; 0      ; 0      ; 0      ; 2      ; 0      ; 1      ; 0.500  ; 1; 0    ; 0      ; 0; 0
+LoBello, Anthony       ; 15; 10  ; 585    ; 0      ; 0      ; 0      ; 2      ; 0      ; 0      ; 0      ; 0; 0    ; 0      ; 0; 0
+Slomski, Jacob         ; 3; 1    ; 53     ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0; 0    ; 0      ; 0; 0
+Barry, Mike            ; 9; 3    ; 298    ; 0      ; 0      ; 0      ; 4      ; 0      ; 0      ; 0      ; 1; 0    ; 0      ; 0; 0
+Swift, Quenton         ; 9; 1    ; 247    ; 0      ; 0      ; 0      ; 3      ; 0      ; 0      ; 0      ; 0; 0    ; 0      ; 0; 0
+
+
+Season: 2013
+BlockSource: http://www.hartfordhawks.com/cumestats.aspx?path=msoc&year=2013
+
+*Player  GP-GS   Min     G       A       Pts     Sh      Shot%   SOG     SOG%    YC-RC   GW      PS-Att
+
+Simms, Javoni          ; 20; 20  ; 1653   ; 8      ; 1      ; 17     ; 61     ; 0.131  ; 26     ; 0.426  ; 1; 1    ; 3      ; 0; 0
+Tryon, Jeff            ; 21; 4   ; 1003   ; 6      ; 3      ; 15     ; 29     ; 0.207  ; 12     ; 0.414  ; 6; 0    ; 2      ; 0; 0
+Lowe, Damion           ; 19; 19  ; 1736   ; 5      ; 2      ; 12     ; 23     ; 0.217  ; 10     ; 0.435  ; 7; 1    ; 3      ; 0; 0
+Bernhardsson, David    ; 21; 21  ; 1277   ; 3      ; 5      ; 11     ; 37     ; 0.081  ; 14     ; 0.378  ; 1; 0    ; 3      ; 0; 0
+Tall, Omar             ; 21; 11  ; 1133   ; 2      ; 4      ; 8      ; 18     ; 0.111  ; 8      ; 0.444  ; 0; 0    ; 1      ; 0; 0
+Santaga, Anthony       ; 20; 20  ; 1746   ; 2      ; 3      ; 7      ; 47     ; 0.043  ; 18     ; 0.383  ; 1; 1    ; 0      ; 0; 0
+Roye, Rohan            ; 18; 18  ; 1638   ; 0      ; 5      ; 5      ; 8      ; 0      ; 2      ; 0.250  ; 9; 0    ; 0      ; 0; 0
+Petridis, Aleko        ; 21; 21  ; 1678   ; 1      ; 1      ; 3      ; 18     ; 0.056  ; 8      ; 0.444  ; 2; 0    ; 1      ; 0; 0
+LoBello, Anthony       ; 16; 2   ; 688    ; 1      ; 0      ; 2      ; 7      ; 0.143  ; 1      ; 0.143  ; 0; 0    ; 0      ; 0; 0
+Jones, Blake           ; 20; 19  ; 1707   ; 0      ; 1      ; 1      ; 4      ; 0      ; 2      ; 0.500  ; 4; 0    ; 0      ; 0; 0
+Jones, Romario         ; 21; 21  ; 1748   ; 0      ; 1      ; 1      ; 17     ; 0      ; 4      ; 0.235  ; 3; 0    ; 0      ; 0; 0
+Gil, Jon               ; 15; 4   ; 343    ; 0      ; 1      ; 1      ; 3      ; 0      ; 0      ; 0      ; 2; 0    ; 0      ; 0; 0
+Dineen, Shane          ; 5; 0    ; 41     ; 0      ; 1      ; 1      ; 1      ; 0      ; 0      ; 0      ; 0; 0    ; 0      ; 0; 0
+Cohen , Udi            ; 7; 5    ; 490    ; 0      ; 1      ; 1      ; 11     ; 0      ; 5      ; 0.455  ; 1; 0    ; 0      ; 0; 0
+MacKinnon, David       ; 19; 18  ; 1712   ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0; 0    ; 0      ; 0; 0
+Tuumi, Viltsu          ; 3; 3    ; 227    ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0; 0    ; 0      ; 0; 0
+Yeaney, Connor         ; 12; 6   ; 579    ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0; 0    ; 0      ; 0; 0
+Hyde, Jhamie           ; 18; 18  ; 1654   ; 0      ; 0      ; 0      ; 7      ; 0      ; 1      ; 0.143  ; 3; 0    ; 0      ; 0; 0
+Hallahan, Patrick      ; 9; 0    ; 144    ; 0      ; 0      ; 0      ; 3      ; 0      ; 0      ; 0      ; 1; 0    ; 0      ; 0; 0
+Monteiro, Nicholas     ; 3; 1    ; 90     ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0; 0    ; 0      ; 0; 0
+Bodenstein, Nathan     ; 1; 0    ; 10     ; 0      ; 0      ; 0      ; 1      ; 0      ; 1      ; 1.000  ; 0; 0    ; 0      ; 0; 0
+Swift, Quenton         ; 3; 0    ; 18     ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0; 0    ; 0      ; 0; 0
+
+
+Season: 2012
+BlockSource: http://www.hartfordhawks.com/cumestats.aspx?path=msoc&year=2012
+
+
+*Player       GP-GS      Min     G       A       Pts     Sh      Shot%   SOG     SOG%    YC-RC   GW      PS-Att
+
+Simms, Javoni          ; 17; 17  ; 1481   ; 9      ; 1      ; 19     ; 39     ; 0.231  ; 20     ; 0.513  ; 4; 0    ; 4      ; 0; 0
+Santaga, Anthony       ; 17; 17  ; 1550   ; 7      ; 3      ; 17     ; 55     ; 0.127  ; 21     ; 0.382  ; 1; 0    ; 3      ; 1; 1
+Lowe, Damion           ; 16; 16  ; 1489   ; 3      ; 1      ; 7      ; 9      ; 0.333  ; 5      ; 0.556  ; 7; 0    ; 0      ; 0; 0
+Roye, Rohan            ; 8; 6    ; 520    ; 1      ; 2      ; 4      ; 8      ; 0.125  ; 3      ; 0.375  ; 2; 1    ; 0      ; 0; 0
+Bernhardsson, David    ; 6; 6    ; 430    ; 1      ; 2      ; 4      ; 16     ; 0.063  ; 6      ; 0.375  ; 1; 0    ; 0      ; 0; 0
+Yeaney, Connor         ; 17; 17  ; 1444   ; 1      ; 1      ; 3      ; 4      ; 0.250  ; 4      ; 1.000  ; 3; 0    ; 0      ; 0; 0
+Stamopoulos, James     ; 14; 13  ; 1103   ; 0      ; 3      ; 3      ; 16     ; 0      ; 6      ; 0.375  ; 1; 0    ; 0      ; 0; 0
+Axelsson, Mathias      ; 17; 17  ; 1469   ; 0      ; 3      ; 3      ; 5      ; 0      ; 2      ; 0.400  ; 2; 0    ; 0      ; 0; 0
+Tall, Omar             ; 13; 3   ; 512    ; 0      ; 2      ; 2      ; 6      ; 0      ; 1      ; 0.167  ; 0; 0    ; 0      ; 0; 0
+Turesson, Simon        ; 17; 17  ; 1484   ; 0      ; 1      ; 1      ; 4      ; 0      ; 3      ; 0.750  ; 1; 0    ; 0      ; 0; 0
+Lewis, Kevin           ; 14; 14  ; 1243   ; 0      ; 1      ; 1      ; 4      ; 0      ; 1      ; 0.250  ; 4; 2    ; 0      ; 0; 0
+Tuumi, Viltsu          ; 17; 17  ; 1586   ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0; 0    ; 0      ; 0; 0
+Cannata, Matthew       ; 3; 0    ; 68     ; 0      ; 0      ; 0      ; 1      ; 0      ; 0      ; 0      ; 0; 0    ; 0      ; 0; 0
+Murry, Andrew          ; 2; 0    ; 18     ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0; 0    ; 0      ; 0; 0
+Jones, Blake           ; 16; 11  ; 852    ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 1; 0    ; 0      ; 0; 0
+Hallahan, Patrick      ; 5; 0    ; 44     ; 0      ; 0      ; 0      ; 3      ; 0      ; 1      ; 0.333  ; 0; 0    ; 0      ; 0; 0
+LoBello, Anthony       ; 14; 7   ; 735    ; 0      ; 0      ; 0      ; 5      ; 0      ; 3      ; 0.600  ; 0; 0    ; 0      ; 0; 0
+Petridis, Aleko        ; 10; 0   ; 372    ; 0      ; 0      ; 0      ; 4      ; 0      ; 2      ; 0.500  ; 0; 0    ; 0      ; 0; 0
+Burnham, Andrew        ; 4; 0    ; 44     ; 0      ; 0      ; 0      ; 1      ; 0      ; 1      ; 1.000  ; 1; 0    ; 0      ; 0; 0
+Miller, Malcolm        ; 1; 0    ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0; 0    ; 0      ; 0; 0
+Gil, Jon               ; 13; 9   ; 603    ; 0      ; 0      ; 0      ; 2      ; 0      ; 1      ; 0.500  ; 1; 0    ; 0      ; 0; 0
+Holguin, Dillon        ; 8; 0    ; 246    ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0; 0    ; 0      ; 0; 0
+
+
+
+Season: 2011
+BlockSource: http://www.hartfordhawks.com/custompages/stats/msoccer/2011/teamcume.htm
+
+*##           Player     GP-GS   G       A       Pts     Sh      Shot%   SOG     SOG%    GW      PK-Att 
+
+10          ; David Bernhardsson        ; 13; 13  ; 6      ; 6      ; 18     ; 39     ; .154   ; 19     ; .487  ; 1       ; 0; 1 
+13          ; Anthony Santaga           ; 21; 21  ; 6      ; 5      ; 17     ; 51     ; .118   ; 23     ; .451  ; 2       ; 0; 0 
+3           ; Atobra Ampadu             ; 21; 21  ; 4      ; 2      ; 10     ; 40     ; .100   ; 13     ; .325  ; 1       ; 0; 0 
+11          ; James Stamopoulos         ; 21; 21  ; 3      ; 1      ; 7      ; 30     ; .100   ; 13     ; .433  ; 1       ; 1; 1 
+9           ; Rohan Roye                ; 6; 5    ; 3      ; 0      ; 6      ; 13     ; .231   ; 7      ; .538  ; 0       ; 1; 1 
+4           ; Connor Yeaney             ; 21; 21  ; 3      ; 0      ; 6      ; 9      ; .333   ; 4      ; .444  ; 1       ; 0; 0 
+7           ; Patrick Boucher           ; 21; 21  ; 1      ; 3      ; 5      ; 22     ; .045   ; 8      ; .364  ; 0       ; 0; 0 
+14          ; Jorge Rodriguez           ; 17; 17  ; 2      ; 0      ; 4      ; 17     ; .118   ; 6      ; .353  ; 1       ; 0; 0 
+16          ; Mathias Axelsson          ; 20; 20  ; 0      ; 3      ; 3      ; 3      ; .000   ; 2      ; .667  ; 0       ; 0; 0 
+21          ; Ryan Wahab                ; 6; 4    ; 1      ; 0      ; 2      ; 6      ; .167   ; 2      ; .333  ; 1       ; 0; 0 
+8           ; Kevin Lewis               ; 18; 17  ; 0      ; 1      ; 1      ; 14     ; .000   ; 3      ; .214  ; 0       ; 0; 0 
+15          ; Necas Collins             ; 18; 6   ; 0      ; 1      ; 1      ; 11     ; .000   ; 4      ; .364  ; 0       ; 0; 0 
+30          ; Damion Lowe               ; 9; 9    ; 0      ; 1      ; 1      ; 1      ; .000   ; 0      ; .000  ; 0       ; 0; 0 
+6           ; Aleko Petridis            ; 15; 7   ; 0      ; 0      ; 0      ; 7      ; .000   ; 2      ; .286  ; 0       ; 0; 0 
+20          ; Omar Tall                 ; 12; 0   ; 0      ; 0      ; 0      ; 2      ; .000   ; 0      ; .000  ; 0       ; 0; 0 
+23          ; Jon Gil                   ; 19; 7   ; 0      ; 0      ; 0      ; 1      ; .000   ; 0      ; .000  ; 0       ; 0; 0 
+2           ; Matthew Cannata           ; 4; 0    ; 0      ; 0      ; 0      ; 1      ; .000   ; 0      ; .000  ; 0       ; 0; 0 
+27          ; Neil Cunha                ; 1; 0    ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000  ; 0       ; 0; 0 
+19          ; Andrew Liapis             ; 6; 0    ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000  ; 0       ; 0; 0 
+17          ; Lloyd Shillabeer          ; 3; 0    ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000  ; 0       ; 0; 0 
+12          ; Patrick Hallahan          ; 8; 0    ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000  ; 0       ; 0; 0 
+0           ; Matt McElroy              ; 1; 0    ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000  ; 0       ; 0; 0 
+00          ; Luke Citriniti            ; 21; 20  ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000  ; 0       ; 0; 0
+
+
+Season: 2010
+BlockSource: http://www.hartfordhawks.com/custompages/stats/msoccer/2010/teamcume.htm
+
+*##           Player     GP-GS   G       A       Pts     Sh      Shot%   SOG     SOG%    GW      PK-Att 
+
+7           ; Patrick Boucher           ; 15; 15  ; 3      ; 1      ; 7      ; 32     ; .094   ; 12     ; .375  ; 1  ; 0; 0 
+11          ; James Stamopoulos         ; 9; 8    ; 3      ; 0      ; 6      ; 18     ; .167   ; 9      ; .500  ; 2  ; 0; 0 
+14          ; Jorge Rodriguez           ; 14; 12  ; 0      ; 3      ; 3      ; 17     ; .000   ; 10     ; .588  ; 0  ; 0; 0 
+9           ; Steven Aiston             ; 13; 13  ; 1      ; 0      ; 2      ; 10     ; .100   ; 4      ; .400  ; 0  ; 0; 0 
+5           ; Tomas Boyle               ; 13; 12  ; 1      ; 0      ; 2      ; 9      ; .111   ; 3      ; .333  ; 0  ; 0; 0 
+19          ; Andrew Liapis             ; 13; 12  ; 1      ; 0      ; 2      ; 5      ; .200   ; 3      ; .600  ; 1  ; 0; 0 
+10          ; Sean McKinney             ; 9; 6    ; 1      ; 0      ; 2      ; 4      ; .250   ; 1      ; .250  ; 0  ; 0; 0 
+20          ; Sam Groves                ; 15; 15  ; 0      ; 2      ; 2      ; 12     ; .000   ; 4      ; .333  ; 0  ; 0; 0 
+4           ; Liam Williams             ; 11; 11  ; 0      ; 2      ; 2      ; 5      ; .000   ; 1      ; .200  ; 0  ; 0; 0 
+3           ; Bojan Delibasic           ; 15; 15  ; 0      ; 1      ; 1      ; 18     ; .000   ; 7      ; .389  ; 0  ; 0; 0 
+6           ; Jamie Thomas              ; 13; 12  ; 0      ; 0      ; 0      ; 9      ; .000   ; 1      ; .111  ; 0  ; 0; 0 
+8           ; Kevin Lewis               ; 10; 9   ; 0      ; 0      ; 0      ; 3      ; .000   ; 0      ; .000  ; 0  ; 0; 0 
+26          ; Francesco Bianco          ; 8; 0    ; 0      ; 0      ; 0      ; 2      ; .000   ; 1      ; .500  ; 0  ; 0; 0 
+25          ; Dan Sangster              ; 9; 5    ; 0      ; 0      ; 0      ; 2      ; .000   ; 0      ; .000  ; 0  ; 0; 0 
+21          ; Ryan Wahab                ; 10; 1   ; 0      ; 0      ; 0      ; 2      ; .000   ; 0      ; .000  ; 0  ; 0; 0 
+17          ; Lloyd Shilabeer           ; 4; 0    ; 0      ; 0      ; 0      ; 1      ; .000   ; 0      ; .000  ; 0  ; 0; 0 
+23          ; Jon Gil                   ; 8; 4    ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000  ; 0  ; 0; 0 
+22          ; David Butzke              ; 1; 0    ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000  ; 0  ; 0; 0 
+16          ; Lucas Dantas              ; 3; 0    ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000  ; 0  ; 0; 0 
+
+Season: 2009
+BlockSource: http://www.hartfordhawks.com/custompages/stats/msoccer/2009/teamcume.htm
+
+##           Player     GP-GS   G       A       Pts     Sh      Shot%   SOG     SOG%    GW      PK-Att 
+10           Carlos Villa       16-15   8       2       18      52      .154    28      .538    2      1-1 
+8            Ivan Guarin        18-18   4       2       10      68      .059    27      .397    1      0-0 
+12           Patrick Boucher    17-14   3       3       9       30      .100    8       .267    3      0-0 
+7            Vernon Perinchief          15-2    3       0       6       12      .250    7       .583   1   0-0 
+17           James Stamopoulos          18-17   1       4       6       28      .036    15      .536   0   0-0 
+4            Cedomir Tomcic             18-18   1       0       2       13      .077    8       .615   1   0-0 
+3            Bojan Delibasic            17-17   1       0       2       12      .083    6       .500   0   0-0 
+23           Kevin Hall                 11-2    1       0       2       6       .167    4       .667   0   0-0 
+21           Howard Wong                18-14   0       1       1       19      .000    7       .368   0   0-0 
+14           Jorge Rodriguez            17-16   0       1       1       8       .000    3       .375   0   0-0 
+20           Sam Groves                 18-18   0       0       0       19      .000    6       .316   0   0-0 
+9            Andreas Blamo              14-4    0       0       0       18      .000    8       .444   0   0-0 
+6            Jaime Thomas               18-16   0       0       0       13      .000    5       .385   0   0-0 
+15           Kevin Lewis                14-2    0       0       0       2       .000    1       .500   0   0-0 
+19           Andrew Liapis              5-0     0       0       0       0       .000    0       .000   0   0-0 
+5            Anthony Buehler            11-7    0       0       0       0       .000    0       .000   0   0-0 
+1            Nenad Cudic                17-17   0       0       0       0       .000    0       .000   0   0-0 
+
+Season: 2008
+BlockSource: 
+
+Season: 2007
+BlockSource: 
+
+Season: 2006
+BlockSource: 
+
+Season: 2005
+BlockSource: 
+
+Season: 2004
+BlockSource: 
+
+Season: 2003
+BlockSource: 
+
+Season: 2002
+BlockSource: 
+

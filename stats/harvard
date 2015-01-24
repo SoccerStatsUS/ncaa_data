@@ -1,132 +1,217 @@
 Team: Harvard
-
-Season: 2009
-BlockSource: http://www.gocrimson.com/sports/msoc/2009-10/files/teamcume.htm
+Competition: NCAA Division I Men's Soccer Championship
 
 
-*##           Player      GP-GS  G       A       Pts     Sh      Shot%   SOG     SOG%    GW      PK-Att 
+Season: 2014
+BlockSource: http://gocrimson.com/sports/msoc/2014-15/teams/harvard?view=lineup
 
-10           Akpan, Andre               19-19   12      6       30      71       .169   33       .465   4      2-4 
-11           Rogers, Brian              19-11   6       6       18      45       .133   18        .400  3      0-0 
-8            Rousmaniere, Adam          19-19   1       6       8       22       .045   12     .545  0   0-0 
-4            Mitchell, Desmond          17-14   3       1       7       13       .231   3       .231     1   0-0 
-9            Chi, Alex                  19-18   2       0       4       20       .100   6        .300    1   0-0 
-7            Rees, Jamie                17-2    2       0       4       9        .222   3         .333   1   0-0 
-5            Smith, Richard             13-10   2       0       4       8        .250   4       .500   2    0-0 
-3            Prozeller, Scott           19-11   1       2       4       16       .062   4        .250  1    0-0 
-14           Grimm, Brian               19-19   0       3       3       30       .000   12        .400      0   0-0 
-19           Nyamekye, Kwaku            19-19   1       0       2       21       .048   7          .333     0   0-0 
-12           Tsuda, Ben                 11-5    1       0       2       13       .077   6           .462    1   0-0 
-18           Wolfenzon, Zack            11-5    1       0       2       12       .083   6            .500   0   0-0 
-2            Millock, Robert            18-18   0       2       2       1        .000   0             .000  0   0-0 
-21           Moorosi, Tsiu               4-0    0       1       1       1        .000   0              .000     0   0-0 
-16           Linden, Tim                13-0    0       1       1       0        .000   0               .000    0   0-0 
-6            Omosegbon, Baba            18-17   0       0       0       7        .000   4                .571   0   0-0 
-23           O'Neill, Dillon             1-1    0       0       0       0        .000   0       .000   0  0-0 
-22           Fox, Owen                   5-0    0       0       0       0        .000   0       .000  0  0-0 
-20           Welch, Leighton             2-0    0       0       0       0        .000   0        .000    0   0-0 
-17           LaGreca, Jaren              6-2    0       0       0       0        .000   0        .000   0  0-0 
-15           Chaudhuri, Shomesh          3-0    0       0       0       0        .000   0         .000  0  0-0 
-13           Pelletier, James            5-0    0       0       0       0        .000   0          .000    0   0-0 
-1            Harms, Austin              18-18   0       0       0       0        .000   0           .000   0   0-0 
-0            Conrad, Brett               4-1    0       0       0       0        .000   0            .000  0   0-0
+*NO.; NAME; ; YR; POS; GP; GS; G; A; PTS; SH; SH%; SOG; SOG%; YC; RC; PK; GW
+Key: number; name; _; year; position; games_played; games_started; goals; assists; pionts; shots; shot_percentage; shots_on_goal; sog_percentage; yellow_cards; red_cards; pk_goals; pk_assists; game_winning
+
+0; Joe Festa; ; Jr; GK; 3; 1; 0; 0; 0; 0; -; 0; -; 0; 0; 0; 0; 0
+0; Kyle Parks; ; Fr; GK; -; -; -; -; 0; -; -; -; -; -; -; 0; 0; -
+1; Evan Mendez; ; Jr; GK; 16; 16; 0; 0; 0; 0; -; 0; -; 0; 0; 0; 0; 0
+2; Mark Ashby; ; Jr; D; 17; 17; 3; 0; 6; 19; 0.158; 11; 0.579; 3; 0; 0; 0; 1
+3; Tyler Evans; ; Sr; D; 14; 6; 0; 0; 0; 1; 0; 0; 0; 1; 0; 0; 0; 0
+4; Daniel Smith; ; So; F; 13; 12; 3; 1; 7; 13; 0.231; 5; 0.385; 1; 0; 0; 0; 0
+5; Michael Klain; ; Jr; F; 15; 15; 0; 1; 1; 4; 0; 2; 0.5; 0; 0; 0; 0; 0
+6; Matt Sheeleigh; ; Sr; M; 16; 14; 0; 2; 2; 22; 0; 8; 0.364; 1; 0; 0; 0; 0
+7; Michael Innocenzi; ; Sr; F; 6; -; 0; 0; 0; 0; -; 0; -; 0; 0; 0; 0; 0
+8; Andrew Wheelerominu; ; So; M; 17; 17; 2; 3; 7; 22; 0.091; 6; 0.273; 1; 0; 0; 0; 1
+9; Connor McCarthy; ; Sr; F; 14; 1; 0; 0; 0; 5; 0; 2; 0.4; 1; 0; 0; 0; 0
+10; Kyle Henderson; ; Sr; M; 13; 11; 4; 1; 9; 28; 0.143; 12; 0.429; 2; 0; 0; 0; 0
+11; Andrew Chang; ; Jr; M; 17; 16; 1; 2; 4; 5; 0.2; 2; 0.4; 1; 0; 0; 0; 1
+13; Nick Davey; ; Jr; F; 4; -; 0; 0; 0; 1; 0; 1; 1; 0; 0; 0; 0; 0
+14; Oliver White; ; Jr; F; 16; 5; 2; 2; 6; 20; 0.1; 9; 0.45; 1; 0; 0; 0; 2
+15; David Barna; ; Sr; M; 10; -; 1; 0; 2; 6; 0.167; 4; 0.667; 0; 0; 0; 0; 0
+16; Philip Fleischman; ; Sr; D; 14; 3; 3; 0; 6; 6; 0.5; 3; 0.5; 2; 0; 0; 0; 1
+17; Hiroki Kobayashi; ; Sr; F; 16; 12; 3; 3; 9; 19; 0.158; 8; 0.421; 0; 0; 0; 0; 2
+18; Christian Sady; ; Fr; M; 12; 7; 2; 5; 9; 15; 0.133; 7; 0.467; 3; 0; 0; 0; 1
+19; Tim Schmoll; ; Sr; ; 17; 14; 5; 2; 12; 33; 0.152; 20; 0.606; 1; 0; 02; 02; 2
+21; Alex Simon; ; Fr; F; 2; -; 0; 0; 0; 0; -; 0; -; 1; 0; 0; 0; 0
+22; Jake Freeman; ; Jr; F; 11; -; 2; 1; 5; 12; 0.167; 5; 0.417; 0; 0; 0; 0; 0
+23; Tyler Savitsky; ; Fr; F; 16; 1; 0; 2; 2; 17; 0; 9; 0.529; 0; 0; 0; 0; 0
+24; Justin Chrichlow; ; Fr; D; 5; -; 0; 0; 0; 1; 0; 1; 1; 0; 0; 0; 0; 0
+25; Alex Leondis; ; So; D; 5; 3; 0; 0; 0; 1; 0; 0; 0; 0; 0; 0; 0; 0
+26; Sam Brown; ; Fr; M; 17; 16; 0; 5; 5; 14; 0; 7; 0.5; 1; 0; 0; 0; 0
+28; Eric Gylling; ; Fr; D; 6; -; 0; 0; 0; 0; -; 0; -; 1; 0; 0; 0; 0
+29; Nate Devine; ; Fr; F; 13; -; 0; 5; 5; 7; 0; 4; 0.571; 0; 0; 0; 0; 0
+30; Ayo Opeyemi; ; Fr; F; -; -; -; -; 0; -; -; -; -; -; -; 0; 0; -
+31; Ryan Davey; ; Fr; D; -; -; -; -; 0; -; -; -; -; -; -; 0; 0; -
+
+
+
+Season: 2013
+BlockSource: http://gocrimson.com/sports/msoc/2013-14/teams/harvard?view=lineup
+
+*NO.; NAME; ; YR; POS; GP; GS; G; A; PTS; SH; SH%; SOG; SOG%; YC; RC; PK; GW
+Key: number; name; _; year; position; games_played; games_started; goals; assists; points; shots; shot_percentage; shots_on_goal; sog_percentage; yellow_cards; red_cards; pk_goals; pk_attempts; game_winning
+
+0; Joe Festa; ; So; GK; -; -; -; -; 0; -; -; -; -; -; -; 0; 0; -
+0; Evan Mendez; ; So; GK; 10; 9; 0; 0; 0; 0; -; 0; -; 0; 0; 0; 0; 0
+1; Brett Conrad; ; Sr; GK; 10; 8; 0; 0; 0; 1; 0; 1; 1; 1; 0; 0; 0; 0
+2; Mark Ashby; ; So; D; 16; 16; 0; 1; 1; 11; 0; 4; 0.364; 2; 0; 0; 0; 0
+3; Tyler Evans; ; Jr; D; 12; 1; 1; 0; 2; 2; 0.5; 1; 0.5; 0; 0; 0; 0; 0
+4; Ross Friedman; ; Sr; D; 17; 17; 1; 10; 12; 29; 0.034; 11; 0.379; 4; 0; 0; 0; 0
+5; Michael Klain; ; So; F; 17; 17; 0; 3; 3; 11; 0; 3; 0.273; 0; 0; 0; 0; 0
+6; Matt Sheeleigh; ; Jr; ; 8; -; 1; 2; 4; 9; 0.111; 5; 0.556; 1; 0; 0; 0; 0
+7; Michael Innocenzi; ; Jr; F; -; -; -; -; 0; -; -; -; -; -; -; 0; 0; -
+8; A.j. Agha; ; Sr; F; 9; 3; 1; 1; 3; 13; 0.077; 6; 0.462; 1; 0; 0; 0; 0
+9; Connor McCarthy; ; Sr; F; 1; -; 0; 0; 0; 0; -; 0; -; 0; 0; 0; 0; 0
+10; Kyle Henderson; ; Sr; ; -; -; -; -; 0; -; -; -; -; -; -; 0; 0; -
+11; Andrew Chang; ; So; ; 16; 12; 2; 0; 4; 15; 0.133; 7; 0.467; 0; 0; 0; 0; 0
+12; Oliver White; ; So; F; 12; 3; 1; 0; 2; 5; 0.2; 2; 0.4; 2; 0; 0; 0; 1
+13; Nick Davey; ; So; F; -; -; -; -; 0; -; -; -; -; -; -; 0; 0; -
+14; William Giahos; ; Sr; ; 11; 6; 0; 1; 1; 3; 0; 0; 0; 0; 0; 0; 0; 0
+15; David Barna; ; Jr; ; 15; 6; 1; 0; 2; 7; 0.143; 4; 0.571; 0; 0; 0; 0; 0
+16; Philip Fleischman; ; Jr; D; 14; 10; 2; 1; 5; 8; 0.25; 4; 0.5; 2; 0; 0; 0; 0
+17; Hiroki Kobayashi; ; Jr; F; 15; 8; 1; 0; 2; 13; 0.077; 8; 0.615; 2; 0; 0; 0; 0
+18; Andrew Wheelerominu; ; Fr; ; 17; 14; 0; 1; 1; 16; 0; 8; 0.5; 1; 0; 0; 0; 0
+20; Ashi Geberkidane; ; Fr; F; 13; 10; 3; 0; 6; 12; 0.25; 6; 0.5; 0; 0; 0; 0; 1
+21; Kevin Harrington; ; Sr; ; 17; 17; 3; 2; 8; 24; 0.125; 11; 0.458; 1; 0; 0; 1; 3
+22; Jake Freeman; ; So; F; -; -; -; -; 0; -; -; -; -; -; -; 0; 0; -
+23; Pascal Mensah; ; Sr; D; 6; -; 1; 0; 2; 4; 0.25; 1; 0.25; 2; 0; 0; 0; 1
+24; Amahdi Shabaka; ; Fr; D; -; -; -; -; 0; -; -; -; -; -; -; 0; 0; -
+25; Alex Leondis; ; Fr; D; 15; 11; 1; 0; 2; 3; 0.333; 2; 0.667; 2; 0; 0; 0; 0
+26; Pieter Zenner; ; Fr; ; 5; -; 0; 0; 0; 2; 0; 2; 1; 0; 0; 0; 0; 0
+28; Stephen Yen; ; Fr; ; 10; 2; 0; 1; 1; 5; 0; 3; 0.6; 0; 0; 0; 0; 0
+29; Daniel Smith; ; Fr; F; 17; 17; 1; 0; 2; 11; 0.091; 1; 0.091; 0; 0; 0; 0; 1
+
+
+Season: 2012
+BlockSource: http://gocrimson.com/sports/msoc/2012-13/teams/harvard?view=lineup
+
+*NO.; NAME; ; YR; POS; GP; GS; G; A; PTS; SH; SH%; SOG; SOG%; YC; RC; PK; GW
+Key: number; name; _; year; position; games_played; games_started; goals; assists; points; shots; shot_percentage; shots_on_goal; sog_percentage; yellow_cards; red_cards; pk_goals; pk_assists; game_winning
+
+0; Joe Festa; ; Fr; G; 7; 5; 0; 0; 0; 0; -; 0; -; 0; 0; 0-0; 0
+0; Evan Mendez; ; Fr; G; 12; 12; 0; 0; 0; 0; -; 0; -; 0; 2; 0-0; 0
+1; Brett Conrad; ; Sr; G; -; -; -; -; 0; -; -; -; -; -; -; 0-0; -
+2; Mark Ashby; ; Fr; D; 16; 16; 0; 0; 0; 5; 0; 3; 0.6; 2; 0; 0-0; 0
+3; Scott Prozeller; ; Sr; M; 17; 17; 1; 1; 3; 10; 0.1; 2; 0.2; 1; 0; 0-0; 0
+4; Ross Friedman; ; Jr; D; 8; 7; 0; 1; 1; 2; 0; 2; 1; 3; 0; 0-0; 0
+5; Richard Smith; ; Sr; D; 17; 17; 1; 0; 2; 6; 0.167; 3; 0.5; 2; 0; 0-0; 0
+6; Matt Sheeleigh; ; So; M; 9; 8; 0; 2; 2; 1; 0; 1; 1; 1; 0; 0-0; 0
+7; Michael Innocenzi; ; So; F; 16; 8; 0; 0; 0; 18; 0; 4; 0.222; 1; 0; 0-0; 0
+8; Obiajulu Agha; ; Jr; F; -; -; -; -; 0; -; -; -; -; -; -; 0-0; -
+9; Connor McCarthy; ; Jr; F; 14; 5; 0; 1; 1; 9; 0; 7; 0.778; 0; 0; 0-0; 0
+10; Kyle Henderson; ; Jr; M; 16; 15; 0; 0; 0; 26; 0; 9; 0.346; 6; 0; 0-0; 0
+11; Brian Rogers; ; Sr; F; 8; 3; 1; 1; 3; 12; 0.083; 5; 0.417; 3; 0; 0-0; 1
+12; Oliver White; ; Fr; M/F; 17; -; 3; 0; 6; 11; 0.273; 8; 0.727; 2; 0; 0-0; 0
+13; Tyler Evans; ; So; D; 6; -; 0; 0; 0; 1; 0; 1; 1; 1; 0; 0-0; 0
+14; Nick Davey; ; Fr; F; 1; -; 0; 0; 0; 0; -; 0; -; 0; 0; 0-0; 0
+15; David Barna; ; So; M; 17; 17; 0; 3; 3; 3; 0; 3; 1; 0; 0; 0-0; 0
+16; Philip Fleischman; ; So; D; -; -; -; -; 0; -; -; -; -; -; -; 0-0; -
+17; Hiroki Kobayashi; ; So; F; 15; 13; 2; 1; 5; 13; 0.154; 5; 0.385; 2; 0; 0-0; 0
+18; Zack Wolfenzon; ; Sr; F; 16; 16; 4; 1; 9; 31; 0.129; 13; 0.419; 1; 0; 0-0; 1
+19; Tim Schmoll; ; So; M; 13; 13; 0; 0; 0; 8; 0; 4; 0.5; 0; 0; 0-0; 0
+20; Joe Kearney; ; Jr; D/M; 8; 1; 0; 0; 0; 0; -; 0; -; 0; 0; 0-0; 0
+21; Kevin Harrington; ; Jr; M; 11; 2; 0; 0; 0; 10; 0; 0; 0; 0; 0; 0-0; 0
+22; Jake Freeman; ; Fr; F; 16; 8; 3; 0; 6; 29; 0.103; 16; 0.552; 0; 0; 0-0; 1
+23; Pascal Mensah; ; Jr; D/F; 1; 1; 0; 0; 0; 0; -; 0; -; 0; 0; 0-0; 0
+24; Eric Slingerland; ; Jr; D; 2; -; 0; 0; 0; 0; -; 0; -; 0; 0; 0-0; 0
+25; William Giahos; ; Jr; M; -; -; -; -; 0; -; -; -; -; -; -; 0-0; -
+26; Andrew Chang; ; Fr; M/D; 10; 3; 0; 0; 0; 6; 0; 0; 0; 0; 0; 0-0; 0
+
+
+Season: 2011
+BlockSource: http://gocrimson.com/sports/msoc/2011-12/teams/harvard?view=lineup
+
+NO.; NAME; ; YR; POS; GP; GS; G; A; PTS; SH; SH%; SOG; SOG%; YC; RC; PK; GW
+0; Brett Conrad; ; Jr; G; 5; 3; 0; 0; 0; 0; -; 0; -; 1; 0; 0-0; 0
+1; Austin Harms; ; Sr; G; 15; 14; 0; 0; 0; 0; -; 0; -; 0; 0; 0-0; 0
+2; Michael Innocenzi; ; Fr; F; 17; 7; 1; 0; 2; 21; 0.048; 5; 0.238; 0; 0; 0-0; 0
+3; Scott Prozeller; ; Jr; M; 17; 17; 2; 0; 4; 9; 0.222; 6; 0.667; 0; 0; 02/02/15; 1
+4; Ross Friedman; ; So; D; 17; 17; 0; 6; 6; 10; 0; 2; 0.2; 4; 0; 0-0; 0
+5; Richard Smith; ; Jr; D; 15; 10; 0; 1; 1; 3; 0; 1; 0.333; 1; 0; 0-0; 0
+6; Baba Omosegbon; ; Sr; D; 14; 7; 0; 0; 0; 9; 0; 3; 0.333; 2; 0; 0-0; 0
+7; Jamie Rees; ; Sr; M; 16; 12; 1; 1; 3; 18; 0.056; 5; 0.278; 3; 0; 0-0; 0
+8; Obiajulu Agha; ; So; F; 7; 5; 2; 0; 4; 8; 0.25; 6; 0.75; 0; 0; 0-0; 0
+9; Connor McCarthy; ; So; F; 17; 6; 2; 0; 4; 15; 0.133; 5; 0.333; 0; 0; 0-0; 0
+10; Ben Tsuda; ; Sr; M; 16; 11; 0; 0; 0; 13; 0; 6; 0.462; 0; 0; 0-0; 0
+11; Brian Rogers; ; Jr; F; 11; 8; 2; 0; 4; 27; 0.074; 14; 0.519; 2; 0; 0-1; 1
+12; Tsiu Moorosi; ; Sr; M/F; 5; 1; 0; 0; 0; 3; 0; 1; 0.333; 0; 0; 0-0; 0
+13; Michael Gomes; ; Sr; M; 2; 1; 0; 0; 0; 0; -; 0; -; 0; 0; 0-0; 0
+14; Kyle Henderson; ; So; M; 2; -; 0; 0; 0; 3; 0; 2; 0.667; 0; 0; 0-0; 0
+15; David Barna; ; Fr; M; 2; -; 0; 0; 0; 0; -; 0; -; 0; 0; 0-0; 0
+16; Tim Linden; ; Sr; D; 15; 10; 0; 2; 2; 8; 0; 2; 0.25; 0; 0; 0-0; 0
+17; Hiroki Kobayashi; ; Fr; F; 15; 7; 1; 0; 2; 5; 0.2; 3; 0.6; 0; 0; 0-0; 0
+18; Zack Wolfenzon; ; Jr; F; 13; 5; 1; 0; 2; 14; 0.071; 9; 0.643; 0; 0; 0-0; 0
+19; Tim Schmoll; ; Fr; D; 14; 7; 2; 1; 5; 10; 0.2; 2; 0.2; 1; 0; 0-0; 0
+20; Joe Kearney; ; So; D/M; 9; 5; 0; 0; 0; 0; -; 0; -; 0; 0; 0-0; 0
+21; Kevin Harrington; ; So; D; 16; 14; 0; 0; 0; 2; 0; 1; 0.5; 1; 0; 0-0; 0
+22; Matt Sheeleigh; ; Fr; M; 3; -; 0; 0; 0; 2; 0; 1; 0.5; 0; 0; 0-0; 0
+23; Pascal Mensah; ; So; D; 13; 12; 0; 0; 0; 9; 0; 2; 0.222; 2; 1; 0-0; 0
+24; Tyler Evans; ; Fr; D; 1; -; 0; 0; 0; 0; -; 0; -; 0; 0; 0-0; 0
+25; William Giahos; ; So; M; -; -; -; -; 0; -; -; -; -; -; -; 0-0; -
+26; Eric Slingerland; ; So; D; 8; 8; 0; 2; 2; 4; 0; 2; 0.5; 0; 0; 0-0; 0
+27; Philip Fleischman; ; Fr; D; -; -; -; -; 0; -; -; -; -; -; -; 0-0; -
+
 
 
 Season: 2010
 BlockSource: http://www.gocrimson.com/sports/msoc/2010-11/teams/harvard
 
 *NO.          NAME       YR      POS     GP      GS      G       A       PTS     SH      SH%     SOG     SOG%    YC      RC PK GW
+Key: number; name; year; position; games_played; games_started; goals; assists; points; shots; shot_percentage; shots_on_goal; sog_percentage; yellow_cards; red_cards; pk_goals; pk_attempts; game_winning
 
-00            John Bryant                So      G       -       -       -       -       0       -       -       -       -  -  - 0-0 -
-0             Brett Conrad               So      G       4       4       0       0       0       0       -       0  -  1 0   0-0 0
-1             Austin Harms               Jr      G       13      13      0       0       0       0       -  0  - 0   0   0-0 0
-2             Robert Millock             Sr      MF/F    17      17      0       1       1       8  .000 2   .250    3 0 0-0 0
-3             Scott Prozeller            So      B       16      16      3       1       7       23   .130        7 .304  3 0 0-0 1
-4             Ross Friedman              Fr      D       14      4       1       0       2       5           .200    2 .400  3 0 0-0 1
-5             Richard Smith              So      D       16      16      0       0       0       9       .000    1 .111  3 1 0-0 0
-6             Baba Omosegbon             Jr      D       12      12      0       1       1       4       .000    2 .500  0 0 0-0 0
-7             Jamie Rees                 Jr      B       15      12      1       1       3       19      .053    6 .316  2 0 0-0 0
-8             Obiajulu Agha              Fr      MF      15      11      0       0       0       4       .000    2 .500  0 0 0-0 0
-9             Connor McCarthy            Fr      F       17      4       2       2       6       16      .125    9 .562  0 0 0-0 1
-10            Alex Chi                   Sr      MF      17      16      0       1       1       2       .000    0 .000  1 0 0-0 0
-11            Brian Rogers               So      F       15      15      5       1       11      38      .132    17  .447 2 0 0-0 1
-12            Ben Tsuda                  Jr      MF/B    15      10      1       1       3       11      .091     3 .273  2 0 0-0 0
-13            James Pelletier            Sr      D       1       1       0       0       0       0        - 0     - 0 0   0-0 0
-14            Kyle Henderson             Fr      B       17      1       1       3       5       15      .067    9   .600 1 0 0-0 0
-15            Shomesh Chaudhuri          Sr      B       5       1       0       1       1       0       -   0    - 0 0   0-0 0
-16            Tim Linden                 Jr      D       13      6       1       2       4       7   .143 1 .143  0   0 0-0 1
-17            Jaren Lagreca              Sr      D       16      15      0       2       2       4    .000    1   .250  2 0 0-0 0
-18            Zack Wolfenzon             So      F       17      11      1       0       2       15      .067      5 .333  1 0 0-0 0
-19            Michael Gomes              Jr      B       1       -       0       0       0       1         .000    0 .000  0 0 0-0 0
-20            Joe Kearney                Fr      M       -       -       -       -       0       -       - -     - - -   0-0 -
-21            Kevin Harrington           Fr      B       5       2       0       0       0       3 .000  2 .667  2   0 0-0 0
-22            Owen Fox                   So      D       2       -       0       0       0       0     - 0     -   0 0   0-0 0
-23            Pascal Mensah              Fr              2       -       0       0       0       0       -     0   - 0   0   0-0 0
-
-
-Season: 2011
-BlockSource: http://www.gocrimson.com/sports/msoc/2011-12/teams/harvard
-
-NO.          NAME       YR      POS     GP      GS      G       A       PTS     SH      SH%     SOG     SOG%    YC      RC PK GW
-0             Brett Conrad              Jr      G       5       3       0       0       0       0       -       0       -  1  0 0-0 0
-1             Austin Harms                     Sr      G       15      14      0       0       0       0       -       0  -  0 0   0-0 0
-2             Michael Innocenzi                       Fr      F       17      7       1       0       2       21      .048  5 .238    0 0 0-0 0
-3             Scott Prozeller                                Jr      M       17      17      2       0       4       9     .222      6 .667  0 0 2-2 1
-4             Ross Friedman                                         So      D       17      17      0       6       6     10        .000    2 .200  4 0 0-0 0
-5             Richard Smith                                                Jr      D       15      10      0       1     1         3       .000    1 .333  1 0 0-0 0
-6             Baba Omosegbon            Sr      D       14      7       0     0         0       9       .000    3 .333  2 0 0-0 0
-7             Jamie Rees                       Sr      M       16      12    1         1       3       18      .056    5 .278  3 0 0-0 0
-8             Obiajulu Agha                           So      F       7     5         2       0       4       8       .250    6 .750  0 0 0-0 0
-9             Connor McCarthy                                So      F     17        6       2       0       4       15      .133    5 .333  0 0 0-0 0
-10            Ben Tsuda                                             Sr    M         16      11      0       0       0       13      .000    6 .462  0 0 0-0 0
-11             Brian Rogers                                               Jr        F       11      8       2       0       4       27      .074    14  .519 2 0 0-1 1
-12            Tsiu Moorosi                                                        Sr      M/F     5       1       0       0       0       3       .000     1 .333  0 0 0-0 0
-13            Michael Gomes                                                              Sr      M       2       1       0       0       0       0        - 0     - 0 0   0-0 0
-14            Kyle Henderson                                                                    So      M       2       -       0       0       0        3 .000  2 .667  0   0 0-0 0
-15            David Barna                                                                              Fr      M       2       -       0       0        0 0     - 0     -   0 0   0-0 0
-16            Tim Linden                                                                                      Sr      D       15      10      0        2 2     8 .000  2   .250  0   0 0-0 0
-17            Hiroki Kobayashi                                                                                       Fr      F       15      7        1 0     2 5     .200      3   .600  0 0 0-0 0
-18            Zack Wolfenzon        F       13       5 1     0 2     14        .071      9 .643  0 0 0-0 0
-19            Tim Schmoll                            Fr      D        14      7 2     1         5         10      .200    2 .200 1 0 0-0 0
-20            Joe Kearney                  So       D/M     9 5     0         0         0       0       - 0    - 0 0   0-0 0
-21            Kevin Harrington                     So      D 16    14        0         0       0       2 .000 1 .500  1   0 0-0 0
-22            Matt Sheeleigh                              Fr      M         3         -       0       0 0    2 .000  1   .500  0 0 0-0 0
-23            Pascal Mensah                                      So        D         13      12      0 0    0 9     .000      2 .222  2 1 0-0 0
-24            Tyler Evans                                                 Fr        D       1       - 0    0 0     0         - 0     - 0 0   0-0 0
-25            William Giahos                                                       So      M       - -    - -     0         - -     - - -   -   0-0 -
-26            Eric Slingerland                                                            So      D 8    8 0     2         2 4     .000    2   .500 0 0 0-0 0
-27            Philip Fleischman                                                                  Fr     D -     -         - -     0       -   -    - - -   - 0-0 -
+00           ; John Bryant               ; So     ; G      ; -      ; -      ; -      ; -      ; 0      ; -   ; -   ; - ; -   ; -; -; 0; 0; -
+0            ; Brett Conrad              ; So     ; G      ; 4      ; 4      ; 0      ; 0      ; 0      ; 0   ; -   ; 0 ; -   ; 1; 0; 0; 0; 0
+1            ; Austin Harms              ; Jr     ; G      ; 13     ; 13     ; 0      ; 0      ; 0      ; 0   ; -   ; 0 ; -   ; 0; 0; 0; 0; 0
+2            ; Robert Millock            ; Sr     ; MF/F   ; 17     ; 17     ; 0      ; 1      ; 1      ; 8   ; .000; 2 ; .250; 3; 0; 0; 0; 0
+3            ; Scott Prozeller           ; So     ; B      ; 16     ; 16     ; 3      ; 1      ; 7      ; 23  ; .130; 7 ; .304; 3; 0; 0; 0; 1
+4            ; Ross Friedman             ; Fr     ; D      ; 14     ; 4      ; 1      ; 0      ; 2      ; 5   ; .200; 2 ; .400; 3; 0; 0; 0; 1
+5            ; Richard Smith             ; So     ; D      ; 16     ; 16     ; 0      ; 0      ; 0      ; 9   ; .000; 1 ; .111; 3; 1; 0; 0; 0
+6            ; Baba Omosegbon            ; Jr     ; D      ; 12     ; 12     ; 0      ; 1      ; 1      ; 4   ; .000; 2 ; .500; 0; 0; 0; 0; 0
+7            ; Jamie Rees                ; Jr     ; B      ; 15     ; 12     ; 1      ; 1      ; 3      ; 19  ; .053; 6 ; .316; 2; 0; 0; 0; 0
+8            ; Obiajulu Agha             ; Fr     ; MF     ; 15     ; 11     ; 0      ; 0      ; 0      ; 4   ; .000; 2 ; .500; 0; 0; 0; 0; 0
+9            ; Connor McCarthy           ; Fr     ; F      ; 17     ; 4      ; 2      ; 2      ; 6      ; 16  ; .125; 9 ; .562; 0; 0; 0; 0; 1
+10           ; Alex Chi                  ; Sr     ; MF     ; 17     ; 16     ; 0      ; 1      ; 1      ; 2   ; .000; 0 ; .000; 1; 0; 0; 0; 0
+11           ; Brian Rogers              ; So     ; F      ; 15     ; 15     ; 5      ; 1      ; 11     ; 38  ; .132; 17; .447; 2; 0; 0; 0; 1
+12           ; Ben Tsuda                 ; Jr     ; MF/B   ; 15     ; 10     ; 1      ; 1      ; 3      ; 11  ; .091; 3 ; .273; 2; 0; 0; 0; 0
+13           ; James Pelletier           ; Sr     ; D      ; 1      ; 1      ; 0      ; 0      ; 0      ; 0   ;  -  ; 0 ;  -  ; 0; 0; 0; 0; 0
+14           ; Kyle Henderson            ; Fr     ; B      ; 17     ; 1      ; 1      ; 3      ; 5      ; 15  ; .067; 9 ; .600; 1; 0; 0; 0; 0
+15           ; Shomesh Chaudhuri         ; Sr     ; B      ; 5      ; 1      ; 0      ; 1      ; 1      ; 0   ; -   ; 0 ; -   ; 0; 0; 0; 0; 0
+16           ; Tim Linden                ; Jr     ; D      ; 13     ; 6      ; 1      ; 2      ; 4      ; 7   ; .143; 1 ; .143; 0; 0; 0; 0; 1
+17           ; Jaren Lagreca             ; Sr     ; D      ; 16     ; 15     ; 0      ; 2      ; 2      ; 4   ; .000; 1 ; .250; 2; 0; 0; 0; 0
+18           ; Zack Wolfenzon            ; So     ; F      ; 17     ; 11     ; 1      ; 0      ; 2      ; 15  ; .067; 5 ; .333; 1; 0; 0; 0; 0
+19           ; Michael Gomes             ; Jr     ; B      ; 1      ; -      ; 0      ; 0      ; 0      ; 1   ; .000; 0 ; .000; 0; 0; 0; 0; 0
+20           ; Joe Kearney               ; Fr     ; M      ; -      ; -      ; -      ; -      ; 0      ; -   ; -   ; - ; -   ; -; -; 0; 0; -
+21           ; Kevin Harrington          ; Fr     ; B      ; 5      ; 2      ; 0      ; 0      ; 0      ; 3   ; .000; 2 ; .667; 2; 0; 0; 0; 0
+22           ; Owen Fox                  ; So     ; D      ; 2      ; -      ; 0      ; 0      ; 0      ; 0   ; -   ; 0 ; -   ; 0; 0; 0; 0; 0
+23           ; Pascal Mensah             ; Fr     ;        ; 2      ; -      ; 0      ; 0      ; 0      ; 0   ; -   ; 0 ; -   ; 0; 0; 0; 0; 0
 
 
-Season: 2012
-BlockSource: http://gocrimson.com/sports/msoc/2012-13/teams/harvard
 
-NO.          NAME       YR      POS     GP      GS      G       A       PTS     SH      SH%     SOG     SOG%    YC      RC PK GW
-00            Joe Festa         Fr      G       7       5       0       0       0       0       -       0       -       0  0  0-0 0
-0             Evan Mendez              Fr      G       12      12      0       0       0       0       -       0       -  0  2   0-0 0
-1             Brett Conrad                    Sr      G       -       -       -       -       0       -       -       -  -  -   -   0-0 -
-2             Mark Ashby                             Fr      D       16      16      0       0       0       5       .000  3   .600    2 0 0-0 0
-3             Scott Prozeller                               Sr      M       17      17      1       1       3       10    .100        2 .200  1 0 0-0 0
-4             Ross Friedman                                        Jr      D       8       7       0       1       1     2           .000    2 1.000 3 0 0-0 0
-5             Richard Smith                                               Sr      D       17      17      1       0     2           6       .167    3 .500  2 0 0-0 0
-6             Matt Sheeleigh                                                     So      M       9       8       0     2           2       1       .000    1 1.000 1 0 0-0 0
-7             Michael Innocenzi                                                         So      F       16      8     0           0       0       18      .000    4 .222  1 0 0-0 0
-8             Obiajulu Agha                                                                    Jr      F       -     -           -       -       0       -       - -     - - -   0-0 -
-9             Connor McCarthy                                                                         Jr      F     14          5       0       1       1       9 .000  7 .778  0   0 0-0 0
-10            Kyle Henderson                                                                                 Jr    M           16      15      0       0       0 26    .000    9   .346  6 0 0-0 0
-11            Brian Rogers                                                                                        Sr          F       8       3       1       1 3     12      .083      5 .417  3 0 0-0 1
-12            Oliver White                                                                                                   Fr      M/F     17      -       3 0     6       11        .273    8 .727  2 0 0-0 0
-13            Tyler Evans                                                                                                           So      D       6       - 0     0       0         1       .000    1 1.000 1 0 0-0 0
-14            Nick Davey                                                                                                                   Fr      F       1 -     0       0         0       0       - 0     - 0 0   0-0 0
-15            David Barna                                                                                                                         So      M 17    17      0         3       3       3 .000  3 1.000 0   0 0-0 0
-16            Philip Fleischman                                                                                                                          So      D       -         -       -       - 0     - -     -   - -   - 0-0 -
-17             Hiroki Kobayashi                                                                                                                                  So      F         15      13      2 1     5 13    .154  5   .385  2 0 0-0 0
-18             Zack Wolfenzon                                                                                                                                           Sr        F       16      16      4 1     9     31  .129  13  .419 1 0 0-0 1
-19             Tim Schmoll                                                                                                                                                       So      M       13      13      0     0   0     8   .000 4 .500  0 0 0-0 0
-20            Joe Kearney                                                                                                                                                              Jr      D/M     8       1     0   0     0   0    - 0     - 0 0   0-0 0
-21              Kevin Harrington                                                                                                                                                                Jr      M       11    2   0     0   0    10      .000    0   .000 0 0 0-0 0
-22            Jake Freeman                                                                                                                                                                           Fr      F     16  8     3   0    6       29      .103     16  .552 0 0 0-0 1
-23             Pascal Mensah                                                                                                                                                                                 Jr    D/F 1     1   0    0       0       0        -   0    - 0 0   0-0 0
-24              Eric Slingerland                                                                                                                                                                                   Jr  D     2   -    0       0       0        0   -    0 - 0   0   0-0 0
-25             William Giahos                                                                                                                                                                                        Jr    M   -    -       -       -        0   -    - - -   -   -   0-0 -
-26             Andrew Chang                                                                                                                                                                                               Fr  M/D  10      3       0        0   0    6 .000  0   .000    0 0 0-0 0
+Season: 2009
+BlockSource: http://www.gocrimson.com/sports/msoc/2009-10/files/teamcume.htm
+
+
+*##           Player      GP-GS  G       A       Pts     Sh      Shot%   SOG     SOG%    GW      PK-Att 
+Key: number; name; games_played; games_started; goals; assists; points; shots; shot_percentage; shots_on_goals; sog_percentage; game_winning; pk_goals; pk_attempts
+
+10          ; Akpan, Andre              ; 19; 19  ; 12     ; 6      ; 30     ; 71      ; .169  ; 33    ; .465 ; 4  ; 2; 4 
+11          ; Rogers, Brian             ; 19; 11  ; 6      ; 6      ; 18     ; 45      ; .133  ; 18    ; .400 ; 3  ; 0; 0 
+8           ; Rousmaniere, Adam         ; 19; 19  ; 1      ; 6      ; 8      ; 22      ; .045  ; 12    ; .545 ; 0  ; 0; 0 
+4           ; Mitchell, Desmond         ; 17; 14  ; 3      ; 1      ; 7      ; 13      ; .231  ; 3     ; .231 ; 1  ; 0; 0 
+9           ; Chi, Alex                 ; 19; 18  ; 2      ; 0      ; 4      ; 20      ; .100  ; 6     ; .300 ; 1  ; 0; 0 
+7           ; Rees, Jamie               ; 17; 2   ; 2      ; 0      ; 4      ; 9       ; .222  ; 3     ; .333 ; 1  ; 0; 0 
+5           ; Smith, Richard            ; 13; 10  ; 2      ; 0      ; 4      ; 8       ; .250  ; 4     ; .500 ; 2  ; 0; 0 
+3           ; Prozeller, Scott          ; 19; 11  ; 1      ; 2      ; 4      ; 16      ; .062  ; 4     ; .250 ; 1  ; 0; 0 
+14          ; Grimm, Brian              ; 19; 19  ; 0      ; 3      ; 3      ; 30      ; .000  ; 12    ; .400 ; 0  ; 0; 0 
+19          ; Nyamekye, Kwaku           ; 19; 19  ; 1      ; 0      ; 2      ; 21      ; .048  ; 7     ; .333 ; 0  ; 0; 0 
+12          ; Tsuda, Ben                ; 11; 5   ; 1      ; 0      ; 2      ; 13      ; .077  ; 6     ; .462 ; 1  ; 0; 0 
+18          ; Wolfenzon, Zack           ; 11; 5   ; 1      ; 0      ; 2      ; 12      ; .083  ; 6     ; .500 ; 0  ; 0; 0 
+2           ; Millock, Robert           ; 18; 18  ; 0      ; 2      ; 2      ; 1       ; .000  ; 0     ; .000 ; 0  ; 0; 0 
+21          ; Moorosi, Tsiu             ;  4; 0   ; 0      ; 1      ; 1      ; 1       ; .000  ; 0     ; .000 ; 0  ; 0; 0 
+16          ; Linden, Tim               ; 13; 0   ; 0      ; 1      ; 1      ; 0       ; .000  ; 0     ; .000 ; 0  ; 0; 0 
+6           ; Omosegbon, Baba           ; 18; 17  ; 0      ; 0      ; 0      ; 7       ; .000  ; 4     ; .571 ; 0  ; 0; 0 
+23          ; O'Neill, Dillon           ;  1; 1   ; 0      ; 0      ; 0      ; 0       ; .000  ; 0     ; .000 ; 0  ; 0; 0 
+22          ; Fox, Owen                 ;  5; 0   ; 0      ; 0      ; 0      ; 0       ; .000  ; 0     ; .000 ; 0  ; 0; 0 
+20          ; Welch, Leighton           ;  2; 0   ; 0      ; 0      ; 0      ; 0       ; .000  ; 0     ; .000 ; 0  ; 0; 0 
+17          ; LaGreca, Jaren            ;  6; 2   ; 0      ; 0      ; 0      ; 0       ; .000  ; 0     ; .000 ; 0  ; 0; 0 
+15          ; Chaudhuri, Shomesh        ;  3; 0   ; 0      ; 0      ; 0      ; 0       ; .000  ; 0     ; .000 ; 0  ; 0; 0 
+13          ; Pelletier, James          ;  5; 0   ; 0      ; 0      ; 0      ; 0       ; .000  ; 0     ; .000 ; 0  ; 0; 0 
+1           ; Harms, Austin             ; 18; 18  ; 0      ; 0      ; 0      ; 0       ; .000  ; 0     ; .000 ; 0  ; 0; 0 
+0           ; Conrad, Brett             ;  4; 1   ; 0      ; 0      ; 0      ; 0       ; .000  ; 0     ; .000 ; 0  ; 0; 0
+

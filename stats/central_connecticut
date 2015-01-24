@@ -4,34 +4,36 @@ Competition: NCAA Division I Men's Soccer Championship
 Season: 2014
 BlockSource: http://ccsubluedevils.com/sports/msoc/2014-15/teams/centralconnst?view=lineup
 
-NO.; NAME; ; YR; POS; GP; GS; G; A; PTS; SH; SH%; SOG; SOG%; YC; RC; PK; GW
-1; Nick Velleca; ; Jr; GK; 2; 2; 0; 0; 0; 0; -; 0; -; 0; 0; 0-0; 0
-2; Jose Gamboa; ; Sr; ; 10; 9; 0; 0; 0; 0; -; 0; -; 1; 0; 0-0; 0
-3; Ben Knight; ; Jr; ; 8; 8; 0; 0; 0; 3; 0; 2; 0.667; 2; 0; 0-0; 0
-4; G. Mandzulashvili; ; Jr; ; 12; 11; 0; 0; 0; 8; 0; 2; 0.25; 1; 0; 0-0; 0
-5; Ailton Dorosorio; ; Jr; ; 17; 13; 0; 0; 0; 8; 0; 1; 0.125; 0; 0; 0-1; 0
-6; Keir Hannity; ; Sr; ; 16; 14; 5; 2; 12; 24; 0.208; 14; 0.583; 3; 0; 02/02/15; 1
-7; Freddy Mettellus; ; Jr; ; 13; 6; 1; 0; 2; 18; 0.056; 7; 0.389; 0; 0; 0-0; 1
-8; Stephen Walmsley; ; Sr; ; 15; 13; 0; 3; 3; 8; 0; 2; 0.25; 0; 0; 0-0; 0
-9; James Randall; ; So; ; 12; 6; 1; 0; 2; 6; 0.167; 3; 0.5; 0; 0; 0-0; 0
-10; Zach Zurita; ; Jr; ; 16; 14; 3; 0; 6; 41; 0.073; 15; 0.366; 1; 0; 01/01/15; 0
-11; Ryan Taylor; ; Fr; ; 17; 13; 2; 0; 4; 12; 0.167; 9; 0.75; 0; 0; 0-0; 2
-12; Dominic Plant; ; Jr; ; 15; 9; 1; 0; 2; 1; 1; 1; 1; 1; 1; 0-0; 0
-13; Dan Casey; ; Fr; ; 14; 11; 0; 0; 0; 1; 0; 0; 0; 2; 1; 0-0; 0
-14; Jenilo Soares; ; Sr; ; 11; 3; 1; 0; 2; 8; 0.125; 5; 0.625; 0; 0; 0-0; 1
-15; Neekoli Calderon; ; So; ; 13; 3; 0; 0; 0; 2; 0; 1; 0.5; 0; 0; 0-0; 0
-16; Rodrigo Salvador; ; Fr; ; 1; -; 0; 0; 0; 0; -; 0; -; 0; 0; 0-0; 0
-17; Anthony Marra; ; Fr; ; 10; 2; 0; 0; 0; 7; 0; 1; 0.143; 0; 0; 0-0; 0
-18; Willy Arbieto-Lopez; ; Sr; ; 12; 3; 0; 0; 0; 0; -; 0; -; 0; 0; 0-0; 0
-19; Nick Tunic; ; Fr; ; 2; -; 0; 0; 0; 0; -; 0; -; 0; 0; 0-0; 0
-20; Ej Okoro; ; So; ; 8; 1; 0; 0; 0; 1; 0; 1; 1; 2; 0; 0-0; 0
-21; Luke Albertini; ; Fr; ; 13; 7; 1; 0; 2; 4; 0.25; 2; 0.5; 0; 0; 0-0; 0
-22; Juan Galarza; ; Jr; ; 14; 5; 0; 1; 1; 4; 0; 0; 0; 0; 0; 0-0; 0
-23; Nick Taglianetti; ; Sr; ; 2; 2; 0; 0; 0; 0; -; 0; -; 0; 0; 0-0; 0
-24; Ben Lavallee; ; Sr; GK; 1; 1; 0; 0; 0; 0; -; 0; -; 0; 0; 0-0; 0
-25; Carson D'Ambrosio; ; Fr; ; -; -; -; -; 0; -; -; -; -; -; -; 0-0; -
-26; Josef Abele; ; Sr; GK; 14; 14; 0; 0; 0; 0; -; 0; -; 0; 0; 0-0; 0
-27; Filosmar Cordeiro; ; Fr; ; 17; 15; 2; 3; 7; 22; 0.091; 10; 0.455; 2; 0; 0-0; 0
-28; Charlie Giovenco; ; Jr; ; 2; 2; 0; 0; 0; 1; 0; 0; 0; 0; 0; 0-0; 0
-29; Christian Pirruccio; ; Fr; ; -; -; -; -; 0; -; -; -; -; -; -; 0-0; -
+*NO.; NAME; ; YR; POS; GP; GS; G; A; PTS; SH; SH%; SOG; SOG%; YC; RC; PK; GW
+Key: number; name; _; year; position; games_played; games_started; goals; assists; points; shots; shot_percentage; shots_on_goal; sog_percentage; yellow_cards; red_cards; pk_goals; pk_attempts; game_winning
+
+1; Nick Velleca; ; Jr; GK; 2; 2; 0; 0; 0; 0; -; 0; -; 0; 0; 0; 0; 0
+2; Jose Gamboa; ; Sr; ; 10; 9; 0; 0; 0; 0; -; 0; -; 1; 0; 0; 0; 0
+3; Ben Knight; ; Jr; ; 8; 8; 0; 0; 0; 3; 0; 2; 0.667; 2; 0; 0; 0; 0
+4; G. Mandzulashvili; ; Jr; ; 12; 11; 0; 0; 0; 8; 0; 2; 0.25; 1; 0; 0; 0; 0
+5; Ailton Dorosorio; ; Jr; ; 17; 13; 0; 0; 0; 8; 0; 1; 0.125; 0; 0; 0; 1; 0
+6; Keir Hannity; ; Sr; ; 16; 14; 5; 2; 12; 24; 0.208; 14; 0.583; 3; 0; 02; 02; 1
+7; Freddy Mettellus; ; Jr; ; 13; 6; 1; 0; 2; 18; 0.056; 7; 0.389; 0; 0; 0; 0; 1
+8; Stephen Walmsley; ; Sr; ; 15; 13; 0; 3; 3; 8; 0; 2; 0.25; 0; 0; 0; 0; 0
+9; James Randall; ; So; ; 12; 6; 1; 0; 2; 6; 0.167; 3; 0.5; 0; 0; 0; 0; 0
+10; Zach Zurita; ; Jr; ; 16; 14; 3; 0; 6; 41; 0.073; 15; 0.366; 1; 0; 01; 01; 0
+11; Ryan Taylor; ; Fr; ; 17; 13; 2; 0; 4; 12; 0.167; 9; 0.75; 0; 0; 0; 0; 2
+12; Dominic Plant; ; Jr; ; 15; 9; 1; 0; 2; 1; 1; 1; 1; 1; 1; 0; 0; 0
+13; Dan Casey; ; Fr; ; 14; 11; 0; 0; 0; 1; 0; 0; 0; 2; 1; 0; 0; 0
+14; Jenilo Soares; ; Sr; ; 11; 3; 1; 0; 2; 8; 0.125; 5; 0.625; 0; 0; 0; 0; 1
+15; Neekoli Calderon; ; So; ; 13; 3; 0; 0; 0; 2; 0; 1; 0.5; 0; 0; 0; 0; 0
+16; Rodrigo Salvador; ; Fr; ; 1; -; 0; 0; 0; 0; -; 0; -; 0; 0; 0; 0; 0
+17; Anthony Marra; ; Fr; ; 10; 2; 0; 0; 0; 7; 0; 1; 0.143; 0; 0; 0; 0; 0
+18; Willy Arbieto-Lopez; ; Sr; ; 12; 3; 0; 0; 0; 0; -; 0; -; 0; 0; 0; 0; 0
+19; Nick Tunic; ; Fr; ; 2; -; 0; 0; 0; 0; -; 0; -; 0; 0; 0; 0; 0
+20; Ej Okoro; ; So; ; 8; 1; 0; 0; 0; 1; 0; 1; 1; 2; 0; 0; 0; 0
+21; Luke Albertini; ; Fr; ; 13; 7; 1; 0; 2; 4; 0.25; 2; 0.5; 0; 0; 0; 0; 0
+22; Juan Galarza; ; Jr; ; 14; 5; 0; 1; 1; 4; 0; 0; 0; 0; 0; 0; 0; 0
+23; Nick Taglianetti; ; Sr; ; 2; 2; 0; 0; 0; 0; -; 0; -; 0; 0; 0; 0; 0
+24; Ben Lavallee; ; Sr; GK; 1; 1; 0; 0; 0; 0; -; 0; -; 0; 0; 0; 0; 0
+25; Carson D'Ambrosio; ; Fr; ; -; -; -; -; 0; -; -; -; -; -; -; 0; 0; -
+26; Josef Abele; ; Sr; GK; 14; 14; 0; 0; 0; 0; -; 0; -; 0; 0; 0; 0; 0
+27; Filosmar Cordeiro; ; Fr; ; 17; 15; 2; 3; 7; 22; 0.091; 10; 0.455; 2; 0; 0; 0; 0
+28; Charlie Giovenco; ; Jr; ; 2; 2; 0; 0; 0; 1; 0; 0; 0; 0; 0; 0; 0; 0
+29; Christian Pirruccio; ; Fr; ; -; -; -; -; 0; -; -; -; -; -; -; 0; 0; -
 

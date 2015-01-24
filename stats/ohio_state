@@ -125,8 +125,6 @@ Season: 2010
 BlockSource: http://www.ohiostatebuckeyes.com/stats/msoccer/2010/teamcume.htm
 
 Key: number; name; games_played; games_started; goals; assists; points; shots
-
-
 *## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG% GW PK    
 
 25; Warzycha, Konrad    ; 18; 18 ;  8 ;  0 ; 16 ; 65;  .123  26  .400  5  4    
@@ -216,7 +214,6 @@ Season: 2007
 BlockSource: http://www.ohiostatebuckeyes.com/stats/msoccer/2007/teamcume.htm
 
 Key: number; name; games_played; games_started; minutes; goals; assists; points; shots
-
 *##           Player     GP-GS   Min     G       A       Pts     Sh      Shot%   SOG     SOG%    YC-RC   GW      PK-Att 
 
 3     ;       Balc, Xavier      ; 26; 26 ;  2068  ;  8     ;  14   ;   30   ;   87   ;    .092   36       .414   1-0     5      2-2 
@@ -308,7 +305,6 @@ Season: 2004
 BlockSource: http://www.ohiostatebuckeyes.com/stats/msoccer/2004/teamcume.html
 
 Key: number; name; games_played; games_started; goals; assists; points; shots
-
 *## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW PK 
 
 9 ; Cook, Justin       ;  20; 19 ; 12 ;  6 ; 30 ; 71 ; .169  35  .493   4-0   5  2  
@@ -337,7 +333,6 @@ Season: 2003
 BlockSource: http://www.ohiostatebuckeyes.com/stats/msoccer/2003/teamcume.html
 
 Key: number; name; games_played; goals; assists; points; shots
-
 *## PLAYER                GP   G   A Pts  Sh Shot% SOG  SOG% GW PK-AT
 
 18; Korpieski, Taylor    ; 18 ;  2 ;  2 ;  6 ; 22 ; .091   9  .409  0  0-0

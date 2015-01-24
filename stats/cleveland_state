@@ -36,3 +36,74 @@ Key: number; name; _; year; position; games_played; games_started; goals; assist
 28; Zak Petrenko; ; Jr; GK; -; -; -; -; 0; -; -; -; -; -; -; 0; 0; -
 99; Nick Ciraldo; ; So; GK; 18; 17; 0; 0; 0; 0; -; 0; -; 1; 0; 0; 0; 0
 
+
+
+Season: 2013
+BlockSource: http://www.csuvikings.com/sports/m-soccer/2013-14/teams/clevelandst
+
+*NO.:NAME::YR:POS:GP:GS:G:A:PTS:SH:SH%:SOG:SOG%:YC:RC:PK:GW
+Key: number; name; _; year; position; games_played; games_started; goals; assists; points; shots; shot_percentage; shots_on_goal; sog_percentage; yellow_cards; red_cards; pk_goals; game_winning
+
+0; Joe Kalt; ; Jr; GK; 6; 5; 0; 0; 0; 0; -; 0; -; 0; 0; 0-0; 0
+2; Al James; ; Sr; D; 13; 11; 0; 1; 1; 4; 0; 1; 0.25; 0; 1; 0-0; 0
+3; James Milli; ; Fr; D; 1; 1; 0; 0; 0; 0; -; 0; -; 0; 0; 0-0; 0
+4; Visnu Maharaj; ; So; D; 5; 4; 0; 0; 0; 1; 0; 0; 0; 1; 0; 0-0; 0
+5; Sergio Manesio; ; Fr; ; 19; 19; 5; 2; 12; 39; 0.128; 16; 0.41; 4; 1; 0-0; 1
+6; Danilo Radjen; ; So; D; 16; 16; 0; 1; 1; 12; 0; 6; 0.5; 1; 0; 0-0; 0
+8; Victor Zamora; ; So; ; 10; 2; 0; 0; 0; 1; 0; 0; 0; 0; 0; 0-0; 0
+9; Alex Obbey; ; Jr; ; 16; 15; 0; 1; 1; 5; 0; 0; 0; 3; 0; 0-0; 0
+10; Admir Suljevic; ; Sr; F; 11; 9; 6; 3; 15; 21; 0.286; 10; 0.476; 4; 0; 01/01/15; 2
+11; Alfonso Sandoval; ; So; F; 12; 5; 0; 0; 0; 8; 0; 5; 0.625; 0; 0; 0-0; 0
+12; Jordan Hart; ; Sr; F; 19; 15; 4; 1; 9; 30; 0.133; 15; 0.5; 2; 0; 0-0; 3
+13; Aslinn Rodas; ; Sr; ; 20; 19; 1; 5; 7; 9; 0.111; 6; 0.667; 2; 0; 0-0; 0
+14; James Howe; ; Sr; F; 12; 9; 2; 1; 5; 9; 0.222; 5; 0.556; 1; 0; 0-0; 2
+15; Cheo Armstrong; ; So; ; 12; 4; 0; 0; 0; 6; 0; 1; 0.167; 2; 0; 0-0; 0
+16; Cristian Arboleda; ; So; ; 10; 4; 1; 0; 2; 4; 0.25; 1; 0.25; 0; 0; 0-0; 0
+17; Mike Derezic; ; Jr; ; 19; 16; 0; 1; 1; 21; 0; 10; 0.476; 7; 0; 0-0; 0
+18; Nick Neumann; ; Fr; ; 5; 1; 1; 0; 2; 1; 1; 1; 1; 0; 0; 0-0; 0
+19; Jacob Naumann; ; Jr; ; 17; 5; 0; 1; 1; 10; 0; 3; 0.3; 0; 0; 0-0; 0
+20; Amari Williams; ; Fr; ; 11; 9; 0; 2; 2; 1; 0; 0; 0; 0; 0; 0-0; 0
+21; Dan Koniarczyk; ; Fr; ; 14; 2; 1; 0; 2; 3; 0.333; 2; 0.667; 0; 0; 0-0; 0
+22; Zach Ellis-Hayden; ; Sr; D; 20; 20; 1; 1; 3; 13; 0.077; 6; 0.462; 2; 0; 0-0; 0
+23; Mike Matlock; ; Jr; ; 15; 13; 0; 1; 1; 3; 0; 3; 1; 3; 1; 0-0; 0
+26; Giancarlo Cuomo; ; Jr; N/A; 14; 1; 1; 0; 2; 5; 0.2; 2; 0.4; 0; 0; 0-0; 0
+27; Nick Ciraldo; ; Fr; N/A; 10; 10; 0; 0; 0; 0; -; 0; -; 1; 0; 0-0; 0
+28; Austin Saini; ; Fr; N/A; 6; 5; 0; 0; 0; 0; -; 0; -; 0; 0; 0-0; 
+
+Season: 2012
+BlockSource: http://www.csuvikings.com/sports/m-soccer/stats/2012-2013/teamcume.html
+
+*##           Player     GP-GS   G       A       Pts     Sh      Shot%   SOG     SOG%    YC-RC   GW      PK-Att  Corners 
+
+10          ; Suljevic, Admir           ; 20; 17  ; 5      ; 4      ; 14     ; 34     ; .147   ; 15     ; .441   ; 3; 0    ; 2      ; 2; 3 ; 69 
+14          ; Warren, Cazz              ; 20; 16  ; 4      ; 3      ; 11     ; 20     ; .200   ; 12     ; .600   ; 0; 0    ; 3      ; 0; 0 ; 0 
+22          ; Ellis-Hayden, Zach        ; 20; 16  ; 4      ; 2      ; 10     ; 22     ; .182   ; 11     ; .500   ; 3; 0    ; 0      ; 0; 0 ; 0 
+9           ; Adkins, Aaron             ; 18; 6   ; 4      ; 1      ; 9      ; 31     ; .129   ; 19     ; .613   ; 0; 0    ; 1      ; 0; 0 ; 0 
+16          ; Arboleda, Cristian        ; 20; 14  ; 3      ; 3      ; 9      ; 16     ; .188   ; 9      ; .562   ; 1; 0    ; 1      ; 0; 0 ; 0 
+17          ; Derezic, Mike             ; 19; 15  ; 4      ; 0      ; 8      ; 20     ; .200   ; 6      ; .300   ; 5; 0    ; 1      ; 0; 0 ; 5 
+13          ; Rodas, Aslinn             ; 19; 17  ; 2      ; 3      ; 7      ; 18     ; .111   ; 4      ; .222   ; 4; 0    ; 1      ; 0; 0 ; 0 
+11          ; Sandoval, Alfonso         ; 18; 8   ; 2      ; 3      ; 7      ; 16     ; .125   ; 6      ; .375   ; 3; 0    ; 2      ; 0; 0 ; 8 
+5           ; Eisses, Cameron           ; 17; 13  ; 0      ; 3      ; 3      ; 13     ; .000   ; 3      ; .231   ; 3; 0    ; 0      ; 0; 0 ; 0 
+19          ; Naumann, Jacob            ; 9; 1    ; 1      ; 0      ; 2      ; 3      ; .333   ; 2      ; .667   ; 0; 0    ; 0      ; 0; 0 ; 3 
+7           ; Fitzgerald, Tommy         ; 12; 7   ; 0      ; 2      ; 2      ; 6      ; .000   ; 2      ; .333   ; 1; 0    ; 0      ; 0; 0 ; 14 
+12          ; Hart, Jordan              ; 19; 18  ; 0      ; 1      ; 1      ; 26     ; .000   ; 8      ; .308   ; 1; 0    ; 0      ; 0; 0 ; 1 
+6           ; Radjen, Danilo            ; 20; 18  ; 0      ; 0      ; 0      ; 10     ; .000   ; 3      ; .300   ; 0; 0    ; 0      ; 0; 0 ; 0 
+8           ; Zamora, Victor            ; 16; 6   ; 0      ; 0      ; 0      ; 8      ; .000   ; 1      ; .125   ; 1; 0    ; 0      ; 0; 0 ; 2 
+4           ; Maharaj, Visnu            ; 12; 9   ; 0      ; 0      ; 0      ; 8      ; .000   ; 3      ; .375   ; 1; 0    ; 0      ; 0; 0 ; 0 
+15          ; Mancine, Justin           ; 20; 15  ; 0      ; 0      ; 0      ; 3      ; .000   ; 1      ; .333   ; 2; 0    ; 0      ; 0; 0 ; 0 
+25          ; Govedarica, Milos         ; 2; 0    ; 0      ; 0      ; 0      ; 1      ; .000   ; 1      ; 1.000  ; 0; 0    ; 0      ; 0; 0 ; 0 
+3           ; Cree, Justin              ; 6; 4    ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000   ; 2; 0    ; 0      ; 0; 0 ; 0 
+2           ; James, Al                 ; 4; 0    ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000   ; 0; 0    ; 0      ; 0; 0 ; 0 
+1           ; Stuver, Brad              ; 20; 20  ; 0      ; 0      ; 0      ; 0      ; .000   ; 0      ; .000   ; 2; 0    ; 0      ; 0; 0 ; 0 
+
+Season: 2011
+BlockSource: 
+
+Season: 2010
+BlockSource: 
+
+Season: 2009
+BlockSource: 
+
+Season: 2008
+BlockSource: 

@@ -5,6 +5,7 @@ Season: 2014
 BlockSource: http://www.fordhamsports.com/custompages/stats/msoc/2014-15/teamcume.htm
 
 *##           Player     GP-GS   G       A       Pts     Sh      Shot%   SOG     SOG%    GW      PK-Att 
+Key: number; name; games_played; games_started; goals; assists; points; shots; shot_percentage; shots_on_goal; sog_percentage; game_winning; pk_goals; pk_attempts
 
 11          ; PENFOLD, Andres           ; 21; 21  ; 7      ; 2      ; 16     ; 47     ; .149   ; 18     ; .383  ; 4  ; 1; 1 
 7           ; LOEBE, Jannik             ; 21; 20  ; 4      ; 0      ; 8      ; 28     ; .143   ; 9      ; .321  ; 2  ; 0; 0 
