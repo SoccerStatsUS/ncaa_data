@@ -2,6 +2,34 @@ Team: Coastal Carolina
 Competition: NCAA Division I Men's Soccer Championship
 
 
+Season: 2015
+BlockSource: http://www.goccusports.com/sports/m-soccer/stats/2015-2016/teamcume.html
+
+##           Player     GP-GS   Min     G       A       Pts     Sh      Shot%   SOG     SOG%    YC-RC   GW      PK-Att  Foul  Corners 
+23           Uzo, Tobenna       18-14   1249    6       6       18      37      .162    19      .514    2-0     3       0-0   0       0 
+11           Follensbee, Bryce          15-12   647     7       0       14      24      .292    16      .667    0-0     2     0-0     0  1 
+10           Camargo, Sergio            13-10   833     4       5       13      22      .182    14      .636    0-0     2     0-0     0  16 
+21           Geirsson, Arnar            20-13   873     2       5       9       13      .154    5       .385    0-0     1     0-0     0  1 
+7            Espinoza, Jair             20-10   1150    3       1       7       27      .111    9       .333    3-0     2     0-0     0  0 
+19           Dargent, Louis             20-19   1697    3       1       7       22      .136    7       .318    2-0     1     0-0     0  2 
+5            Gutierrez, Miguel          16-16   1354    2       3       7       8       .250    4       .500    2-0     0     0-0     0  42 
+16           Melchor, Martin            20-6    855     2       2       6       25      .080    7       .280    2-0     1     0-0     0  1 
+26           Strambler, Darius          17-2    356     2       1       5       14      .143    6       .429    1-0     0     0-0     0  0 
+4            Gudmundsson, Tommy         20-15   1533    1       2       4       13      .077    4       .308    2-0     1     0-0     0  0 
+13           Einarsson, Einar           20-20   1889    1       1       3       5       .200    2       .400    4-0     0     0-0     0  31 
+15           Bjornsson, Elis            19-19   1692    0       2       2       13      .000    7       .538    2-0     0     0-0     0  35 
+18           Willoughby, Ryan           14-0    436     0       2       2       12      .000    6       .500    1-0     0     0-0     0  0 
+14           Marz, Colin                20-20   1875    0       1       1       9       .000    2       .222    3-0     0     0-0     0  0 
+9            Venhaus, Ben               13-3    319     0       0       0       6       .000    0       .000    0-0     0     0-0     0  0 
+8            AlHameli, Saif             10-0    237     0       0       0       4       .000    2       .500    0-0     0     0-0     0  2 
+3            Kristinsson, Sindri        17-12   976     0       0       0       4       .000    0       .000    4-0     0     0-0     0  1 
+22           Smith, Drew                9-0     226     0       0       0       1       .000    0       .000    0-0     0     0-0     0  0 
+12           Helgason, Gisli            11-7    736     0       0       0       1       .000    0       .000    0-0     0     0-0     0  0 
+6            Reid, Ryan                 6-2     140     0       0       0       1       .000    0       .000    0-0     0     0-0     0  0 
+28           Seefeld, Bryan             1-0     14      0       0       0       0       .000    0       .000    0-0     0     0-0     0  0 
+1            Pina, Fernando             20-20   1891    0       0       0       0       .000    0       .000    2-0     0     0-0     0  0
+
+
 Season: 2014
 BlockSource: http://www.goccusports.com/sports/m-soccer/stats/2014-2015/teamcume.html
 * ##      Player  GP-GS   Min     G       A       Pts     Sh      Shot%   SOG     SOG%    GW      PK-Att  Fou

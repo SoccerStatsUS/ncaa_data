@@ -2,6 +2,37 @@ Competition: NCAA Division I Men's Soccer Championship
 Team: Ohio State
 
 
+Season: 2015
+BlockSource: http://www.ohiostatebuckeyes.com/sports/m-soccer/osu-m-soccer-body.html
+
+
+             SHOTS       
+##           Player      GP-GS  Min     G       A       Pts     Sh      Shot%   SOG     SOG%    YC-RC   GW      PK-Att 
+9            Jensen, Danny      22-19   1706    6       6       18      38      .158    18      .474    5-1     3      0-0 
+3            Culbertson, Kyle   21-21   1794    6       5       17      37      .162    15      .405    9-0     3      0-0 
+13           Soldat, Christian          20-14   1345    5       1       11      20      .250    9       .450    1-0    2   0-0 
+5            Doyle, Liam                23-23   2108    2       6       10      37      .054    13      .351    4-0    1   2-4 
+23           Amankwa, Yaw               23-18   1414    2       6       10      22      .091    6       .273    0-0    2   0-0 
+26           Mohamed, Abdi              23-19   1966    3       3       9       27      .111    11      .407    1-0    1   0-0 
+11           Bergstrom, Austin          23-23   2135    1       2       4       8       .125    3       .375    2-0    0   0-0 
+19           McCrary, Marcus            19-13   1064    1       1       3       27      .037    11      .407    0-0    0   0-0 
+7            Mason, Zach                23-23   2085    1       1       3       14      .071    5       .357    4-0    1   0-0 
+17           Cunningham, Kenny          11-7    618     1       1       3       10      .100    3       .300    0-0    0   0-0 
+15           Nichols, Alex              5-0     99      1       0       2       2       .500    1       .500    0-0    0   0-0 
+21           Duska, Jacob               16-0    375     0       2       2       6       .000    1       .167    1-0    0   0-0 
+6            Robertson, Hunter          23-23   2038    0       2       2       4       .000    0       .000    1-0    0   0-0 
+12           Kidwell, Tyler             22-22   2003    0       0       0       6       .000    2       .333    4-1    0   0-0 
+18           Solawa, Greg               11-5    413     0       0       0       4       .000    1       .250    1-0    0   0-0 
+29           Ehlers, Joao               4-0     37      0       0       0       1       .000    0       .000    0-0    0   0-0 
+10           Chancy, Henry              9-0     166     0       0       0       1       .000    0       .000    1-0    0   0-0 
+32           Froschauer, Chris          23-23   2156    0       0       0       0       .000    0       .000    0-0    0   0-0 
+24           Swartz, Max                1-0     3       0       0       0       0       .000    0       .000    0-0    0   0-0 
+14           Idowu, Fikayo              2-0     21      0       0       0       0       .000    0       .000    0-0    0   0-0 
+8            Ranalli, Alex              3-0     16      0       0       0       0       .000    0       .000    0-0    0   0-0 
+4            Aguirre, Diego             1-0     3       0       0       0       0       .000    0       .000    0-0    0   0-0 
+2            Munn, Steven               1-0     10      0       0       0       0       .000    0       .000    0-0    0   0-0 
+
+
 Season: 2014
 BlockSource: http://www.ohiostatebuckeyes.com/sports/m-soccer/stats/2014-2015/teamcume.html
 * ##      Player  GP-GS   Min     G       A       Pts     Sh      Shot%   SOG     SOG%    YC-RC   GW      PK-Att  Corners 

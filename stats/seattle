@@ -1,6 +1,41 @@
 Team: Seattle University
 Competition: NCAA Division I Men's Soccer Championship
 
+
+Season: 2015
+BlockSource: http://www.goseattleu.com/fls/18200/stats/msoccer/2015/teamcume.htm
+
+## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG%  YC-RC GW  PK-ATT
+-------------------------------------------------------------------------------
+17 Olsen, David         23-21  16   1  33  95  .168  39  .411   4-0   4   0-0
+11 Haddadi, Hamza       14-11  10   2  22  28  .357  13  .464   3-0   4   4-4
+30 Roberts, Michael     21-13   8   6  22  47  .170  20  .426   2-0   2   0-0
+6  Bjornethun, Kyle     23-23   4   0   8  20  .200   9  .450   1-0   3   0-0
+7  Rivas, Sergio        23-23   3   5  11  56  .054  23  .411   4-0   1   0-0
+19 Andrade, Agustin     22-7    2   0   4  13  .154   6  .462   0-0   2   0-0
+39 Langston, Sam        23-23   2   6  10  13  .154   6  .462   3-0   1   2-2
+23 Roldan, Alex         21-21   2   3   7  29  .069  11  .379   1-0   1   0-0
+25 Landeros, Robbie      9-0    1   0   2   2  .500   1  .500   0-0   0   0-0
+16 Greene, Josh         17-0    1   1   3   3  .333   1  .333   0-0   0   0-0
+10 Rose, Jeff           21-17   0   2   2  33  .000  10  .303   1-0   0   0-0
+2  Rubio, Julio         15-2    0   2   2  11  .000   3  .273   0-0   0   0-0
+22 Harris, Joseph        6-0    0   0   0   5  .000   3  .600   0-0   0   0-0
+1  Haworth, Shane       23-23   0   0   0   0  .000   0  .000   0-0   0   0-0
+31 Hadden, Jordan        1-0    0   0   0   0  .000   0  .000   0-0   0   0-0
+15 Rohani, Cameron      23-23   0   0   0  13  .000   1  .077   3-0   0   0-0
+21 Prasad, Nick         20-13   0   2   2   2  .000   2 1.000   2-0   0   0-0
+5  Sweeney, Austin       5-1    0   0   0   0  .000   0  .000   0-0   0   0-0
+4  Aune, Nathan         23-23   0   0   0   8  .000   3  .375   4-0   0   0-0
+27 Ayala, Anthony       17-9    0   0   0   1  .000   0  .000   1-0   0   0-0
+29 Youssef, Medo         1-0    0   0   0   0  .000   0  .000   0-0   0   0-0
+12 Drame, Ibrahima       3-0    0   0   0   0  .000   0  .000   0-0   0   0-0
+26 Twaddle, Jason       10-0    0   0   0   3  .000   1  .333   0-0   0   0-0
+8  Mahvi, Shane          9-0    0   0   0   0  .000   0  .000   1-0   0   0-0
+20 Massimino, Jonathan  10-0    0   0   0   5  .000   1  .200   1-0   0   0-0
+
+
+
+
 Season: 2014
 BlockSource: http://www.goseattleu.com/fls/18200/stats/msoccer/2014/teamcume.htm
 

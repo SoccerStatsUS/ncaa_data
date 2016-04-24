@@ -1,6 +1,36 @@
 Team: Stanford
 Competition: NCAA Division I Men's Soccer Championship
 
+
+Season: 2015
+BlockSource: http://www.gostanford.com/fls/30600/MSOC/2015/Stats/teamcume.htm?DB_OEM_ID=30600
+
+* ## Name                 GP-GS   G   A Pts  Sh Shot% SOG  SOG% GW  PK-ATT
+Key: number; name; games_played; games_started; goals; assists; points; shots; shot_percentage; game_winning; pk_goals; pk_attempts
+
+13; Morris, Jordan       18; 18 ; 13  ; 3 ; 29 ; 58 ; .224 ; 30 ; .517 ; 6  ; 0; 0
+10; Baird, Corey         23; 23 ;  3  ;13 ; 19 ; 31 ; .097 ; 14 ; .452 ; 1  ; 0; 0
+2 ; Langsdorf, Foster    23; 22 ;  7  ; 3 ; 17 ; 40 ; .175 ; 21 ; .525 ; 4  ; 0; 0
+15; Verso, Eric          23; 23 ;  2  ;13 ; 17 ; 44 ; .045 ; 23 ; .523 ; 1  ; 0; 0
+3 ; Vincent, Brandon     23; 23 ;  6  ; 2 ; 14 ; 27 ; .222 ; 12 ; .444 ; 0  ; 5; 6
+11; Bashti, Amir         21; 1  ;  4  ; 2 ; 10 ; 24 ; .167 ; 12 ; .500 ; 2  ; 0; 0
+4 ; Hilliard-Arce, Tomas 23; 23 ;  3  ; 0 ;  6 ; 18 ; .167 ;  7 ; .389 ; 1  ; 0; 0
+5 ; Meehan, Slater       23; 23 ;  2  ; 2 ;  6 ; 19 ; .105 ;  7 ; .368 ; 2  ; 0; 0
+23; Werner, Sam          21; 7  ;  2  ; 1 ;  5 ; 14 ; .143 ;  6 ; .429 ; 1  ; 0; 0
+12; Skundrich, Drew      23; 23 ;  0  ; 4 ;  4 ;  7 ; .000 ;  1 ; .143 ; 0  ; 0; 0
+7 ; Thompson, Ty         20; 20 ;  0  ; 3 ;  3 ; 23 ; .000 ;  2 ; .087 ; 0  ; 0; 0
+26; Mosharrafa, Adam     18; 1  ;  1  ; 0 ;  2 ;  3 ; .333 ;  2 ; .667 ; 0  ; 0; 0
+24; Alabi, Adrian        15; 0  ;  0  ; 1 ;  1 ;  8 ; .000 ;  4 ; .500 ; 0  ; 0; 0
+9 ; Verso, Mark          14; 0  ;  0  ; 1 ;  1 ;  7 ; .000 ;  1 ; .143 ; 0  ; 0; 0
+8 ; Nana-Sinkam, Brian   23; 23 ;  0  ; 0 ;  0 ;  9 ; .000 ;  2 ; .222 ; 0  ; 0; 0
+29; Marion, Bryce         7; 0  ;  0  ; 0 ;  0 ;  1 ; .000 ;  0 ; .000 ; 0  ; 0; 0
+14; Kahl, Justin          5; 0  ;  0  ; 0 ;  0 ;  1 ; .000 ;  0 ; .000 ; 0  ; 0; 0
+30; Corti, Nico           5; 0  ;  0  ; 0 ;  0 ;  0 ; .000 ;  0 ; .000 ; 0  ; 0; 0
+28; Liberty, Collin       3; 0  ;  0  ; 0 ;  0 ;  0 ; .000 ;  0 ; .000 ; 0  ; 0; 0
+6 ; Hyman, Trevor         4; 0  ;  0  ; 0 ;  0 ;  0 ; .000 ;  0 ; .000 ; 0  ; 0; 0
+1 ; Epstein, Andrew      23; 23 ;  0  ; 0 ;  0 ;  0 ; .000 ;  0 ; .000 ; 0  ; 0; 0
+
+
 Season: 2014
 BlockSource: http://www.gostanford.com/fls/30600/MSOC/2014/Stats/teamcume.htm?DB_OEM_ID=30600
 
